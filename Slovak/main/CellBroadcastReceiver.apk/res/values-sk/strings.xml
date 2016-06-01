@@ -9,6 +9,7 @@
   <string name="category_brazil_settings_title">Nastavenia pre Brazíliu</string>
   <string name="category_dev_settings_title">Možnosti pre vývojárov</string>
   <string name="category_etws_settings_title">Nastavenia systému ETWS</string>
+  <string name="category_india_settings_title">Nastavenia pre Indiu</string>
   <string name="cb_other_message_identifiers">Správy Cell Broadcast</string>
   <string name="cell_broadcast_settings_not_available">Nastavenia technológie Cell Broadcast pre tohto používateľa nie sú dostupné</string>
   <string name="cmas_amber_alert">Únos dieťaťa (upozornenie systému Amber)</string>
@@ -62,6 +63,8 @@
   <string name="enable_alert_vibrate_title">Vibrovať</string>
   <string name="enable_channel_50_alerts_summary">Kanál 50 sa v Brazílii používa pre aktuálne informácie o oblasti</string>
   <string name="enable_channel_50_alerts_title">Zobraziť vysielanie kanála 50</string>
+  <string name="enable_channel_60_alerts_summary">Kanál 60 sa v Indii používa pre aktuálne informácie o oblasti</string>
+  <string name="enable_channel_60_alerts_title">Zobraziť vysielanie kanála 60</string>
   <string name="enable_cmas_amber_alerts_summary">Zobrazovať mimoriadne správy o únosoch detí (upozornenie AMBER)</string>
   <string name="enable_cmas_amber_alerts_title">Zobrazovať upozornenia AMBER</string>
   <string name="enable_cmas_extreme_threat_alerts_summary">Zobrazovať upozornenia na extrémne ohrozenie života a majetku</string>
@@ -92,7 +95,4 @@
   <string name="show_cmas_opt_out_title">Zobraziť dialógové okno na zrušenie</string>
   <string name="sms_cb_settings">Nastavenia správ Cell Broadcast</string>
   <string name="view_details_title">Podrobnosti upozornenia</string>
-  <string name="category_india_settings_title">Nastavenia pre Indiu</string>
-  <string name="enable_channel_60_alerts_summary">Kanál 60 sa v Indii používa pre aktuálne informácie o oblasti</string>
-  <string name="enable_channel_60_alerts_title">Zobraziť vysielanie kanála 60</string>
 </resources>

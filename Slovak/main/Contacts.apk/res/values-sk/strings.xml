@@ -413,6 +413,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="export_to_sim1">Exportovať na SIM 1</string>
   <string name="export_to_sim2">Exportovať na SIM 2</string>
   <string name="export_to_sim_title">Exportovanie na SIM kartu...</string>
+  <string name="export_to_storage">Exportovať na úložisko</string>
   <string name="export_vcard_description">Exportovať vCard na SD kartu</string>
   <string name="exporting_contact_failed_message">"Export dát kontaktov sa nepodaril. 
 Chyba: \"%s\""</string>
@@ -474,6 +475,12 @@ Chyba: \"%s\""</string>
   <string name="hint_distance"/>
   <string name="hint_findContacts">Nájsť kontakty</string>
   <string name="hint_more_contact">Ak existujú zdvojené kontakty, môžete ich zlúčiť</string>
+  <string name="hybrid_check_network">Nastavenie siete</string>
+  <string name="hybrid_data_error">Nastala chyba</string>
+  <string name="hybrid_locating_fail">Nebolo možné vyhľadať vašu polohu</string>
+  <string name="hybrid_network_unavaliable">Nebolo možné sa pripojiť k sieti</string>
+  <string name="hybrid_service_unavailiable">Služba je nedostupná</string>
+  <string name="hybrid_try_again">Skúsiť znova</string>
   <string name="ic_menu_back">Späť</string>
   <string name="ic_menu_done">Hotovo</string>
   <string name="imLabelsGroup">IM</string>
@@ -709,6 +716,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_switch_on_alertdialog_positive">Zapnúť</string>
   <string name="miprofile_switch_on_alertdialog_title">Aktualizácia profilovej fotografie</string>
   <string name="missing_name">Skupiny</string>
+  <string name="missing_required_permission">Deaktivovali ste potrebné povolenia.</string>
   <string name="more_call_logs">Ďalšie nahrávky nájdete na i.mi.com</string>
   <string name="move_and_resize">Posuň merítko</string>
   <string name="multi_number_menu_call">Hovor</string>
@@ -893,6 +901,7 @@ Synchronizujte ich teraz."</string>
   <string name="preference_import">Import</string>
   <string name="preference_import_export">Import/Export</string>
   <string name="preference_import_export_title">Importovať/Exportovať kontakty</string>
+  <string name="preference_key_trash_bin_title">Prehliadať zálohované kontakty ktoré boli nedávno vymazané</string>
   <string name="preference_others">Ostatné</string>
   <string name="preference_phone">Telefón</string>
   <string name="preference_phone_more_title">Viac nastavení telefónu</string>
@@ -1252,6 +1261,10 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="status_available">Dostupný</string>
   <string name="status_away">Preč</string>
   <string name="status_busy">Zaneprázdnený</string>
+  <string name="storage_internal_description">Interné úložisko</string>
+  <string name="storage_sd_card">SD karta</string>
+  <string name="storage_sd_card_description">SD karta</string>
+  <string name="storage_usb_description">USB úložisko</string>
   <string name="strequentList">Obľúbené</string>
   <string name="success_message_import_from_account">Import bol úspešný</string>
   <string name="summary_kind_title">Súhrn</string>
@@ -1281,6 +1294,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="type_mx_msg">Cloud správy</string>
   <string name="type_outgoing">Odchádzajúci hovor</string>
   <string name="type_voicemail">Hlasová správa</string>
+  <string name="unable_get_device_id">Nie je možné získať IMEI</string>
   <string name="unknow_phone_number_call_failed">Nie je možné volať na neznáme číslo.</string>
   <string name="unknow_phone_number_mms_failed">Nie je možné odoslať SMS na neznáme číslo.</string>
   <string name="unknown">Neznámy</string>
@@ -1359,18 +1373,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="unable_get_device_id">Nie je možné získať IMEI</string>
-  <string name="missing_required_permission">Deaktivovali ste potrebné povolenia.</string>
-  <string name="export_to_storage">Exportovať na úložisko</string>
-  <string name="storage_internal_description">Interné úložisko</string>
-  <string name="storage_sd_card">SD karta</string>
-  <string name="storage_sd_card_description">SD karta</string>
-  <string name="storage_usb_description">USB úložisko</string>
-  <string name="hybrid_check_network">Nastavenie siete</string>
-  <string name="hybrid_data_error">Nastala chyba</string>
-  <string name="hybrid_locating_fail">Nebolo možné vyhľadať vašu polohu</string>
-  <string name="hybrid_network_unavaliable">Nebolo možné sa pripojiť k sieti</string>
-  <string name="hybrid_service_unavailiable">Služba je nedostupná</string>
-  <string name="hybrid_try_again">Skúsiť znova</string>
-  <string name="preference_key_trash_bin_title">Prehliadať zálohované kontakty ktoré boli nedávno vymazané</string>
 </resources>

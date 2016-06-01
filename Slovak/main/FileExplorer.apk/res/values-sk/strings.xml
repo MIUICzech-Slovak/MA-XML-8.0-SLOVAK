@@ -157,10 +157,12 @@
   <string name="encrypt_success">Úspešne ukryté</string>
   <string name="encrypt_success_first_five">Úspešne zašifrované. Potiahnite nadol hlavnú stránku aplikácie Súbory pre ich zobrazenie.</string>
   <string name="encrypting">Šifrovanie...</string>
+  <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skuste to znova.</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
   <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
   <string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>
   <string name="expand_all">Všetko</string>
+  <string name="extended_storage_file_can_not_open">Nebolo možné otvoriť súbor. Skopírujte súbor na interné úložisko.</string>
   <string name="extract">Rozbaliť</string>
   <string name="fail_to_create_folder">Zložku nie je možné vytvoriť, zložka už existuje</string>
   <string name="fail_to_create_folder_unknown">Nie je možné vytvoriť zložku.</string>
@@ -455,6 +457,7 @@ and never miss the cool new ones!"</string>
   <string name="repair_done">Obnovené</string>
   <string name="repair_error">Nebolo možné obnoviť</string>
   <string name="repair_file">Obnoviť šifrované súbory</string>
+  <string name="request_timeout">Požiadavka siete neodpovedá</string>
   <string name="reset_password">Obnoviť heslo</string>
   <string name="restoring">Obnovenie...</string>
   <string name="rlv_last_loading_time">Obnovené naposledy: %1$s</string>
@@ -512,6 +515,7 @@ and never miss the cool new ones!"</string>
   <string name="server_control_advanced_settings">Pokročilé nastavenia</string>
   <string name="server_control_charset">Kódovanie prenosu</string>
   <string name="server_control_settings">Nastavenie</string>
+  <string name="server_error">Chyba servera, skúste to znova. (Chyba %s)</string>
   <string name="share_box">Zdieľané</string>
   <string name="share_box_receive">Prijaté</string>
   <string name="share_box_send">Odoslané</string>
@@ -629,8 +633,4 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
-  <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skuste to znova.</string>
-  <string name="extended_storage_file_can_not_open">Nebolo možné otvoriť súbor. Skopírujte súbor na interné úložisko.</string>
-  <string name="request_timeout">Požiadavka siete neodpovedá</string>
-  <string name="server_error">Chyba servera, skúste to znova. (Chyba %s)</string>
 </resources>

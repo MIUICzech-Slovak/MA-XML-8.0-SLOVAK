@@ -26,15 +26,10 @@
   <string name="resource_apply">Použiť</string>
   <string name="resource_no_network_text">Nie je možné sa pripojiť k sieti.</string>
   <string name="setting_head">Nastavenia</string>
-  <string name="summary">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia."</string>
-  <string name="summary_international">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Aplikácia využíva dátové pripojenie."</string>
-  <string name="theme_apply_failured">Nie je možné použiť tapetu zamykacej obrazovky</string>
-  <string name="theme_apply_success">Tapeta nastavená</string>
-  <string name="theme_applying">Nastavovanie...</string>
-  <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
-  <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
   <string name="sst_favor_desc">Obľúbené tapety</string>
   <string name="sst_favor_title">Obľúbené</string>
+  <string name="sst_grid_view_select_all">Všetko</string>
+  <string name="sst_grid_view_unselect_all">Odznačiť všetko</string>
   <string name="sst_no_favor_wallpaper_hint">Žiadne obľúbené tapety</string>
   <string name="sst_prov_enable_desc">Viac skvelých tapiet na zamykacej obrazovke</string>
   <string name="sst_prov_enable_title">Povoliť dennú tapetu</string>
@@ -44,6 +39,11 @@
   <string name="sst_subscribe_title">Kategórie</string>
   <string name="sst_wifi_only_desc">Môže navýšiť vaše poplatky</string>
   <string name="sst_wifi_only_title">Stiahnuť cez mobilné dáta</string>
-  <string name="sst_grid_view_select_all">Všetko</string>
-  <string name="sst_grid_view_unselect_all">Odznačiť všetko</string>
+  <string name="summary">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia."</string>
+  <string name="summary_international">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Aplikácia využíva dátové pripojenie."</string>
+  <string name="theme_apply_failured">Nie je možné použiť tapetu zamykacej obrazovky</string>
+  <string name="theme_apply_success">Tapeta nastavená</string>
+  <string name="theme_applying">Nastavovanie...</string>
+  <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
+  <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
 </resources>

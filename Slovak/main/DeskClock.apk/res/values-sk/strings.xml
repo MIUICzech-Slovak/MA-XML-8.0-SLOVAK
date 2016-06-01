@@ -62,6 +62,8 @@
   <string name="label_pref_summary">Názov tohto budíku</string>
   <string name="lap">Kolo</string>
   <string name="lap_num">Kolo</string>
+  <string name="legal_off_day">Dni voľna</string>
+  <string name="legal_off_day_message">" (Budík je vypnutý počas dní voľna)"</string>
   <string name="legal_workday">Pracovný deň</string>
   <string name="legal_workday_invalidate">Zoznam sviatkov nie je aktuálny (Nastavené je budenie od pondelka do piatku)</string>
   <string name="legal_workday_invalidate_message">(Zoznam sviatkov nie je aktuálny, aktualizujte v Nastaveniach)</string>
@@ -77,6 +79,7 @@
   <string name="minute">1 minúta</string>
   <string name="minutes">%s minút</string>
   <string name="never">Raz</string>
+  <string name="oneshot_alarm">Vymazať budík po vypnutí</string>
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Vyzváňací tón</string>
   <string name="reset">Zmaž</string>
@@ -95,6 +98,13 @@
   <string name="snooze_message">Stíšiť na %d min</string>
   <string name="start">Štart</string>
   <string name="start_up">Spustiť</string>
+  <string name="stat_repeat_everyday">Každý deň</string>
+  <string name="stat_repeat_legal_off_day">Sviatky</string>
+  <string name="stat_repeat_legal_workday">Pracovné dni</string>
+  <string name="stat_repeat_none">Nikdy</string>
+  <string name="stat_repeat_self_define">Vlastné</string>
+  <string name="stat_repeat_weekdays">Pon-Pia</string>
+  <string name="stat_repeat_weekends">Víkend</string>
   <string name="stopwatch_lap_empty_text">Žiadne kolo</string>
   <string name="stopwatch_title">Stopky</string>
   <string name="system_time_setting">Nastaviť čas</string>
@@ -131,14 +141,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="legal_off_day">Dni voľna</string>
-  <string name="legal_off_day_message">" (Budík je vypnutý počas dní voľna)"</string>
-  <string name="oneshot_alarm">Vymazať budík po vypnutí</string>
-  <string name="stat_repeat_everyday">Každý deň</string>
-  <string name="stat_repeat_legal_off_day">Sviatky</string>
-  <string name="stat_repeat_legal_workday">Pracovné dni</string>
-  <string name="stat_repeat_none">Nikdy</string>
-  <string name="stat_repeat_self_define">Vlastné</string>
-  <string name="stat_repeat_weekdays">Pon-Pia</string>
-  <string name="stat_repeat_weekends">Víkend</string>
 </resources>

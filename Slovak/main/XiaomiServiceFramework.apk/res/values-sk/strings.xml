@@ -6,6 +6,7 @@
   <string name="activate_auto_sms_notification_desc_2_cards">Odoslaná SMS zo SIM karty %s pre aktiváciu \"Vyhľadania zariadenia\\"</string>
   <string name="activate_auto_sms_notification_title">Aktivácia SIM karty</string>
   <string name="activate_feature_call_log_sync">Záznamy o volaní</string>
+  <string name="activate_feature_default_name">Mi Služby</string>
   <string name="activate_feature_find_device">Vyhľadávanie zariadenia</string>
   <string name="activate_feature_mms_sync">SMS</string>
   <string name="activate_feature_mx">Cloud správy</string>
@@ -114,12 +115,11 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="error_device_id_message">"Chybné ID zariadenia: %s
 ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú dostupné niektoré služby a funkcie."</string>
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
+  <string name="explain_send_sms_permission_button">Overiť</string>
+  <string name="explain_send_sms_permission_msg">Pre povolenie %s, Xiaomi Service Framework odošle SMS pre overenie vášho telefónneho čísla. Táto SMS bude spoplatnená bežnou cenou u vášho operátora.</string>
+  <string name="explain_send_sms_permission_title">Overenie vášho telefónneho čisla</string>
   <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="activate_feature_default_name">Mi Služby</string>
-  <string name="explain_send_sms_permission_button">Overiť</string>
-  <string name="explain_send_sms_permission_msg">Pre povolenie %s, Xiaomi Service Framework odošle SMS pre overenie vášho telefónneho čísla. Táto SMS bude spoplatnená bežnou cenou u vášho operátora.</string>
-  <string name="explain_send_sms_permission_title">Overenie vášho telefónneho čisla</string>
 </resources>

@@ -19,6 +19,7 @@
   <string name="find_device_turn_off_flight_mode">Deaktivovať režim Lietadlo</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaše zariadenie bolo zablokované.
 Deaktivujte režim Lietadlo."</string>
+  <string name="fingerprint_lockout_msg">Počkajte 1 minútu a skúste znova odomknúť odtlačkom prsta.</string>
   <string name="fingerprint_not_identified_msg">Zadajte svoje heslo pre odomknutie.</string>
   <string name="fingerprint_not_identified_title">Zadajte svoje heslo</string>
   <string name="fingerprint_try_again_text">Znova</string>
@@ -92,5 +93,4 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
-  <string name="fingerprint_lockout_msg">Počkajte 1 minútu a skúste znova odomknúť odtlačkom prsta.</string>
 </resources>

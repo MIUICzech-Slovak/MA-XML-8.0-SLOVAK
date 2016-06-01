@@ -232,6 +232,7 @@
   <string name="archived">Archivované</string>
   <string name="att_download_failed_content">Sťahovanie zlyhalo</string>
   <string name="att_download_failed_network_slow">Pomalé pripojenie, stiahnite neskôr.</string>
+  <string name="att_download_failed_permission_denied">Nemá povolenie pre prístup na externé úložisko</string>
   <string name="att_download_failed_title">Sťahovanie prílohy zlyhalo</string>
   <string name="att_file_not_exists">Súbor %s sa nenašiel!</string>
   <string name="att_mgr_no_attachment">Žiadne prílohy!</string>
@@ -362,6 +363,7 @@
   <string name="contact_list_add_btn">Pridať</string>
   <string name="contact_list_search_hint">Vyhľadať kontakty</string>
   <string name="contact_list_title">Zoznam kontaktov</string>
+  <string name="contact_permission_error">Prístup ku kontaktom zamietnutý</string>
   <string name="contact_select">Vybrať kontakty</string>
   <string name="content_description">%1$s o %2$s, %3$s dňa %4$s, %5$s</string>
   <string name="content_description_today">%1$s o %2$s, %3$s o %4$s, %5$s</string>
@@ -445,6 +447,7 @@
   <string name="download_failed">Prevz. zlyhalo. Skúste znova.</string>
   <string name="download_message_failed_for_too_large">Správa je príliš veľká na stiahnutie.</string>
   <string name="download_show_image">Stiahnuť a zobraziť obrázok</string>
+  <string name="download_whole_email">Stiahnuť celú správu</string>
   <string name="downloading_message_body">Sťahovanie správy, čakajte prosím...</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zavrieť priečinok s navigáciou</string>
@@ -468,6 +471,9 @@
   <string name="expand_recipient_details">Rozbaliť podrobnosti o príjemcovi</string>
   <string name="fail_get_email_message">Načítavanie správy zlyhalo.</string>
   <string name="failed">Obrázok sa nepodarilo načítať</string>
+  <string name="failed_read_phone_state_permission">Nemá povolenie pre prístup k stavu zariadenia</string>
+  <string name="failed_read_write_calendar_permission">Nemá povolenie pre prístup ku kalendáru</string>
+  <string name="failed_read_write_contacts_permission">Nemá povolenie pre prístup ku kontaktom</string>
   <string name="feedback">Odoslať spätnú väzbu</string>
   <string name="feedback_body">Informácie o spätnej väzbe</string>
   <string name="feedback_sent">Ďakujeme za váš názor.</string>
@@ -573,6 +579,7 @@
   <string name="mail_header_message_body_download_failed">Spojenie vypršalo.</string>
   <string name="mail_header_network_not_available">Nie ste pripojený k internetovej sieti.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinované zobrazenie</string>
+  <string name="mailbox_name_display_ad">Reklamy a upozornenia</string>
   <string name="mailbox_name_display_drafts">Koncepty</string>
   <string name="mailbox_name_display_inbox">Doručená pošta</string>
   <string name="mailbox_name_display_junk">Nevyžiadaná pošta</string>
@@ -875,6 +882,7 @@ Kópia: %4$s
   <string name="report_phishing">Nahlásiť neopráv. získ. údajov</string>
   <string name="report_spam">Nahlásiť spam</string>
   <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
+  <string name="request_permission_activity">Vyžadujú sa povolenia</string>
   <string name="require_manual_sync_message">Synchronizácia na pozadí je pre tento účet v roamingu zakázaná.</string>
   <string name="respond_inline">Vložená odpoveď</string>
   <string name="resume_draft">Upraviť</string>
@@ -1024,6 +1032,8 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="widget_all_mail">Všetky správy</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostatné</string>
+  <string name="wipe_account_fail_description">Dotykom dáte povolenia</string>
+  <string name="wipe_account_fail_title">Vymazanie osobných údajov zlyhalo</string>
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné, skontrolujte SD kartu.</string>
@@ -1037,14 +1047,4 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="att_download_failed_permission_denied">Nemá povolenie pre prístup na externé úložisko</string>
-  <string name="download_whole_email">Stiahnuť celú správu</string>
-  <string name="mailbox_name_display_ad">Reklamy a upozornenia</string>
-  <string name="failed_read_phone_state_permission">Nemá povolenie pre prístup k stavu zariadenia</string>
-  <string name="failed_read_write_calendar_permission">Nemá povolenie pre prístup ku kalendáru</string>
-  <string name="failed_read_write_contacts_permission">Nemá povolenie pre prístup ku kontaktom</string>
-  <string name="contact_permission_error">Prístup ku kontaktom zamietnutý</string>
-  <string name="request_permission_activity">Vyžadujú sa povolenia</string>
-  <string name="wipe_account_fail_description">Dotykom dáte povolenia</string>
-  <string name="wipe_account_fail_title">Vymazanie osobných údajov zlyhalo</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_frequent_phrases">Pridať časté frázy</string>
   <string name="alwaysUsePrompt">Viac sa nepýtať</string>
   <string name="apply_password_action">Nastaviť heslo</string>
   <string name="apply_password_confirm_dlg_msg">Vyžadovať heslo pre %s​?</string>
@@ -31,6 +32,7 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nie ďakujem</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upraviť</string>
   <string name="fp_nav_center_action_choose_dlg_title">Upraviť tlačidlo Domov</string>
+  <string name="frequent_phrases">Časté frázy</string>
   <string name="global_actions_airplane_mode">Režim Lietadlo</string>
   <string name="global_actions_reboot">Reštart</string>
   <string name="global_actions_shutdown">Vypnúť</string>
@@ -86,6 +88,7 @@
   <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Jas</string>
+  <string name="status_bar_toggle_cast">Prenos</string>
   <string name="status_bar_toggle_data">Dáta</string>
   <string name="status_bar_toggle_divider">Upraviť</string>
   <string name="status_bar_toggle_drive_mode">AUTO</string>
@@ -112,9 +115,6 @@
   <string name="status_bar_toggle_vibrate">Vibrácie</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
-  <string name="unknown_caller">Neznáme číslo</string>
   <string name="turn_off">Vypnúť</string>
-  <string name="add_frequent_phrases">Pridať časté frázy</string>
-  <string name="frequent_phrases">Časté frázy</string>
-  <string name="status_bar_toggle_cast">Prenos</string>
+  <string name="unknown_caller">Neznáme číslo</string>
 </resources>

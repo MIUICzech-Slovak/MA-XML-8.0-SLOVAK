@@ -1508,6 +1508,9 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="sync_undo_deletes">Vrátiť späť odstránenia</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotykom nastavte.</string>
+  <string name="tethered_notification_multi_device_message">Pripojených: %1$s</string>
+  <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
+  <string name="tethered_notification_one_device_message">Pripojených: %1$s</string>
   <string name="tethered_notification_title">Tethering alebo prístupový bod je aktívny</string>
   <string name="textSelectionCABTitle">Výber textu</string>
   <string name="text_copied">Text bol skopírovaný do schránky.</string>
@@ -1673,7 +1676,4 @@ Chcete ju zavrieť?"</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Natrvalo</string>
-  <string name="tethered_notification_multi_device_message">Pripojených: %1$s</string>
-  <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
-  <string name="tethered_notification_one_device_message">Pripojených: %1$s</string>
 </resources>

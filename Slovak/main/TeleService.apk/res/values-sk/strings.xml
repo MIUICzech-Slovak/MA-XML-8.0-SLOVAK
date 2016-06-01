@@ -139,6 +139,7 @@
   <string name="call_record_auto_whitelist_no_item">Pridajte číslo stlačením tlačidla +</string>
   <string name="call_record_auto_whitelist_summary">Čisel: %d</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 číslo</string>
+  <string name="call_record_loading_content">Načítavanie...</string>
   <string name="call_record_off_summary">Nahrávanie deaktivované</string>
   <string name="call_record_on_summary">Nahrávanie aktivované</string>
   <string name="call_record_setting">Nahrávanie hovorov</string>
@@ -981,6 +982,8 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="roaming">Dáta v roamingu</string>
   <string name="roaming_disable">Dátové prenosy v roamingu</string>
   <string name="roaming_enable">Dátové prenosy v roamingu</string>
+  <string name="roaming_notification_content">Môžete pridať automaticky kód krajiny.</string>
+  <string name="roaming_notification_title">Roaming je aktívny</string>
   <string name="roaming_reenable_message">Pripojenie dátových služieb bolo prerušené, pretože ste opustili domovskú sieť a datové služby pri roamingu máte vypnuté.</string>
   <string name="roaming_warning">Naozaj chcete povoliť dátové služby v roamingu? Vystavujete sa nebezpečiu vysokých poplatkov.</string>
   <string name="rsp_unlock_failed">UIM Service Provider unlock request unsuccessful.</string>
@@ -1100,6 +1103,8 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="telocation_contacts_countrycode">Predvolený kód krajiny</string>
   <string name="telocation_contacts_countrycode_hint">Zadajte kód krajiny</string>
   <string name="telocation_contacts_countrycode_summary">Predvolený kód vašej krajiny: %s</string>
+  <string name="telocation_country_code_enabled_message">Pridať kód krajiny pri volaní pre pohodlnejšie volanie domov.</string>
+  <string name="telocation_country_code_enabled_title">Pridať kód krajiny pri volaní</string>
   <string name="telocation_countrycode_alert_message">Zadajte telefónne číslo bez kódu krajiny</string>
   <string name="telocation_countrycode_alert_message_warning">Zadaný kód krajiny je zrejme nesprávny.</string>
   <string name="telocation_countrycode_alert_message_wrong">Zadaný kód krajiny je nesprávny.</string>
@@ -1200,9 +1205,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="roaming_notification_title">Roaming je aktívny</string>
-  <string name="roaming_notification_content">Môžete pridať automaticky kód krajiny.</string>
-  <string name="telocation_country_code_enabled_message">Pridať kód krajiny pri volaní pre pohodlnejšie volanie domov.</string>
-  <string name="telocation_country_code_enabled_title">Pridať kód krajiny pri volaní</string>  
-  <string name="call_record_loading_content">Načítavanie...</string>
 </resources>

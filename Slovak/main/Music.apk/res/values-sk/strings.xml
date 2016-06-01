@@ -79,6 +79,7 @@
   <string name="delete_file_end">Súbory vymazané</string>
   <string name="delete_file_start">Vymazať súbory</string>
   <string name="desc_online_personal_radio">Presne pre vás</string>
+  <string name="desktop_lyric_lock_toast">Uzamknuté. Použite Mini Prehrávač v lište pre odblokovanie</string>
   <string name="device_connected">Pripojené</string>
   <string name="device_not_connected">Nepripojené</string>
   <string name="dialog_button_agree">Súhlasím</string>
@@ -286,6 +287,8 @@
   <string name="more_online_release">Viac</string>
   <string name="more_online_song">Viac</string>
   <string name="more_online_suggest">Viac</string>
+  <string name="more_settings">Viac nastavení</string>
+  <string name="more_settings_summary">Nastavenie sťahovania, spánku, mobilných dát atď.</string>
   <string name="multichoice">Vybrať</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_filter">Filtrovať audio súbory</string>
@@ -350,6 +353,10 @@
   <string name="pay_now">Zaplatiť teraz</string>
   <string name="payment_fail">Payment failed</string>
   <string name="payment_success">Payment complete</string>
+  <string name="permission_declaration_message">Povoľte prístup k úložisku v aplikácií Optimazlizácia &gt; Povolenia &gt; Správa povolení &gt; Úložisko &gt; Hudba pre správne fungovanie aplikácie.</string>
+  <string name="permission_declaration_negative_text">Neskôr</string>
+  <string name="permission_declaration_positive_text">Ísť do app Optimalizácia</string>
+  <string name="permission_declaration_title">Povoliť</string>
   <string name="play_all_song">Prehrať všetko</string>
   <string name="play_next">Prehrať ďalšiu.</string>
   <string name="playback_failed_no_title_by_bad_file">"Skladby nie je možné prehrať. Formát nie je podporovaný alebo súbor neexistuje."</string>
@@ -401,6 +408,7 @@
   <string name="send_to">Odoslať</string>
   <string name="send_to_title">Odoslať (%1$s)</string>
   <string name="server_error">Chyba servera, skúste to znova.</string>
+  <string name="service_and_settings">Služby a nastavenia</string>
   <string name="service_stop">Služba bola ukončená</string>
   <string name="set_album_successful">Album uložený</string>
   <string name="set_as_ring">Nastaviť ako zvonenie</string>
@@ -411,6 +419,7 @@
   <string name="set_lyric_successful">Text skladby uložený</string>
   <string name="set_ringtones_failed">Nastavenie zvonenia zlyhalo.</string>
   <string name="set_ringtones_successful">%s nastavené ako zvonenie.</string>
+  <string name="settings">Nastavenia</string>
   <string name="settings_notification_text">Zobraziť ovládanie hudby v roletke</string>
   <string name="settings_notification_title">Widget v roletke</string>
   <string name="share_append_text">Od @小米音乐</string>
@@ -464,6 +473,7 @@
   <string name="title_online_suggest">Mohlo by sa vám páčiť</string>
   <string name="title_search_history">Prehľadávať históriu</string>
   <string name="title_search_hot">Horúce</string>
+  <string name="toast_cancel_play">Prehrávanie zrušené</string>
   <string name="today_update">Aktualizovaná Hudba</string>
   <string name="too_freq">Príliš častá operácia</string>
   <string name="tos">Podmienky používania</string>
@@ -499,14 +509,4 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
-  <string name="more_settings">Viac nastavení</string>
-  <string name="more_settings_summary">Nastavenie sťahovania, spánku, mobilných dát atď.</string>
-  <string name="settings">Nastavenia</string>
-  <string name="toast_cancel_play">Prehrávanie zrušené</string>
-  <string name="desktop_lyric_lock_toast">Uzamknuté. Použite Mini Prehrávač v lište pre odblokovanie</string>
-  <string name="permission_declaration_message">Povoľte prístup k úložisku v aplikácií Optimazlizácia &gt; Povolenia &gt; Správa povolení &gt; Úložisko &gt; Hudba pre správne fungovanie aplikácie.</string>
-  <string name="permission_declaration_negative_text">Neskôr</string>
-  <string name="permission_declaration_positive_text">Ísť do app Optimalizácia</string>
-  <string name="permission_declaration_title">Povoliť</string>
-  <string name="service_and_settings">Služby a nastavenia</string>
 </resources>

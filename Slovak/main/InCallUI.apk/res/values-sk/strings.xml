@@ -35,6 +35,7 @@
   <string name="antispam_notification_title">Neznáme číslo</string>
   <string name="antispam_provider">Označené %s</string>
   <string name="apn_settings">Prístupové body (APN)</string>
+  <string name="areacode_set_default">Nastaviť ako predvolené</string>
   <string name="atr_disable">Oblastné prehľady dopravy zakázané</string>
   <string name="atr_enable">Oblastné prehľady dopravy povolené</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -99,6 +100,7 @@
   <string name="call_title_redialing_with_times_miui">Volané %d krát</string>
   <string name="caller_manage_header">Konferenčný hovor %s</string>
   <string name="calling_via_template">Volanie prostredníctvom %s</string>
+  <string name="can_not_call_oneself">Nie je možné uskutočniť hovor na toto číslo</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_call">Ukončiť</string>
   <string name="card_title_call_ended">"Hovor ukončený "</string>
@@ -159,6 +161,7 @@
   <string name="custom_message_send">Odoslať</string>
   <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
   <string name="data_enabled">Dátové prenosy</string>
+  <string name="default_area_code_setting">Predovlená predvoľba</string>
   <string name="default_notification_description">Predvolené zvonenie (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">Nenastavené</string>
@@ -209,6 +212,9 @@
   <string name="dial_pad_autocomplete">Automatické dopĺňanie číselníka</string>
   <string name="dial_with_gsm_phone">Bežný hovor</string>
   <string name="dialerKeyboardHintText">Číslo vytočíte pomocou klávesnice.</string>
+  <string name="dialog_activate_livetalk">Overiť číslo</string>
+  <string name="dialog_call_ordinary_telephone">Bežný hovor</string>
+  <string name="dialog_purchase">Navýšiť</string>
   <string name="disable">Vypnuté</string>
   <string name="disable_cfb_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak je telefón obsadený.</string>
   <string name="disable_cfnrc_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak je telefón nedostupný.</string>
@@ -220,6 +226,7 @@
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">Rovnaké ako meno</string>
   <string name="display_name_title">Zobrazované meno</string>
+  <string name="do_not_ask">Viac nezobrazovať</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Hotovo</string>
   <string name="dtmf_tone_enable_title">Zvuk dotyku kláves</string>
@@ -745,11 +752,4 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
-  <string name="areacode_set_default">Nastaviť ako predvolené</string>
-  <string name="can_not_call_oneself">Nie je možné uskutočniť hovor na toto číslo</string>
-  <string name="default_area_code_setting">Predovlená predvoľba</string>
-  <string name="dialog_activate_livetalk">Overiť číslo</string>
-  <string name="dialog_call_ordinary_telephone">Bežný hovor</string>
-  <string name="dialog_purchase">Navýšiť</string>
-  <string name="do_not_ask">Viac nezobrazovať</string>
 </resources>
