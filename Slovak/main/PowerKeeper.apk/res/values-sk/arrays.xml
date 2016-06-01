@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Predvolený režim</item>
+        <item>Skrytý režim</item>
+        <item>Čítací režim</item>
+        <item>Multimediálny režim</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Aplikácia je na pozadí</item>
+        <item>Displej zapnutý</item>
+        <item>Displej vypnutý</item>
+        <item>Displej vypnutý viac ako 10 minút</item>
+        <item>Režim celej obrazovky</item>
+        <item>Ukončiť režim celej obrazovky</item>
+        <item>Aplikácia je na pozadí</item>
+        <item>Zariadenie sa nabíja</item>
+        <item>Zariadenie sa nenabíja</item>
+        <item>Zariadenie je v nečinnosti</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Maximálny jas displeja</item>
+        <item>Maximálna frekvencia CPU</item>
+        <item>Režim displeja</item>
+        <item>Využitie CPU</item>
+        <item>Dátové pripojenie</item>
+        <item>Poloha</item>
+        <item>Upozornenie na prvú správu</item>
+        <item>Upozornenie na zamykacej obrazovke</item>
+        <item>Zakázať dátové pripojenie na pozadí</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Žiadna činnosť</item>
+        <item>Štandard</item>
+        <item>Obrázky</item>
+        <item>Film</item>
+        <item>Úspora batérie</item>
+        <item>Vyvážený</item>
+        <item>Výkonný</item>
+        <item>Povoliť</item>
+        <item>Zakázať</item>
+        <item>Okamžite</item>
+        <item>Po 10 min</item>
+        <item>Po 30 min</item>
+        <item>Ak je vypnutý displej</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Vybrané</item>
+        <item>Nevybrané</item>
+        <item>Ostatné</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Vlastné pravidlá</item>
+        <item>Odporúčané pravidlá</item>
+    </string-array>
+</resources>
