@@ -9,4 +9,8 @@
         <item quantity="other">Skryť upozornenia %d aplikácie?</item>
         <item quantity="one">Skryť upozornenia tejto aplikácie?</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Jasno</item>
+        <item quantity="one">Slnečno</item>
+    </plurals>
 </resources>
