@@ -34,7 +34,7 @@
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>
   <string name="daily_forcast_whirl_wind">Víchrica</string>
-  <string name="daily_forecast_detail_date">d/M</string>
+  <string name="daily_forecast_detail_date">d.M.</string>
   <string name="edit_city">Upraviť</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Pre načítanie informácií o počasí a polohe je nutné internetové pripojenie.</string>
@@ -70,7 +70,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="network_unavailable">Žiadna sieť</string>
   <string name="no_network_btn">Skúsiť znova</string>
   <string name="open_browser">Otvoriť v Prehliadačí</string>
-  <string name="realtime_humidity_title">Relatívna vlhkosť</string>
+  <string name="realtime_humidity_title">Vlhkosť</string>
   <string name="realtime_wind_default_title">Vietor</string>
   <string name="share">Zdieľať</string>
   <string name="share_btn_cancel">Zrušiť</string>
