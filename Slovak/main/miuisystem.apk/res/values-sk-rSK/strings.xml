@@ -48,7 +48,7 @@
   <string name="force_exit_message">Úspešne ukončená aplikácia \"%1$s\"</string>
   <string name="force_exit_skip_message">%1$s je systémová aplikácia a nemôže byť ukončená.</string>
   <string name="frequent_phrases_des">Vložte často používané frázy rýchlo počas písania</string>
-  <string name="frequent_phrases_size_exceeded">Nie je možné pridať viac ako 10 fráz.</string>
+  <string name="frequent_phrases_size_exceeded">Nie je možné pridať viac ako %1$d fráz.</string>
   <string name="global_actions_airplane_mode">Režim Lietadlo</string>
   <string name="global_actions_reboot">Reštart</string>
   <string name="global_actions_shutdown">Vypnúť</string>
