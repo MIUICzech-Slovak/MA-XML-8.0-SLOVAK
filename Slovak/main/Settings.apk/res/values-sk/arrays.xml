@@ -417,9 +417,10 @@
         <item>kritické</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Silné</item>
-        <item>Stredné</item>
+      <item>Vypnuté</item>
         <item>Slabé</item>
+        <item>Stredné</item>
+        <item>Silné</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Silné</item>
