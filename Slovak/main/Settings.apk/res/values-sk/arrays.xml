@@ -416,7 +416,7 @@
         <item>nízke</item>
         <item>kritické</item>
     </string-array>
-    <string-array name="haptic_feedback_level_entries">
+    <string-array name="haptic_feedback_level_texts">
       <item>Vypnuté</item>
         <item>Slabé</item>
         <item>Stredné</item>
