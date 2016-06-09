@@ -1,14 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="boot_msg_text">
-        <item>-==MIUIos.cz==-</item>
-	<item>-==MIUIos.cz==-</item>
-	<item>-==MIUIos.cz==-</item>
-        <item>Prebieha inštalácia.</item>
-        <item>Prebieha inštalácia..</item>
-        <item>Prebieha inštalácia...</item>
-        <item>Optimalizácia aplikácií...</item>
-        <item>Svoje postrehy napíšte na miuios.cz/rom</item>
+        <item>Pripravuje sa (0%)…</item>
+        <item>Pripravuje sa (1%)…</item>
+        <item>Pripravuje sa (2%)…</item>
+        <item>Pripravuje sa (3%)…</item>
+        <item>Pripravuje sa (4%)…</item>
+        <item>Pripravuje sa (5%)…</item>
+        <item>Pripravuje sa (6%)…</item>
+        <item>Pripravuje sa (7%)…</item>
+        <item>Pripravuje sa (8%)…</item>
+        <item>Pripravuje sa (9%)…</item>
+        <item>Pripravuje sa (10%)…</item>
+        <item>Pripravuje sa (11%)…</item>
+        <item>Pripravuje sa (12%)…</item>
+        <item>Pripravuje sa (13%)…</item>
+        <item>Pripravuje sa (14%)…</item>
+        <item>Pripravuje sa (15%)…</item>
+        <item>Pripravuje sa (16%)…</item>
+        <item>Pripravuje sa (17%)…</item>
+        <item>Pripravuje sa (18%)…</item>
+        <item>Pripravuje sa (19%)…</item>
+        <item>Pripravuje sa (20%)…</item>
+        <item>Aktualizácia (21%)…</item>
+        <item>Aktualizácia (22%)…</item>
+        <item>Aktualizácia (23%)…</item>
+        <item>Aktualizácia (24%)…</item>
+        <item>Aktualizácia (25%)…</item>
+        <item>Aktualizácia (26%)…</item>
+        <item>Aktualizácia (27%)…</item>
+        <item>Aktualizácia (28%)…</item>
+        <item>Aktualizácia (29%)…</item>
+        <item>Aktualizácia (30%)…</item>
+        <item>Aktualizácia (31%)…</item>
+        <item>Aktualizácia (32%)…</item>
+        <item>Aktualizácia (33%)…</item>
+        <item>Aktualizácia (34%)…</item>
+        <item>Aktualizácia (35%)…</item>
+        <item>Aktualizácia (36%)…</item>
+        <item>Aktualizácia (37%)…</item>
+        <item>Aktualizácia (38%)…</item>
+        <item>Aktualizácia (39%)…</item>
+        <item>Aktualizácia (40%)…</item>
+        <item>Optimalizácia (41%)…</item>
+        <item>Optimalizácia (42%)…</item>
+        <item>Optimalizácia (43%)…</item>
+        <item>Optimalizácia (44%)…</item>
+        <item>Optimalizácia (45%)…</item>
+        <item>Optimalizácia (46%)…</item>
+        <item>Optimalizácia (47%)…</item>
+        <item>Optimalizácia (48%)…</item>
+        <item>Optimalizácia (49%)…</item>
+        <item>Optimalizácia (50%)…</item>
+        <item>Optimalizácia (51%)…</item>
+        <item>Optimalizácia (52%)…</item>
+        <item>Optimalizácia (53%)…</item>
+        <item>Optimalizácia (54%)…</item>
+        <item>Optimalizácia (55%)…</item>
+        <item>Optimalizácia (56%)…</item>
+        <item>Optimalizácia (57%)…</item>
+        <item>Optimalizácia (58%)…</item>
+        <item>Optimalizácia (59%)…</item>
+        <item>Optimalizácia (60%)…</item>
+        <item>Optimalizácia (61%)…</item>
+        <item>Optimalizácia (62%)…</item>
+        <item>Optimalizácia (63%)…</item>
+        <item>Optimalizácia (64%)…</item>
+        <item>Optimalizácia (65%)…</item>
+        <item>Optimalizácia (66%)…</item>
+        <item>Optimalizácia (67%)…</item>
+        <item>Optimalizácia (68%)…</item>
+        <item>Optimalizácia (69%)…</item>
+        <item>Optimalizácia (70%)…</item>
+        <item>Optimalizácia (71%)…</item>
+        <item>Optimalizácia (72%)…</item>
+        <item>Optimalizácia (73%)…</item>
+        <item>Optimalizácia (74%)…</item>
+        <item>Optimalizácia (75%)…</item>
+        <item>Optimalizácia (76%)…</item>
+        <item>Optimalizácia (77%)…</item>
+        <item>Optimalizácia (78%)…</item>
+        <item>Optimalizácia (79%)…</item>
+        <item>Optimalizácia (80%)…</item>
+        <item>Optimalizácia (81%)…</item>
+        <item>Optimalizácia (82%)…</item>
+        <item>Optimalizácia (83%)…</item>
+        <item>Optimalizácia (84%)…</item>
+        <item>Optimalizácia (85%)…</item>
+        <item>Optimalizácia (86%)…</item>
+        <item>Optimalizácia (87%)…</item>
+        <item>Optimalizácia (88%)…</item>
+        <item>Optimalizácia (89%)…</item>
+        <item>Dokončenie inštalácie (90%)…</item>
+        <item>Dokončenie inštalácie (91%)…</item>
+        <item>Dokončenie inštalácie (92%)…</item>
+        <item>Dokončenie inštalácie (93%)…</item>
+        <item>Dokončenie inštalácie (94%)…</item>
+        <item>Dokončenie inštalácie (95%)…</item>
+        <item>Dokončenie inštalácie (96%)…</item>
+        <item>Dokončenie inštalácie (97%)…</item>
+        <item>Dokončenie inštalácie (98%)…</item>
+        <item>Dokončenie inštalácie (99%)…</item>
+        <item>Dokončenie inštalácie (100%)…</item>
     </string-array>
     <string-array name="organized_languages_international">
         <item>en_GB</item>
