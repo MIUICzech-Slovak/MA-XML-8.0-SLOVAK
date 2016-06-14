@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
   <string name="about_to_recover">O obnove</string>
+  <string name="account_error">Chyba účtu</string>
   <string name="app_name">MiCloud záloha</string>
   <string name="as_new_device">Nahradiť predchádzajúce rozloženie plochy a nastavenia</string>
   <string name="as_new_device_summary">Vymazať predchádzajúce zálohy v MiCloud</string>
@@ -9,9 +9,15 @@
   <string name="back_up_task_unfinished">obnovenie nebolo dokončené</string>
   <string name="backing_up_to_micloud">Zálohovanie...</string>
   <string name="backup_fail">Zálohovanie zlyhalo</string>
+  <string name="backup_finished_notification_content">Zálohované aplikácie, nastavenia, atď.</string>
+  <string name="backup_now">Zálohovať teraz</string>
   <string name="backup_size">Veľkosť: %s</string>
   <string name="backup_success">Záloha dokončená</string>
+  <string name="backup_successfully">Úspešne zálohované</string>
   <string name="backup_to_cloud">Zálohovať</string>
+  <string name="btn_back">Späť</string>
+  <string name="btn_continue">Pokračovať</string>
+  <string name="btn_skip">Preskočiť</string>
   <string name="button_cancel">Zrušiť</string>
   <string name="button_delete">Vymazať</string>
   <string name="button_next">Ďalej</string>
@@ -55,6 +61,8 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="cloud_backup_detail_state">MiCloud záloha</string>
   <string name="cloud_backup_detail_state_summary">Apl, Nastavenie plochy a systému</string>
   <string name="cloud_backup_detail_time">Zálohované: %1$s</string>
+  <string name="cloud_backup_have_data">Nájdená záloha v MiCloud</string>
+  <string name="cloud_backup_select_recover">Vybrať zálohu z MiCloud</string>
   <string name="cloud_restore_from_other_device">prebieha obnovenie z %s, Vymazanie zálohy zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
   <string name="cloud_restore_task">Obnovenie...</string>
   <string name="cloud_task_in_process">Prebieha %s! Vymazanie zálohy súčasného zariadenia zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
@@ -94,7 +102,6 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="recover_from_micloud">Obnoviť pomocou MiCloud</string>
   <string name="recover_home_settings">Obnoviť nastavenie plochy</string>
   <string name="recover_miui_settings">Obnoviť nastavenie MIUI</string>
-  <string name="recover_settings">Obnoviť nastavenie plochy</string>
   <string name="recover_settings_description">Nevypínajte vaše zariadenie</string>
   <string name="recovering">Obnovenie %s</string>
   <string name="remove_task_in_process">Mazanie...</string>
@@ -103,6 +110,7 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="restore_from_cloud">Obnoviť z MiCloud</string>
   <string name="restore_from_this_device">Obnoviť z tejto zálohy</string>
   <string name="restore_home_screen_apps">Obnoviť zo zálohy v MiCloud</string>
+  <string name="restore_task_unfinished">Obnovenie aplikácií, skúste to neskôr</string>
   <string name="restoreing_file_tile">Obnovovanie %d súborov</string>
   <string name="retry">Znova</string>
   <string name="self_phone">Toto zariadenie</string>
@@ -111,11 +119,4 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="start_recover">Obnoviť %s</string>
   <string name="success_open_cloudbackup">Povolená záloha pre rozloženie plochy a apl.</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
-  <string name="cloud_backup_have_data">Nájdená záloha v MiCloud</string>
-  <string name="cloud_backup_select_recover">Vybrať zálohu z MiCloud</string>
-  <string name="backup_finished_notification_content">Zálohované aplikácie, nastavenia, atď.</string>
-  <string name="backup_now">Zálohovať teraz</string>
-  <string name="backup_successfully">Úspešne zálohované</string>
-  <string name="restore_task_unfinished">Obnovenie aplikácií, skúste to neskôr</string>
-  <string name="account_error">Chyba účtu</string>
 </resources>

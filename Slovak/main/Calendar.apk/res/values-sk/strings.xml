@@ -59,11 +59,8 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_days_later">%1$s dní do %4$s (%5$s)</string>
-  <string name="birthday_notification_text_three_days_later">Za 3 dni má %4$s (%3$s)!</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
   <string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>
   <string name="birthday_notification_title_days_later">%1$s bude mať %2$s</string>
-  <string name="birthday_notification_title_three_days_later">%1$s bude mať %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
   <string name="birthday_term">narodeniny</string>
@@ -84,11 +81,6 @@
   <string name="create_an_account_desc">"Kalendár funguje najlepšie s účtom Google.\n• Prístup z akéhokoľvek webového prehliadača \n• Bezpečné zálohovanie udalostí"</string>
   <string name="creating_event">Udalosť bola vytvorená.</string>
   <string name="creating_event_with_guest">Pozvánky boli odoslané.</string>
-  <string name="cta_notice_checkbox">Viac sa nepýtať</string>
-  <string name="cta_notice_message">\"Upozornenie narodenín\" v Kalendári vás upozorní na narodeniny vašich kontaktov ale vyžaduje si k nim prístup. Súhlasíte?</string>
-  <string name="cta_notice_ok">OK</string>
-  <string name="cta_notice_title">Upozornenie</string>
-  <string name="cta_notify_settings">Upozorniť na prístup ku kontaktom</string>
   <string name="custom">Vlastné (nemožno upraviť v telefóne)</string>
   <string name="daily">Denne</string>
   <string name="data_notice_change_settings">Nastavenia</string>
@@ -110,7 +102,6 @@
   <string name="dismiss_all_label">Zavrieť všetko</string>
   <string name="do_not_check">Nekontrolovať -&gt;</string>
   <string name="does_not_repeat">Jednorazová udalosť</string>
-  <string name="done">Ďalej</string>
   <string name="download">Stiahnuť</string>
   <string name="edit_event_all_day_label">Celý deň</string>
   <string name="edit_event_calendar_label">Kalendár</string>
@@ -150,9 +141,7 @@
   <string name="event_info_when">"Kedy: "</string>
   <string name="event_info_where">"Kde: "</string>
   <string name="event_lunar_month"/>
-  <string name="event_not_found">Udalosť sa nenašla.</string>
   <string name="event_show_more">Viac</string>
-  <string name="event_subscirbe_detail_title">Podrobnosti</string>
   <string name="event_title">Názov</string>
   <string name="event_view">Zobraziť udalosť</string>
   <string name="every_weekday">Každý pracovný deň (po–pia)</string>
@@ -162,12 +151,12 @@
   <string name="gadget_no_events">Žiadne nadchádzajúce udalosti</string>
   <string name="gadget_title">Kalendár</string>
   <string name="goto_today">Dnes</string>
+  <string name="guide_card_hint_text">Dotykom otvoríte MiCloud</string>
   <string name="hide_controls">Skryť ovládacie prvky</string>
   <string name="hint_attendees">Hostia</string>
   <string name="hint_description">Popis</string>
   <string name="hint_what">Názov udalosti</string>
   <string name="hint_where">Miesto</string>
-  <string name="holiday_label">Voľno</string>
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
@@ -177,8 +166,6 @@
   <string name="insert_event_dialog_title">Upozornenie</string>
   <string name="insert_event_toast_add_failed">Pridanie zlyhalo</string>
   <string name="insert_event_toast_add_success">Udalosť vytvorená</string>
-  <string name="internet_connection_notification">Upozornenie na internetové pripojenie</string>
-  <string name="internet_connection_notification_descrip">Zobraziť upozornenie na internetové pripojenie vždy pri spustení Kalendára</string>
   <string name="jump_date">Skoč</string>
   <string name="jump_date_full">Skoč na dátum</string>
   <string name="label_recent_events">Nedávne udalosti</string>
@@ -212,7 +199,7 @@
   <string name="month_view">Mesiac</string>
   <string name="monthly">Mesačne</string>
   <string name="monthly_on_day">Mesačne</string>
-  <string name="monthly_on_day_count" formatted="false">Mesačne (vždy %1$s %2$s)</string>
+  <string name="monthly_on_day_count">Mesačne (vždy %1$s %2$s)</string>
   <string name="movable_list_header_label">Popis</string>
   <string name="network_not_available">Nie je možné pripojiť sa k sieti</string>
   <string name="new_event_dialog_label">Nová udalosť</string>
@@ -224,13 +211,7 @@
   <string name="no_syncable_calendars">Žiadne kalendáre</string>
   <string name="no_title_label">(bez názvu)</string>
   <string name="not_synced">nie je synchronizovaný</string>
-  <string name="notice_button_exit">Ukončiť</string>
-  <string name="notice_button_ok">Súhlasím</string>
-  <string name="notice_declaration_ignore">Viac sa nepýtať</string>
-  <string name="notice_title_agreement">Internetové pripojenie</string>
-  <string name="notice_title_request">Upozornenie</string>
-  <string name="online_calendar_activity_label">Prihlásiť</string>
-  <string name="online_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie.</string>
+  <string name="path_calendar">Systémové aplikácie/Kalendár/Nastavenia</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
   <string name="pref_error_no_ringtone_select">Žiadne</string>
@@ -309,6 +290,7 @@
   <string name="saving_event">Udalosť bola uložená.</string>
   <string name="saving_event_with_guest">Aktualizácie boli odoslané.</string>
   <string name="search">Hľadať</string>
+  <string name="search_calendar">Kalendár;Agenda;Upozornenie</string>
   <string name="search_history_cleared">História vyhľadávania vymazaná.</string>
   <string name="search_title">Vyhľadať v mojich kalendároch</string>
   <string name="select_date">Vybrať dátum</string>
@@ -316,10 +298,9 @@
   <string name="select_synced_calendars_title">Kalendáre, ktoré sa majú synchronizovať</string>
   <string name="select_visible_calendars_title">Kalendáre, ktoré sa majú zobraziť</string>
   <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
+  <string name="settings_calendar">Kalendár</string>
   <string name="setting_holiday">Holidays</string>
   <string name="setting_others">Others</string>
-  <string name="show_all_lunar">Lunárny (Čína)</string>
-  <string name="show_almanac">Almanach (Čína)</string>
   <string name="show_controls">Zobraziť ovládacie prvky</string>
   <string name="show_day_view">Zobraziť deň</string>
   <string name="show_newer_events">Dotykom zobrazíte udalosti po období %1$s</string>
@@ -337,7 +318,7 @@
   <string name="tab_online">Online</string>
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index" formatted="false">Udalosť %1$s z %2$s</string>
+  <string name="template_announce_item_index">Udalosť %1$s z %2$s</string>
   <string name="text_year">Rok</string>
   <string name="time_zone">Zóna</string>
   <string name="timezone_label">Časové pásmo</string>
@@ -369,7 +350,6 @@
   <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">Just a sec…</string>
   <string name="travel_local">Destination</string>
-  <string name="travel_notice_message">Calendar needs to connect to the internet and access your location in order to display travel information.</string>
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>

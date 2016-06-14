@@ -39,7 +39,6 @@
   <string name="backup_items_sysdata_tailer">x systémové dáta\u0020</string>
   <string name="backup_new">Nový:</string>
   <string name="backup_progress">Zálohovanie...</string>
-  <string name="backup_recently">\u0020(Posledné)</string>
   <string name="backup_report">Hlásenie zálohovania</string>
   <string name="backup_update">Aktualizácia</string>
   <string name="batch_delete_backup_confirm">Vymazať zálohy?</string>
@@ -78,7 +77,6 @@
   <string name="current_sim">Súčasná SIM</string>
   <string name="custom_progress">%d položiek</string>
   <string name="data_item_desc">Dáta</string>
-  <string name="data_no_enough_space">K dispozícii nie je dostatok miesta, uvoľníte miesto a skúste to znova</string>
   <string name="data_no_enough_space_message">Obnovenie môže zlyhať, uvoľnite miesto vo vnútornej pamäti a akciu opakujte</string>
   <string name="date_format">yyyy MM dd HH:mm:ss</string>
   <string name="delete">Vymazať</string>
@@ -116,7 +114,6 @@
   <string name="findlost_contact">Obnoviť vymazané kontakty</string>
   <string name="findlost_contact_online">Obnoviť vymazané kontakty z cloudu</string>
   <string name="guarded_mode_dialog_backup_message">Záloha nie je povolená v režime Návštevník.</string>
-  <string name="guarded_mode_dialog_message">V režime Návštevník nie je možné vytvárať alebo obnovovať zálohy</string>
   <string name="guarded_mode_dialog_title">Režim Návštevník</string>
   <string name="guarded_mode_dialog_transfer_message">Prenos nie je povolený v režime Návštevník.</string>
   <string name="import_from_xiaomi_account_hint1">1.Inštalujte MiTalk a prihláste sa.\n http://www.miliao.com\n\n3. Prejdite na nastavenia MiTalk a zvoľte "Zálohovať na účet Xiaomi"</string>
@@ -135,7 +132,6 @@
   <string name="local_select_sysdata">Systém</string>
   <string name="local_select_userapp">Aplikácie</string>
   <string name="local_select_video">Videá</string>
-  <string name="menu_patch_delete">Vymazať zálohy</string>
   <string name="miliao_account_guide">Účet MiTalk bol povýšený na účet Xiaomi.\n Užite si všetky dostupné online služby</string>
   <string name="miliao_account_login">Prihlásiť k MiTalk</string>
   <string name="mms_title">Multimediálne správy</string>
@@ -257,6 +253,7 @@
   <string name="trans_connect_failed_title">Pripojenie zlyhalo</string>
   <string name="trans_connect_failed_toast">Nebolo možné sa pripojiť</string>
   <string name="trans_connecting_toast">Pripájanie...</string>
+  <string name="trans_connection_failed">Zariadenie odpojené</string>
   <string name="trans_detail_category_account">Účty a kontakty</string>
   <string name="trans_detail_category_files">Súbory</string>
   <string name="trans_detail_category_sysdata">Systémové dáta</string>
@@ -322,7 +319,6 @@ Rovnaké súbory na novom zariadení budú prepísané"</string>
   <string name="trans_start_failed_message">Spustenie zlyhalo, skúste to znova alebo reštartujte</string>
   <string name="trans_start_failed_title">Spustenie zlyhalo</string>
   <string name="trans_time_format_second">menej ako 1min.</string>
-  <string name="trans_time_remained">", pripravený o "</string>
   <string name="trans_time_spent">"
 Čas trvania: %s"</string>
   <string name="trans_wait_trans_data">"Pripojte sa k starému zariadeniu.

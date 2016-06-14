@@ -26,8 +26,6 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stiahnuť MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuios.cz/</string>
   <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
-  <string name="Dashboard_Su_Enable_Content">Povoliť práva ROOT? Aplikácie s týmito právami môžu spôsobiť nestabilitu systému, alebo stratu dát, prípadne i poškodenie systému a hardwaru. Buďte prosím opatrný. Skutočne ich chcete povoliť?</string>
-  <string name="Dashboard_Su_Enable_Title">Práva ROOT</string>
   <string name="Generic_Canceling">Ukončovanie...</string>
   <string name="Generic_Check">Skontrolovať</string>
   <string name="Generic_Clean">Vymazať</string>
@@ -226,6 +224,8 @@
   <string name="HIPS_Perm_process_nfc_Desc">Prístup k NFC</string>
   <string name="HIPS_Perm_process_outgoing_calls">Prístup k apl. Telefón</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Sledovať a ukončiť hovory</string>
+  <string name="HIPS_Perm_read_notification_sms">SMS služieb</string>
+  <string name="HIPS_Perm_read_notification_sms_Desc">Čítať SMS služieb</string>
   <string name="HIPS_Perm_use_sip">Video služby</string>
   <string name="HIPS_Perm_use_sip_Desc">Používať protokol pre streamovanie videa</string>
   <string name="HIPS_SecurityPrompt_Accept">Povolené (%d)</string>

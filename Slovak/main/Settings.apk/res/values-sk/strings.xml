@@ -2493,13 +2493,13 @@ Vyberte váš operačný systém:"</string>
   <string name="power_cell">Telefón v pohotovostnom režime</string>
   <string name="power_center">Výkon</string>
   <string name="power_charge_remaining">%1$s do nabitia</string>
-  <string name="power_charging">%1$d %% – %2$s</string>
+  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">%1$s - %2$s do plna</string>
   <string name="power_charging_duration_ac">%1$s - %2$s do plna z nabíjačky</string>
   <string name="power_charging_duration_usb">%1$s - %2$s do plna cez USB</string>
   <string name="power_charging_duration_wireless">%1$s - %2$s do plna bezdrôtovo</string>
   <string name="power_discharge_remaining">Zostáva %1$s</string>
-  <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
+  <string name="power_discharging_duration">%1$s – zostáva cca. %2$s</string>
   <string name="power_flashlight">Svetlo</string>
   <string name="power_hide_mode_summary">Zakázať aplikáciam počas vypnutého displeja prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
   <string name="power_hide_mode_title">Úspora batérie</string>

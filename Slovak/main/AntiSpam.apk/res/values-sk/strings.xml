@@ -20,9 +20,9 @@
   <string name="Call_ADRESS">Hovory z regiónu</string>
   <string name="Call_BLACKLIST">Blokované Hovory</string>
   <string name="Call_DEFAULT">Inteligentné blokovanie</string>
-  <string name="Call_MODENAME">Neinteligentné Hovory</string>
   <string name="Call_PREFIX">Číslo Hovoru</string>
   <string name="Call_PRIVATE_CALL">Blokovať utajené čísla</string>
+  <string name="MALICIOUS_URL">Škodlivý odkaz</string>
   <string name="NACaddnumcontent">Telefónne číslo</string>
   <string name="NACaddnumtitle">Pridať číslo do výnimiek</string>
   <string name="PAST_BLOCK">Predchádzajúci režim blokovania</string>
@@ -31,7 +31,6 @@
   <string name="SMS_BLACKLIST">Blokované SMS</string>
   <string name="SMS_DEFAULT">Inteligentné blokovanie</string>
   <string name="SMS_KEYWORDS">Blokovať kľúčové slová</string>
-  <string name="SMS_MODENAME">Neinteligentné SMS</string>
   <string name="SMS_PREFIX">Číslo SMS</string>
   <string name="SMS_SERVICE">Blokovanie Služieb</string>
   <string name="SMSpass">SMS</string>
@@ -55,6 +54,7 @@
   <string name="antispam_notificaiton_type_show_except_blacklist">Ak nie je v čiernej listine</string>
   <string name="antispam_notificaiton_type_show_none">Nikdy</string>
   <string name="antispam_notification_setting_title">Upozorniť na blokovanie</string>
+  <string name="antispam_xpace_text">Prepnite sa do hlavného profilu pre nastavenia AntiSpam</string>
   <string name="app_name">AntiSpam</string>
   <string name="backsound_set_hint">Nastaviť zvuk na %s?</string>
   <string name="baidu_thanks"/>
@@ -111,7 +111,6 @@
   <string name="dlg_remove_blacklist">Odstrániť toto číslo z čiernej listiny?</string>
   <string name="dlg_remove_blacklist_ing">Odoberanie z čiernej listiny...</string>
   <string name="dlg_remove_blacklist_ok">Odstrániť</string>
-  <string name="dlg_remove_whitelist">Odobrať z výnimiek?</string>
   <string name="dlg_remove_whitelist_content">Odobrať tieto čísla z výnimiek?</string>
   <string name="dlg_remove_whitelist_ing">Odoberanie z výnimiek...</string>
   <string name="dlg_remove_whitelist_title">Odobrať</string>
@@ -124,9 +123,7 @@
   <string name="email">Email</string>
   <string name="empty_activity_title">" "</string>
   <string name="fw_blocked">Blokované</string>
-  <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
-  <string name="fw_blocked_count_call">Hovory (%d)</string>
-  <string name="fw_blocked_count_sms">SMS (%d)</string>
+  <string name="fw_blocked_count">"Blokované: "</string>
   <string name="fw_blocked_join">" a "</string>
   <string name="hint_antispam_mode_edit">Vlastný režim</string>
   <string name="im">IM</string>
@@ -144,21 +141,17 @@
   <string name="mark_agent_block">Označené ako predajca</string>
   <string name="mark_agent_block_large">Sprostredkovateľ</string>
   <string name="mark_agent_time_setting">Blokovať čísla predajcov nahlásené viackrát</string>
-  <string name="mark_banking_insurance">Predaj poistiek</string>
-  <string name="mark_banking_insurance_block">Nahlásiť ako Predaj poistiek</string>
-  <string name="mark_express">Kuriér</string>
-  <string name="mark_express_block">Označené ako kuriér</string>
   <string name="mark_fraud">Podvodník</string>
   <string name="mark_fraud_block">Označené ako podvodník</string>
   <string name="mark_fraud_block_large">Podvodník</string>
   <string name="mark_fraud_time_setting">Blokovať obťažujúce čísla nahlásené viackrát</string>
+  <string name="mark_harass">Block reported nuisances</string>
+  <string name="mark_harass_block">Reported as nuisance</string>
   <string name="mark_harass_block_large">Obťažuje</string>
   <string name="mark_harass_time_setting">Blokovať obťažujúce čísla nahlásené viackrát</string>
-  <string name="mark_meal">Donáška</string>
-  <string name="mark_meal_block">Označené ako donáška</string>
   <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_banking">Poisťovací agent</string>
   <string name="mark_number_fraud">Otravný</string>
+  <string name="mark_number_harass">Obťažovanie</string>
   <string name="mark_number_info">"
 Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých už viac nechcete prijať hovor."</string>
   <string name="mark_number_sell">Predajca</string>
