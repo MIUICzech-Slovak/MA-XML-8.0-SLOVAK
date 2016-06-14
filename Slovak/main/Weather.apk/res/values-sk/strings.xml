@@ -29,7 +29,7 @@
   <string name="button_not_allow">Zrušiť</string>
   <string name="close">Zatvoriť</string>
   <string name="daily_forcast_drawer_on_bottom">Skryť</string>
-  <string name="daily_forcast_drawer_on_top">Zobraziť ostatné dni</string>
+  <string name="daily_forcast_drawer_on_top">%1$s-dňová predpoveď</string>
   <string name="daily_forcast_no_stable_direction">Bezvetrie</string>
   <string name="daily_forcast_no_wind">&lt;12km/h</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>

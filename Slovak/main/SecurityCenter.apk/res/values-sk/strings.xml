@@ -807,7 +807,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pm_root_success_notification_title">ROOT práva povolené</string>
   <string name="positive_confirm">OK</string>
   <string name="power_20s_enter_mode">Režim %2$s o %1$d sekúnd</string>
-  <string name="power_20s_shutdown">Zariadenie sa vypne o 20 sekúnd</string>
+  <string name="power_20s_shutdown">Zariadenie sa vypne o %d sekúnd</string>
   <string name="power_apply_toast">Prepnúť na %s režim a uložiť súčasný profil</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Vymazať</string>

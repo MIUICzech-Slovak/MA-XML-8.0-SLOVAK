@@ -427,7 +427,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="battery_msg_unaccounted">Využitie batérie je približný údaj o spotrebe energie a nezahrnuje každý zdroj využívajúci batériu. Režim Rôzne predstavuje rozdiel medzi vypočítanou spotrebou energie a skutočnou pozorovanou spotrebou batérie.</string>
   <string name="battery_saver">Šetrič batérie</string>
   <string name="battery_saver_turn_on_automatically_never">Nikdy</string>
-  <string name="battery_saver_turn_on_automatically_pct">Pri %1$d%% batérie</string>
+  <string name="battery_saver_turn_on_automatically_pct">Pri %1$s batérie</string>
   <string name="battery_saver_turn_on_automatically_title">Zapnúť automaticky</string>
   <string name="battery_settings">Batéria</string>
   <string name="battery_settings_title">Batéria</string>
@@ -530,7 +530,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_empty_list_user_restricted">Nemáte povolenie na zmenu nastavení Bluetooth.</string>
   <string name="bluetooth_enable">Povoliť bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena alebo symboly</string>
-  <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: %1$s Zadajte prístupový kľúč požadovaný zariadením:</string>
+  <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: Zadajte prístupový kľúč požadovaný zariadením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
   <string name="bluetooth_enter_pin_msg">Párovanie so zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
   <string name="bluetooth_enter_pin_msg_hs">Zariadenie vyžaduje 16 miestné heslo</string>
@@ -576,7 +576,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_pairing_key_msg">Párovací kód</string>
   <string name="bluetooth_pairing_pin_error_message">Nie je možné párovať so zariadením %1$s. Kód PIN alebo prístupový kľúč je nesprávny.</string>
   <string name="bluetooth_pairing_rejected_error_message">Párovanie odmietnuté zariadením %1$s.</string>
-  <string name="bluetooth_pairing_request">Požiadavka na párovanie zariadenia Bluetooth</string>
+  <string name="bluetooth_pairing_request">Párovať s %1$s?</string>
   <string name="bluetooth_pairing_shares_phonebook">Povoliť zariadeniu %1$s prístup k vašim kontaktom a histórii hovorov</string>
   <string name="bluetooth_pairing_will_share_phonebook">Párovaním udelíte zariadeniam po pripojení prístup k svojim kontaktom a histórii hovorov.</string>
   <string name="bluetooth_pan_nap_profile_summary_connected">Lokálne internetové pripojenie je zdieľané so zariadením</string>
@@ -2494,10 +2494,10 @@ Vyberte váš operačný systém:"</string>
   <string name="power_center">Výkon</string>
   <string name="power_charge_remaining">%1$s do nabitia</string>
   <string name="power_charging">%1$d %% – %2$s</string>
-  <string name="power_charging_duration">%1$d %% – úplné nabitie batérie o %2$s</string>
-  <string name="power_charging_duration_ac">%1$d %% – úplné nabitie z el. zásuvky o %2$s</string>
-  <string name="power_charging_duration_usb">%1$d %% – úplné nabitie pomocou kábla USB o %2$s</string>
-  <string name="power_charging_duration_wireless">%1$d %% – úplné bezdrôtové nabitie o %2$s</string>
+  <string name="power_charging_duration">%1$s - %2$s do plna</string>
+  <string name="power_charging_duration_ac">%1$s - %2$s do plna z nabíjačky</string>
+  <string name="power_charging_duration_usb">%1$s - %2$s do plna cez USB</string>
+  <string name="power_charging_duration_wireless">%1$s - %2$s do plna bezdrôtovo</string>
   <string name="power_discharge_remaining">Zostáva %1$s</string>
   <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
   <string name="power_flashlight">Svetlo</string>
@@ -2616,7 +2616,7 @@ Vyberte váš operačný systém:"</string>
   <string name="process_stats_run_time">Spustené</string>
   <string name="process_stats_summary">Podrobné štatistiky spustených procesov</string>
   <string name="process_stats_summary_title">Štatistiky procesov</string>
-  <string name="process_stats_total_duration">Aplikácie typu %1$s za obdobie %2$s</string>
+  <string name="process_stats_total_duration">%1$s z %2$s využité za posledných %3$s</string>
   <string name="process_stats_type_background">Pozadie</string>
   <string name="process_stats_type_cached">V pamäti</string>
   <string name="process_stats_type_foreground">Popredie</string>
@@ -3166,7 +3166,7 @@ Ako funkciu použiť:
   <string name="sim_editor_name">Názov SIM karty</string>
   <string name="sim_editor_num_format">Zobrazovať čísla</string>
   <string name="sim_editor_number">Číslo</string>
-  <string name="sim_editor_title">SIM karta</string>
+  <string name="sim_editor_title">SIM karta %1$d</string>
   <string name="sim_enable_disable_lock_not_supported">"Nie je možné zmeniť zámok SIM/RUIM.
  SIM/RUIM to nepodporuje."</string>
   <string name="sim_enable_sim_lock">Zamykať kartu SIM</string>

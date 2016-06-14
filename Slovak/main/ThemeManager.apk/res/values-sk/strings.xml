@@ -217,7 +217,7 @@
   <string name="resource_no_result">Nenašlo sa</string>
   <string name="resource_notification_default">Upozornenia</string>
   <string name="resource_on_trial">Skúšate: %1$s</string>
-  <string name="resource_online">Online %1$s</string>
+  <string name="resource_online">Online</string>
   <string name="resource_pack_confirm">Už ste zakúpili %1$d položiek, ale súčasná cena je stále výhodnejšia ako ich zakúpenie jednotlivo, pokračovať?</string>
   <string name="resource_pack_discount_info">O %1$s menej!</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná.</string>

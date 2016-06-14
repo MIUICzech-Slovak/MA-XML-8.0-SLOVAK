@@ -111,7 +111,7 @@ Please check tracking number"</string>
   <string name="mark_title_null_hint">Input should not be empty</string>
   <string name="menu_about_yellow_page">Čo je to</string>
   <string name="menu_add_black_list">Pridať na čiernu listinu</string>
-  <string name="menu_call_ip_number">Vytočiť IP hovor (vytočiť %s)</string>
+  <string name="menu_call_ip_number">Vytočiť IP hovor</string>
   <string name="menu_copy_text">Skopírovať</string>
   <string name="menu_correct_yellow_page">Upraviť</string>
   <string name="menu_delete_call_log">Vymazať zoznam hovorov</string>

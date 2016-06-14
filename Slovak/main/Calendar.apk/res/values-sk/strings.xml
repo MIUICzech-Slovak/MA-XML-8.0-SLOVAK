@@ -213,7 +213,6 @@
   <string name="monthly">Mesačne</string>
   <string name="monthly_on_day">Mesačne</string>
   <string name="monthly_on_day_count" formatted="false">Mesačne (vždy %1$s %2$s)</string>
-  <string name="more_string">Ešte %1$s...</string>
   <string name="movable_list_header_label">Popis</string>
   <string name="network_not_available">Nie je možné pripojiť sa k sieti</string>
   <string name="new_event_dialog_label">Nová udalosť</string>

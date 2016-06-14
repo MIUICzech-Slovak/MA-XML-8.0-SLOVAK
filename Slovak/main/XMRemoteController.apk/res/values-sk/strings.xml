@@ -250,7 +250,8 @@
   <string name="match_intro_power">Pustite keď sa zariadenie spustí</string>
   <string name="match_is_respond">Zariadenie reaguje?</string>
   <string name="match_main_tip2_frame">Pustite ak zariadenie zareaguje</string>
-  <string name="match_main_tip_frame">Zamerajte na zariadenie a stlačte tlačidlo</string>
+  <string name="match_main_tip_frame">Zamerajte ovládač na %1$s a stlačte tlačidlo.
+Pustite keď %1$s zareaguje</string>
   <string name="match_mibox_first">    Vyhľadať MiBox</string>
   <string name="match_mibox_sencond">    · Control your Mi TV with this device.</string>
   <string name="match_mibox_third">    · Pair other Mi devices automatically</string>
@@ -576,7 +577,7 @@ Skontrolujte aj SPAM."</string>
   <string name="study_room">Pracovňa</string>
   <string name="submit">Odoslať</string>
   <string name="submit_fail_retry">Odosielanie zlyhalo, skúste to znova.</string>
-  <string name="succeed_content">Po krokoch %1$s a %2$s, ste úspešne pridali zariadenie %3$s %4$s</string>
+  <string name="succeed_content">Pridané %3$s %4$s úspešne</string>
   <string name="succeed_finish">Dokončiť</string>
   <string name="succeed_title">Dokončiť</string>
   <string name="supporting_soon">Bude podporované</string>
