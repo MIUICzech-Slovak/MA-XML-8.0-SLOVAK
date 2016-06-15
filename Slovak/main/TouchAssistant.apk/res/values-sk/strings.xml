@@ -5,6 +5,7 @@
   <string name="applications">Aplikácie</string>
   <string name="category_others">Ostatné</string>
   <string name="category_setting">Nastavenia</string>
+  <string name="close_panel">Zatvoriť</string>
   <string name="customize_entries">Upraviť funkcie</string>
   <string name="enable_touch_assistant">Povoliť Dotykového Asistenta</string>
   <string name="function_settings">Nastavenie funkcií</string>
@@ -12,7 +13,8 @@
   <string name="hide_touch_assistant_intro">Skryť asistenta v niektorých aplikáciách.</string>
   <string name="name_alipay_payment_code">Alipay quick pay</string>
   <string name="name_alipay_scan">Alipay scan code</string>
-  <string name="name_kill_processes">Čistenie RAM</string>
+  <string name="name_long_press_power_key">Dlhé podržanie zapínania</string>
+  <string name="name_memory_clean">Vyčistiť cache</string>
   <string name="name_music_next_song">Ďalšia skladba</string>
   <string name="name_music_prev_song">Predchádzajúca skladba</string>
   <string name="name_music_toggle">Spustiť/Pozastaviť skladbu</string>
@@ -26,6 +28,7 @@
   <string name="name_screenshot">Screenshot</string>
   <string name="name_wechat_payment_code">Wechat quick pay</string>
   <string name="name_wechat_scan">Wechat scan code</string>
+  <string name="open_panel">Otvoriť</string>
   <string name="pay_entry_dialog_title_select">Vyberte aplikáciu</string>
   <string name="pay_entry_dialog_title_setting">Set app checked to enable</string>
   <string name="pref_category_others">Ostatné</string>
@@ -34,4 +37,5 @@
   <string name="pref_category_system">Nastavenia systému</string>
   <string name="restore_default">Obnoviť na predvolené</string>
   <string name="restore_intro">Obnoviť na predvolené nastavenia, čo zahrňuje funkcie a ostatné. Vaše dáta v telefóne nebudú vymazané.</string>
+  <string name="show_on_keyguard">Zobraziť na zamyk. obrazovke</string>
 </resources>
