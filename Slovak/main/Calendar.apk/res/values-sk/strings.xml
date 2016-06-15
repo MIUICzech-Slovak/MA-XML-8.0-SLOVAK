@@ -235,7 +235,7 @@
   <string name="preferences_general_title">Nastavenia zobrazenia kalendára</string>
   <string name="preferences_hide_declined_title">Skryť odmietnuté udalosti</string>
   <string name="preferences_history_events">Show history events</string>
-  <string name="preferences_holidays">Show holidays</string>
+  <string name="preferences_holidays">Zobraziť sviatky</string>
   <string name="preferences_home_tz_default">Europe/Prague</string>
   <string name="preferences_home_tz_title">Domovské č. pásmo</string>
   <string name="preferences_reminder_title">Nastavenia upozornení</string>
@@ -299,8 +299,8 @@
   <string name="select_visible_calendars_title">Kalendáre, ktoré sa majú zobraziť</string>
   <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
   <string name="settings_calendar">Kalendár</string>
-  <string name="setting_holiday">Holidays</string>
-  <string name="setting_others">Others</string>
+  <string name="setting_holiday">Sviatky</string>
+  <string name="setting_others">Ostatné</string>
   <string name="show_controls">Zobraziť ovládacie prvky</string>
   <string name="show_day_view">Zobraziť deň</string>
   <string name="show_newer_events">Dotykom zobrazíte udalosti po období %1$s</string>
