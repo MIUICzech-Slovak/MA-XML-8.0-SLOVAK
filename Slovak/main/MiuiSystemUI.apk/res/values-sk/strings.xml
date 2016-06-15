@@ -274,6 +274,10 @@ posunutím nadol uzamknete"</string>
   <string name="status_bar_recent_memory_info2"/>
   <string name="status_bar_recording_back">Stlačte pre návrat do Záznamníka</string>
   <string name="status_bar_recording_pause">"Nahrávanie bolo pozastavené. "</string>
+  <string name="status_bar_safepay_risk">Platobné prostredie je riskantné!</string>
+  <string name="status_bar_safepay_safe">Platobné prostredie je bezpečné.</string>
+  <string name="status_bar_safepay_scanning">Kontrola platobného prostredia...</string>
+  <string name="status_bar_safepay_unknown">Neoverené platobné prostredie.</string>
   <string name="status_bar_settings_airplane">Lietadlo</string>
   <string name="status_bar_settings_battery_meter_format">%d%%</string>
   <string name="status_bar_settings_signal_meter_disconnected">Žiadne pripojenie k internetu</string>

@@ -233,4 +233,32 @@
         <item quantity="other">Málo miesta na lokálnom úložisku. Čaká na zálohovanie: %1$d</item>
         <item quantity="one">Málo miesta na lokálnom úložisku. Čaká na zálohovanie: %1$d</item>
     </plurals>	
+     <plurals name="album_already_share_user_count">
+        <item quantity="other">Zdieľané %d ľuďom</item>
+        <item quantity="one">Zdieľané %d človeku</item>
+     </plurals>
+     <plurals name="picker_all_image_need_download">
+        <item quantity="other">Vybrané fotografie nie sú v zariadení, stiahnuť cez mobilné dáta?</item>
+        <item quantity="one">Vybrané fotografie nie sú v zariadení, stiahnuť cez mobilné dáta?</item>
+     </plurals>
+     <plurals name="picker_all_image_will_download">
+        <item quantity="other">Vybrané fotografie nie sú v zariadení, sťahovanie...</item>
+        <item quantity="one">Vybrané fotografie nie sú v zariadení, sťahovanie...</item>
+     </plurals>
+     <plurals name="picker_all_origin_need_download">
+        <item quantity="other">Vybrané fotografie nie sú v zariadení (%dMB), stiahnuť cez mobilné dáta?</item>
+        <item quantity="one">Vybrané fotografie nie sú v zariadení (%dMB), stiahnuť cez mobilné dáta?</item>
+     </plurals>
+     <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">Zrušiť sťahovanie %d fotografií?</item>
+        <item quantity="one">Zrušiť sťahovanie poslednej fotografie?</item>
+     </plurals>
+     <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">Sťahovanie %1$d fotografií zlyhalo, skúsiť znova?</item>
+        <item quantity="one">Sťahovanie fotografie zlyhalo, skúsiť znova?</item>
+     </plurals>
+     <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">Sťahovanie %1$d fotografií (%2$dMB) zlyhalo, skôsiť znova?</item>
+        <item quantity="one">Sťahovanie fotografie (%2$dMB) zlyhalo, skôsiť znova?</item>
+     </plurals>
 </resources>
