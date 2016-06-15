@@ -36,6 +36,8 @@
   <string name="notification_download_success_more">Stiahnuté: %1$d</string>
   <string name="notification_need_wifi_for_size">Vzhľadom na veľkosť preberaného súboru sa vyžaduje pripojenie Wi-Fi</string>
   <string name="notification_paused_in_background">Pozastavené na pozadí.</string>
+  <string name="notify_disabled_net_by_app">Internetové pripojenie bolo zakázané aplikáciou Optimalizácia</string>
+  <string name="notify_only_wifi_download">Čaká na Wi-Fi</string>
   <string name="paused_waiting_for_network">Čakanie na sieť</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikácii zobraziť a upravovať všetky preberania spustené ľubovoľnou aplikáciou v systéme.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikácii preberať súbory do vyrovnávacej pamäte preberania, ktorú nie je možné automaticky odstrániť, keď správca preberania potrebuje viac miesta.</string>
@@ -57,8 +59,6 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Použiť Xunlei sťahovanie?</string>
-  <string name="recommended_file_more_in_mobile" formatted="false">Stiahnutie týchto %s súborov (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
-  <string name="recommended_file_one_in_mobile">Stiahnutie tohto súború (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
   <string name="recommended_file_size_download_in_mobile">Stiahnuť tento súbor %s cez mobilné dáta?</string>
   <string name="recommended_no_file_size_download_in_mobile">Stiahnuť tento súbor cez mobilné dáta?</string>
   <string name="root_downloads">Stiahnuté</string>
