@@ -4,6 +4,7 @@
         <item>Po 1 minúte</item>
         <item>Po 5 minútach</item>
         <item>Po 10 minútach</item>
+        <item>Po 30 minútach</item>
         <item>Nikdy</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
@@ -116,6 +117,7 @@
         <item>Využitie 2G/3G</item>
         <item>Využitie Wi-Fi</item>
         <item>Celková spotreba dát</item>
+	<item>Mi Data plan</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Nastaviť automaticky</item>
