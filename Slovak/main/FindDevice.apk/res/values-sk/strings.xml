@@ -46,8 +46,6 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="stop_on_empty_captcha">Captcha nesmie byť prázdna</string>
   <string name="stop_on_empty_password">Heslo nesmie byť prázdne</string>
   <string name="time_correction_failure">Nie je možné upraviť čas (%s)</string>
-  <string name="time_correction_failure_network">Chyba siete</string>
-  <string name="time_correction_failure_no_ntp">NTP server je nedostupný</string>
   <string name="time_correction_success">Čas je pravený</string>
   <string name="unlock">Aktivovať</string>
   <string name="unlock_access_denied">Prístup zamietnutý</string>

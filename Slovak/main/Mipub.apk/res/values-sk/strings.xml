@@ -5,11 +5,11 @@
   <string name="add_contact">Pridať kontakt</string>
   <string name="add_festival">Sviatok</string>
   <string name="add_nickname">Prezývka</string>
-  <string name="add_picture">Pridať fotografiu</string>
   <string name="add_smiley">Pridať smajlíka</string>
   <string name="add_timing">Pridať časovanie</string>
   <string name="already_followed">Už sledujete túto osobu</string>
   <string name="attach_slideshow">Prezentácia</string>
+  <string name="attach_image">Obrázky</string>
   <string name="attach_sound">Zvuk</string>
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Odfotiť</string>
@@ -72,7 +72,6 @@
   <string name="festival_networking_desc">Táto funkcia vyžaduje pripojenie na internet.</string>
   <string name="festival_never_remind">Viac nezobrazovať</string>
   <string name="festival_sms_loading">Načítavanie...</string>
-  <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">"Vytvorené: "</string>
   <string name="file_size">"Veľkosť: "</string>
   <string name="file_title">"Názov: "</string>
@@ -101,6 +100,7 @@
   <string name="message_block_processing">Spracovávanie</string>
   <string name="message_block_reminder">Pripomienka</string>
   <string name="message_failed">Neúspešné</string>
+  <string name="message_list_all_read">Označiť všetko ako prečítané</string>
   <string name="message_pending">Odosielanie</string>
   <string name="message_readed">Prečítané</string>
   <string name="message_saved_as_draft">Správa bola uložená ako koncept.</string>

@@ -11,8 +11,6 @@
   <string name="address">Adresa</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
-  <string name="app_name_which_call">Apl: %s</string>
-  <string name="app_version_which_call">Verzia: %s</string>
   <string name="birthday">Narodeniny</string>
   <string name="check_phone_error_title">Synchr. nie je povolená</string>
   <string name="check_phone_io_error">Chyba siete.</string>
@@ -160,10 +158,6 @@
   <string name="friday_short">Pia</string>
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Web stránka je poskytovaná %1$s .</string>
-  <string name="label">MIUI SDK</string>
-  <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
-  <string name="loading">Načítavanie...</string>
-  <string name="mibi_license">MiCredit súhlas</string>
   <string name="midnight">AM</string>
   <string name="monday">Pondelok</string>
   <string name="monday_short">Pon</string>
@@ -220,7 +214,6 @@
   <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
   <string name="phone">Telefón</string>
   <string name="pm">PM</string>
-  <string name="policy_name">Oprávnenia: %s</string>
   <string name="privacy_policy">Ochranou súkromia</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
