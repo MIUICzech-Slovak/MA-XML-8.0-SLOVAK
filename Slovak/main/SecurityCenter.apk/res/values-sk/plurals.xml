@@ -130,43 +130,43 @@
         <item quantity="one">%d apl. obsahuje ohrozenie súkromia</item>
     </plurals>
      <plurals name="app_check_title_text">
-        <item quantity="other">%d items can be optimized</item>
-        <item quantity="one">%d item can be optimized</item>
+        <item quantity="other">%d položiek môže byť optimalizovaných</item>
+        <item quantity="one">%d položka môže byť optimalizovaná</item>
      </plurals>
      <plurals name="deep_clean_auto_memory_clean">
-        <item quantity="other">In %1$d minutes</item>
-        <item quantity="one">In %1$d min</item>
+        <item quantity="other">Za %1$d min</item>
+        <item quantity="one">Za %1$d min</item>
      </plurals>
      <plurals name="quick_optimize_issue_count">
-        <item quantity="other">%d battery issues</item>
-        <item quantity="one">%d battery issue</item>
+        <item quantity="other">%d problémov s batériou</item>
+        <item quantity="one">%d problémov s batériou</item>
      </plurals>
      <plurals name="quick_optimize_issue_found">
-        <item quantity="other">Found %d battery issues</item>
-        <item quantity="one">Found %d battery issue</item>
+        <item quantity="other">Nájdených %d problémov s batériou</item>
+        <item quantity="one">Nájdený %d problém s batériou</item>
      </plurals>
      <plurals name="quick_optimize_summary_text">
-        <item quantity="other">Resolved %d battery issues</item>
-        <item quantity="one">Resolved %d battery issue</item>
+        <item quantity="other">Vyriešených %d problémov s batériou</item>
+        <item quantity="one">Vyriešený %d problém s batériou</item>
      </plurals>
      <plurals name="search_app_count_txt_na">
         <item quantity="other">Search %d apps</item>
         <item quantity="one">Search %d app</item>
      </plurals>
      <plurals name="sp_back_title_text">
-        <item quantity="other">%s payment risks</item>
-        <item quantity="one">%s payment risk</item>
+        <item quantity="other">%s platobných rizík</item>
+        <item quantity="one">%s platobné riziko</item>
      </plurals>
      <plurals name="sp_monitored_apps_count">
-        <item quantity="other">%s payment apps are protected</item>
-        <item quantity="one">%s payment app is protected</item>
+        <item quantity="other">%s platobných apl je chránených</item>
+        <item quantity="one">%s platobná apl je chránená</item>
      </plurals>
      <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">%s apps are not protected</item>
-        <item quantity="one">%s app is not protected</item>
+        <item quantity="other">%s apl je nechránených</item>
+        <item quantity="one">%s apl je nechránená</item>
      </plurals>
      <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">%s apps are protected</item>
-        <item quantity="one">%s app is protected</item>
+        <item quantity="other">%s apl je chránených</item>
+        <item quantity="one">%s apl je chránená</item>
      </plurals>
 </resources>
