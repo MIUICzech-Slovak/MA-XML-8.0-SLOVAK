@@ -501,4 +501,16 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
+  <string name="settings_search_key_desktop_lyric">texty</string>
+  <string name="settings_search_key_download_quality">kvalita sťahovania</string>
+  <string name="settings_search_key_download_when_favorite">stiahnuť obľúbené</string>
+  <string name="settings_search_key_notification">upozornenia</string>
+  <string name="settings_search_key_vip_service">vip služby</string>
+  <string name="settings_search_path_advance">ďalšie nastavenia</string>
+  <string name="settings_search_path_normal"/>
+  <string name="settings_search_title_desktop_lyric"/>
+  <string name="settings_search_title_download_quality"/>
+  <string name="settings_search_title_download_when_favorite"/>
+  <string name="settings_search_title_notification"/>
+  <string name="settings_search_title_vip_service"/>  
 </resources>
