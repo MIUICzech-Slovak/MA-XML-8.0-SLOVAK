@@ -611,6 +611,7 @@
   <string name="slimming">Zmenšenie...</string>
   <string name="square">Štvorec</string>
   <string name="start_to_use_face_albumset">Album ľudí</string>
+  <string name="sticker">Nálepka</string>
   <string name="storage_no_space">"Nie je voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
   <string name="straighten_tooltip">Potiahni snímku pre jej vyrovnanie</string>
@@ -699,8 +700,8 @@
   <string name="video_editor_template_oldfilm">Vintage</string>
   <string name="video_editor_template_sports">Rock</string>
   <string name="video_editor_text">Text</string>
-  <string name="video_editor_text_edit_end">Poďakovanie</string>
-  <string name="video_editor_text_edit_input_end_hint">Zadajte poďakovanie</string>
+  <string name="video_editor_text_edit_end">Titulky</string>
+  <string name="video_editor_text_edit_input_end_hint">Zadajte titulok</string>
   <string name="video_editor_text_edit_input_hint">Dotykom upravíte</string>
   <string name="video_editor_text_edit_input_open_hint">Zadajte názov</string>
   <string name="video_editor_text_edit_start">Názov</string>

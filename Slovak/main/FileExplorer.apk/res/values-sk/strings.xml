@@ -605,7 +605,7 @@ Získali ste ďalších %1$s"</string>
   <string name="trans_task">Prenos po sieti</string>
   <string name="transfer_done">Súbory presunuté.</string>
   <string name="transfer_private_data">Presúvanie súkromných súborov z SD karty...</string>
-  <string name="transing">Prenos dát...</string>
+  <string name="transing">Prenos dát</string>
   <string name="trash_box_capacity">Kôš %1$s</string>
   <string name="trash_box_link">Prejdite na pan.xiaomi.com a vyprázdnite kôš</string>
   <string name="trash_box_message1">Môžete odstrániť zbytočné súbory a uvoľniť tak miesto</string>

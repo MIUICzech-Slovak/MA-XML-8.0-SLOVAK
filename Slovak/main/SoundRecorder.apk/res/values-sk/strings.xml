@@ -21,7 +21,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="delete">Vymazať</string>
   <string name="delete_dialog_message">Vymazať nahrávku?</string>
   <string name="deleting_message">Mazanie...</string>
-  <string name="details">Podrobnosti</string>
+  <string name="details">Detail</string>
   <string name="dialog_content_storage_full">Nie je dostatok miesta na úložisku. Záznam bol zastavený. Vymažte nepotrebné súbory.</string>
   <string name="dialog_title_storage_full">Nie je dostatok miesta.</string>
   <string name="duration_format_hour">%sh</string>

@@ -121,6 +121,7 @@
   <string name="callFailed_unobtainable_number">Neplatné číslo</string>
   <string name="callFailed_userBusy">Linka je obsadená</string>
   <string name="callUnanswered_forwarded">Hovor neprijatý a presmerovaný</string>
+  <string name="call_advanced_setting_title">Ďalšie nastavenia</string>
   <string name="call_barring_incoming">Presmerovanie prich. hovoru</string>
   <string name="call_barring_outgoing">Presmerovanie odch. hovoru</string>
   <string name="call_barring_sum">Nastavenie blokovania hlasových hovorov</string>
@@ -823,6 +824,8 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="preference_auto_ip_summary_disable">Deaktivované</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_category_ringtone">Zvonenie</string>
+  <string name="preference_data_usage_summary">Nastavte svoj limit mobilných dát</string>
+  <string name="preference_data_usage_title">Nastaviť limit dát</string>
   <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
   <string name="preference_dial_pad_touch_tone_title">Tóny číselníka</string>
