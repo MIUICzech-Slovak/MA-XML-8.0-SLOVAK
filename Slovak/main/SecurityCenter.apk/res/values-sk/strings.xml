@@ -1289,7 +1289,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="handle_bar_title_paysms">Správy</string>
      <string name="handle_bar_title_system">Systém</string>
      <string name="handle_bar_title_wifi">Wi-Fi</string>
-     <string name="hide_mode_app_background_setting_text">Šetrenie batérie</string>
+     <string name="hide_mode_app_background_setting_text">Aplikácie</string>
      <string name="hide_mode_summary_text">Spravovať aplikácie na pozadí pre šetrenie batérie</string>
      <string name="hide_mode_title_text">Šetrenie batérie</string>
      <string name="lockpattern_need_to_unlock">PotvrĎte uložený vzor</string>
@@ -1325,7 +1325,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="power_save_mode_enable">Šetrenie batérie</string>
      <string name="power_save_mode_end_time">Koniec</string>
      <string name="power_save_mode_ontime_enabled">Nastavte čas na prepnutie medzi režimami</string>
-     <string name="power_save_mode_start_time">Štart</string>
+     <string name="power_save_mode_start_time">Začiatok</string>
      <string name="power_save_mode_summary" formatted="false">Sledovať procesy na pozadí, zastaviť synchr. a minimalizovať animácie systému. Šetrenie batérie sa automaticky vypne ak je batéria nabitá na 60% alebo 100%.</string>
      <string name="power_save_on_time_end_time_summary_na">Do</string>
      <string name="power_save_on_time_start_time_summary_na">Od</string>
