@@ -1208,4 +1208,12 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+     <string name="accessibility_settings_activity_title">Dostupnosť</string>
+     <string name="additional_gsm_call_settings_with_label">Ďalšie nastavenia (%s)</string>
+     <string name="agree_provision">Pokračovať</string>
+     <string name="all_day">Celý deň</string>
+     <string name="antispam_setting">AntiSpam</string>
+     <string name="area_code_preference_be_set_summary">Súčasná poloha: %s</string>
+     <string name="ringtone_silent">Žiadne</string>
+     <string name="ringtone_unknown">Neznáme zvonenie</string>
 </resources>

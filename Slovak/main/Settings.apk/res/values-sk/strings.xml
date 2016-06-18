@@ -4591,4 +4591,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+     <string name="alarm_sound_dialog_title">Vyberte zvonenie budíku</string>
+     <string name="alarm_sound_title">Zvonenie budíku</string>
+     <string name="connecting_to_vpn">Pripájanie k VPN</string>
+     <string name="vpn_no_selected">Vyberte VPN</string>
+     <string name="vpn_off">Vyp</string>
+     <string name="vpn_on">Zap</string>
+     <string name="vpn_settings_summary">Chráňte nastavenia VPN heslom uzamknutia</string>
+     <string name="wifi_scan_notify_text">Pre zlepšenie presnosti polohy, systémové aplikácie a služby stále môžu skenovať Wi-Fi siete. Toto nastavenie môžete zmeniť v LINK_BEGINnastavení skenovaniaLINK_END.</string>
+     <string name="zen_mode_end_time_next_day_summary_format">%s ďalši deň</string>
 </resources>

@@ -88,4 +88,5 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
+     <string name="button_sure_abandon">Zrušiť zmeny?</string>
 </resources>

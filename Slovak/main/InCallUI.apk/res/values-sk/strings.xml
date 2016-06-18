@@ -172,7 +172,7 @@
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Konferencia</string>
   <string name="onscreen_audio_mode_handset">Hands-free</string>
-  <string name="onscreen_audio_mode_headset">Headphones</string>
+  <string name="onscreen_audio_mode_headset">Slúchadlá</string>
   <string name="onscreen_audio_mode_speaker">Reproduktor</string>
   <string name="onscreen_audio_switch_mode">Prepnúť zvuk</string>
   <string name="onscreen_call_record">Nahrať</string>
@@ -188,7 +188,6 @@
   <string name="pause_prompt_no">Nie</string>
   <string name="pause_prompt_yes">Áno</string>
   <string name="payphone">Verejný telefón</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">Načítavanie kontaktu...</string>
   <string name="private_num">Súkromné číslo</string>
   <string name="respond_via_sms_custom_message">Vlastná správa...</string>
@@ -206,4 +205,11 @@
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
+     <string name="incoming_circle_text_answer">Pustite pre prijatie</string>
+     <string name="incoming_circle_text_answer_p">Posuňte pre prijatie</string>
+     <string name="incoming_circle_text_message">Pustite pre SMS</string>
+     <string name="incoming_circle_text_message_p">Posuňte pre SMS</string>
+     <string name="incoming_circle_text_reject">Pustite pre odmietnutie</string>
+     <string name="incoming_circle_text_reject_p">Posuňte pre odmietnutie</string>
+     <string name="keep_wait_call_back">Stále čakať</string>
 </resources>

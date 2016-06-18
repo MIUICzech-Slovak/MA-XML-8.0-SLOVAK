@@ -1427,4 +1427,10 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="wifi_item_title_dns">Zabezpečenie DNS servera</string>
      <string name="wifi_item_title_encryption">Wi-Fi šifrovanie</string>
      <string name="wifi_item_title_fake">Detekcia falošnej Wi-Fi</string>  
+     <string name="button_text_uninstall_shortcut">Odstrániť odkaz z plochy</string>
+     <string name="empty_title_manual_item_white_list">Žiadne výnimky.</string>
+     <string name="empty_title_perm_apps">Žiadna aplikácia nemá toto povolenie.</string>
+     <string name="empty_title_permission_apps_list">Žiadne aplikácie.</string>
+     <string name="power_dialog_cancel">Zrušiť</string>
+     <string name="power_dialog_ok">OK</string>
 </resources>
