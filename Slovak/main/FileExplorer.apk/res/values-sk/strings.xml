@@ -141,8 +141,8 @@
   <string name="dir_not_support">Táto zložka nemôže byť súkromná.</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prázdna zložka</string>
-  <string name="disk_available">Dostupné</string>
-  <string name="disk_total">Celkovo</string>
+  <string name="disk_available">"Dostupné: "</string>
+  <string name="disk_total">"Celkovo: "</string>
   <string name="dlg_error_unmount_text">"Nie je možné odobrať USB úložisko. Skúste to znova."</string>
   <string name="download_failed">Sťahovanie zlyhalo!</string>
   <string name="download_link_completed">Zdieľam %1$s cez MiDrive. Kliknite na linku nižšie: </string>
@@ -494,12 +494,12 @@ and never miss the cool new ones!"</string>
   <string name="rlv_refreshing">Kontrola súborov...</string>
   <string name="rlv_release_to_refresh">Pustite pre obnovenie</string>
   <string name="save_to_local">Stiahnuť</string>
-  <string name="sd_card_available">Voľné miesto: %1$s</string>
+  <string name="sd_card_available">Dostupné: %1$s</string>
   <string name="sd_card_size">SD karta: %1$s</string>
   <string name="sd_full">SD karta je plná</string>
   <string name="sd_invalid">Chybná SD karta</string>
   <string name="sdcard">SD Karta</string>
-  <string name="sdcard_available">Dostupné %1$s</string>
+  <string name="sdcard_available">Dostupné: %1$s</string>
   <string name="sdcard_total">Celkovo %1$s</string>
   <string name="search_activity_hint">Zadajte slovo</string>
   <string name="search_app">Apl. a zložky</string>
