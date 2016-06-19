@@ -153,4 +153,44 @@
         <item quantity="few"> Stiahnutia</item>
         <item quantity="many"> Stiahnutia</item>
      </plurals>
+     <plurals name="ui_bar_txt_transport_progress">
+        <item quantity="other">Zostáva preniesť: %1$d</item>
+        <item quantity="zero">Zostáva preniesť: %1$d</item>
+        <item quantity="one">Zostáva preniesť: %1$d</item>
+        <item quantity="two">Zostáva preniesť: %1$d</item>
+        <item quantity="few">Zostáva preniesť: %1$d</item>
+        <item quantity="many">Zostáva preniesť: %1$d</item>
+     </plurals>
+     <plurals name="seconds">
+        <item quantity="other">%1$ds</item>
+        <item quantity="zero">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+        <item quantity="two">%1$ds</item>
+        <item quantity="few">%1$ds</item>
+        <item quantity="many">%1$ds</item>
+     </plurals>
+    <plurals name="mins">
+        <item quantity="other">%1$dmin</item>
+        <item quantity="zero">%1$dmin</item>
+        <item quantity="one">%1$dmin</item>
+        <item quantity="two">%1$dmin</item>
+        <item quantity="few">%1$dmin</item>
+        <item quantity="many">%1$dmin</item>
+     </plurals>
+     <plurals name="hours">
+        <item quantity="other">%1$dh</item>
+        <item quantity="zero">%1$dh</item>
+        <item quantity="one">%1$dh</item>
+        <item quantity="two">%1$dh</item>
+        <item quantity="few">%1$dh</item>
+        <item quantity="many">%1$dh</item>
+     </plurals>     
+     <plurals name="days">
+        <item quantity="other">%1$dd</item>
+        <item quantity="zero">%1$dd</item>
+        <item quantity="one">%1$dd</item>
+        <item quantity="two">%1$dd</item>
+        <item quantity="few">%1$dd</item>
+        <item quantity="many">%1$dd</item>
+     </plurals>
 </resources>
