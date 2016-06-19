@@ -863,8 +863,8 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="reach_daily_limit_value_title">Dosiahli ste váš denný limit dát</string>
   <string name="read_number">86 článkov</string>
   <string name="read_unit">" článkov"</string>
-  <string name="recently_reject_message">Zakázaná inštalácia %1$s a %2$d iných apl.</string>
-  <string name="recently_reject_message_one">Zakázaných %1$s inštalácií</string>
+  <string name="recently_reject_message">Blokovaná inštalácia %1$s a %2$d iných apl.</string>
+  <string name="recently_reject_message_one">Blokovaná inštalácia %1$s</string>
   <string name="recommend_app">Odporúčané aplikácie</string>
   <string name="reject_all">Zakázať všetky</string>
   <string name="reject_countdown">Zakázať (%d)</string>
