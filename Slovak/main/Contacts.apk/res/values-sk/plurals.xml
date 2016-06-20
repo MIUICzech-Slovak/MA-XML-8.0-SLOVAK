@@ -144,4 +144,8 @@
         <item quantity="other">Ostáva: %1$d</item>
         <item quantity="one">Ostáva: %1$d</item>
     </plurals>
+    <plurals name="hint_account_contacts">
+        <item quantity="other">Nájdených: %1$d</item>
+        <item quantity="one">Nájdených: 1</item>
+    </plurals>
 </resources>

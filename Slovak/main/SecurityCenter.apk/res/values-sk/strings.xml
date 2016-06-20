@@ -1433,4 +1433,6 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="empty_title_permission_apps_list">Žiadne aplikácie.</string>
      <string name="power_dialog_cancel">Zrušiť</string>
      <string name="power_dialog_ok">OK</string>
+  <string name="convenient_mode">Odblokovať všetky apl. súčasne</string>
+  <string name="convenient_summary">Nevyžadovať heslo ak je odomknutá 1 apl.</string>
 </resources>

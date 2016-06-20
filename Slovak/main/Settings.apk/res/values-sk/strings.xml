@@ -1354,9 +1354,9 @@ Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."<
   <string name="enforce_read_external_title">Chrániť USB úložisko</string>
   <string name="enhanced_4g_lte_mode_summary">Zlepšiť hovory a správy pomocou dátového pripojenia LTE (odporúčané)</string>
   <string name="enhanced_4g_lte_mode_title">Zlepšený režim 4G LTE</string>
-  <string name="enter_password">Ak chcete obsah úložiska dešifrovať, zadajte heslo.</string>
-  <string name="enter_pattern">Ak chcete spustiť Android, nakreslite vzor.</string>
-  <string name="enter_pin">Ak chcete spustiť Android, zadajte číslo PIN.</string>
+  <string name="enter_password">Zadajte heslo pre dešifrovanie zariadenia po reštarte.</string>
+  <string name="enter_pattern">Zadajte vzor pre dešifrovanie zariadenia po reštarte.</string>
+  <string name="enter_pin">Zadajte PIN pre dešifrovanie zariadenia po reštarte.</string>
   <string name="equalizer">Ekvalizér</string>
   <string name="erase_application">Vymazať aplikácie</string>
   <string name="erase_application_description">Vymaže všetky nainštalované aplikácie</string>

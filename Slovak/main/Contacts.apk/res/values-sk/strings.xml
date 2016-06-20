@@ -1216,4 +1216,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="callrecordview_menu_ip">Auto IP hovor</string>
+  <string name="editContactNameExpandCloseDescription">Zbaliť meno</string>
+  <string name="editContactNameExpandOpenDescription">Rozbaliť meno</string>
+  <string name="expandCloseViewDescription">Zbaliť</string>
+  <string name="expandOpenViewDescription">Rozbaliť</string>
+  <string name="menuMoreDescription">Viac</string>
 </resources>

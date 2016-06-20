@@ -88,5 +88,14 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
-     <string name="button_sure_abandon">Zrušiť zmeny?</string>
+  <string name="button_sure_abandon">Zrušiť zmeny?</string>
+  <string name="edit_alert_city_title">Spravovať varovania</string>
+  <string name="international_details_pressure_title">Tlak</string>
+  <string name="international_details_real_feel_title">Pocitovo</string>
+  <string name="international_details_title">Podrobnosti</string>
+  <string name="international_details_uv_index_title">UV Index</string>
+  <string name="international_details_wind_connect">%2$s %1$s</string>
+  <string name="international_details_wind_title">Vietor</string>
+  <string name="more_details">Podrobnosti</string>
+  <string name="weather_alert">Varovania</string>
 </resources>

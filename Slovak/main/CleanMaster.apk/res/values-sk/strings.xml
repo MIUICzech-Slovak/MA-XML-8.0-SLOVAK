@@ -391,4 +391,6 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="install_sucess">%s nainštalované</string>
+  <string name="open_app">Otvoriť</string>
 </resources>
