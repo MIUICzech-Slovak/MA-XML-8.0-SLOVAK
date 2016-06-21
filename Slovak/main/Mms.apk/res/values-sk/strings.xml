@@ -402,7 +402,7 @@
   <string name="pref_title_hide_festival">Skryť kartu Odporúčaných</string>
   <string name="pref_title_manage_sim_messages">Úložisko na SIM karte</string>
   <string name="pref_title_miui_card">Odoslať ako MIUI vizitku</string>
-  <string name="pref_title_mms_auto_retrieval">Načítať SMS správy automaticky</string>
+  <string name="pref_title_mms_auto_retrieval">Načítať MMS správy automaticky</string>
   <string name="pref_title_mms_delete">Limit MMS správ</string>
   <string name="pref_title_mms_read_reports">Potvrdenie o prečítaní</string>
   <string name="pref_title_mms_retrieval_during_roaming">Načítať MMS pri roamingu</string>
