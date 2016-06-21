@@ -179,14 +179,12 @@
   <string name="contextmenu_webpage_snapshot">Uložiť stránku</string>
   <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
   <string name="copy_url">kopírovať</string>
-  <string name="create_qr_code">qr kód</string>
+  <string name="create_qr_code">QR kód</string>
   <string name="current_version_pad">Tablet</string>
   <string name="current_version_pc">PC</string>
   <string name="current_version_phone">Telefón</string>
-  <string name="custom_head_card_text">"Always believe that something wonderful
-is about to happen"</string>
-  <string name="custom_head_card_text_incognito">"Only God and you know that
-privacy window​"</string>
+  <string name="custom_head_card_text">" "</string>
+  <string name="custom_head_card_text_incognito">" ​"</string>
   <string name="data_traffic_prompt_change">Prehrávanie videí na mobilnom pripojení môže výrazne navýšiť vaše poplatky.</string>
   <string name="data_traffic_prompt_message">Prehliadanie web stránok na mobilnom pripojení môže výrazne navýšiť vaše poplatky.</string>
   <string name="data_traffic_prompt_title">Spotreba dát</string>
