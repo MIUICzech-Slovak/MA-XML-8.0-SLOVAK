@@ -1221,4 +1221,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="expandCloseViewDescription">Zbaliť</string>
   <string name="expandOpenViewDescription">Rozbaliť</string>
   <string name="menuMoreDescription">Viac</string>
+  <string name="force_touch_miprofile">Karta kontaktu</string>
+  <string name="force_touch_new_contact">Nový kontakt</string>
 </resources>
