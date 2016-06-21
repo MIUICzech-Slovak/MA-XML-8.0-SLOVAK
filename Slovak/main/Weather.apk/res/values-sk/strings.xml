@@ -98,4 +98,5 @@ Zadajte vaše mesto manuálne"</string>
   <string name="international_details_wind_title">Vietor</string>
   <string name="more_details">Podrobnosti</string>
   <string name="weather_alert">Varovania</string>
+  <string name="pressure_connect">%1$s hPa</string>
 </resources>
