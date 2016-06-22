@@ -208,4 +208,5 @@ Môžete ich aj znova stiahnúť."</string>
   <string name="xspace_uninstall_dialog_content">Odinštalovanie klonovanej aplikácie vymaže všetky jej dáta.</string>
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
+  <string name="remove_second_space_msg">Všetky dáta profilu budú vymazané bez možnosti ich obnovenia. Chcete pokračovať?</string>
 </resources>

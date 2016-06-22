@@ -1216,4 +1216,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
      <string name="area_code_preference_be_set_summary">Súčasná poloha: %s</string>
      <string name="ringtone_silent">Žiadne</string>
      <string name="ringtone_unknown">Neznáme zvonenie</string>
+  <string name="simFdnContacts_empty">Žiadne fixné kontakty.</string>
 </resources>

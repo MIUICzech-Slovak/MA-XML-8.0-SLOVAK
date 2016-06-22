@@ -138,7 +138,6 @@
   <string name="unknown_source">Neznámy zdroj</string>
   <string name="welcome_note_for_cm">"A oveľa viac!
   - Synchr. s MiCloud
-  - Uložiť pri ukončení
   - Nastaviť upozornenia
 
 Pre viac informácií navštívte
@@ -147,4 +146,5 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
+  <string name="recover_notes_hint">Boli zistené chyby poznámok， skúste ich obnoviť na i.mi.com</string>  
 </resources>

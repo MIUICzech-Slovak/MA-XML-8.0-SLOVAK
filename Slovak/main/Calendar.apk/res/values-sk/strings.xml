@@ -380,4 +380,7 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="holiday_card_title">Sviatky</string>
+  <string name="preferences_alerts_vibrate_title">Vibrácie a zvonenie</string>
+  <string name="preferences_notification_ringtone_title">Zvuk</string>
 </resources>

@@ -1223,4 +1223,21 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="menuMoreDescription">Viac</string>
   <string name="force_touch_miprofile">Karta kontaktu</string>
   <string name="force_touch_new_contact">Nový kontakt</string>
+  <string name="callrecordview_menu_save_to_group">Uložiť históriu hovorov do skupiny</string>
+  <string name="group_copy_fail_toast">Nebolo možné skopírovať kontakty</string>
+  <string name="group_move_fail_toast">Nebolo možné presunúť kontakty</string>
+  <string name="group_remove_success_toast">Kontakty presunuté</string>
+  <string name="invalid_contacts_excluded_to_save_to_group">Iba položky s kontaktami budú uložené do skupiny</string>
+  <string name="invalid_contacts_to_save_to_group">Nie je možné uložiť neznáme čísla</string>
+  <string name="menu_bar_group_batch_copy">Kopírovať do skupiny</string>
+  <string name="menu_bar_group_batch_edit">Viacero kontaktov</string>
+  <string name="menu_bar_group_batch_move">Presunúť do skupiny</string>
+  <string name="menu_bar_group_batch_remove">Vymazať skupinu</string>
+  <string name="photo_labels_group">Profilová fotografia</string>
+  <string name="public_account_name">Verejný profil</string>
+  <string name="vcard_info_send_error">Nie je možné odoslať kvôli chybe vCard</string>
+  <string name="qrcode_detail_menu_edit">Upraviť QR kód</string>
+  <string name="qrcode_detail_menu_scan">Načítať</string>
+  <string name="qrcode_editor_flash">Aktualizovaný QR kód</string>
+  <string name="qrcode_editor_flash_failed">Nebolo možné aktualizovať QR kód</string>
 </resources>

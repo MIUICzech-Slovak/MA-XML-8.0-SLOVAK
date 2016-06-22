@@ -1435,4 +1435,7 @@ Remaining data includes data that has been rolled over from the previous month."
      <string name="power_dialog_ok">OK</string>
   <string name="convenient_mode">Odblokovať všetky apl. súčasne</string>
   <string name="convenient_summary">Nevyžadovať heslo ak je odomknutá 1 apl.</string>
+  <string name="button_text_deny">Odmietnuť</string>
+  <string name="notification_charging_title">Nabíjanie</string>
+  <string name="wakepath_confirm_start_activity">Povoliť %1$s otvoriť %2$s?</string>  
 </resources>

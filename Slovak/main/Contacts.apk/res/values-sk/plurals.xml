@@ -148,4 +148,10 @@
         <item quantity="other">Nájdených: %1$d</item>
         <item quantity="one">Nájdených: 1</item>
     </plurals>
+    <plurals name="group_move_success_toast">
+        <item quantity="other">Presunutých kontaktov: %1$d</item>
+    </plurals>
+    <plurals name="group_copy_success_toast">
+        <item quantity="other">Skopírovaných kontaktov: %1$d</item>
+    </plurals>	
 </resources>
