@@ -513,4 +513,6 @@
   <string name="settings_search_title_download_when_favorite"/>
   <string name="settings_search_title_notification"/>
   <string name="settings_search_title_vip_service"/>  
+  <string name="local_music_empty">Lokálny playlist je prázdny</string>
+  <string name="local_music_empty_goto_online">Žiadne skladby</string>  
 </resources>
