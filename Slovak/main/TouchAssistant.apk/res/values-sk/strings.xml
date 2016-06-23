@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Dotykový Asistent</string>
+  <string name="app_name">Dotykový asistent</string>
   <string name="app_not_installed">Nie je nainštalovaný</string>
   <string name="applications">Aplikácie</string>
   <string name="category_others">Ostatné</string>
