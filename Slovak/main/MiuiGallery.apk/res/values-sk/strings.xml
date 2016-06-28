@@ -693,7 +693,6 @@
   <string name="video_editor_more">Viac</string>
   <string name="video_editor_not_support_tips">Žiaden video súbor nie je podporovaný</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_res_not_load_dialog_msg">Pre použitie je nutné stiahnuť doplnkový balíček</string>
   <string name="video_editor_res_not_load_dialog_title">Nutné stiahnutie</string>
   <string name="video_editor_template_family">Rodina</string>
   <string name="video_editor_template_forbidden_tips">Nie je to možné vykonať ak sa používa predloha</string>
