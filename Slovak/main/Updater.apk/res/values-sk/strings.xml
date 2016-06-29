@@ -255,4 +255,7 @@ Nie je možné odoslať váš názor"</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 7</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
+  <string name="dialog_reboot_message">Bude prebiehať aktualizácia MIUI. Tento proces môže trvať 5-20 minút. Nevypínajte a nereštartujte vaše zariadenie počas procesu aktualizácie!</string>
+  <string name="dialog_reboot_title">Aktualizácia systému</string>
+  <string name="dialog_reboot_yes">Aktualizovať</string>  
 </resources>

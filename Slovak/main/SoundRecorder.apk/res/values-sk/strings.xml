@@ -136,4 +136,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="record_list_category_title_format">MMM yyyy</string>  
+  <string name="runtime_permission_ungranted">Nie je možné použiť Záznamník lebo nemá potrebné povolenia</string>
 </resources>
