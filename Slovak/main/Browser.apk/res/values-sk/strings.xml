@@ -61,6 +61,8 @@
   <string name="add_ql_bm_title">Uložiť</string>
   <string name="add_quicklink_to_popular">Pridať na Úvodnú stránku</string>
   <string name="add_quicklinks">Pridať</string>
+  <string name="add_shortcut">Pridať odkaz</string>
+  <string name="add_shortcut_success">Odkaz pridaný</string>
   <string name="add_to_bookmark">Záložka</string>
   <string name="add_to_desk">Pridať na plochu</string>
   <string name="add_to_desk_success">Pridané na plochu</string>
@@ -611,6 +613,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="save_password_never">Nikdy</string>
   <string name="save_password_notnow">Neskôr</string>
   <string name="save_password_remember">Zapamätať</string>
+  <string name="save_to">Uložiť na</string>
   <string name="save_to_camera">Uložiť do galérie</string>
   <string name="save_to_camera_failed">ukladanie zlyhalo</string>
   <string name="save_to_camera_success">uložené</string>
@@ -645,6 +648,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="select_download_device">Vyberte zariadenie</string>
   <string name="send_comment_button">Odoslať</string>
   <string name="send_comment_title">Komentár</string>
+  <string name="senddesktop">Plochu</string>
+  <string name="sendstartpage">Úvodnú stránku</string>
   <string name="share_page_text">【%1$s】| %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
   <string name="show_security_tip_dialog_title">Podmienky používania</string>
@@ -784,9 +789,4 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="add_shortcut">Pridať odkaz</string>
-  <string name="add_shortcut_success">Odkaz pridaný</string>
-  <string name="save_to">Uložiť na</string>
-  <string name="senddesktop">Plochu</string>
-  <string name="sendstartpage">Úvodnú stránku</string>
 </resources>

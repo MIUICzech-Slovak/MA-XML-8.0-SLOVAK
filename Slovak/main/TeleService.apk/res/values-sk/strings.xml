@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakt na SIM karte</string>
+  <string name="accessibility_settings_activity_title">Dostupnosť</string>
   <string name="active_phone_fail_nochoice">Nebolo možné overiť SIM kartu</string>
   <string name="active_phone_fail_toast">Nebolo možné overiť SIM kartu %1$s</string>
   <string name="active_phone_sim_absent">Vložte SIM kartu</string>
@@ -16,6 +17,7 @@
   <string name="adding_fdn_contact">Pridávanie povoleného telefónneho čísla...</string>
   <string name="additional_cdma_call_settings">Ďalšie CDMA nastavenia</string>
   <string name="additional_gsm_call_settings">Ďalšie nastavenia</string>
+  <string name="additional_gsm_call_settings_with_label">Ďalšie nastavenia (%s)</string>
   <string name="administrative_disable">Administratívne zakázané</string>
   <string name="administrative_enable">Administratívne povolené</string>
   <string name="advanced_settings">Pokročilé nastavenia</string>
@@ -24,6 +26,7 @@
   <string name="advanced_settings_show">▷ Stlačiť pre zobrazenie všetkého</string>
   <string name="advertisements_disable">Reklamy zakázané</string>
   <string name="advertisements_enable">Reklamy povolené</string>
+  <string name="agree_provision">Pokračovať</string>
   <string name="alert_dialog_close">Zavrieť profil</string>
   <string name="alert_dialog_dismiss">Zavrieť</string>
   <string name="alert_dialog_in_ecm_call">Počas núdzového hovoru nie je vybraná akcia k dispozícii</string>
@@ -33,13 +36,16 @@
   <string name="alertdialogtitle">Výsledok...</string>
   <string name="allContactdeleteFailed">Odstránenie všetkých kontaktov zo SIM karty zlyhalo!</string>
   <string name="allContactdeleteSuccess">Všetky kontakty na SIM karte boli odstránené</string>
+  <string name="all_day">Celý deň</string>
   <string name="always_enable_mms">Vždy prijímať MMS</string>
   <string name="always_enable_mms_summary">MMS prijmete vždy, aj keď sú dátové prenosy zakázané</string>
   <string name="answer_features_setting_category">Nastavenie prijatia</string>
   <string name="answer_state_setting_summary">Nastavenie stíšenia otočením, senzor priblíženia atď.</string>
   <string name="answer_state_setting_title">Prichádzajúci hovor</string>
   <string name="antispam_notification_title">Neznáme číslo</string>
+  <string name="antispam_setting">AntiSpam</string>
   <string name="apn_settings">Prístupové body (APN)</string>
+  <string name="area_code_preference_be_set_summary">Súčasná poloha: %s</string>
   <string name="area_code_preference_summary">Auto dial area code</string>
   <string name="areacode_set_default">Default</string>
   <string name="atr_disable">Oblastné náhľady dopravy zakázané</string>
@@ -977,7 +983,9 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="reverting_settings">Prebieha obnovenie predchádzajúcich nastavení...</string>
   <string name="rhrpd_unlock_failed">UIM Hrpd unlock request unsuccessful.</string>
   <string name="rhrpd_unlock_success">RUIM Hrpd unlock successful.</string>
+  <string name="ringtone_silent">Žiadne</string>
   <string name="ringtone_title">Zvonenie telefónu</string>
+  <string name="ringtone_unknown">Neznáme zvonenie</string>
   <string name="rnw1_unlock_failed">UIM Network1 unlock request unsuccessful.</string>
   <string name="rnw1_unlock_success">RUIM Network1 unlock successful.</string>
   <string name="rnw2_unlock_failed">UIM Network2 unlock request unsuccessful.</string>
@@ -1016,6 +1024,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="simContacts_empty">Na karte SIM nie sú žiadne kontakty.</string>
   <string name="simContacts_emptyLoading">Čítanie z karty SIM...</string>
   <string name="simContacts_title">Správa kontaktov na SIM karte</string>
+  <string name="simFdnContacts_empty">Žiadne fixné kontakty.</string>
   <string name="sim_absent">Chýba</string>
   <string name="sim_card_activate">Overenie SIM</string>
   <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
@@ -1208,13 +1217,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-     <string name="accessibility_settings_activity_title">Dostupnosť</string>
-     <string name="additional_gsm_call_settings_with_label">Ďalšie nastavenia (%s)</string>
-     <string name="agree_provision">Pokračovať</string>
-     <string name="all_day">Celý deň</string>
-     <string name="antispam_setting">AntiSpam</string>
-     <string name="area_code_preference_be_set_summary">Súčasná poloha: %s</string>
-     <string name="ringtone_silent">Žiadne</string>
-     <string name="ringtone_unknown">Neznáme zvonenie</string>
-  <string name="simFdnContacts_empty">Žiadne fixné kontakty.</string>
 </resources>

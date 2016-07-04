@@ -27,6 +27,7 @@
   <string name="button_confirm">Povoliť</string>
   <string name="button_exit">Ukončiť</string>
   <string name="button_not_allow">Zrušiť</string>
+  <string name="button_sure_abandon">Zrušiť zmeny?</string>
   <string name="close">Zatvoriť</string>
   <string name="daily_forcast_drawer_on_bottom">Skryť</string>
   <string name="daily_forcast_drawer_on_top">%1$s-dňová predpoveď</string>
@@ -35,6 +36,7 @@
   <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>
   <string name="daily_forcast_whirl_wind">Víchrica</string>
   <string name="daily_forecast_detail_date">d.M.</string>
+  <string name="edit_alert_city_title">Spravovať varovania</string>
   <string name="edit_city">Upraviť</string>
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Pre načítanie informácií o počasí a polohe je nutné internetové pripojenie.</string>
@@ -60,16 +62,24 @@
   <string name="information_manager_wlan">Načítať len na Wi-Fi</string>
   <string name="install">Inštalovať</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
+  <string name="international_details_pressure_title">Tlak</string>
+  <string name="international_details_real_feel_title">"Pocitovo "</string>
+  <string name="international_details_title">Podrobnosti</string>
+  <string name="international_details_uv_index_title">UV Index</string>
+  <string name="international_details_wind_connect">%2$s %1$s</string>
+  <string name="international_details_wind_title">Vietor</string>
   <string name="locate_fail_detail_err">"Nie je možné nájsť vašu polohu.
 Zadajte vaše mesto manuálne"</string>
   <string name="location_management">Mestá</string>
   <string name="location_tag">Lokalizovať</string>
   <string name="menu_add_city">Pridať alebo vymazať mesto</string>
   <string name="menu_location">Mestá</string>
+  <string name="more_details">Podrobnosti</string>
   <string name="network_not_available">Nebolo možné sa pripojiť k sieti</string>
   <string name="network_unavailable">Žiadna sieť</string>
   <string name="no_network_btn">Skúsiť znova</string>
   <string name="open_browser">Otvoriť v Prehliadačí</string>
+  <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkosť</string>
   <string name="realtime_wind_default_title">Vietor</string>
   <string name="share">Zdieľať</string>
@@ -88,15 +98,5 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
-  <string name="button_sure_abandon">Zrušiť zmeny?</string>
-  <string name="edit_alert_city_title">Spravovať varovania</string>
-  <string name="international_details_pressure_title">Tlak</string>
-  <string name="international_details_real_feel_title">"Pocitovo "</string>
-  <string name="international_details_title">Podrobnosti</string>
-  <string name="international_details_uv_index_title">UV Index</string>
-  <string name="international_details_wind_connect">%2$s %1$s</string>
-  <string name="international_details_wind_title">Vietor</string>
-  <string name="more_details">Podrobnosti</string>
   <string name="weather_alert">Varovania</string>
-  <string name="pressure_connect">%1$s hPa</string>
 </resources>

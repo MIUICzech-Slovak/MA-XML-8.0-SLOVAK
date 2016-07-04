@@ -20,6 +20,7 @@
   <string name="accessibility_data_three_bars">Dáta tri čiarky.</string>
   <string name="accessibility_data_two_bars">Dáta dve čiarky.</string>
   <string name="accessibility_home">Domov</string>
+  <string name="accessibility_ime_switch_button">Zmena metódy vstupu.</string>
   <string name="accessibility_managed_profile">Pracovný profil</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Žiadne dátové pripojenie.</string>
@@ -340,5 +341,4 @@ posunutím nadol uzamknete"</string>
   <string name="wifi_remembered">Uložené</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="accessibility_ime_switch_button">Zmena metódy vstupu.</string>
 </resources>

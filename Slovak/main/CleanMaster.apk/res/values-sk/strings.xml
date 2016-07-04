@@ -220,6 +220,7 @@
   <string name="hot">Populárne</string>
   <string name="hot_today">Dnes populárne</string>
   <string name="information_setting">Nastavenie noviniek</string>
+  <string name="install_sucess">%s nainštalované</string>
   <string name="installed">Nainštalované</string>
   <string name="installing">Inštaluje sa</string>
   <string name="item_title_process_mode">Vyberte akciu</string>
@@ -257,6 +258,7 @@
   <string name="notify_when">Zobraziť upozornenie ak nepotrebné súbory dosiahnú 100MB</string>
   <string name="ok">OK</string>
   <string name="open">Povoliť</string>
+  <string name="open_app">Otvoriť</string>
   <string name="open_browser">Otvoriť v Prehliadači</string>
   <string name="optimizecenter_data_support_cm">Poskytuje Clean Master</string>
   <string name="optimizecenter_data_support_tc">Poskytuje Tencent</string>
@@ -382,6 +384,7 @@
   <string name="total_clean_text">Vyčistené</string>
   <string name="traffic_top">TOP 5 apl. s najväčšou spotrebou dát</string>
   <string name="unlike">Nie</string>
+  <string name="update_date_format">dd-MMM-yyyy</string>
   <string name="virus_scan">Antivírus</string>
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Inštalačné apk: %d</string>
@@ -391,7 +394,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="install_sucess">%s nainštalované</string>
-  <string name="open_app">Otvoriť</string>
-  <string name="update_date_format">dd-MMM-yyyy</string>
 </resources>

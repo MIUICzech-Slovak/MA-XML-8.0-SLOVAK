@@ -78,6 +78,7 @@
   <string name="conference_call_single_description" formatted="false">%s atď. celkom %s</string>
   <string name="conference_caller_info_name">"%1$s konferenčný hovor</string>
   <string name="conference_caller_name_me">Ja</string>
+  <string name="conference_callers_exceeded">Dosiahnutý max. počet účastníkov</string>
   <string name="contactPhoto">Obrázok kontaktu</string>
   <string name="contacts_icon_label">Kontakty</string>
   <string name="default_area_code_setting">Predovlená predvoľba</string>
@@ -120,6 +121,12 @@
   <string name="incall_error_supp_service_unknown">Nepodporovaná služba.</string>
   <string name="incoming_answer_voice_text">Odpovedať hlasom</string>
   <string name="incoming_call_forwarded_title">Presmerovaný prichádzajúci hovor</string>
+  <string name="incoming_circle_text_answer">Pustite</string>
+  <string name="incoming_circle_text_answer_p">Potiahnite</string>
+  <string name="incoming_circle_text_message">Pustite</string>
+  <string name="incoming_circle_text_message_p">Potiahnite</string>
+  <string name="incoming_circle_text_reject">Pustite</string>
+  <string name="incoming_circle_text_reject_p">Potiahnite</string>
   <string name="ivr_menu_dialing_msg">Presmerovanie…</string>
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Stlačte %s</string>
@@ -128,6 +135,7 @@
   <string name="jeejen_end_call_text">Ukončiť hovor</string>
   <string name="jeejen_reject_call_text">Odmietnuť</string>
   <string name="jeejen_toggle_dialpad_text">Číselník</string>
+  <string name="keep_wait_call_back">Stále čakať</string>
   <string name="livetalk_left_minute">Ostáva %smin</string>
   <string name="manageConferenceLabel">Upraviť konferenčné hovory</string>
   <string name="miprofile_stranger_card">Stranger card</string>
@@ -205,12 +213,4 @@
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
-  <string name="incoming_circle_text_answer">Pustite</string>
-  <string name="incoming_circle_text_answer_p">Potiahnite</string>
-  <string name="incoming_circle_text_message">Pustite</string>
-  <string name="incoming_circle_text_message_p">Potiahnite</string>
-  <string name="incoming_circle_text_reject">Pustite</string>
-  <string name="incoming_circle_text_reject_p">Potiahnite</string>
-  <string name="keep_wait_call_back">Stále čakať</string>
-  <string name="conference_callers_exceeded">Dosiahnutý max. počet účastníkov</string>
 </resources>

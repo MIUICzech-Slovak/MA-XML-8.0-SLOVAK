@@ -398,6 +398,10 @@
   <string name="login_and_enable_service">Prihláste sa a používajte MiCloud</string>
   <string name="lomoish">Lomo</string>
   <string name="long_press_to_refocus">Držte pre preostrenie</string>
+  <string name="main_discard_confirm_message">Efekty nie sú uložené. Uložiť?</string>
+  <string name="main_discard_negative_btn">Zrušiť</string>
+  <string name="main_discard_positive_btn">Uložiť a ukončiť</string>
+  <string name="main_save_error_msg">Pri ukladaní efektov nastala chyba</string>
   <string name="megabyteShort">MB</string>
   <string name="menu_album_new_album">Nový album</string>
   <string name="menu_item_sort_date">Dátum</string>
@@ -544,6 +548,7 @@
   <string name="rename_face_album">Zmeniť meno</string>
   <string name="rename_fail_msg">Zlyhalo</string>
   <string name="rename_from_contact">Meno z kontaktov</string>
+  <string name="renren_description"/>
   <string name="request_qr_code_failed">Vytváranie QR kódu zlyhalo, skúste to znova</string>
   <string name="request_sms_url_failed">Vytváranie URL pre zdieľanie cez SMS zlyhalo</string>
   <string name="request_sms_url_msg">Vytváranie URL pre zdieľanie cez SMS...</string>
@@ -552,6 +557,7 @@
   <string name="retry_to_create_album">Znova</string>
   <string name="retry_to_request_qr_code">Znova</string>
   <string name="return_from_clear_local_file_fragment_toast">Optimalizované fotografie sú uložené v zariadení. Dotykom na fotografiu stiahnete jej originál z MiCloud.</string>
+  <string name="revert">Naspäť</string>
   <string name="rise">Teplé</string>
   <string name="rotate">Otočiť</string>
   <string name="rotate_tooltip">Potiahnuť snímku pre jej otočenie</string>
@@ -615,6 +621,9 @@
   <string name="storage_no_space">"Nie je voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
   <string name="straighten_tooltip">Potiahni snímku pre jej vyrovnanie</string>
+  <string name="sub_discard_confirm_message">Uložiť úpravy?</string>
+  <string name="sub_discard_negative_btn">Zrušiť</string>
+  <string name="sub_discard_positive_btn">Uložiť</string>
   <string name="success_create_quick_icon_on_desk">Vytvorené</string>
   <string name="sync_album_in_proecess">Album sa synchronizuje so serverom. Čakajte prosím...</string>
   <string name="sync_battery_low">Slabá batéria</string>
@@ -693,6 +702,10 @@
   <string name="video_editor_more">Viac</string>
   <string name="video_editor_not_support_tips">Žiaden video súbor nie je podporovaný</string>
   <string name="video_editor_ok">OK</string>
+  <string name="video_editor_res_download_failed_tips">Nebolo možné stiahnuť. Skontrolujte nasatvenie siete</string>
+  <string name="video_editor_res_download_mobil_network_confirm_msg">Stiahnuť hudbu cez mobilné dáta?</string>
+  <string name="video_editor_res_download_mobil_network_confirm_title">Využitie mobilných dát</string>
+  <string name="video_editor_res_not_load_dialog_msg">Stiahnuť hudbu cez mobilné dáta (viac ako 20MB).</string>
   <string name="video_editor_res_not_load_dialog_title">Nutné stiahnutie</string>
   <string name="video_editor_template_family">Rodina</string>
   <string name="video_editor_template_forbidden_tips">Nie je to možné vykonať ak sa používa predloha</string>
@@ -722,17 +735,4 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
-  <string name="revert">Naspäť</string>
-  <string name="main_discard_confirm_message">Efekty nie sú uložené. Uložiť?</string>
-  <string name="main_discard_negative_btn">Zrušiť</string>
-  <string name="main_discard_positive_btn">Uložiť a ukončiť</string>
-  <string name="main_save_error_msg">Pri ukladaní efektov nastala chyba</string>
-  <string name="renren_description"/>
-  <string name="sub_discard_confirm_message">Uložiť úpravy?</string>
-  <string name="sub_discard_negative_btn">Zrušiť</string>
-  <string name="sub_discard_positive_btn">Uložiť</string>
-  <string name="video_editor_res_download_failed_tips">Nebolo možné stiahnuť. Skontrolujte nasatvenie siete</string>
-  <string name="video_editor_res_download_mobil_network_confirm_msg">Stiahnuť hudbu cez mobilné dáta?</string>
-  <string name="video_editor_res_download_mobil_network_confirm_title">Využitie mobilných dát</string>
-  <string name="video_editor_res_not_load_dialog_msg">Stiahnuť hudbu cez mobilné dáta (viac ako 20MB).</string>
 </resources>

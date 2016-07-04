@@ -216,8 +216,8 @@
   <string name="homepage_tab_recent">Nedávne</string>
   <string name="if_cancel">Zrušiť túto opráciu?</string>
   <string name="image_loading_error">Nebolo možné načítať obrázok</string>
-  <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
   <string name="installing">Inštalácia...</string>
+  <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
   <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
   <string name="just_now">Teraz</string>
   <string name="kilobyteShort">KB</string>
@@ -570,6 +570,7 @@ Získali ste ďalších %1$s"</string>
   <string name="stay_awake_summary">Zabrániť spánku počas FTP prenosu</string>
   <string name="stay_awake_title">Zabrániť spánku</string>
   <string name="stop_server">Ukončiť FTP</string>
+  <string name="storage_cloned_app">Úložisko pre klonované apl.</string>
   <string name="storage_info">Dostupné: %1$s</string>
   <string name="storage_info_detail">Dostupné: %1$s | Celkom: %2$s</string>
   <string name="storage_internal">Interné úložisko</string>
@@ -594,6 +595,7 @@ Získali ste ďalších %1$s"</string>
   <string name="tab_storage">Úložisko</string>
   <string name="tag_weixin_video">Malé videá</string>
   <string name="terabyteShort">TB</string>
+  <string name="title_album">Albumy</string>
   <string name="title_app_tags">Aplikácie</string>
   <string name="title_enable_documentsui">Povoľte Dokumenty</string>
   <string name="title_expire_video">Čoskoro skončí platnosť</string>
@@ -654,6 +656,4 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
-  <string name="storage_cloned_app">Úložisko pre klonované apl.</string>
-  <string name="title_album">Albumy</string>
 </resources>

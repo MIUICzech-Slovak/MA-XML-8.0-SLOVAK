@@ -98,6 +98,7 @@
   <string name="reboot_problem1">Nie je možné reštartovať</string>
   <string name="reboot_problem2">Náhodne sa reštartuje počas používania</string>
   <string name="refresh">Obnoviť</string>
+  <string name="reply_failed">Odpoveď zlyhala</string>
   <string name="report_miui">Nahlásiť MIUI</string>
   <string name="screen_lock">Zámok displeja</string>
   <string name="section_description">Popis</string>
@@ -143,5 +144,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="reply_failed">Odpoveď zlyhala</string>
 </resources>

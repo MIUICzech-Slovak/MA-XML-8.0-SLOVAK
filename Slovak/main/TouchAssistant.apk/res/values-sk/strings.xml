@@ -11,6 +11,7 @@
   <string name="function_settings">Nastavenie funkcií</string>
   <string name="hide_touch_assistant">Automaticky skryť</string>
   <string name="hide_touch_assistant_intro">Skryť asistenta v niektorých aplikáciách.</string>
+  <string name="motion_behavior">Režim pohybu</string>
   <string name="name_alipay_payment_code">Alipay quick pay</string>
   <string name="name_alipay_scan">Alipay scan code</string>
   <string name="name_long_press_power_key">Dlhé podržanie zapínania</string>
@@ -38,5 +39,4 @@
   <string name="restore_default">Obnoviť na predvolené</string>
   <string name="restore_intro">Obnoviť na predvolené nastavenia, čo zahrňuje funkcie a ostatné. Vaše dáta v telefóne nebudú vymazané.</string>
   <string name="show_on_keyguard">Zobraziť na zamyk. obrazovke</string>
-  <string name="motion_behavior">Režim pohybu</string>
 </resources>

@@ -13,6 +13,7 @@
   <string name="enable_account_preference_title">Telefónne účty</string>
   <string name="headset_plugin_view_text">Hands-free je pripojené.</string>
   <string name="headset_plugin_view_title">Hands-free</string>
+  <string name="incall_error_call_failed">Nebolo možné uskutočniť hovor.</string>
   <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
   <string name="no_vm_number_msg">Na karte SIM nie je uložené žiadne číslo hlasovej schránky.</string>
   <string name="notification_missedCallTicker">Zmeškaný hovor od %s</string>
@@ -43,5 +44,4 @@
   <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volanie</string>
   <string name="voice_report_unknown_num">Neznáme číslo</string>
-     <string name="incall_error_call_failed">Nebolo možné uskutočniť hovor.</string>
 </resources>

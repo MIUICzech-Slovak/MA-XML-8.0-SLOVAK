@@ -146,6 +146,8 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="agps_roaming_dia_title">Použiť A-GPS počas roamingu</string>
   <string name="agps_roaming_summary">Využívanie A-GPS počas roamingu môže navýšiť vaše mesačné poplatky.</string>
   <string name="airplane_mode">Režim Lietadlo</string>
+  <string name="alarm_sound_dialog_title">Vyberte zvonenie budíku</string>
+  <string name="alarm_sound_title">Zvonenie budíku</string>
   <string name="alarm_volume_option_title">Hlasitosť budíkov</string>
   <string name="alarm_volume_title">Budík</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Spotreba energie batérie sa zvýši ak je šetrič displeja aktivovaný aj mimo nabíjania telefónu. Chcete deaktivovať?</string>
@@ -847,6 +849,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="connected_via_passpoint">Pripojené prostredníctvom %1$s</string>
   <string name="connected_via_wfa">Pripojené pomocou Asistenta Wi-Fi</string>
   <string name="connected_wifi">Pripojené</string>
+  <string name="connecting_to_vpn">Pripájanie k VPN</string>
   <string name="continue_all_caps">POKRAČOVAŤ</string>
   <string name="contributors_title">Prispievatelia</string>
   <string name="controls_label">Ovládacie prvky</string>
@@ -1417,8 +1420,8 @@ Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."<
   <string name="fingerprint_enable_keyguard_toggle_title">zámok obrazovky</string>
   <string name="fingerprint_enroll_button_add">Pridať ďalší</string>
   <string name="fingerprint_enroll_button_next">Ďalej</string>
-  <string name="fingerprint_identificating_msg">Vytváranie odtlačku...</string>
   <string name="fingerprint_for_keyguard_disabled">Odtlačok prsta bol deaktivovaný nastavením zabezpečenia.</string>
+  <string name="fingerprint_identificating_msg">Vytváranie odtlačku...</string>
   <string name="fingerprint_identify_input_password_msg">Zadajte heslo</string>
   <string name="fingerprint_identify_msg">Skenovanie odtlačku prsta...</string>
   <string name="fingerprint_identify_try_again_msg">Nebolo možné vytvoriť odtlačok, skúste to znova.</string>
@@ -1905,9 +1908,9 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
   <string name="lockpattern_settings_help_how_to_record">Gesto odomknutia obrazovky vykonajte týmto spôsobom</string>
   <string name="lockpattern_settings_power_button_instantly_locks_summary">Ak odomknutie nie je udržované funkciou %1$s</string>
   <string name="lockpattern_settings_title">Gesto odomknutia</string>
+  <string name="lockpattern_too_many_failed_confirmation_attempts">Príliš mnoho nesprávnych pokusov. Skúste znova za %d sekúnd.</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Sekundy do ďalšieho pokusu: %d</string>
   <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš mnoho neplatných pokusov!</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts">Príliš mnoho nesprávnych pokusov. Skúste znova za %d sekúnd.</string>
   <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>
   <string name="lockpattern_tutorial_continue_label">Ďalej</string>
   <string name="lockscreen_glogin_checking_password">Kontrola...</string>
@@ -2518,9 +2521,9 @@ Vyberte váš operačný systém:"</string>
   <string name="power_charging_duration_ac">%1$d %% – úplné nabitie z el. zásuvky o %2$s</string>
   <string name="power_charging_duration_usb">%1$d %% – úplné nabitie pomocou kábla USB o %2$s</string>
   <string name="power_charging_duration_wireless">%1$d %% – úplné bezdrôtové nabitie o %2$s</string>
+  <string name="power_checker">Kontrola spotreby</string>
   <string name="power_discharge_remaining">Zostáva %1$s</string>
   <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
-  <string name="power_checker">Kontrola spotreby</string>  
   <string name="power_flashlight">Svetlo</string>
   <string name="power_hide_mode_summary">Zakázať aplikáciam počas vypnutého displeja prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
   <string name="power_hide_mode_title">Úspora batérie</string>
@@ -3721,12 +3724,12 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="uicc_unmount_inform_text">UICC úložisko bude odpojené.</string>
   <string name="under_keyguard">Na zamykacej obrazovke</string>
   <string name="uninstall_all_users_text">Odinštalovať pre všetkých používateľov</string>
+  <string name="uninstall_dlg_msg">Odinštalovanie vymaže všetky dáta aplikácie.</string>
+  <string name="uninstall_dlg_title">Odinštalovať teraz?</string>
   <string name="uninstall_text">Odinštalovať</string>
   <string name="uninstall_with_xspace_app_dlg_msg">Korešpondujúce klonované aplikácie budú spolu odstránené aj s ich dátami.</string>
   <string name="uninstall_xspace_app_dlg_msg">Odinštalovanie klonovaných apl. vymaže všetky ich dáta.</string>
   <string name="uninstall_xspace_app_dlg_title">Odinštalovať klonované aplikácie?</string>
-  <string name="uninstall_dlg_msg">Odinštalovanie vymaže všetky dáta aplikácie.</string>
-  <string name="uninstall_dlg_title">Odinštalovať teraz?</string>
   <string name="unknown">Neznáme</string>
   <string name="unknown_app">Neznáma aplikácia</string>
   <string name="unlock_backup_info_summary">Ako chcete zariadenie odomknúť v prípade, že vás funkcia Odomknutia tvárou nevidí?</string>
@@ -4059,8 +4062,11 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="vpn_name">Názov</string>
   <string name="vpn_no_ca_cert">(neoverovať server)</string>
   <string name="vpn_no_network">Žiadne sieťové pripojenie. Skúste opäť neskôr.</string>
+  <string name="vpn_no_selected">Vyberte VPN</string>
   <string name="vpn_no_server_cert">(prijaté zo serveru)</string>
   <string name="vpn_not_used">(nepoužívané)</string>
+  <string name="vpn_off">Vyp</string>
+  <string name="vpn_on">Zap</string>
   <string name="vpn_password">Heslo</string>
   <string name="vpn_routes">Presmerovávacie trasy</string>
   <string name="vpn_routes_hint">napr. 10.0.0.0/8</string>
@@ -4071,6 +4077,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="vpn_server">Adresa serveru</string>
   <string name="vpn_settings_not_available">Nastavenia vzdialeného pripojenia VPN nie sú dostupné pre tohto používateľa</string>
   <string name="vpn_settings_password">Nastavenie hesla VPN</string>
+  <string name="vpn_settings_summary">Chráňte nastavenia VPN heslom uzamknutia</string>
   <string name="vpn_settings_title">Sieť VPN</string>
   <string name="vpn_show_options">Zobraziť rozšírené možnosti</string>
   <string name="vpn_title">Sieť VPN</string>
@@ -4309,6 +4316,7 @@ sl. Wi‑Fi Assistant"</string>
 
 Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadávať siete?"</string>
   <string name="wifi_scan_notify_remember_choice">Túto správu znova nezobrazovať</string>
+  <string name="wifi_scan_notify_text">Pre zlepšenie presnosti polohy, systémové aplikácie a služby stále môžu skenovať Wi-Fi siete. Toto nastavenie môžete zmeniť v LINK_BEGINnastavení skenovaniaLINK_END.</string>
   <string name="wifi_scan_notify_text_location_off">Aplikácie môžu vyhľadávať siete v blízkosti aj v prípade, že je sieť Wi-Fi vypnutá. Ak chcete nastavenie zmeniť, prejdite do časti Rozšírené &gt; Vyhľadávanie vždy zapnuté.</string>
   <string name="wifi_scan_notify_text_location_on">Služby Google a ďalšie aplikácie môžu s cieľom zvýšenia presnosti a inými cieľmi vyhľadávať siete v blízkosti aj v prípade, že je sieť Wi-Fi vypnutá. Ak chcete nastavenie zmeniť, prejdite do časti Rozšírené &gt; Vyhľadávanie vždy zapnuté</string>
   <string name="wifi_secured_first_item">Zabezpečenie: %1$s</string>
@@ -4525,6 +4533,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zen_mode_downtime_days">Dni</string>
   <string name="zen_mode_downtime_days_none">Žiadne</string>
   <string name="zen_mode_end_time">Čas ukončenia</string>
+  <string name="zen_mode_end_time_next_day_summary_format">%s ďalši deň</string>
   <string name="zen_mode_end_time_summary_format">%s ďalší deň</string>
   <string name="zen_mode_entry_conditions_summary_none">Nikdy</string>
   <string name="zen_mode_entry_conditions_title">Automaticky zapnúť</string>
@@ -4591,13 +4600,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-     <string name="alarm_sound_dialog_title">Vyberte zvonenie budíku</string>
-     <string name="alarm_sound_title">Zvonenie budíku</string>
-     <string name="connecting_to_vpn">Pripájanie k VPN</string>
-     <string name="vpn_no_selected">Vyberte VPN</string>
-     <string name="vpn_off">Vyp</string>
-     <string name="vpn_on">Zap</string>
-     <string name="vpn_settings_summary">Chráňte nastavenia VPN heslom uzamknutia</string>
-     <string name="wifi_scan_notify_text">Pre zlepšenie presnosti polohy, systémové aplikácie a služby stále môžu skenovať Wi-Fi siete. Toto nastavenie môžete zmeniť v LINK_BEGINnastavení skenovaniaLINK_END.</string>
-     <string name="zen_mode_end_time_next_day_summary_format">%s ďalši deň</string>
 </resources>

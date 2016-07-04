@@ -121,6 +121,7 @@
   <string name="shopping_title">Odfoťte produkt</string>
   <string name="shopping_vendor_info">Technical support by Taobao</string>
   <string name="spaceIsLow_content">Nie je dostatok voľného miesta na SD karte.</string>
+  <string name="study_rotate_picture">Spracovávanie...</string>
   <string name="study_scan_result">Výsledok</string>
   <string name="study_searching">Vyhľadávanie...</string>
   <string name="study_title">Take a photo of the problem</string>
@@ -150,5 +151,4 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnosť: "</string>
   <string name="wifi_ssid">"SSID: "</string>
-  <string name="study_rotate_picture">Spracovávanie...</string>
 </resources>

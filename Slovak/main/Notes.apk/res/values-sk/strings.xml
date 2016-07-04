@@ -81,6 +81,7 @@
   <string name="pref_title_recover_help">Obnoviť poznámky</string>
   <string name="privacy_hint">Súkromie</string>
   <string name="privacy_notes_fragment_title">Ukryté poznámky</string>
+  <string name="recover_notes_hint">Boli zistené chyby poznámok， skúste ich obnoviť na i.mi.com</string>
   <string name="redo">Znovu</string>
   <string name="rename_folder_dialog_tile">Premenovať zložku</string>
   <string name="search">Poznámky</string>
@@ -146,5 +147,4 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="recover_notes_hint">Boli zistené chyby poznámok， skúste ich obnoviť na i.mi.com</string>  
 </resources>

@@ -122,6 +122,7 @@ Môžete ich aj znova stiahnúť."</string>
   <string name="private_space_setting">Spravovať</string>
   <string name="public_app">Oba profily</string>
   <string name="removeSuccess">Vymazané</string>
+  <string name="remove_second_space_msg">Všetky dáta profilu budú vymazané bez možnosti ich obnovenia. Chcete pokračovať?</string>
   <string name="removingSpace">Mazanie...</string>
   <string name="restore_normal_show">Nezobrazovať súkromné správy</string>
   <string name="restore_show_desc">Nezobrazovať súkromné správy v Druhom profile. Stále budú dostupné v Primárnom profile.</string>
@@ -208,5 +209,4 @@ Môžete ich aj znova stiahnúť."</string>
   <string name="xspace_uninstall_dialog_content">Odinštalovanie klonovanej aplikácie vymaže všetky jej dáta.</string>
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
-  <string name="remove_second_space_msg">Všetky dáta profilu budú vymazané bez možnosti ich obnovenia. Chcete pokračovať?</string>
 </resources>

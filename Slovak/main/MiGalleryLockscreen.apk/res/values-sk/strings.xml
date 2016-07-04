@@ -5,6 +5,7 @@
   <string name="auto_interval">Auto</string>
   <string name="cancel">Ukončiť</string>
   <string name="cancel_international">Zrušiť</string>
+  <string name="cancel_lockscreen">Zrušiť</string>
   <string name="change_time">Zmeniť interval</string>
   <string name="day">1 deň</string>
   <string name="declaration">Táto služba vyžaduje pripojenie na internet.</string>
@@ -20,6 +21,7 @@
   <string name="minutes_15">15 minút</string>
   <string name="no_long_show">Viac nezobrazovať</string>
   <string name="ok">OK</string>
+  <string name="ok_enable_network_prov">OK</string>
   <string name="ok_international">OK</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Súhlasím</string>
@@ -46,6 +48,4 @@
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
   <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
-  <string name="ok_enable_network_prov">OK</string>
-  <string name="cancel_lockscreen">Zrušiť</string>
 </resources>

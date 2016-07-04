@@ -133,8 +133,8 @@
   <string name="installing">Inštalovanie...</string>
   <string name="insufficient_space">Nie je dostatok voľného miesta</string>
   <string name="invalid_address">Zadaná cesta k súboru nie je platná</string>
-  <string name="loading">Načítavanie...</string>
   <string name="keep_queued_download">Zachovať</string>
+  <string name="loading">Načítavanie...</string>
   <string name="media_filter">Médiá</string>
   <string name="member_cost">Account annual fee</string>
   <string name="menu_all_task_pause">Zastaviť všetko</string>

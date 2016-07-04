@@ -78,6 +78,9 @@
   <string name="gift_use_confirmation_dlg_title">Odoslať tento dar?</string>
   <string name="gift_use_fail_dlg_title">Nastala chyba</string>
   <string name="gift_used">Odoslané</string>
+  <string name="incompatible_dialog_message">Táto téma nie je plne kompatibilná s MIUI 8. Niektoré jej časti nemusia byť zobrazené správne alebo spôsobiť neočakávané chyby.</string>
+  <string name="incompatible_dialog_ok">Rozumiem</string>
+  <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
   <string name="live_wallpaper">Živá tapeta</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_resource_detail_fail">Nie je dostupné mimo Čínu!</string>
@@ -384,7 +387,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="incompatible_dialog_message">Táto téma nie je plne kompatibilná s MIUI 8. Niektoré jej časti nemusia byť zobrazené správne alebo spôsobiť neočakávané chyby.</string>
-  <string name="incompatible_dialog_ok">Rozumiem</string>
-  <string name="incompatible_dialog_title">Problém s kompatibilitou</string>
 </resources>

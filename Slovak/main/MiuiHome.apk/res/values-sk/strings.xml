@@ -208,6 +208,7 @@
   <string name="process"/>
   <string name="recommend_apps_default_title">Prázdne</string>
   <string name="recommend_apps_notice">Odporúčané apl.</string>
+  <string name="recommend_apps_notice_nodata">Odporúčané apl. (Bez dát)</string>
   <string name="recommend_apps_switch_title">Odporúčané apl.</string>
   <string name="recommend_apps_tips">Táto funkcia vyžaduje internetové pripojenie pre jej správne fungovanie. Pre zakázanie funkcie sa dotknite názvu tejto zložky.</string>
   <string name="reset_scene_prompt">Scéna bude obnovená do predvoleného stavu</string>
@@ -271,5 +272,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="recommend_apps_notice_nodata">Odporúčané apl. (Bez dát)</string>
 </resources>
