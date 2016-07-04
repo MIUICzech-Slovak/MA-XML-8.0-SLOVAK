@@ -14,7 +14,7 @@
   <string name="hour_1">1 hodina</string>
   <string name="hour_3">3 hodiny</string>
   <string name="lockscreen_magazine_subscribe">Užívateľov: %1$s</string>
-  <string name="lockscreen_magazine_summary">Získajte nové tapety každý deň na vašu zamykaciu obrazovku.</string>
+  <string name="lockscreen_magazine_summary">Svoje tapety môžete pridať do zložky Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/.</string>
   <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
   <string name="lockscreen_magazine_system_title">Predvolené</string>
   <string name="lockscreen_magazine_title">Denná tapeta zamykacej obrazovky</string>
