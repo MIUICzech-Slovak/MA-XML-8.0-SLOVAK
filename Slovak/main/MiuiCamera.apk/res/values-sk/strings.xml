@@ -40,10 +40,10 @@
   <string name="confirm_restore_title">Obnoviť predvolené</string>
   <string name="dialog_ok">OK</string>
   <string name="dual_camera_lens_covered_toast">Zakryté šošovky.</string>
-  <string name="dual_camera_low_constract_toast">Low contract may affect Dual camera effects.</string>
-  <string name="dual_camera_lowlight_toast">Lowlight may affect Dual camera effects.</string>
-  <string name="dual_camera_too_close_toast">Too close to object for Dual camera effects.</string>
-  <string name="dual_camera_use_hint">Dual mode camera can shoot blur effect, the distance between camera and the subject should be less than two meters</string>
+  <string name="dual_camera_low_constract_toast">Kontrast je veľmi nízky.</string>
+  <string name="dual_camera_lowlight_toast">Príliš veľká tma.</string>
+  <string name="dual_camera_too_close_toast">Fotoaparát je príliš blízko k objektu.</string>
+  <string name="dual_camera_use_hint">Stereo režim pomáha rozmazať pozadie. Objekt by nemal byť ďalej ako 2 metre.</string>
   <string name="effect_setting_top_text">Filtre</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Záznam zvuku zlyhal.</string>
@@ -357,7 +357,7 @@
   <string name="simple_mode_button_text_panorama">Ukončiť</string>
   <string name="simple_mode_button_text_scene">Ukončiť režim scény</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť</string>
-  <string name="simple_mode_button_text_stereo_mode">Turn off Stereo Mode</string>
+  <string name="simple_mode_button_text_stereo_mode">Ukončiť stereo režim</string>
   <string name="simple_mode_button_text_tilt_shift">Ukončiť</string>
   <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
@@ -376,4 +376,23 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
+  <string name="accessibility_effect_mode_button">Efekty</string>
+  <string name="accessibility_mode_dismiss_button">Ukončiť</string>
+  <string name="camera_setting">Fotoaparát</string>
+  <string name="pref_camera_beautify_entry_auto">Vyp</string>
+  <string name="pref_camera_beautify_entry_high">Vysoké</string>
+  <string name="pref_camera_beautify_entry_low">Nízke</string>
+  <string name="pref_camera_beautify_entry_normal">Stredné</string>
+  <string name="pref_camera_coloreffect_entry_long_face">Roztiahnuť</string>
+  <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
+  <string name="pref_camera_square_mode_title">Štvorec</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Kruh</string>
+  <string name="pref_camera_tilt_shift_entry_parallel">Paralelné</string>
+  <string name="pref_skin_beautify_color_title">Tón</string>
+  <string name="pref_skin_beautify_eye_title">Oči</string>
+  <string name="pref_skin_beautify_intelligent_title">Inteligentné</string>
+  <string name="pref_skin_beautify_slim_title">Chudá</string>
+  <string name="pref_skin_beautify_smooth_title">Pokožka</string>
+  <string name="see_qrcode_detals">Podrobnosti o QR kóde</string>
+  <string name="simple_mode_button_text_square">Ukončiť</string>
 </resources>

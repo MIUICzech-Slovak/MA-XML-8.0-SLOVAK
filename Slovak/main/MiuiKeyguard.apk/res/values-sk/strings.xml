@@ -50,8 +50,8 @@
   <string name="login_website_in_case_forget_password">Pre nastavenie hesla choďte na i.mi.com.</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odomknuté s MiBand</string>
-  <string name="open_camera_hint_text">Potiahnite doľava pre Fotoaparát</string>
-  <string name="open_remote_center_hint_text">Potiahnite doprava pre Telefón</string>
+  <string name="open_camera_hint_text">Potiahnite doľava pre %s</string>
+  <string name="open_remote_center_hint_text">Potiahnite doprava pre %s</string>
   <string name="open_wifi_settings">Nastavenia siete</string>
   <string name="phone_locked_string">Zariadenie je zablokované</string>
   <string name="phone_locked_timeout_minutes_string">Skúste znovu o %s minút</string>
@@ -63,4 +63,5 @@
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="left_action_default_hint_text">MiRemote</string>
 </resources>

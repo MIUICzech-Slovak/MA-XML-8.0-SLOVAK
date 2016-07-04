@@ -283,6 +283,8 @@
   <string name="permission_warning_template">Povoliť %1$s pre %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnenie %2$s. Práva aplikácie môžete zmeniť v Optimalizácia &gt; Povolenia."</string>
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
-  <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
-  <string name="screen_overlay_title">Screen overlay detected</string>
+  <string name="screen_overlay_message">Pre zmenu nastavenia tohoto povolenia, musíte najskôr vypnúť prekrytie displeja v Nastavenia &gt; Aplikácie</string>
+  <string name="screen_overlay_title">Zistené prekrytie displeja</string>
+  <string name="Su_Package_Forbidden2">nemá práva ROOT.</string>
+  <string name="permisson_reject_notice_toast_text2">nemá práva pre %1$s.</string>
 </resources>

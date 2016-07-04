@@ -83,8 +83,8 @@
   <string name="revert">Vrátiť späť</string>
   <string name="set_alarm">Nastaviť budík</string>
   <string name="settings">Nastavenie</string>
-  <string name="shutdown_alarm_disable_summary">Budenie je zakázané</string>
-  <string name="shutdown_alarm_enable_summary">Budenie je povolené</string>
+  <string name="shutdown_alarm_disable_summary">Budík nebude zvoniť ak vypnete zariadnie</string>
+  <string name="shutdown_alarm_enable_summary">Budík bude zvoniť ak vypnete zariadnie</string>
   <string name="shutdown_alarm_title">Zapnúť zariadenie pred budením</string>
   <string name="silent_alarm_summary">Tichý</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
@@ -132,4 +132,5 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="more_settings">Viac nastavení</string>
 </resources>

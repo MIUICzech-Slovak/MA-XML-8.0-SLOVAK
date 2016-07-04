@@ -4600,4 +4600,22 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="force_touch">3D Dotyk</string>
+  <string name="force_touch_demo">Zobraziť ukážku</string>
+  <string name="force_touch_enable">Povoliť 3D dotyk</string>
+  <string name="force_touch_enable_tips">Silné stlačenie ikony na ploche vyvolá ponuku ak je povolený 3D dotyk.</string>
+  <string name="keyguard_left_function_chooser_hint_text">Ľavý odkaz zmenený na %s</string>
+  <string name="keyguard_left_function_chooser_title">Aplikácia</string>
+  <string name="keyguard_left_function_title">Vľavo</string>
+  <string name="keyguard_right_function_chooser_hint_text">Pravý odkaz zmenený na %s</string>
+  <string name="keyguard_right_function_chooser_title">Aplikácia</string>
+  <string name="keyguard_right_function_title">Vpravo</string>
+  <string name="keyguard_shortcut_summary">Nastaviť skratky pre 2 aplikácie na zamykacej obrazovke</string>
+  <string name="keyguard_shortcut_title">Skratky na zamykacej obrazovke</string>
+  <string name="lockpassword_confirm_your_lock_password_header">Potvrďte svoje heslo</string>
+  <string name="lockpassword_confirm_your_lock_pattern_header">Potvrďte svoj vzor</string>
+  <string name="lockpassword_confirm_your_private_password_header">Potvrďte svoje heslo</string>
+  <string name="lockpassword_confirm_your_private_pattern_header">Potvrďte svoj vzor</string>
+  <string name="status_bar_settings_notification_sound">Zvuk</string>
+  <string name="status_bar_settings_notification_vibrate">Vibrácie</string>
 </resources>
