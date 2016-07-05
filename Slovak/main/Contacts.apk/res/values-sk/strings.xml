@@ -1240,4 +1240,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="copy_number">Kopírovať</string>
+  <string name="t9_search_guide_pinyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
+  <string name="t9_search_guide_pinyin_title2">Stlačte 4 a 6 pre vyhľadanie &lt;font fgcolor="#ff28a763"&gt;H&lt;/font&gt;&amp;gt;omer &lt;font fgcolor="#ff28a763"&gt;S&lt;/font&gt;&amp;gt;impson</string>
+  <string name="t9_search_guide_zhuyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
+  <string name="t9_search_guide_zhuyin_title2">Stlačte 2 a 7 pre vyhľadanie &lt;font fgcolor="#ff28a763"&gt;B&lt;/font&gt;&amp;gt;ruce &lt;font fgcolor="#ff28a763"&gt;W&lt;/font&gt;&amp;gt;ayne</string>
 </resources>

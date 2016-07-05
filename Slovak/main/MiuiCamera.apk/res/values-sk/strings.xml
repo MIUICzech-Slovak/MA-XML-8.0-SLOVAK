@@ -379,7 +379,7 @@
   <string name="accessibility_effect_mode_button">Efekty</string>
   <string name="accessibility_mode_dismiss_button">Ukončiť</string>
   <string name="camera_setting">Fotoaparát</string>
-  <string name="pref_camera_beautify_entry_auto">Vyp</string>
+  <string name="pref_camera_beautify_entry_auto">Auto</string>
   <string name="pref_camera_beautify_entry_high">Vysoké</string>
   <string name="pref_camera_beautify_entry_low">Nízke</string>
   <string name="pref_camera_beautify_entry_normal">Stredné</string>
