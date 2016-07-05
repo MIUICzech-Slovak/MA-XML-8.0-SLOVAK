@@ -200,7 +200,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_find_device_guide_fail_sub_timeout">Platnosť pripojenia vypršala, skúste to znova neskôr.</string>
   <string name="micloud_find_device_guide_micloud">Povoliť synchr. s MiCloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Synchr. kontakty, fotografie, poznámky a oveľa viac s MiCloud</string>
-  <string name="micloud_find_device_guide_noti_content">Povoliť</string>
+  <string name="micloud_find_device_guide_noti_content">Chráňte vaše dáta pri strate telefónu</string>
   <string name="micloud_find_device_guide_noti_title">Povoľte Vyhľadávanie zariadenia pre ochranu vašich dát ak stratíte zariadenie</string>
   <string name="micloud_find_device_guide_progress">Aktivácia Vyhľadávania zariadenia...</string>
   <string name="micloud_find_device_guide_title">Prihláste sa do %s pre vyhľadanie, zablokovanie alebo vymazanie vášho zariadenia.</string>
@@ -462,4 +462,5 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="micloud_find_device_guide_noti_title">Povoliť Vyhľadávanie zariadneia</string>
 </resources>
