@@ -197,7 +197,7 @@
   <string name="crossprocess">Prekrytie</string>
   <string name="custom_select_title_deselect_all">Odznačiť</string>
   <string name="custom_select_title_select_all">Všetko</string>
-  <string name="custom_select_title_select_item">Vyberte položký</string>
+  <string name="custom_select_title_select_item">Vyberte položky</string>
   <string name="default_album_name">Nový album</string>
   <string name="delete">Vymazať</string>
   <string name="delete_album_failed">Zmazanie albumu neúspešné.</string>
