@@ -287,4 +287,6 @@
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
   <string name="Su_Package_Forbidden2">nemá práva ROOT.</string>
   <string name="permisson_reject_notice_toast_text2">nemá práva pre %1$s.</string>
+  <string name="HIPS_Perm_get_tasks">Dostať úlohy</string>
+  <string name="HIPS_Perm_get_tasks_Desc">dostať úlohy</string>  
 </resources>

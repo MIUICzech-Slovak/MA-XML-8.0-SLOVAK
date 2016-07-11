@@ -1220,4 +1220,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="no_number">Žiadne telefónné číslo</string>
   <string name="sim_useless">SIM nedostupná</string>
   <string name="network_settings_title">Mobilné siete</string>
+  <string name="add_by_input">Zadať</string>
+  <string name="add_from_contacts">Kontakt</string>
+  <string name="please_enter_phone_number">Zadajte telefónné číslo</string>
 </resources>
