@@ -633,4 +633,5 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
   <string name="block_support_text"/>
+  <string name="force_touch_new_message_title">Nová správa</string>
 </resources>

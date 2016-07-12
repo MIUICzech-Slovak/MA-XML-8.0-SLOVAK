@@ -99,4 +99,10 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="weather_alert">Varovania</string>
+  <string name="alert_warning">Varovania</string>
+  <string name="retry">Znova</string>
+  <string name="set">Nastavenia</string>
+  <string name="unit">Jednotky</string>
+  <string name="unit_temperature">Teplota</string>
+  <string name="unit_wind">Rýchlosť vetra</string>
 </resources>

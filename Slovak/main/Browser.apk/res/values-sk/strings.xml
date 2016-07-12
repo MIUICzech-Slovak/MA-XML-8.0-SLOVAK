@@ -789,4 +789,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="force_quick_search_title">Vyhľadať</string>
+  <string name="force_touch_bookmark_history_title">Záložky a História</string>
+  <string name="force_touch_infoflow_title">Denné noviny</string>  
 </resources>
