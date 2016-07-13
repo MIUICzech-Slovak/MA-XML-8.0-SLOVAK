@@ -327,8 +327,8 @@ posunutím nadol uzamknete"</string>
   <string name="vpn_text_long">Pripojiť k %s. Zobraziť podrobnosti.</string>
   <string name="vpn_title">VPN aktivované</string>
   <string name="vpn_title_long">Pripájanie k VPN cez %s</string>
-  <string name="weather_description">%1$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
+  <string name="weather_description">%1$s</string>
+  <string name="weather_description_no_aqi">%1$s</string>
   <string name="weather_publish_time">Aktualizované %1$s</string>
   <string name="wifi_connected_no_internet">Pripojené, žiaden Internet</string>
   <string name="wifi_disabled_generic">Deaktivované</string>
