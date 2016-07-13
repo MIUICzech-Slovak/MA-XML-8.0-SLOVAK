@@ -74,6 +74,6 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="search_apps">Vyhľadať apl.</string>
+  <string name="search_apps">Vyhľadať aplikáciu.</string>
   <string name="search_videos">Vyhľadať video</string>
 </resources>
