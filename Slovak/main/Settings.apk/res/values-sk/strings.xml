@@ -4618,4 +4618,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="lockpassword_confirm_your_private_pattern_header">Potvrďte svoj vzor</string>
   <string name="status_bar_settings_notification_sound">Zvuk</string>
   <string name="status_bar_settings_notification_vibrate">Vibrácie</string>
+  <string name="search_label">Nastavenia</string>
+  <string name="search_results_title">Nastavenia</string>
 </resources>
