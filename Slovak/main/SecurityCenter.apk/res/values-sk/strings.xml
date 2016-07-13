@@ -240,6 +240,10 @@ alebo zadajte heslo"</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_button">Zrušiť</string>
   <string name="captive_portal_exception_title">Pripojiť na verejnú sieť</string>
+  <string name="charging_text_battery_full_time">Naposledy nabité</string>
+  <string name="charging_text_battery_nearly_full">Skoro nabité</string>
+  <string name="charging_text_battery_perfect">Nabité</string>
+  <string name="charging_text_time_calculating">Výpočet času nabíjania...</string>
   <string name="chat_number">10 hodín</string>
   <string name="chat_uint">" hodín"</string>
   <string name="check_network_state">Kontrola stavu siete</string>
@@ -1438,8 +1442,4 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_encryption">Wi-Fi šifrovanie</string>
   <string name="wifi_item_title_fake">Detekcia falošnej Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
-  <string name="charging_text_battery_full_time">Naposledy nabité</string>
-  <string name="charging_text_battery_nearly_full">Skoro nabité</string>
-  <string name="charging_text_battery_perfect">Nabité</string>
-  <string name="charging_text_time_calculating">Výpočet času nabíjania...</string>  
 </resources>

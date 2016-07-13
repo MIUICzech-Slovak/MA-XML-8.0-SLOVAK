@@ -11,7 +11,9 @@
   <string name="activing_simcard_alone">Overovanie SIM</string>
   <string name="add">Pridať</string>
   <string name="addSimEntries">Pridať kontakt SIM</string>
+  <string name="add_by_input">Zadať</string>
   <string name="add_fdn_contact">Pridať povolené telefónne číslo</string>
+  <string name="add_from_contacts">Kontakt</string>
   <string name="add_sip_account">Pridať účet</string>
   <string name="add_vm_number_str">Pridať číslo</string>
   <string name="adding_fdn_contact">Pridávanie povoleného telefónneho čísla...</string>
@@ -677,6 +679,7 @@
   <string name="network_settings_query_failed_message">Žiadna sieť sa nenašla.</string>
   <string name="network_settings_sel_sub">Select Subscription</string>
   <string name="network_settings_select_automatic_hint">Nebolo možné sa prihlásiť k vybranej sieti</string>
+  <string name="network_settings_title">Mobilné siete</string>
   <string name="network_settings_turn_off">Vypnúť</string>
   <string name="network_settings_warn_message">Použiť iba sieť manuálne vybranú.</string>
   <string name="network_unconnected_message_livetalk">Chyba siete. Skúste uskutočniť hovor. Bude to zmenené vašim operátorom.</string>
@@ -693,6 +696,7 @@
   <string name="no_change">Neboli vykonané žiadne zmeny.</string>
   <string name="no_internet_available">Ak chcete volať cez internet, skontrolujte najskôr internetové pripojenie.</string>
   <string name="no_internet_available_title">Internetové pripojenie nedostupné</string>
+  <string name="no_number">Žiadne telefónné číslo</string>
   <string name="no_sip_account_found">Nemáte žiadne účty pre volanie cez internet. Chcete ho vytvoriť?</string>
   <string name="no_sip_account_found_title">Žiadny účet pre volanie cez internet</string>
   <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
@@ -823,6 +827,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="place_a_call1">Subscription 1</string>
   <string name="place_a_call2">Subscription 2</string>
   <string name="place_a_call3">Subscription 3</string>
+  <string name="please_enter_phone_number">Zadajte telefónné číslo</string>
   <string name="pocket_mode_summary">Zariadenie sa automaticky uzamkne vo vrecku</string>
   <string name="pocket_mode_title">Zabrániť náhodnému použitiu</string>
   <string name="port">Port</string>
@@ -1041,6 +1046,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="sim_unknown">Neznáma</string>
   <string name="sim_unlock_failed">SIM SIM unlock request unsuccessful.</string>
   <string name="sim_unlock_success">SIM SIM unlock successful.</string>
+  <string name="sim_useless">SIM nedostupná</string>
   <string name="sip_account_list">Účty volania cez internet</string>
   <string name="sip_accounts">Účty volania cez internet (SIP)</string>
   <string name="sip_accounts_title">Účty</string>
@@ -1217,10 +1223,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="no_number">Žiadne telefónné číslo</string>
-  <string name="sim_useless">SIM nedostupná</string>
-  <string name="network_settings_title">Mobilné siete</string>
-  <string name="add_by_input">Zadať</string>
-  <string name="add_from_contacts">Kontakt</string>
-  <string name="please_enter_phone_number">Zadajte telefónné číslo</string>
 </resources>

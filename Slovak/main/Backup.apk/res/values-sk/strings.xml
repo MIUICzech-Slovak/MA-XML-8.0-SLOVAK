@@ -136,6 +136,7 @@
   <string name="miliao_account_login">Prihlásiť k MiTalk</string>
   <string name="mms_title">Multimediálne správy</string>
   <string name="multi_select_title">Vybraných položiek: %1$s</string>
+  <string name="multi_user_mode_backup_message">V režime viacerých užívateľov nie je možné použiť Zálohovanie. Vypnite tento režim.</string>
   <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="never">Nikdy</string>
@@ -346,5 +347,4 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
-  <string name="multi_user_mode_backup_message">V režime viacerých užívateľov nie je možné použiť Zálohovanie. Vypnite tento režim.</string>
 </resources>

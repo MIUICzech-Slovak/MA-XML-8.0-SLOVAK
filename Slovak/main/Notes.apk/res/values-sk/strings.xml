@@ -51,6 +51,7 @@
   <string name="menu_mark_privacy">Skryť</string>
   <string name="menu_move_parent_folder">Nadradená zložka</string>
   <string name="menu_move_to">Presunúť do</string>
+  <string name="menu_send_as_image">Odoslať ako obrázok</string>
   <string name="menu_send_to_desktop">Pridať na plochu</string>
   <string name="menu_send_wechat">Odoslať na WeChat</string>
   <string name="menu_send_weibo">Odoslať na Weibo</string>
@@ -102,6 +103,7 @@
   <string name="sns_choose_quality_low">Nízka</string>
   <string name="sns_choose_quality_title">Zvoľte kvalitu obrázkov</string>
   <string name="sns_content_default">Zdieľať obrázok</string>
+  <string name="sns_desc_image_preview">Náhľad správy</string>
   <string name="sns_desc_preview_wechat">WeChat message preview</string>
   <string name="sns_desc_preview_weibo">Weibo message preview</string>
   <string name="sns_footer_text">Vytvorené s MIUI V6</string>
@@ -147,6 +149,4 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="menu_send_as_image">Odoslať ako obrázok</string>
-  <string name="sns_desc_image_preview">Náhľad správy</string>
 </resources>

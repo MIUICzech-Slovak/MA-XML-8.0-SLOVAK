@@ -51,6 +51,9 @@
   <string name="edit_systemtime">Upraviť nastavenie času</string>
   <string name="elapsed_time_format">(+%s)</string>
   <string name="every_day">Každý deň</string>
+  <string name="force_touch_add_alarm">Budík</string>
+  <string name="force_touch_enter_stopwatch">Stopky</string>
+  <string name="force_touch_enter_timer">Časovač</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
   <string name="hour">1 hodina</string>
   <string name="hour_unit">h</string>
@@ -75,6 +78,7 @@
   <string name="menu_item_sort_by_name">Zoradiť podľa názvu</string>
   <string name="minute">1 minúta</string>
   <string name="minutes">%s minút</string>
+  <string name="more_settings">Viac nastavení</string>
   <string name="never">Raz</string>
   <string name="oneshot_alarm">Vymazať budík po vypnutí</string>
   <string name="pause">Pauza</string>
@@ -132,8 +136,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="more_settings">Viac nastavení</string>
-  <string name="force_touch_add_alarm">Budík</string>
-  <string name="force_touch_enter_stopwatch">Stopky</string>
-  <string name="force_touch_enter_timer">Časovač</string>
 </resources>

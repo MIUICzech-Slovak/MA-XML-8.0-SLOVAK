@@ -5,8 +5,10 @@
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Výber prednej alebo zadnej kamery</string>
   <string name="accessibility_countdown">tlačidlo odpočítavania</string>
+  <string name="accessibility_effect_mode_button">Efekty</string>
   <string name="accessibility_flash_mode_button">Blesk</string>
   <string name="accessibility_hdr">Prepínanie HDR</string>
+  <string name="accessibility_mode_dismiss_button">Ukončiť</string>
   <string name="accessibility_panorama_review_cancel">Zrušiť</string>
   <string name="accessibility_peak">Tlačidlo Focus-Peak</string>
   <string name="accessibility_review_thumbnail">Najnovšie fotografie</string>
@@ -24,6 +26,7 @@
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
   <string name="camera_mode_options">Režimy</string>
+  <string name="camera_setting">Fotoaparát</string>
   <string name="camera_settings_label">Fotoaparát</string>
   <string name="camera_snap_mode_title">Rýchle zhotovenie fotografie</string>
   <string name="camera_snap_mode_title_detail">Zobraziť podrobnosti</string>
@@ -104,12 +107,17 @@
   <string name="pref_camera_autoexposure_entry_frameaverage">Matrica</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Bod</string>
   <string name="pref_camera_autoexposure_title">Režim Auto Expozície</string>
+  <string name="pref_camera_beautify_entry_auto">Auto</string>
+  <string name="pref_camera_beautify_entry_high">Vysoké</string>
+  <string name="pref_camera_beautify_entry_low">Nízke</string>
+  <string name="pref_camera_beautify_entry_normal">Stredné</string>
   <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_brannan">Svitanie</string>
   <string name="pref_camera_coloreffect_entry_earlybird">Jeseň</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Rybie oko</string>
   <string name="pref_camera_coloreffect_entry_gaussianblur">Rozmazať</string>
   <string name="pref_camera_coloreffect_entry_jstyle">Japonsko</string>
+  <string name="pref_camera_coloreffect_entry_long_face">Roztiahnuť</string>
   <string name="pref_camera_coloreffect_entry_mirror">Zrkadlo</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mozaika</string>
@@ -120,6 +128,7 @@
   <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_seventy">1970</string>
   <string name="pref_camera_coloreffect_entry_sketch">Skica</string>
+  <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
   <string name="pref_camera_coloreffect_entry_vivid">Svieži</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Minulý rok</string>
@@ -267,6 +276,9 @@
   <string name="pref_camera_snap_entry_take_picture">Snímka: Na zamk. obr. stlačte hlasitosť nadol.</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nie je možné použiť \"Rýchle zhotovenie fotografie\" ak sa používajú tlačidlá hlasitosti na prebudenie displeja.</string>
   <string name="pref_camera_sound_title">Zvuk kamery</string>
+  <string name="pref_camera_square_mode_title">Štvorec</string>
+  <string name="pref_camera_tilt_shift_entry_circle">Kruh</string>
+  <string name="pref_camera_tilt_shift_entry_parallel">Paralelné</string>
   <string name="pref_camera_tilt_shift_title">Tilt-shift</string>
   <string name="pref_camera_touchafaec_entry_off">Vypnuté</string>
   <string name="pref_camera_touchafaec_entry_on">Zapnuté</string>
@@ -304,6 +316,11 @@
   <string name="pref_setting_title">Nastavenia</string>
   <string name="pref_simple_hdr_entry_off">Vypnuté</string>
   <string name="pref_simple_hdr_entry_on">Zapnuté</string>
+  <string name="pref_skin_beautify_color_title">Tón</string>
+  <string name="pref_skin_beautify_eye_title">Oči</string>
+  <string name="pref_skin_beautify_intelligent_title">Inteligentné</string>
+  <string name="pref_skin_beautify_slim_title">Chudá</string>
+  <string name="pref_skin_beautify_smooth_title">Pokožka</string>
   <string name="pref_video_captrue_ability_title">Snímka počas videa</string>
   <string name="pref_video_focusmode_entry_auto">Dotykom</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuálne ostrenie</string>
@@ -357,6 +374,7 @@
   <string name="simple_mode_button_text_panorama">Ukončiť</string>
   <string name="simple_mode_button_text_scene">Ukončiť režim scény</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť</string>
+  <string name="simple_mode_button_text_square">Ukončiť</string>
   <string name="simple_mode_button_text_stereo_mode">Ukončiť stereo režim</string>
   <string name="simple_mode_button_text_tilt_shift">Ukončiť</string>
   <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
@@ -376,22 +394,4 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
-  <string name="accessibility_effect_mode_button">Efekty</string>
-  <string name="accessibility_mode_dismiss_button">Ukončiť</string>
-  <string name="camera_setting">Fotoaparát</string>
-  <string name="pref_camera_beautify_entry_auto">Auto</string>
-  <string name="pref_camera_beautify_entry_high">Vysoké</string>
-  <string name="pref_camera_beautify_entry_low">Nízke</string>
-  <string name="pref_camera_beautify_entry_normal">Stredné</string>
-  <string name="pref_camera_coloreffect_entry_long_face">Roztiahnuť</string>
-  <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
-  <string name="pref_camera_square_mode_title">Štvorec</string>
-  <string name="pref_camera_tilt_shift_entry_circle">Kruh</string>
-  <string name="pref_camera_tilt_shift_entry_parallel">Paralelné</string>
-  <string name="pref_skin_beautify_color_title">Tón</string>
-  <string name="pref_skin_beautify_eye_title">Oči</string>
-  <string name="pref_skin_beautify_intelligent_title">Inteligentné</string>
-  <string name="pref_skin_beautify_slim_title">Chudá</string>
-  <string name="pref_skin_beautify_smooth_title">Pokožka</string>
-  <string name="simple_mode_button_text_square">Ukončiť</string>
 </resources>

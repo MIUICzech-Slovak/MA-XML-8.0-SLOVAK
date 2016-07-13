@@ -249,6 +249,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="contacts_unavailable_create_contact">Vytvoriť nový kontakt</string>
   <string name="contacts_unavailable_import_contacts">Importovať kontakty zo súboru</string>
   <string name="convenient_service">Služby</string>
+  <string name="copy_number">Kopírovať</string>
   <string name="copy_text">Kopírovať do schránky</string>
   <string name="createContactShortcutSuccessful">Widget kontaktu bol pridaný na plochu.</string>
   <string name="create_group_dialog_title">Vytvoriť novú skupinu</string>
@@ -1140,7 +1141,11 @@ Synchronizujte ich teraz."</string>
   <string name="success_message_import_from_account">Import bol úspešný</string>
   <string name="summary_kind_title">Súhrn</string>
   <string name="t9_search_guide_pinyin">Stlačte 7 a 8 pre vyhľadanie Svokry</string>
+  <string name="t9_search_guide_pinyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
+  <string name="t9_search_guide_pinyin_title2">Stlačte 2 alebo 3 pre vyhľadanie Adam Ferko</string>
   <string name="t9_search_guide_zhuyin">Stlačte 7 a 8 pre vyhľadanie Svokry</string>
+  <string name="t9_search_guide_zhuyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
+  <string name="t9_search_guide_zhuyin_title2">Stlačte 5 alebo 6 pre vyhľadanie Jožko Mrkvička</string>
   <string name="take_new_photo">Urobiť novú fotografiu</string>
   <string name="take_photo">Urobiť fotografiu</string>
   <string name="titleJoinContactDataWith">Spojiť kontakty</string>
@@ -1240,9 +1245,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="copy_number">Kopírovať</string>
-  <string name="t9_search_guide_pinyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
-  <string name="t9_search_guide_pinyin_title2">Stlačte 2 alebo 3 pre vyhľadanie Adam Ferko</string>
-  <string name="t9_search_guide_zhuyin_title1">Rýchle vyhľadanie kontaktu stlačením písmen</string>
-  <string name="t9_search_guide_zhuyin_title2">Stlačte 5 alebo 6 pre vyhľadanie Jožko Mrkvička</string>
 </resources>

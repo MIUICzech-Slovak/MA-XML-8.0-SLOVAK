@@ -721,6 +721,7 @@
   <string name="video_editor_text_none">Žiaden</string>
   <string name="video_editor_text_preview_text">Text</string>
   <string name="video_editor_trim">Orezať</string>
+  <string name="video_editor_unsupport_audio_file">Nepodporovaný audio súbor</string>
   <string name="video_err">"Nie je možné prehrať video."</string>
   <string name="video_not_exist">Video sa nenašlo</string>
   <string name="view_baby_album">Zobraziť Detský album</string>
@@ -735,5 +736,4 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
-  <string name="video_editor_unsupport_audio_file">Nepodporovaný audio súbor</string>
 </resources>

@@ -238,6 +238,11 @@ Použite sieťovú nabíjačku."</string>
   <string name="screen_pinning_negative">Nie</string>
   <string name="screen_pinning_positive">OK</string>
   <string name="screen_pinning_title">Obrazovka je pripnutá</string>
+  <string name="screenshot_delete">Vymazať</string>
+  <string name="screenshot_delete_dlg_msg">Naozaj chcete vymazať tento screenshot?</string>
+  <string name="screenshot_delete_dlg_title">Vymazať</string>
+  <string name="screenshot_dlg_cancel">Zrušiť</string>
+  <string name="screenshot_dlg_delete_button">Vymazať</string>
   <string name="screenshot_edit">Upraviť</string>
   <string name="screenshot_failed_text">Nie je možné uložiť screenshot. Nedostatok voľného miesta na úložisku.</string>
   <string name="screenshot_long_screenshot">Dlhý</string>
@@ -341,9 +346,4 @@ posunutím nadol uzamknete"</string>
   <string name="wifi_remembered">Uložené</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="screenshot_delete">Vymazať</string>
-  <string name="screenshot_delete_dlg_msg">Naozaj chcete vymazať tento screenshot?</string>
-  <string name="screenshot_delete_dlg_title">Vymazať</string>
-  <string name="screenshot_dlg_cancel">Zrušiť</string>
-  <string name="screenshot_dlg_delete_button">Vymazať</string>  
 </resources>

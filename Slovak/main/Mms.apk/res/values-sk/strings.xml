@@ -44,6 +44,7 @@
   <string name="batch_deleting_progress_message">Odstrániť celé vlákno správ</string>
   <string name="bcc_label">"Bcc: "</string>
   <string name="block_messaging_entry_title">Blokované SMS</string>
+  <string name="block_support_text"/>
   <string name="bookmark">Obľúbené</string>
   <string name="bookmark_confirm_delete_message">Vybrané správy budú odstránené z obľúbených</string>
   <string name="bookmark_empty">Žiadne obľúbené správy</string>
@@ -181,6 +182,7 @@
   <string name="file_title">"Názov: "</string>
   <string name="file_width_height">"Veľkosť: "</string>
   <string name="flatshow_page_no">%1$d</string>
+  <string name="force_touch_new_message_title">Nová správa</string>
   <string name="forward_from">"Preposlané od: "</string>
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do Vášho súčasného účtu: %2$s?</string>
@@ -334,6 +336,7 @@
   <string name="need_download">Čakanie na synchronizáciu...</string>
   <string name="networking_allow_continue">OK</string>
   <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc_without_mx">Inteligentné správy umožňujú rozpoznávanie neznámych čísel, filtrovať spam, atď. Používaním tejto služby súhlasíte s Xiaomi %1$s a %2$s.</string>
   <string name="networking_allow_title">Attention</string>
   <string name="new_message">Nová správa</string>
   <string name="new_message_arrived">Prišla nová správa</string>
@@ -632,7 +635,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
-  <string name="block_support_text"/>
-  <string name="force_touch_new_message_title">Nová správa</string>
-  <string name="networking_allow_desc_without_mx">Inteligentné správy umožňujú rozpoznávanie neznámych čísel, filtrovať spam, atď. Používaním tejto služby súhlasíte s Xiaomi %1$s a %2$s.</string>
 </resources>

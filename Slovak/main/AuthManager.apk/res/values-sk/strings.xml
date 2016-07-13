@@ -218,6 +218,8 @@
   <string name="HIPS_Perm_add_voicemail_Desc">Pridať hlasové správy</string>
   <string name="HIPS_Perm_get_accounts">Prístup k účtom v zariadení</string>
   <string name="HIPS_Perm_get_accounts_Desc">Prístup k všetkým účtom uloženým v zariadení</string>
+  <string name="HIPS_Perm_get_tasks">Dostať úlohy</string>
+  <string name="HIPS_Perm_get_tasks_Desc">dostať úlohy</string>
   <string name="HIPS_Perm_install_shortcut">Odkazy na domácej ploche</string>
   <string name="HIPS_Perm_install_shortcut_Desc">Pridať odkaz na domácu plochu</string>
   <string name="HIPS_Perm_process_nfc">NFC</string>
@@ -260,6 +262,7 @@
   <string name="Privacy_Perm_Count">Povolené: %1$d Zakázané: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s sa pokúša získať práva ROOT, čo je z dôvodu bezpečnosti štandardne zakázané. Ak chcete oprávnenia povoliť, urobte tak v nastavení aplikácie Povolenia.</string>
   <string name="Su_Package_Forbidden">%1$s nemá ROOT práva.</string>
+  <string name="Su_Package_Forbidden2">nemá práva ROOT.</string>
   <string name="Su_Unavailable">ROOT nie je dostupný v Stabilnej verzii MIUI. Nainštalujte si vývojársku verziu MIUI pre aktiváciu práv ROOT.</string>
   <string name="SysOpt_Boost_AutoStart">Práva autom. spustenia</string>
   <string name="SysOpt_Boost_AutoStart_Group">Automatické spustenie</string>
@@ -282,11 +285,8 @@
   <string name="permission_request_title">Požiadavka na oprávnenie</string>
   <string name="permission_warning_template">Povoliť %1$s pre %2$s ?</string>
   <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnenie %2$s. Práva aplikácie môžete zmeniť v Optimalizácia &gt; Povolenia."</string>
+  <string name="permisson_reject_notice_toast_text2">nemá práva pre %1$s.</string>
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">Pre zmenu nastavenia tohoto povolenia, musíte najskôr vypnúť prekrytie displeja v Nastavenia &gt; Aplikácie</string>
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
-  <string name="Su_Package_Forbidden2">nemá práva ROOT.</string>
-  <string name="permisson_reject_notice_toast_text2">nemá práva pre %1$s.</string>
-  <string name="HIPS_Perm_get_tasks">Dostať úlohy</string>
-  <string name="HIPS_Perm_get_tasks_Desc">dostať úlohy</string>  
 </resources>

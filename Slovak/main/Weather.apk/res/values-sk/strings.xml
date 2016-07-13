@@ -20,6 +20,7 @@
   <string name="activity_weathermain_locationg">Získavanie polohy...</string>
   <string name="activity_weathermain_locationg_error">Zistenie polohy zlyhalo</string>
   <string name="add_city">Pridať mesto</string>
+  <string name="alert_warning">Varovania</string>
   <string name="app_name">Počasie</string>
   <string name="button_abandon">Zrušiť zmeny</string>
   <string name="button_add_city">Pridať mesto</string>
@@ -82,6 +83,8 @@ Zadajte vaše mesto manuálne"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkosť</string>
   <string name="realtime_wind_default_title">Vietor</string>
+  <string name="retry">Znova</string>
+  <string name="set">Nastavenia</string>
   <string name="share">Zdieľať</string>
   <string name="share_btn_cancel">Zrušiť</string>
   <string name="share_btn_confirm">Zdieľať</string>
@@ -95,14 +98,11 @@ Zadajte vaše mesto manuálne"</string>
   <string name="sunrise">Východ slnka</string>
   <string name="sunset">Západ slnka</string>
   <string name="title_share_link">Zdieľať URL</string>
+  <string name="unit">Jednotky</string>
+  <string name="unit_temperature">Teplota</string>
+  <string name="unit_wind">Rýchlosť vetra</string>
   <string name="view_forecast_item_yesterday">Včera</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="weather_alert">Varovania</string>
-  <string name="alert_warning">Varovania</string>
-  <string name="retry">Znova</string>
-  <string name="set">Nastavenia</string>
-  <string name="unit">Jednotky</string>
-  <string name="unit_temperature">Teplota</string>
-  <string name="unit_wind">Rýchlosť vetra</string>
 </resources>

@@ -27,6 +27,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
+  <string name="empty_recognition_tip">Prázdne</string>
   <string name="error_app_internal">Vnútorná chyba aplikácie</string>
   <string name="error_app_internal_title">Chyba záznamníka</string>
   <string name="error_file_access">Súbor neexistuje alebo je poškodený</string>
@@ -137,5 +138,4 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="empty_recognition_tip">Prázdne</string>
 </resources>
