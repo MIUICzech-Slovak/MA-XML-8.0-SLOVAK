@@ -99,7 +99,7 @@
   <string name="namecard_vendor_info">Poskytuje CamCard</string>
   <string name="nickname">"Prezývka: "</string>
   <string name="no_network">Nebolo možné sa pripojiť k sieti</string>
-  <string name="no_storage">Vložte SD kartu</string>
+  <string name="no_storage">Žiadne úložisko</string>
   <string name="not_insert_contact">Nie je možné pridať kontakt</string>
   <string name="not_recommend_access_web_url">Aj tak otvoriť</string>
   <string name="not_tips">Viac nezobrazovať</string>
@@ -107,7 +107,7 @@
   <string name="phone">"telefón: "</string>
   <string name="picker_lable">Fotografia</string>
   <string name="place_barcode_into_rectangle">Zamerajte kód do rámčeka</string>
-  <string name="preparing_sd">Príprava SD karty...</string>
+  <string name="preparing_sd">Príprava úložiska...</string>
   <string name="previous">Naspäť</string>
   <string name="qr_code_details">"QR kód: "</string>
   <string name="recognize">Skenovať</string>
@@ -120,7 +120,7 @@
   <string name="shopping_searching">Vyhľadávanie produktu...</string>
   <string name="shopping_title">Odfoťte produkt</string>
   <string name="shopping_vendor_info">Technical support by Taobao</string>
-  <string name="spaceIsLow_content">Nie je dostatok voľného miesta na SD karte.</string>
+  <string name="spaceIsLow_content">Nie je dostatok voľného miesta na úložisku.</string>
   <string name="study_rotate_picture">Spracovávanie...</string>
   <string name="study_scan_result">Výsledok</string>
   <string name="study_searching">Vyhľadávanie...</string>

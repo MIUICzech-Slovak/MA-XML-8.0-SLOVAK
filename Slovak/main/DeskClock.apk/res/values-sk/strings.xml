@@ -133,4 +133,7 @@
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
   <string name="more_settings">Viac nastavení</string>
+  <string name="force_touch_add_alarm">Budík</string>
+  <string name="force_touch_enter_stopwatch">Stopky</string>
+  <string name="force_touch_enter_timer">Časovač</string>
 </resources>

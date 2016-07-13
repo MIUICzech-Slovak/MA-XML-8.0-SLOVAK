@@ -634,4 +634,5 @@ Pokus: %s."</string>
   <string name="yes">OK</string>
   <string name="block_support_text"/>
   <string name="force_touch_new_message_title">Nová správa</string>
+  <string name="networking_allow_desc_without_mx">Inteligentné správy umožňujú rozpoznávanie neznámych čísel, filtrovať spam, atď. Používaním tejto služby súhlasíte s Xiaomi %1$s a %2$s.</string>
 </resources>

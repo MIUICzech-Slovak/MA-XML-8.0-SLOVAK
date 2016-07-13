@@ -384,4 +384,5 @@
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
   <string name="force_touch_title_add_new_event">Pridať novú udalosť</string>
+  <string name="swipe_up_guide_hint_text">Potiahnite nahor pre viac info.</string>
 </resources>
