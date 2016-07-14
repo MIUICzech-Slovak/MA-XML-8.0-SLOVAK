@@ -240,7 +240,7 @@ alebo zadajte heslo"</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_button">Zrušiť</string>
   <string name="captive_portal_exception_title">Pripojiť na verejnú sieť</string>
-  <string name="charging_text_battery_full_time">Naposledy nabité</string>
+  <string name="charging_text_battery_full_time">"Naposledy nabité "</string>
   <string name="charging_text_battery_nearly_full">Skoro nabité</string>
   <string name="charging_text_battery_perfect">Nabité</string>
   <string name="charging_text_time_calculating">Výpočet času nabíjania...</string>
