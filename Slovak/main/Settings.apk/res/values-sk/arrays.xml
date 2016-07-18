@@ -721,6 +721,7 @@ Postupujte podľa pokynov"</item>
         <item>Detský režim</item>
 	    <item>Súkromné súbory</item>
 		<item>Zámok aplikácií</item>
+		<item>Druhý profil</item>
     </string-array>
     <string-array name="organized_locales">
         <item>sk</item>
