@@ -791,7 +791,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="power_button_delete">Vymazať</string>
   <string name="power_cell">Telefón v pohotovostnom režime</string>
   <string name="power_center_auto_shutdown">Automaticky Zap./Vyp.</string>
-  <string name="power_center_battery_full">Batéria je nabitá</string>
+  <string name="power_center_battery_full">"Batéria je nabitá "</string>
   <string name="power_center_charge_time">Nabité bude o %1$s</string>
   <string name="power_center_consume_rank">Spotreba</string>
   <string name="power_center_consume_time">Ostáva %1$s</string>
