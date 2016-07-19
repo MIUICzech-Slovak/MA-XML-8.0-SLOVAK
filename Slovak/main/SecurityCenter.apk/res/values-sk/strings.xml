@@ -1241,7 +1241,7 @@ neoprávneného používania vašich aplikácií"</string>
   <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
   <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
   <string name="title_find_device">Povoliť Vyhľadanie zariadenia</string>
-  <string name="title_flow_notification">Info o spotrebe dát je skryté</string>
+  <string name="title_flow_notification">Upozornenie mobilných dát</string>
   <string name="title_flow_purchase">Čas pre navýšenie!</string>
   <string name="title_flow_verify">Info o spotrebe dát od operátora</string>
   <string name="title_garbage_lib">Automatická aktualizácia je vypnutá</string>

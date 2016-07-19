@@ -201,4 +201,9 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
+  <string name="mark_number_check_choose_others">Vybrať iné</string>
+  <string name="mark_number_check_dialog_title">Označiť číslo</string>
+  <string name="mark_number_check_most_choice">(Najčastejšia voľba)</string>
+  <string name="mark_number_feedback_not_number">Nie je to číslo %s</string>
+  <string name="mark_number_feedback_personal_number">Je to súkromné číslo</string>
 </resources>

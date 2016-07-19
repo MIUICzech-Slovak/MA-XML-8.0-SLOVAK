@@ -736,4 +736,7 @@
   <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
+  <string name="custom_select_title_quickly_share">Rýchle zdieľanie</string>
+  <string name="fast_share_auto_render">Vylepšiť</string>
+  <string name="fast_share_auto_render_finish">Vylepšené</string>
 </resources>

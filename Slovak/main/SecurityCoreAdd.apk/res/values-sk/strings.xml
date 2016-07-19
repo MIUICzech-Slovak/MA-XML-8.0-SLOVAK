@@ -242,4 +242,7 @@ Môžete ich aj znova stiahnúť."</string>
  pre prístup do Druhého profilu zo zamykacej obrazovky"</string>
   <string name="sure_to_use">Potvrdiť</string>
   <string name="xspace_install_failed">Nebolo možné vytvoriť</string>
+  <string name="scanner_fingerprint">Skenovanie odtlačku...</string>
+  <string name="scanner_fingerprint_enter_second">"Skenovať odtlačok Druhého profilu
+ pre prístup do Druhého profilu zo zamykacej obrazovky"</string>  
 </resources>
