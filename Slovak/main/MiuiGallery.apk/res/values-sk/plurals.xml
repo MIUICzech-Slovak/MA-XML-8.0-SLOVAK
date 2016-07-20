@@ -262,11 +262,11 @@
         <item quantity="one">Sťahovanie fotografie (%2$dMB) zlyhalo, skôsiť znova?</item>
      </plurals>
     <plurals name="fast_share_auto_render_failed">
-        <item quantity="other">Vykreslenie %1$d fotografií zlyhalo, preskočiť</item>
-        <item quantity="one">Vykreslenie 1 fotografie zlyhalo, preskočiť</item>
+        <item quantity="other">Preskočené vykreslenie %1$d fotografií</item>
+        <item quantity="one">Preskočené vykreslenie 1 fotografie</item>
     </plurals>	 
     <plurals name="picker_skip_unavailable_images">
-        <item quantity="other">%d fotografií nie je v zariadení, preskočiť</item>
-        <item quantity="one">Fotografia nie je v zariadení, preskočiť</item>
+        <item quantity="other">Preskočené %d fotografie ktoré nie sú v zariadení</item>
+        <item quantity="one">Preskočená 1 fotografia ktorá nie je v zariadení</item>
     </plurals>	 	
 </resources>

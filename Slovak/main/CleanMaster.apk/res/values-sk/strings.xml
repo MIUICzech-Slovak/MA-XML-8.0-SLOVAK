@@ -394,4 +394,20 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="app_install_tips_go_to">Spustiť</string>
+  <string name="app_install_tips_install_success">%1$s nainštalované</string>
+  <string name="app_name">CleanMaster</string>
+  <string name="browser_scan_history_desc">História prehliadača</string>
+  <string name="browser_search_history_desc">História vyhľadávania</string>
+  <string name="call_log">História hovorov</string>
+  <string name="clip_board_history_desc">Skopírované/vystrihnuté položky</string>
+  <string name="clipboard">Schránka</string>
+  <string name="hints_scan_has_finish">Čistenie dokončené</string>
+  <string name="junk_tag_RF_EmptyFolders">Prázdne zložky</string>
+  <string name="junk_tag_RF_ImageThumbnails">Náhľady v galérií</string>
+  <string name="phone_search">Vyhľadávanie Google</string>
+  <string name="privacy_appdata_chrome_history_des">História webstránok</string>
+  <string name="search_history">História vyhľadávania</string>
+  <string name="sms">SMS/MMS</string>
+  <string name="start_downloading_app">Stiahnuť: %1$s</string>
 </resources>

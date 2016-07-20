@@ -65,4 +65,5 @@
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="accessibility_enter_lock_wallpaper">Dotknite sa tapety zamykacej obrazovky</string>
 </resources>
