@@ -636,5 +636,5 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
   <string name="pref_delivery_ringtone">Zvukové upozornenie</string>
-  <string name="pref_summary_delivery_ringtone">Upozorniť zvukom pri doručení správy.</string>
+  <string name="pref_summary_delivery_ringtone">Upozorniť zvukom pri doručení správy</string>
 </resources>
