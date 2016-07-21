@@ -514,7 +514,7 @@
   <string name="picker_title_unlimit">vyberte obrázok</string>
   <string name="posterize">Posterizovať</string>
   <string name="preparing_data">Spracovávanie dát...</string>
-  <string name="projection_checkbox_text">Památať toto zariadenie</string>
+  <string name="projection_checkbox_text">Pamätať toto zariadenie</string>
   <string name="projection_local_mobile">Mobil</string>
   <string name="projection_multi_title">Zoznam zariadení</string>
   <string name="projection_single_title">Zobraziť na %s</string>
