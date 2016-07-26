@@ -739,4 +739,7 @@
   <string name="custom_select_title_quickly_share">Rýchle zdieľanie</string>
   <string name="fast_share_auto_render">Vylepšiť</string>
   <string name="fast_share_auto_render_finish">Vylepšené</string>
+  <string name="album_show_local_only">Zobraziť len lokálne albumy</string>
+  <string name="delete_from_cloud">Vymazať položky z cloudového albumu</string>
+  <string name="projection_device_connection_failed">Pripojenie k TV zlyhalo</string>
 </resources>

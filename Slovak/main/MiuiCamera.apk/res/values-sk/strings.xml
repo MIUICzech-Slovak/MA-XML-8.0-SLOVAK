@@ -394,4 +394,8 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
+  <string name="face_beauty_close">Vyp.</string>
+  <string name="face_beauty_smart">Inteligentné</string>
+  <string name="pref_camera_beautify_entry_close">Vyp.</string>
+  <string name="video_camera_label">Videokamera</string>
 </resources>
