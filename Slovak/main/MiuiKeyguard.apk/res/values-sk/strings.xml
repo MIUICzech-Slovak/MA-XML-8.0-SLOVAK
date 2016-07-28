@@ -66,4 +66,6 @@
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
   <string name="accessibility_enter_lock_wallpaper">Dotykom otvoríte Galériu tapiet</string>
+  <string name="lock_wallpaper_learn_more">Zistiť viac &gt;</string>
+  <string name="lock_wallpaper_see_more">Zistiť viac &gt;</string>  
 </resources>

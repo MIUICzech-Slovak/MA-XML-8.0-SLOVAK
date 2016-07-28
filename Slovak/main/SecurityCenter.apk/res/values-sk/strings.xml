@@ -1442,4 +1442,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_encryption">Wi-Fi šifrovanie</string>
   <string name="wifi_item_title_fake">Detekcia falošnej Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
+  <string name="pm_root_success_notification_infomation">Uistite sa, že rozumiete rizikám s používaním ROOT práv</string>
+  <string name="settings_title_payment_security">Nastavenie bezpečnosti platieb</string>
 </resources>

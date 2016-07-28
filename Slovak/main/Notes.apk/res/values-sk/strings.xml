@@ -150,4 +150,5 @@ http://www.miuios.cz/rom
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
   <string name="force_touch_menu_add">Pridať poznámku</string>
+  <string name="menu_send_as_text">Odoslať ako text</string>
 </resources>
