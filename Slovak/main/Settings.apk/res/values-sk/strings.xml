@@ -1368,12 +1368,12 @@ Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."<
   <string name="erase_external_storage_description">Vymazať všetky dáta v telefóne, napríklad hudbu a fotografie.</string>
   <string name="erase_internal_storage">Vymazať interné úložisko</string>
   <string name="erase_internal_storage_description">Formátovanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>
-  <string name="erase_optional">Voliteľné vymazanie</string>
+  <string name="erase_optional">Voliteľné</string>
   <string name="erase_personal_data">Osobné údaje</string>
   <string name="erase_personal_data_description">Vrátane účtov, kontaktov, zoznamu hovorov a iných údajov.</string>
   <string name="erase_sd_data">Formátovať SD kartu</string>
   <string name="erase_sd_data_description">Formátovanie vymaže všetky súbory na SD karte</string>
-  <string name="erase_sure">Vymazať</string>
+  <string name="erase_sure">Dôležité</string>
   <string name="error_apn_empty">Názov prístupového bodu (APN) nesmie byť prázdny.</string>
   <string name="error_mcc_not3">Pole MCC musí obsahovať aspoň 3 číslice.</string>
   <string name="error_mnc_not23">Pole MNC musí obsahovať 2 alebo 3 číslice.</string>
@@ -2496,7 +2496,7 @@ Vyberte váš operačný systém:"</string>
   <string name="permission_detail_info">Zobraziť podrobnosti práv</string>
   <string name="permission_detail_info_summary">Všetky práva: Bezp. %1$d Súkromné %2$d Ostatné %3$d</string>
   <string name="permission_manage">Správa práv</string>
-  <string name="permission_manage_summary">Automatický štart, súkromie, bezpečnosť.</string>
+  <string name="permission_manage_summary">Spravovať oprávnenia a bezpečnosť</string>
   <string name="permission_manage_title">%s podrobností práv</string>
   <string name="permission_manager">Povolenia</string>
   <string name="permission_mgr">Povolenia</string>

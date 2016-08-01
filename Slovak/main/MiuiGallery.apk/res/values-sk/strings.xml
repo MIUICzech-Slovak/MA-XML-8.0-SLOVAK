@@ -743,10 +743,10 @@
   <string name="delete_from_cloud">Vymazať položky z cloudového albumu</string>
   <string name="projection_device_connection_failed">Pripojenie k TV zlyhalo</string>
   <string name="crop_and_rotate">Prispôsobiť</string>
-  <string name="move_to_other_albums_tip">Synchronizácia albumu s MiCloud bude vypnutá, ak ho presuniete do ostatných albumov. Presunúť album teraz?</string>
+  <string name="move_to_other_albums_tip">Synchronizácia s MiCloud bude vypnutá ak presuniete tento album do Ostatných albumov. Presunúť teraz?</string>
   <string name="operation_move_to_other_albums">Presunúť do Ostatných albumov</string>
   <string name="operation_remove_from_other_albums">Odobrať z Ostatných albumov</string>
-  <string name="remove_from_other_albums_tip">Synchronizácia albumu s MiCloud by mala byť zapnutá keď ho odoberiete z ostatných albumov. Odobrať album teraz?</string>
+  <string name="remove_from_other_albums_tip">Zapnite synchronizáciu s MiCloud pre presunutie položiek z Ostatných albumov. Presunúť teraz?</string>
   <string name="turn_off_and_move">Vypnúť a presunúť</string>
-  <string name="turn_on_and_remove">Zapnúť a odobrať</string>  
+  <string name="turn_on_and_remove">Zapnúť a presunúť</string>  
 </resources>
