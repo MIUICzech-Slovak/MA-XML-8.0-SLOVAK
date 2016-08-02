@@ -4626,4 +4626,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="permission_settings_summary">Spravovať povolenia pre polohu, úložisko, hovory, správy, a kontakty.</string>
   <string name="permission_settings_title">Povolenia aplikácie</string>
   <string name="google_backup_enable">Povoliť zálohovanie</string>
+  <string name="lattice_smartcover_title">Dierkovaný kryt</string>
 </resources>
