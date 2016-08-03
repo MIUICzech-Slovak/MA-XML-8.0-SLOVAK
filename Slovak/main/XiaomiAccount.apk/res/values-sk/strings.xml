@@ -374,5 +374,9 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="user_avatar_uploading">Nahrávanie...</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Niektoré položky neboli synchronizované."</string>
+  <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
+  <string name="notify_network_restricted_content_bg_network">Prístup Xiaomi účtu k internetu na pozadí je zakázaný. Dotykom povolíte.</string>
+  <string name="notify_network_restricted_content_hidden_state">Aktivita Xiaomi účtu na pozadí je zakázaná.  Dotykom povolíte.</string>
+  <string name="notify_network_restricted_content_mobile_network">Prístup Xiaomi účtu k internetu je zakázaný.  Dotykom povolíte.</string>
+  <string name="notify_network_restricted_title">Xiaomi účet nemá povolenie na prístup k internetu</string>
 </resources>

@@ -876,8 +876,8 @@ Synchronizujte ich teraz."</string>
   <string name="photo_fragment">Fotografia</string>
   <string name="photo_labels_group">Profilová fotografia</string>
   <string name="photo_load_failed">Nebolo možné načítať fotografiu</string>
-  <string name="pick_new_photo">Vybrať z Galérie</string>
-  <string name="pick_photo">Vybrať z Galérie</string>
+  <string name="pick_new_photo">Vybrať z %s</string>
+  <string name="pick_photo">Vybrať z %s</string>
   <string name="pickerNewContactHeader">Vytvoriť nový kontakt</string>
   <string name="pickerNewContactText">Vytvoriť nový kontakt</string>
   <string name="picker_all_list_empty">Žiadne kontakty</string>
@@ -1246,4 +1246,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="fraud_more_indemnity">Viac</string>
+  <string name="contact_detail_calllog_empty">Žiadna história hovorov</string>
+  <string name="gallery">Galérie</string>
 </resources>

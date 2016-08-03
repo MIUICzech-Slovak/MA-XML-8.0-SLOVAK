@@ -344,4 +344,9 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
+  <string name="mark_courier">Blokovať nahlásených kuriérov</string>
+  <string name="mark_courier_block">Nahlásiť ako kuriéra</string>
+  <string name="mark_courier_block_large">Kuriér</string>
+  <string name="mark_courier_time_setting">Blokovať čísla ktoré boli nahlásené ako kuriér</string>
+  <string name="mark_number_courier">Kuriér</string>
 </resources>

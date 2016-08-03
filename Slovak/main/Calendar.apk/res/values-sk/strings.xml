@@ -216,7 +216,7 @@
   <string name="path_calendar">Systémové aplikácie/Kalendár/Nastavenia</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
-  <string name="pref_error_no_ringtone_select">Žiadne</string>
+  <string name="pref_error_no_ringtone_select">Predvolené zvonenie</string>
   <string name="pref_title_alarm_remind">Zvukové upozornenie</string>
   <string name="pref_title_alert_remind">Vyskakovacie okno</string>
   <string name="pref_title_no_remind">Žiadne upozornenie</string>
@@ -385,4 +385,13 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="setting_about_calendar_version">"Verzia kalendára: "</string>
+  <string name="setting_about_imei">IMEI:</string>
+  <string name="setting_about_miui_version">"Verzia MIUI: "</string>
+  <string name="setting_about_summary">"Verzia: "</string>
+  <string name="setting_holiday_display_desc">Sviatky na hlavnej obrazovke kalendára</string>
+  <string name="setting_holiday_display_title">Zobraziť sviatky</string>
+  <string name="setting_holiday_reminder">Upozorniť na sviatky</string>
+  <string name="setting_homepage">Hlavná obrazovka</string>
+  <string name="setting_title_about">O aplikácií</string>
 </resources>
