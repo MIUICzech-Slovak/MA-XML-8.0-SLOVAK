@@ -4627,4 +4627,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="permission_settings_title">Povolenia aplikácie</string>
   <string name="google_backup_enable">Povoliť zálohovanie</string>
   <string name="lattice_smartcover_title">Dierkovaný kryt</string>
+  <string name="screenshot">Screenshot</string>
+  <string name="screenshot_three_gesture">Posuňte troma prstami nadol po displeji pre zhotovenie screenshotu</string>
+  <string name="tether_share_qrcode_title">Zdieľať QR kód</string>
 </resources>
