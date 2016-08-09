@@ -1132,7 +1132,7 @@ Synchronizujte ich teraz."</string>
   <string name="social_widget_loading">Nahrávam …</string>
   <string name="splitConfirmation"> Skutočne chcete tento kontakt rozdeliť na viac kontaktov? Pre každú pripojenú kontaktnú informáciu bude vytvorený samostatný kontakt.</string>
   <string name="splitConfirmation_title">Oddeliť kontakt</string>
-  <string name="starredList">Označené hviezdičkou</string>
+  <string name="starredList">Obľúbené</string>
   <string name="starred_contacts">Obľúbené</string>
   <string name="status_available">Dostupný</string>
   <string name="status_away">Preč</string>
