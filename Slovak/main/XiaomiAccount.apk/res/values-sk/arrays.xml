@@ -55,4 +55,8 @@
         <item>Aké je meno vašej svokry?</item>
         <item>Kedy má vaša svokra narodeniny?</item>
     </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Muž</item>
+        <item>Žena</item>
+    </string-array>
 </resources>

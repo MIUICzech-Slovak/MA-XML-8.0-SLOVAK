@@ -1055,7 +1055,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="safe_result_header_title_sms">Bezpečnosť správ</string>
   <string name="safe_result_header_title_system">Bezpečnosť systému</string>
   <string name="safe_result_header_title_wifi">Bezpečnosť Wi-Fi</string>
-  <string name="safe_result_item_button_monitor">Sledovanie nastavení</string>
+  <string name="safe_result_item_button_monitor">Nastavenie sledovania</string>
   <string name="safe_result_item_empty_monitor">Žiadna apl. nie je vybraná pre platby</string>
   <string name="safe_result_item_info_app_sign">Žiadne neoficiálne apl.</string>
   <string name="safe_result_item_info_app_virus">Žiadne vírusy a nebezpečné apl.</string>
