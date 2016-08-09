@@ -318,7 +318,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="description_search_button">Hľadať</string>
   <string name="description_send_message">Poslať správu %1$s</string>
   <string name="description_send_text_message">Poslať SMS %1$s</string>
-  <string name="description_star">obľúbený</string>
+  <string name="description_star">Obľúbený</string>
   <string name="description_view_contact">Zobraziť kontakt %1$s</string>
   <string name="description_view_contact_detail">Zobraziť kontakt</string>
   <string name="description_voicemail_button">Hlasová správa</string>
@@ -652,7 +652,7 @@ Chyba: \"%s\""</string>
   <string name="menu_new_group_action_bar">Nová skupina</string>
   <string name="menu_not_redirect_calls_to_vm">Hlasová schránka sa nepoužíva</string>
   <string name="menu_redirect_calls_to_vm">Presmerovať do hlasovej schránky</string>
-  <string name="menu_removeStar">Obľúbený</string>
+  <string name="menu_removeStar">Obľúbené</string>
   <string name="menu_search">Hľadať</string>
   <string name="menu_select_all">Vybrať všetko</string>
   <string name="menu_select_none">Odznačiť všetko</string>
