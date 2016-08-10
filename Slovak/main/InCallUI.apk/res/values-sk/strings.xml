@@ -214,4 +214,5 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="do_not_support_video_calls_by_remote">Video hovor nie je podporovaný druhým zariadením</string>
+  <string name="sip_call_not_support_record">SIP hovor nepodporuje nahrávanie</string>
 </resources>

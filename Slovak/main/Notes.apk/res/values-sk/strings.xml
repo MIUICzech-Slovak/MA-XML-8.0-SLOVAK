@@ -151,4 +151,26 @@ http://www.miuios.cz/rom
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
   <string name="force_touch_menu_add">Pridať poznámku</string>
   <string name="menu_send_as_text">Odoslať ako text</string>
+  <string name="all_folder_name">Všetky poznámky</string>
+  <string name="call_folder_name">Poznámky hovorov</string>
+  <string name="dlg_check_reminder">Viac nezobrazovať</string>
+  <string name="dlg_hide_message">Skrývanie...</string>
+  <string name="dlg_quick_delete_title">Rýchle vymazanie</string>
+  <string name="dlg_restore_message">Obnovenie...</string>
+  <string name="dlg_unhide_message">Odkrývanie...</string>
+  <string name="error_hide_empty_note">Nie je možné skryť prázdnu poznámku</string>
+  <string name="hidden_notes_fragment_title">Ukryté poznámky</string>
+  <string name="menu_delete_forever">Vymazať natrvalo</string>
+  <string name="menu_hide">Ukryť</string>
+  <string name="menu_restore">Obnoviť</string>
+  <string name="menu_unhide">Odkryť</string>
+  <string name="pref_desc_skip_confirm_for_quick_delete">Nezobrazovať potvrdenie o vymazaní pri použití gesta</string>
+  <string name="pref_title_skip_confirm_for_quick_delete">Rýchle vymazanie</string>
+  <string name="root_folder_name">Rýchle poznámky</string>
+  <string name="toast_notes_delete_success">Vymazané</string>
+  <string name="toast_notes_hidden">Ukryté</string>
+  <string name="toast_notes_hidden_count">Ukrytých %1$s</string>
+  <string name="toast_notes_unhidden">Odkryté</string>
+  <string name="toast_notes_unhidden_count">Odkrytých %1$s</string>
+  <string name="trash_folder_name">Kôš</string>
 </resources>
