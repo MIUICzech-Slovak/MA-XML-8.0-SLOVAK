@@ -50,9 +50,9 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s chyba \"%2$s\"</string>
   <string name="feedback_collect_log_failed">Nebolo možné získať záznam o chybe</string>
   <string name="feedback_description">Popis chyby</string>
-  <string name="feedback_description_bugreport_hint">V niektorých prípadoch (…) sa môj správa neštandardne (…).</string>
+  <string name="feedback_description_bugreport_hint">Popis chyby v angličtine.</string>
   <string name="feedback_description_label">Popis chyby v angličtine</string>
-  <string name="feedback_description_suggest_hint">Rád by som požiadal o pridanie novej funkcie () lebo potrebujem ().</string>
+  <string name="feedback_description_suggest_hint">Popis novej funkcie v angličtine.</string>
   <string name="feedback_detail_tile">Stav</string>
   <string name="feedback_empty_report_list">žiadne hlásenia</string>
   <string name="feedback_history_remind_login_desc">Prihláste sa svojim Xiaomi účtom pre zobrazenie podrobností a stav vašich nahlásených chýb.</string>
