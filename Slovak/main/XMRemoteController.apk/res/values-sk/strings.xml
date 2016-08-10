@@ -129,7 +129,6 @@
   <string name="epg_episode_open">Rozbaliť</string>
   <string name="epg_name">Program</string>
   <string name="epg_status_playing_text">Prehráva sa</string>
-  <string name="epg_unbooked_str">可预约</string>
   <string name="episode_intro_title_text">Úvod</string>
   <string name="episode_title">%1$d</string>
   <string name="exit">Ukončiť</string>
@@ -512,11 +511,6 @@ Skontrolujte aj SPAM."</string>
   <string name="scene_name_frame">%1$s - %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screenshot">Screenshot</string>
-  <string name="screenshot_failed">截取电视屏幕失败</string>
-  <string name="screenshot_failed_and_check_connection">截取电视屏幕失败，请检查设备连接设备</string>
-  <string name="screenshot_not_support_adb_devices">暂不支持此类设备的截屏</string>
-  <string name="screenshot_not_support_video">暂不支持截取视频播放画面</string>
-  <string name="screenshoting">正在截图</string>
   <string name="search_failed">Nepodarilo sa vyhľadať</string>
   <string name="search_history">Vyhľadať</string>
   <string name="search_history_clear">Vyčistiť históriu</string>
@@ -530,8 +524,6 @@ Skontrolujte aj SPAM."</string>
   <string name="select_dvb_carrier">Poskytovateľ</string>
   <string name="setting_airkan">Airkan</string>
   <string name="setting_common">Všeobecné</string>
-  <string name="setting_sharerc">他人分享</string>
-  <string name="setting_sharerc_tips">接受来自附近他人分享的遥控器信息</string>
   <string name="setting_version">Verzia V%1$s</string>
   <string name="share">Zdieľať</string>
   <string name="share_action_cancel">Zrušiť</string>
