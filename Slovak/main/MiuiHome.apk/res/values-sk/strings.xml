@@ -264,7 +264,6 @@
   <string name="wallpaper_failed_message">Nie je možné nastaviť tapetu</string>
   <string name="wallpaper_scaling_message">Nastavenie pevnej veľkosti</string>
   <string name="wallpaper_scroll_type_tips">Posúvanie tapety</string>
-  <string name="wallpaper_scrolling">všetko</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
   <string name="wallpaper_success_message">Tapeta nastavená</string>
   <string name="widget_favorite_contacts_edit">Editor</string>

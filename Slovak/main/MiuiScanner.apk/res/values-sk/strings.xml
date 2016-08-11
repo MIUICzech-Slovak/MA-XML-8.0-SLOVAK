@@ -27,7 +27,6 @@
   <string name="crop_done_description">Hotovo</string>
   <string name="crop_title_study">Orezať fotografiu</string>
   <string name="crop_title_translation">Vyberte text na preklad</string>
-  <string name="default_language">@string/language_value_english</string>
   <string name="dialog_dismiss">Zrušiť</string>
   <string name="dialog_report">Nahlásiť</string>
   <string name="document_color_picture">Farebne</string>
