@@ -139,4 +139,8 @@
         <item quantity="other">Nedeaktivovať pre %d apl.</item>
         <item quantity="one">Nedeaktivovať pre 1 apl.</item>
     </plurals>	
+    <plurals name="connected_devices_number">
+        <item quantity="other">Zariadení: %d</item>
+        <item quantity="one">Zariadení: %d</item>
+    </plurals>	
 </resources>

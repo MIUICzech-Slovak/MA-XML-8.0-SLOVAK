@@ -4630,4 +4630,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screenshot">Screenshot</string>
   <string name="screenshot_three_gesture">Posuňte troma prstami nadol po displeji pre zhotovenie screenshotu</string>
   <string name="tether_share_qrcode_title">Zdieľať QR kód</string>
+  <string name="max_cpu2_info">"2 jadrá "</string>
+  <string name="no_connected_devices">Žiadne pripojené zariadenia</string>
+  <string name="show_connected_devices_summary">Zobraziť pripojené zariadenia</string>
+  <string name="show_connected_devices_title">Pripojené zariadenia</string>
+  <string name="tether_devices_management_title">Spravovať zariadenia</string>
+  <string name="tether_settings_disabled">Prenosný Hot-spot je deaktivovaný</string>
 </resources>

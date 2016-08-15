@@ -289,4 +289,8 @@
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">Pre zmenu nastavenia tohoto povolenia, musíte najskôr vypnúť prekrytie displeja v Nastavenia &gt; Aplikácie</string>
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
+  <string name="HIPS_Perm_background_start_activity">Spustiť na pozadí</string>
+  <string name="HIPS_Perm_background_start_activity_Desc">Spustiť aplikáciu na pozadí</string>  
+  <string name="HIPS_Perm_show_when_locked">Zobraziť na zamykacej obrazovke</string>
+  <string name="HIPS_Perm_show_when_locked_Desc">Bude zobrazené na zamykacej obrazovke</string>
 </resources>

@@ -659,4 +659,5 @@ Získali ste ďalších %1$s"</string>
   <string name="force_touch_clean">Vyčistiť</string>
   <string name="force_touch_search">Vyhľadať</string>
   <string name="phone_storage_info_str">Dostupné: %1$s | Celkom: %2$s</string>
+  <string name="select_volume">Vyberte miesto uloženia</string>
 </resources>

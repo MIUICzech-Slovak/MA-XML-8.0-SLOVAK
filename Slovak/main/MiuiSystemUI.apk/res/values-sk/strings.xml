@@ -347,4 +347,5 @@ posunutím nadol uzamknete"</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="accessibility_assistant">Dotykový asistent.</string>
+  <string name="status_bar_volte_label">HD</string>
 </resources>

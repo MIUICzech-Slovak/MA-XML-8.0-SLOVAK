@@ -269,4 +269,16 @@
         <item quantity="other">Preskočené %d fotografie ktoré nie sú v zariadení</item>
         <item quantity="one">Preskočená 1 fotografia ktorá nie je v zariadení</item>
     </plurals>	 	
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">Nebolo možné stiahnuť %1$d fotografií, pripojte sa k sieti a skúste to znova</item>
+        <item quantity="one">Nebolo možné stiahnuť fotografiu, pripojte sa k sieti a skúste to znova</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">Nebolo možné stiahnuť %1$d fotografií (%2$dMB), pripojte sa k sieti a skúste to znova</item>
+        <item quantity="one">Nebolo možné stiahnuť fotografiu (%2$dMB), pripojte sa k sieti a skúste to znova</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Pridaných %d cloud fotografií, deaktivujte \"Zoraziť len lokálne albumy\" pre ich zobrazenie.</item>
+        <item quantity="one">Pridaná %d cloud fotografia, deaktivujte \"Zoraziť len lokálne albumy\" pre ich zobrazenie..</item>
+    </plurals> 
 </resources>
