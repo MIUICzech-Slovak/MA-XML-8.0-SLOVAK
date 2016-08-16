@@ -173,4 +173,9 @@
   <string name="try_again">Skúste znova</string>
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
+  <string name="bugreport_dialog_not_show_again">Viac nezobrazovať</string>
+  <string name="bugreport_dialog_submit_content">Vaše hlásenie môže obsahovať osobné informácie.</string>
+  <string name="feedback_submitting">Odosielanie...</string>
+  <string name="michat_message_error_network">Nebolo možné pripojiť sa k sieti</string>
+  <string name="michat_message_send_error_network">Nebolo možné odoslať, skontrolujte nastavenie siete</string>
 </resources>

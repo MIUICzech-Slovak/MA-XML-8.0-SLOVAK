@@ -826,4 +826,12 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="ad_merge">Reklamy a oznámenia</string>
+  <string name="quick_reply_hint_reply_only_from">Rýchla odpoveď (len odosielateľovi)</string>
+  <string name="ser_resp_err_map_landing_more_failure">Príliš mnoho neúspešných pokusov o prihlásenie</string>
+  <string name="ser_resp_err_map_landing_too_frequently">Príliš mnoho pokusov o prihlásenie</string>
+  <string name="ser_resp_err_map_mailbox_locked">Účet je chránený heslom</string>
+  <string name="ser_resp_err_map_mailbox_not_open">Žiaden účet</string>
+  <string name="ser_resp_err_map_max_connections">Príliš mnoho pokusov o pripojenie</string>
+  <string name="topic_merge">Spojiť témy</string>
 </resources>
