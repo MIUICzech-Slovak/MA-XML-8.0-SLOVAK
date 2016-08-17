@@ -1507,7 +1507,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="optmizingbar_stop_optmize">Zastaviť</string>
   <string name="optmizingbar_title_acceleration">Optimalizácia...</string>
   <string name="optmizingbar_title_clear">Vyčistiť cache</string>
-  <string name="optmizingbar_title_security">Bezpešnosť</string>
+  <string name="optmizingbar_title_security">Bezpečnosť</string>
   <string name="optmizingbar_title_system">Bezpečnosť systému</string>
   <string name="promotion">Reklama</string>
   <string name="recommend_news">Odporúčané zdroje</string>
