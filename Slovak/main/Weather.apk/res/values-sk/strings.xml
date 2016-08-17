@@ -105,4 +105,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="weather_alert">Varovania</string>
+  <string name="global_aqi"/>
+  <string name="hide_topic">Skryť</string>
 </resources>

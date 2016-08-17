@@ -660,4 +660,12 @@ Získali ste ďalších %1$s"</string>
   <string name="force_touch_search">Vyhľadať</string>
   <string name="phone_storage_info_str">Dostupné: %1$s | Celkom: %2$s</string>
   <string name="select_volume">Vyberte miesto uloženia</string>
+  <string name="download">Stiahnuť</string>
+  <string name="download_fail">Nebolo možné stiahnuť</string>
+  <string name="flow_setting">Nastavenia</string>
+  <string name="hot_app">Populárne apl</string>
+  <string name="install_fail">Nebolo možné nainštalovať</string>
+  <string name="only_wifi">Stiahnuť po pripojení na Wi-Fi</string>
+  <string name="open_app">Otvoriť</string>
+  <string name="recent_show">Nedávne</string>
 </resources>

@@ -4636,4 +4636,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="show_connected_devices_title">Pripojené zariadenia</string>
   <string name="tether_devices_management_title">Spravovať zariadenia</string>
   <string name="tether_settings_disabled">Prenosný Hot-spot je deaktivovaný</string>
+  <string name="search_empty">Nič sa nenašlo</string>
+  <string name="forbidden_switch_apn_string">Vybrané nastavenie APN sa nezhoduje so súčasným typom siete</string>
 </resources>
