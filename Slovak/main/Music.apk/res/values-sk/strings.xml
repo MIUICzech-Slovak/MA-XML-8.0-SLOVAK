@@ -229,6 +229,8 @@
   <string name="local_music_empty">Lokálny playlist je prázdny</string>
   <string name="local_music_empty_goto_online">Žiadne skladby</string>
   <string name="local_music_is_not_available">Žiadne skladby</string>
+  <string name="local_page_song_download">Lokálne</string>
+  <string name="local_page_song_favorite">Obľúbené</string>
   <string name="local_tracks_short">Lokálna Hudba</string>
   <string name="login_first">Prihláste sa na Xiaomi účet</string>
   <string name="lrc_search_failed">"Nie je možné nájsť texty"</string>
