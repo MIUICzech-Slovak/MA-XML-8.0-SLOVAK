@@ -1,7 +1,7 @@
-XML_MIUI-v7
-===========
+<dl><dd><a href="https://xiaomi.eu/" target="_blank"><img src="http://i.imgur.com/8mHvQNw.png" border="0" alt="MIUI8_logo"></a></dd></dl>
 
-MIUI-v7 translation for all supported devices. MIUI Translation: **ingbrzy**
+
+MIUI-v8 translation for all supported devices. MIUI Translation: **ingbrzy**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
@@ -15,6 +15,6 @@ For more info visit:
 - [CZECH&SLOVAK MIUI Fansite](http://miuios.cz)  
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-MIUI Android Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
+Translation XML checker http://translators.xiaomi.eu/XML_MIUI8-Slovak-sk.html
 
 MIUI Translation: contact@miuios.cz
