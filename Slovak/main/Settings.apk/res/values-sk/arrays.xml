@@ -499,6 +499,7 @@
         <item>Spustiť Hlasový Asistent</item>
         <item>Spustiť Google Now</item>
         <item>Ukončiť otvorenú aplikáciu</item>
+		<item>Rýchle vyhľadávanie</item>
         <item>Zobraziť Menu</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">

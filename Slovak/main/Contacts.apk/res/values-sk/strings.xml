@@ -1248,4 +1248,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="fraud_more_indemnity">Viac</string>
   <string name="contact_detail_calllog_empty">Žiadna história hovorov</string>
   <string name="gallery">Galérie</string>
+  <string name="search_input_hint">Môžete vyhľadať telefónne číslo alebo služby</string>
 </resources>

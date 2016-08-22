@@ -4638,4 +4638,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="tether_settings_disabled">Prenosný Hot-spot je deaktivovaný</string>
   <string name="search_empty">Nič sa nenašlo</string>
   <string name="forbidden_switch_apn_string">Vybrané nastavenie APN sa nezhoduje so súčasným typom siete</string>
+  <string name="search_force_touch">3D Touch</string>
+  <string name="single_key_use">Režim jedného tlačidla</string>
+  <string name="single_key_use_summary">Použiť tlačidlo Domov namiesto ostatných dvoch tlačidiel</string>
 </resources>

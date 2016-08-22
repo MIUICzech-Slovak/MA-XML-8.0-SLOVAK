@@ -173,4 +173,8 @@ http://www.miuios.cz/rom
   <string name="toast_notes_unhidden">Odkryté</string>
   <string name="toast_notes_unhidden_count">Odkrytých %1$s</string>
   <string name="trash_folder_name">Kôš</string>
+  <string name="alert_title_hidden_note">Prijaté upozornenie od skrytej poznámky</string>
+  <string name="error_send_empty_note">Nie je možné odoslať prázdnu poznámku</string>
+  <string name="error_send_empty_note_to_weibo">Nie je možné odoslať prázdnu poznámku</string>  
+  <string name="menu_new_folder">Nová zložka</string>
 </resources>
