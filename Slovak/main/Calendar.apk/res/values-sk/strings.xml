@@ -394,4 +394,8 @@
   <string name="setting_holiday_reminder">Upozorniť na sviatky</string>
   <string name="setting_homepage">Hlavná obrazovka</string>
   <string name="setting_title_about">O aplikácií</string>
+  <string name="no_visiable_calendar_message">Musíte vybrať účet kalendára, stlačte Vybrať účet.</string>
+  <string name="no_visiable_calendar_select_account">Vybrať účet</string>
+  <string name="no_visiable_calendar_title">Vyberte účet kalendára</string>
+  <string name="template_week_num">Týždeň %1$s</string>
 </resources>

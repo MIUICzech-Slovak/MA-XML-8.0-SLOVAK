@@ -793,4 +793,17 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="suggest_item_delete_text">Vymazať</string>
+  <string name="document_download_background_btn">Sťahovanie na pozadí</string>
+  <string name="document_download_cancel_btn">Zrušiť</string>
+  <string name="document_download_failed">Sťahovanie zlyhalo</string>
+  <string name="document_download_official">Oficiálne sťahovanie</string>
+  <string name="document_download_open_direct">Otvoriť priamo</string>
+  <string name="document_download_title">Sťahovanie</string>
+  <string name="document_open_file">Otvoriť %s</string>
+  <string name="document_open_message">Pre lepšiu kompatibilitu odporúčame používať aplikáciu WPS office</string>
+  <string name="document_open_other">Ostatné aplikácie</string>
+  <string name="document_open_title">Otvoriť s</string>
+  <string name="no_app_open_document">Nenašla sa žiadna aplikácia pre túto akciu</string>
+  <string name="save_file">Uložiť %s súbor</string>
+  <string name="view_document_downloaded_files">Zobraziť stiahnuté aplikácie v Správcovi sťahovania</string>
 </resources>

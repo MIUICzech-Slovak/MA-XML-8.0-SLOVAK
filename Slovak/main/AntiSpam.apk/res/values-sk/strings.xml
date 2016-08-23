@@ -349,4 +349,5 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="mark_courier_block_large">Kuriér</string>
   <string name="mark_courier_time_setting">Blokovať čísla ktoré boli nahlásené ako kuriér</string>
   <string name="mark_number_courier">Kuriér</string>
+  <string name="dlg_add_blacklist_title">Pridať do čiernej listiny</string>
 </resources>

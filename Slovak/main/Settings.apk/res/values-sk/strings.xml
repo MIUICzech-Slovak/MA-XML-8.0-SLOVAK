@@ -4641,4 +4641,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="search_force_touch">3D Touch</string>
   <string name="single_key_use">Režim jedného tlačidla</string>
   <string name="single_key_use_summary">Použiť tlačidlo Domov namiesto ostatných dvoch tlačidiel</string>
+  <string name="long_press_volume_down">Dlhé podržanie hlasitosti nadol</string>
 </resources>
