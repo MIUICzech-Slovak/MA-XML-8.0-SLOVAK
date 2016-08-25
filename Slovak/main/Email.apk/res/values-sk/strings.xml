@@ -834,4 +834,5 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="ser_resp_err_map_mailbox_not_open">Žiaden účet</string>
   <string name="ser_resp_err_map_max_connections">Príliš mnoho pokusov o pripojenie</string>
   <string name="topic_merge">Spojiť témy</string>
+  <string name="compose_paste_address_oob">Vložený text je príliš dlhý</string>
 </resources>
