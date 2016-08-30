@@ -6,7 +6,7 @@
   <string name="back">Späť</string>
   <string name="button_queue_for_wifi">Cez Wi-Fi</string>
   <string name="button_start_now">Stiahnuť</string>
-  <string name="call_record">Nahrávka hovoru (%d)</string>
+  <string name="call_record">Nahrávka hovoru</string>
   <string name="cloud_record">Nahrávka v Cloude (%d)</string>
   <string name="cloud_record_open">Synchr. nahrávky</string>
   <string name="cloud_record_tip">Syncchr. nahrávky s MiCloud.</string>

@@ -178,4 +178,5 @@
   <string name="feedback_submitting">Odosielanie...</string>
   <string name="michat_message_error_network">Nebolo možné pripojiť sa k sieti</string>
   <string name="michat_message_send_error_network">Nebolo možné odoslať, skontrolujte nastavenie siete</string>
+  <string name="upload_log_failed">Nebolo možné odoslať záznam o chybe</string>
 </resources>

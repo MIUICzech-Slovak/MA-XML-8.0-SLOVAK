@@ -45,4 +45,8 @@
         <item quantity="other">Vymazané (%1$d) z histórie.</item>
         <item quantity="one">Vymazané (%1$d) z histórie.</item>
     </plurals>
+    <plurals name="video_subtitle_last_message">
+        <item quantity="other">Ostáva %dmin</item>
+        <item quantity="one">Ostáva 1min</item>
+    </plurals>	
 </resources>

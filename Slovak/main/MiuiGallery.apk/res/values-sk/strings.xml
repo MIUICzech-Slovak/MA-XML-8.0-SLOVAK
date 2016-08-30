@@ -754,4 +754,14 @@
   <string name="set_as_wallpaper_description">Tento obrázok je len náhľad, chcete stiahnuť fotografiu v plnom rozlíšení?</string>
   <string name="set_as_wallpaper_title">Nastaviť ako tapetu</string>
   <string name="share_app_is_launching">Spúšťa sa aplikácia</string>
+  <string name="disable_auto_upload_tip">Nové a vymazané fotografie nebudú synchronizované s MiCloud. Tento album bude presunutý do \"Ostatné albumy\"."</string>
+  <string name="disable_auto_upload_title">Vypnúť synchr. s MiCloud</string>
+  <string name="doodle_big_size">Veľké</string>
+  <string name="doodle_middle_size">Stredné</string>
+  <string name="doodle_small_size">Malé</string>
+  <string name="doodle_super_big_size">Obrovské</string>
+  <string name="enable_auto_upload_tip">Tento album bude odobraný z \"Ostatné albumy\" ak ho povolíte.</string>
+  <string name="enable_auto_upload_title">Zapnúť synchr. s MiCloud</string>
+  <string name="operation_disable_auto_upload">Vypnúť synchr. s MiCloud</string>
+  <string name="operation_enable_auto_upload">Zapnúť synchr. s MiCloud</string>
 </resources>

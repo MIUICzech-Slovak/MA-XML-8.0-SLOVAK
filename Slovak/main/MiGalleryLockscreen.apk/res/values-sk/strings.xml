@@ -33,7 +33,7 @@
   <string name="sst_grid_view_select_all">Všetko</string>
   <string name="sst_grid_view_unselect_all">Odznačiť všetko</string>
   <string name="sst_no_favor_wallpaper_hint">Žiadne obľúbené tapety</string>
-  <string name="sst_prov_enable_desc">Viac skvelých tapiet na zamykacej obrazovke</string>
+  <string name="sst_prov_enable_desc">Viac skvelých tapiet na zamykacej obrazovke. Svoje tapety môžete pridať do zložky Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/.</string>
   <string name="sst_prov_enable_title">Povoliť dennú tapetu</string>
   <string name="sst_require_one_category_hint">Vyberte aspoň jednu kategóriu</string>
   <string name="sst_sti_desc">Nastavte interval pre zmenu tapety</string>
@@ -48,4 +48,18 @@
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
   <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
+  <string name="apply">Použiť</string>
+  <string name="dislike">Vymazať</string>
+  <string name="from_migallerylockscreen">" "</string>
+  <string name="like">Páči sa</string>
+  <string name="liked">Páči sa</string>
+  <string name="lockscreen_magazine_summary">Kategórie</string>
+  <string name="lockscreen_wallpaper_changed">Tapeta zmenená</string>
+  <string name="platform_unavailable_qq">nainštalujte QQ</string>
+  <string name="platform_unavailable_qzone">nainštalujte Qzone</string>
+  <string name="platform_unavailable_wechat">nainštalujte wechat</string>
+  <string name="platform_unavailable_wechatmoment">nainštalujte wechat</string>
+  <string name="platform_unavailable_weibo">nainštalujte weibo</string>
+  <string name="settings">Nastavenia</string>
+  <string name="share">Zdieľať</string>
 </resources>

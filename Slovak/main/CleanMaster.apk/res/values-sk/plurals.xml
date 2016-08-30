@@ -69,4 +69,16 @@
         <item quantity="other">Nájdených %d videí, môžete vymazať zbytočné súbory.​</item>
         <item quantity="one">Nájdené %d video, môžete ho vymazať.</item>
     </plurals>
+    <plurals name="dialog_content_delete_image_confirm">
+        <item quantity="other">Vymazať %d fotografií?</item>
+        <item quantity="one">Vymazať %d fotografiu?</item>
+    </plurals>
+    <plurals name="dialog_content_delete_image_from_all_devices_confirm">
+        <item quantity="other">Vymazať %1$s fotografie zo všetkých zariadení?</item>
+        <item quantity="one">Vymazať %1$s fotografiu zo všetkých zariadení?</item>
+    </plurals>	
+    <plurals name="deepclean_install_info_desc1">
+        <item quantity="other">Nainštalovaných %d apl.</item>
+        <item quantity="one">Nainštalovaná %d apl.</item>
+    </plurals>	
 </resources>
