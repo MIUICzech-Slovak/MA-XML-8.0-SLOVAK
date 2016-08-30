@@ -443,11 +443,9 @@
   <string name="operation_add_secret">Tajný album</string>
   <string name="operation_delete">Vymazať</string>
   <string name="operation_detail">Podrobnosti</string>
-  <string name="operation_disable_auto_upload">Vypnúť automatickú synchr. s MiCloud</string>
   <string name="operation_do_delete_local_thumnail">Vymazať zo zariadenia</string>
   <string name="operation_download">Stiahnuť fotografiu (%s)</string>
   <string name="operation_edit">Upraviť</string>
-  <string name="operation_enable_auto_upload">Zapnúť automatickú synchr. s MiCloud</string>
   <string name="operation_enter_delete_local">Vymazať zálohované fotografie a videá zo zariadenia</string>
   <string name="operation_failed">Operácia zlyhala.</string>
   <string name="operation_force_top">Pripnúť</string>
