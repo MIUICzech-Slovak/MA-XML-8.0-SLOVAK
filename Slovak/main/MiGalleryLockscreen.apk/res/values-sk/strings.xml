@@ -32,7 +32,7 @@
   <string name="sst_grid_view_select_all">Všetko</string>
   <string name="sst_grid_view_unselect_all">Odznačiť všetko</string>
   <string name="sst_no_favor_wallpaper_hint">Žiadne obľúbené tapety</string>
-  <string name="sst_prov_enable_desc">Viac skvelých tapiet na zamykacej obrazovke. Svoje tapety môžete pridať do zložky Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/.</string>
+  <string name="sst_prov_enable_desc">Svoje tapety môžete pridať do zložky Android/data/com.mfashiongallery.emag/files/Pictures/defaultImage/.</string>
   <string name="sst_prov_enable_title">Povoliť dennú tapetu</string>
   <string name="sst_require_one_category_hint">Vyberte aspoň jednu kategóriu</string>
   <string name="sst_sti_desc">Nastavte interval pre zmenu tapety</string>
