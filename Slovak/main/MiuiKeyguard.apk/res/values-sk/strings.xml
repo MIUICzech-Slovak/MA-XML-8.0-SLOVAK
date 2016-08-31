@@ -23,7 +23,7 @@
   <string name="incorrect_pincode_remaining_attempts">Nesprávny PIN kód, ostávajúce pokusy: %d</string>
   <string name="incorrect_pukcode">Nesprávny PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Nesprávny PUK kód, ostávajúce pokusy: %d</string>
-  <string name="input_password_after_boot_msg">Po reštarte zariadenia, budete musieť zadať heslo.</string>
+  <string name="input_password_after_boot_msg">Po reštarte zariadenia, musíte zadať heslo.</string>
   <string name="input_password_hint_text">Zadajte heslo</string>
   <string name="input_pattern_hint_text">Zadajte váš odomykací vzor</string>
   <string name="input_pin_code">PIN</string>
