@@ -4653,4 +4653,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screenshot_three_gesture_summary">Ostatné gestá troma prstami budú deaktivované</string>
   <string name="avoid_ui">Blokovať dotyky</string>
   <string name="hardware_version">Verzia HW</string>
+  <string name="instruction_title">Pokyny</string>  
 </resources>
