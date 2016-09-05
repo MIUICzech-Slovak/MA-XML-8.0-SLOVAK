@@ -20,4 +20,10 @@
         <item>MP3, ~100kbit/s, ~45MB/h</item>
         <item>MP3, ~75kbit/s, ~32MB/h</item>
     </string-array>
+    <string-array name="hd_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Hlas</item>
+        <item>Rozhovor</item>
+        <item>HD</item>
+    </string-array>	
 </resources>

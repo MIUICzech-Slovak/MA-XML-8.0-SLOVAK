@@ -326,4 +326,5 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="instruction">Pokyny</string>
 </resources>

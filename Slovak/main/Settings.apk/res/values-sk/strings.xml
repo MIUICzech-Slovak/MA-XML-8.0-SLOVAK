@@ -3287,7 +3287,7 @@ Ostáva:"</string>
   <string name="slot_number">(Slot %1$d)</string>
   <string name="slot_status_title">IMEI</string>
   <string name="small_font">Malé</string>
-  <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
+  <string name="smallwindow_smartcover_title">Priehľadné okno</string>
   <string name="smartcover_sensitive_title">Smartcover režim</string>
   <string name="sms_application_title">Predvolená aplikácia SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Použiť aplikáciu %s namiesto %s ako aplikáciu pre SMS?</string>
@@ -4651,4 +4651,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="user_experience_program_title">Zasielanie štatistík</string>
   <string name="has_screenshot_sound">Zvuk Screenshotu</string>
   <string name="screenshot_three_gesture_summary">Ostatné gestá troma prstami budú deaktivované</string>
+  <string name="avoid_ui">Blokovať dotyky</string>
+  <string name="hardware_version">Verzia HW</string>
 </resources>

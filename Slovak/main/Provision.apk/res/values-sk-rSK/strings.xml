@@ -54,4 +54,6 @@
   <string name="app_name">Provision</string>
   <string name="content_description_language_picker">Výber jazyka</string>
   <string name="content_description_miui_version">MIUI 8</string>
+  <string name="other_settings_upload_debug_log_summary">Diagnostické dáta môžu obsahovať informácie o používaní vášho zariadenia, operačnom systéme a aplikácií. Tieto dáta budú použité pre analýzu vášho problému v systéme.</string>
+  <string name="other_settings_upload_debug_log_title">Odoslať diagnostické dáta</string>  
 </resources>
