@@ -668,4 +668,5 @@ Získali ste ďalších %1$s"</string>
   <string name="only_wifi">Stiahnuť po pripojení na Wi-Fi</string>
   <string name="open_app">Otvoriť</string>
   <string name="recent_show">Nedávne</string>
+  <string name="click_to_switch_volume_pad">Dotykom prepnete medzi interným úložiskom a SD kartou</string>
 </resources>
