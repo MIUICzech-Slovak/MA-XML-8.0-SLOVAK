@@ -762,4 +762,6 @@
   <string name="enable_auto_upload_title">Zapnúť synchr. s MiCloud</string>
   <string name="operation_disable_auto_upload">Vypnúť synchr. s MiCloud</string>
   <string name="operation_enable_auto_upload">Zapnúť synchr. s MiCloud</string>
+  <string name="app_name_view_video">Zobraziť videá</string>
+  <string name="loading_dual_tip">Načítavanie fotografie...</string>
 </resources>
