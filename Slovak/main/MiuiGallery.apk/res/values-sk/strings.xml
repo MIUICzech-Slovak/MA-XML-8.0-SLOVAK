@@ -764,4 +764,9 @@
   <string name="operation_enable_auto_upload">Zapnúť synchr. s MiCloud</string>
   <string name="app_name_view_video">Zobraziť videá</string>
   <string name="loading_dual_tip">Načítavanie fotografie...</string>
+  <string name="image_decode_failed">Nie je možné dekódovať obrázok</string>
+  <string name="image_invalid_path">Neplatná cesta</string>
+  <string name="image_not_found">Nie je možné nájsť obrázok</string>
+  <string name="video_editor_loading_warning_msg">Kvôli chybe dekódovania, niektoré funkcie nie sú dostupné pri úprave videá.</string>
+  <string name="video_editor_loading_warning_title">Chyba dekódovania</string>
 </resources>

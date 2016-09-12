@@ -4654,4 +4654,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="avoid_ui">Blokovať dotyky</string>
   <string name="hardware_version">Verzia HW</string>
   <string name="instruction_title">Pokyny</string>  
+  <string name="batch_delete_saved_network">Vymazať uloženú sieť: %s?</string>
+  <string name="delete_saved_network">Vymazať uloženú sieť</string>
+  <string name="paper_mode_end_time_title">Koniec</string>
+  <string name="paper_mode_start_time_title">Začiatok</string>
+  <string name="saved_wifi">Uložená sieť</string>
+  <string name="saved_wifi_delete">Vymazať</string>
+  <string name="screen_paper_mode_time_title">Naplánované</string>
+  <string name="security_encryption_progress_dialog_close">Dekódovanie...</string>
+  <string name="security_encryption_progress_dialog_open">Šifrovanie...</string>
 </resources>

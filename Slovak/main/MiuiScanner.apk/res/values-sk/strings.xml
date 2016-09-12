@@ -151,4 +151,13 @@
   <string name="wifi_security">"Bezpečnosť: "</string>
   <string name="wifi_ssid">"SSID: "</string>
   <string name="sdk_not_ready">Príprava SDK. Skúste to znova neskôr.</string>
+  <string name="recognition_error_download_cancel">Neskôr</string>
+  <string name="recognition_error_download_data_msg">Rozpoznávanie vizitiek potrebuje stiahnúť doplnok s veľkosťou okolo 15MB.</string>
+  <string name="recognition_error_download_fail">Sťahovanie doplnku zlyhalo</string>
+  <string name="recognition_error_download_msg">Rozpoznávanie vizitiek potrebuje stiahnúť doplnok s veľkosťou okolo 15MB</string>
+  <string name="recognition_error_download_no_network">Sťahovanie zlyhalo. Skontrolujte nastavenie siete.</string>
+  <string name="recognition_error_download_ok">Stiahnuť</string>
+  <string name="recognition_error_download_success">Doplnok stiahnutý</string>
+  <string name="recognition_error_download_title">Je nutný doplnok</string>
+  <string name="recognition_error_downloading">Sťahovanie doplnku...</string>  
 </resources>

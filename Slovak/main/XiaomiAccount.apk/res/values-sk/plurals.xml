@@ -16,4 +16,16 @@
         <item quantity="other">Poznámky: %d</item>
         <item quantity="one">Poznámky: %d</item>
     </plurals>
+    <plurals name="view_all_devices">
+        <item quantity="other">Všetky zariadenia: %d</item>
+        <item quantity="one">Všetky zariadenia: %d</item>
+    </plurals>
+    <plurals name="view_all_apps">
+        <item quantity="other">Všetky aplikácie: %d</item>
+        <item quantity="one">Všetky aplikácie: %d</item>
+    </plurals>
+    <plurals name="view_all_browsers">
+        <item quantity="other">Všetky prehliadače: %d</item>
+        <item quantity="one">Všetky prehliadače: %d</item>
+    </plurals>	
 </resources>

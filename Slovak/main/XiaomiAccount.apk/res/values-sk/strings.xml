@@ -379,4 +379,37 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="notify_network_restricted_content_hidden_state">Aktivita Xiaomi účtu na pozadí je zakázaná.  Dotykom povolíte.</string>
   <string name="notify_network_restricted_content_mobile_network">Prístup Xiaomi účtu k internetu je zakázaný.  Dotykom povolíte.</string>
   <string name="notify_network_restricted_title">Xiaomi účet nemá povolenie na prístup k internetu</string>
+  <string name="account_protection">Ochrana účtu</string>
+  <string name="add_this_verified_device">Pridajte toto zariadenie do dôverychodných zariadení</string>
+  <string name="auth_fail_warning">Prihlásenie k účtu vypršalo, skúste to znova</string>
+  <string name="confirm_delete_app_message">Po vymazaní tejto apl, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Xiaomi účtu.</string>
+  <string name="confirm_delete_browser_message">Po vymazaní tohto prehliadača,bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Xiaomi účtu.</string>
+  <string name="confirm_delete_device_message">Po vymazaní tohto zariadenia, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Xiaomi účtu.</string>
+  <string name="delete_app">Vymazať apl.</string>
+  <string name="delete_browser">Vymazať Prehliadač</string>
+  <string name="delete_device">Vymazať zariadenie</string>
+  <string name="delete_lock_device_success">Vymazané</string>
+  <string name="device_name">Názov zariadenia</string>
+  <string name="find_device_activate_account">Aktivovať účet</string>
+  <string name="find_device_display_id">Číslo odomknutia: %s</string>
+  <string name="first_login_time">Prvý pokus prihlásenia: %s</string>
+  <string name="local_device">(toto zariadenie)</string>
+  <string name="login_check_find_device">Získavanie info o zabezpečení...</string>
+  <string name="login_check_find_device_failed_title">Nebolo možné skontrolovať stav vyhľadávania zariadenia</string>
+  <string name="login_find_device_bind">Toto zariadenie je spojené s existujúcim Xiaomi účtom (%s).</string>
+  <string name="login_guard_prompt">Vyžadovať overenie telefónneho čísla pri nasledujúcom prihlásení sa ku Xiaomi účtu na neznámom zariadení alebo aplikácií.</string>
+   <string name="miui_provision_find_status_text">"Toto zariadenie je spojené s existujúcim Xiaomi účtom (%1$s), zadajte heslo pre overenie tohto zariadenia.
+(Číslo odomknutia: %2$s)"</string>
+  <string name="no_sim_card_or_unactivated">Žiadna SIM karta alebo nie je aktivovaná</string>
+  <string name="other_devices_title">Ostatné zariadenia</string>
+  <string name="passport_copy_message_text_success">Text skopírovaný</string>
+  <string name="passport_copy_message_vcode">Kopírovať overovací kód</string>
+  <string name="passport_message_dialog_title">Overovací kód v správe</string>
+  <string name="sms_send_success">Odoslané</string>
+  <string name="trusted_browsers">Dôveryhodné Prehliadače</string>
+  <string name="trusted_browsers_prompt">Prehliadač nebude viac dôveryhodný ak zmažete cookies.</string>
+  <string name="verified_apps">Overené apl.</string>
+  <string name="verified_devices">Overené zariadenia</string>
+  <string name="verify_phone_prompt">Vyberte telefónné číslo na overenie</string>
+  <string name="verify_phone_title">Overiť telefónné číslo</string>
 </resources>
