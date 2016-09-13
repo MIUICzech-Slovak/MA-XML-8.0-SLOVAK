@@ -4669,7 +4669,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="se_wallet_ese">MiWallet umožňuje využívať službu MiPay (len v Číne)</string>
   <string name="se_wallet_hce">Použiť HCE Wallet</string>
   <string name="record_anr_in_background">Zaznamenať ANR na pozadí</string>
-  <string name="show_all_anrs">Zobraziť všetky ANRs</string>
-  <string name="show_all_anrs_summary">Zobraziť všetky okná s apl. ktorá neodpovedá na pozadí</string>
   <string name="open_anr_debug">Povoliť ANR debugging</string>
+  <string name="anr_record_interval_title">Interval záznamu ANR</string>
 </resources>
