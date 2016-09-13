@@ -4663,4 +4663,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screen_paper_mode_time_title">Naplánované</string>
   <string name="security_encryption_progress_dialog_close">Dekódovanie...</string>
   <string name="security_encryption_progress_dialog_open">Šifrovanie...</string>
+  <string name="nfc_se_wallet_title">Predvolená Peňaženka</string>
+  <string name="current_use_ese_wallet">Používate MiWallet</string>
+  <string name="current_use_hce_wallet">Používate HCE Wallet</string>
+  <string name="se_wallet_ese">MiWallet umožňuje využívať službu MiPay (len v Číne)</string>
+  <string name="se_wallet_hce">Použiť HCE Wallet</string>
+  <string name="record_anr_in_background">Zaznamenať ANR na pozadí</string>
+  <string name="show_all_anrs">Zobraziť všetky ANRs</string>
+  <string name="show_all_anrs_summary">Zobraziť všetky okná s apl. ktorá neodpovedá na pozadí</string>
+  <string name="open_anr_debug">Povoliť ANR debugging</string>
 </resources>
