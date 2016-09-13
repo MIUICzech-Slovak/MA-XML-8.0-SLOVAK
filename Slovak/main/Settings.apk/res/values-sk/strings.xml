@@ -4666,8 +4666,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="nfc_se_wallet_title">Predvolená Peňaženka</string>
   <string name="current_use_ese_wallet">Používate MiWallet</string>
   <string name="current_use_hce_wallet">Používate HCE Wallet</string>
-  <string name="se_wallet_ese">MiWallet umožňuje využívať službu MiPay (len v Číne)</string>
-  <string name="se_wallet_hce">Použiť HCE Wallet</string>
+  <string name="se_wallet_ese">MiWallet (len v Číne)</string>
+  <string name="se_wallet_hce">HCE Wallet</string>
   <string name="record_anr_in_background">Zaznamenať ANR na pozadí</string>
   <string name="open_anr_debug">Povoliť ANR debugging</string>
   <string name="anr_record_interval_title">Interval záznamu ANR</string>
