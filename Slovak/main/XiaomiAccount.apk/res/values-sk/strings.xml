@@ -412,4 +412,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="verified_devices">Overené zariadenia</string>
   <string name="verify_phone_prompt">Vyberte telefónné číslo na overenie</string>
   <string name="verify_phone_title">Overiť telefónné číslo</string>
+  <string name="passport_trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
+  <string name="passport_vcode_sms_send_prompt">Odoslať overovací kód na %s</string>
 </resources>

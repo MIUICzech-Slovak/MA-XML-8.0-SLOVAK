@@ -1535,4 +1535,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="card_main_xspace_action">Vytvoriť</string>
   <string name="card_main_xspace_summary">Používajte dva účty pre ktorúkoľvek apl.</string>
   <string name="card_main_xspace_title">Klonované apl.</string>
+  <string name="menu_text_garbage_cleanup_danger">%s nad</string>
+  <string name="summary_garbage_clean">Vyčistiťe cache pre uvoľnenie miesta</string>
+  <string name="title_garbage_clean">Cache apl. dosiahla %s</string>
 </resources>
