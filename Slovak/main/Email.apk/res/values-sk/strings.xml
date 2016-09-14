@@ -835,4 +835,16 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="ser_resp_err_map_max_connections">Príliš mnoho pokusov o pripojenie</string>
   <string name="topic_merge">Spojiť témy</string>
   <string name="compose_paste_address_oob">Vložený text je príliš dlhý</string>
+  <string name="account_setup_options_mail_window_1quarter">Past quarter</string>
+  <string name="drawer_contacts">Kontakty</string>
+  <string name="general_preference_str_auto_translation">Rýchly preklad</string>
+  <string name="general_preference_str_auto_translation_prompt">Skopírujte text ktorý chcete preložiť</string>
+  <string name="translation_loading">Načítavanie...</string>
+  <string name="translation_no_result">Nič sa nenašlo</string>
+  <string name="translation_pronunciation_am">ArE</string>
+  <string name="translation_pronunciation_cn">Pinyin</string>
+  <string name="translation_pronunciation_en">BrE</string>
+  <string name="translation_pronunciation_other">Machine</string>
+  <string name="translation_query_failure">Zlyhalo</string>
+  <string name="translation_technology_support">Technická podpora od PowerWord</string>
 </resources>

@@ -4671,4 +4671,21 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="record_anr_in_background">Zaznamenať ANR na pozadí</string>
   <string name="open_anr_debug">Povoliť ANR debugging</string>
   <string name="anr_record_interval_title">Interval záznamu ANR</string>
+  <string name="close_gesture">Gesto zatvorenia</string>
+  <string name="crypt_keeper_decrypt_methods_cannot_decrypt">Ak máte zašifrované zariadenie, budete musieť zadať vaše heslo, PIN alebo vzor pri každom spustení zariadenia pre jeho dešifrovanie.</string>
+  <string name="got_it">Rozumiem</string>
+  <string name="hide">Skryť</string>
+  <string name="hide_screen_button">Skryť tlačidlá na displeji</string>
+  <string name="instruction_title">Pokyny</string>
+  <string name="music_dirac_mode_capsule">MiCapsule</string>
+  <string name="pref_volume_launch_camera_summary">Stlačte 2x tlačidlo hlasitosti nadol pre spustenie Fotoaparátu</string>
+  <string name="pref_volume_launch_camera_title">Rýchly fotoaparát</string>
+  <string name="screen_button">Tlačidlá na displeji</string>
+  <string name="screen_button_tips">Hidden key decline</string>
+  <string name="status_bar_screen_button_desc">Gesto posunutím pre ukrytie tlačidiel</string>
+  <string name="status_bar_screen_button_key_can_hide">Tlačidlá na displeji sa môžu skrývať</string>
+  <string name="suspension_ball_enable">Switch suspension ball</string>
+  <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
+  <string name="switch_screen_button_order">Prepnúť poradie tlačidiel</string>
+  <string name="switch_screen_button_order_desc">GEsto ponunutím nadol ukryje tlačidlá</string>
 </resources>
