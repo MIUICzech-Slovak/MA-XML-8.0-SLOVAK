@@ -1197,7 +1197,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
   <string name="sipAddressTypeOther">Iné</string>
   <string name="sipAddressTypeWork">Práca</string>
   <string name="skip_button_label">Preskočiť</string>
-  <string name="sms_control_message">Aplikácia &lt;b&gt;%1$s&lt;/b&gt; posiela veľký počet správ SMS. Chcete tejto aplikácií povoliť, aby aj naďalej posielala správy?</string>
+  <string name="sms_control_message">Aplikácia %1$s posiela veľký počet správ SMS. Chcete tejto aplikácií povoliť, aby aj naďalej posielala správy?</string>
   <string name="sms_control_no">Odmietnuť</string>
   <string name="sms_control_title">Odosielanie správ SMS</string>
   <string name="sms_control_yes">Povoliť</string>
@@ -1205,7 +1205,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
   <string name="sms_short_code_confirm_allow">Odoslať</string>
   <string name="sms_short_code_confirm_always_allow">Vždy povoliť</string>
   <string name="sms_short_code_confirm_deny">Zrušiť</string>
-  <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; chce odoslať správu na adresu &lt;b&gt;%2$s&lt;/b&gt;.</string>
+  <string name="sms_short_code_confirm_message">%1$s chce odoslať správu na adresu %2$s.</string>
   <string name="sms_short_code_confirm_never_allow">Nikdy nepovoliť</string>
   <string name="sms_short_code_details">Môžu sa účtovať poplatky za mobilný internet</string>
   <string name="sms_short_code_remember_choice">Zapamätať si voľbu</string>
