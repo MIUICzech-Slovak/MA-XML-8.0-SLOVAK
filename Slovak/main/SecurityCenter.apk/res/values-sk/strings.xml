@@ -1538,4 +1538,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="menu_text_garbage_cleanup_danger">%s nad</string>
   <string name="summary_garbage_clean">Vyčistiťe cache pre uvoľnenie miesta</string>
   <string name="title_garbage_clean">Cache apl. dosiahla %s</string>
+  <string name="set_applock_password">Nastavte heslo</string>
+  <string name="tc_sms_report_get_sms_bill">Získať SMS</string>
+  <string name="tc_sms_report_get_sms_calltime">Získať SMS</string>
 </resources>

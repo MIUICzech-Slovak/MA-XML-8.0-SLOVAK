@@ -44,4 +44,5 @@
   <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volanie</string>
   <string name="voice_report_unknown_num">Neznáme číslo</string>
+  <string name="can_not_dial_vt_while_voice_prompt">Nie je možné uskutočniť video hovor ak práve prebieha hlasový hovor</string>
 </resources>

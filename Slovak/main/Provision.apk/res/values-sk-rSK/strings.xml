@@ -58,4 +58,6 @@
   <string name="other_settings_upload_debug_log_title">Odoslať diagnostické dáta</string>  
   <string name="other_settings_auto_update">Aktualizovať MIUI</string>
   <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip</string>  
+  <string name="other_settings_mifg_online_content">Denná tapeta zamyk. obr.</string>
+  <string name="other_settings_mifg_online_content_summary">Pripojte sa na internet pre získanie denných tapiet na vašu zamykaciu obrazovku.</string>
 </resources>

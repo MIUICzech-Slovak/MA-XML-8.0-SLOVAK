@@ -4680,11 +4680,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="pref_volume_launch_camera_summary">Stlačte 2x tlačidlo hlasitosti nadol pre spustenie Fotoaparátu</string>
   <string name="pref_volume_launch_camera_title">Rýchly fotoaparát</string>
   <string name="screen_button">Tlačidlá na displeji</string>
-  <string name="screen_button_tips">Hidden key decline</string>
-  <string name="status_bar_screen_button_desc">Gesto posunutím pre ukrytie tlačidiel</string>
+  <string name="screen_button_tips">Posu%nte nadol pre ukrytie tlačidiel na displeji</string>
+  <string name="status_bar_screen_button_desc">Gesto posunutím nadol ukryje tlačidlá na displeji</string>
   <string name="status_bar_screen_button_key_can_hide">Tlačidlá na displeji sa môžu skrývať</string>
-  <string name="suspension_ball_enable">Switch suspension ball</string>
-  <string name="suspension_ball_enable_desc">After turned on, you can quickly open ball suspended on screen button</string>
+  <string name="suspension_ball_enable">Dotykový asistent</string>
+  <string name="suspension_ball_enable_desc">Povoliť/Zakázať dotykového asistenta gestom</string>
   <string name="switch_screen_button_order">Prepnúť poradie tlačidiel</string>
-  <string name="switch_screen_button_order_desc">GEsto ponunutím nadol ukryje tlačidlá</string>
+  <string name="switch_screen_button_order_desc">Gesto ponunutím nadol ukryje tlačidlá</string>
+  <string name="input_password_hint_text">Zadajte heslo</string>
 </resources>
