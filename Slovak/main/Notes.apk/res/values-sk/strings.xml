@@ -177,4 +177,5 @@ http://www.miuios.cz/rom
   <string name="error_send_empty_note">Nie je možné odoslať prázdnu poznámku</string>
   <string name="error_send_empty_note_to_weibo">Nie je možné odoslať prázdnu poznámku</string>  
   <string name="menu_new_folder">Nová zložka</string>
+  <string name="hint_cannot_view_hidden_note_content">Nie je možné zobraziť obsah skrytej poznámky</string>
 </resources>

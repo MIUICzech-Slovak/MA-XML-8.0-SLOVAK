@@ -262,4 +262,17 @@ Nie je možné odoslať váš názor"</string>
   <string name="notification_uncrypt_title_hm">Reštartujte pre aktualizáciu</string>
   <string name="notification_uncrypting">Dekódovanie aktualizácie</string>
   <string name="uncrypt_title">Dekódovanie (%s)</string>
+  <string name="button_delay_update_reboot">Reštartovať a aktualizovať</string>
+  <string name="delay_update_text">Aktualizovať neskôr</string>
+  <string name="dialog_delay_update_cancel">Zrušiť</string>
+  <string name="dialog_delay_update_msg">Vaše zariadenie sa reštartuje pre nainštalovanie aktualizácie keď je zapnuté a batéria má aspoň 30%</string>
+  <string name="dialog_delay_update_title">Dostupná aktualizácia</string>
+  <string name="dialog_delay_update_tonight">Aktualizovať dnes v noci</string>
+  <string name="notification_delay_update_button">Aktualizovať o 2 hodiny</string>
+  <string name="notification_delay_update_cancel">Neaktualizovať dnes v noci</string>
+  <string name="notification_delay_update_low_power">Batéria bola pod 30% v noci</string>
+  <string name="notification_delay_update_msg">Zariadenie sa reštartuje a aktualizuje o​ %ss</string>
+  <string name="notification_delay_update_no_update">Aktualizácia nebola nainštalovaná</string>
+  <string name="notification_delay_update_shutdown">Zariadenie bolo v noci vypnuté</string>
+  <string name="toast_delay_update_tonight">Vaše zariadenie sa aktualizuje medzi 2:00 až 5:00 ráno</string>
 </resources>

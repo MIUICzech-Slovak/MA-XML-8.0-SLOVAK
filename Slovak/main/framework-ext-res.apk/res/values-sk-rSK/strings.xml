@@ -122,4 +122,6 @@
   <string name="screenshot_gesture_detect_alert_msg">Povoliť zhotovenie screenshotu posunutím troma prstami?</string>
   <string name="screenshot_gesture_detect_alert_title">Screenshot troma prstami</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dotknite sa znova pre ukončenie</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pre deaktivovanie tejto funkcie, stlačte tlačidlo hlasitosti nadol.</string>
+  <string name="status_bar_toggle_edit">Upraviť</string>
 </resources>
