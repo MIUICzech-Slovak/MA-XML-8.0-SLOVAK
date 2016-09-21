@@ -104,7 +104,7 @@
   <string name="operation_upload">Odoslať</string>
   <string name="paused">Pozastavené</string>
   <string name="petabyteShort">PB</string>
-  <string name="pick_from_fileexplor_failed">Najskúr aktualizujte apl. Súbory.</string>
+  <string name="pick_from_fileexplor_failed">Najskôr aktualizujte apl. Súbory.</string>
   <string name="quota_info">MiDrive: %1$s dostupné, %2$s celkom</string>
   <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
   <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
