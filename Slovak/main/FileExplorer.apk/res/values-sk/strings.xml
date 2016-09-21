@@ -669,4 +669,9 @@ Získali ste ďalších %1$s"</string>
   <string name="open_app">Otvoriť</string>
   <string name="recent_show">Nedávne</string>
   <string name="click_to_switch_volume_pad">Dotykom prepnete medzi interným úložiskom a SD kartou</string>
+  <string name="set_pattern">Heslo bolo aktualizované</string>
+  <string name="set_pattern_btn">Nastaviť</string>
+  <string name="set_pattern_msg">Nastavte svoje heslo znova. Ochrana súkromia heslom chráni aj vaše fotografie a SMS.</string>
+  <string name="unlock_pattern_msg">Ochrana súkromia heslom chráni aj vaše fotografie a SMS.</string>
+  <string name="unlock_pattern_title">Nové heslo</string>
 </resources>

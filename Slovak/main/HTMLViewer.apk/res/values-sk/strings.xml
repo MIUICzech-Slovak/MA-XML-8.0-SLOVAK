@@ -17,4 +17,5 @@
   <string name="settings_safetylegal_activity_title">Bezpečnostné informácie</string>
   <string name="settings_safetylegal_activity_unreachable">Nemáte pripojenie na internet. Pre zobrazenie tejto informácie navštívte %s z vášho PC pripojeného na internet.</string>
   <string name="settings_safetylegal_title">Bezpečnostné informácie</string>
+  <string name="ime_privacy_policy">Zvoľte klávesnicu</string>
 </resources>

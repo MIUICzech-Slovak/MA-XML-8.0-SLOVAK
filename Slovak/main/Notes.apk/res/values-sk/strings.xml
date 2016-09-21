@@ -178,4 +178,11 @@ http://www.miuios.cz/rom
   <string name="error_send_empty_note_to_weibo">Nie je možné odoslať prázdnu poznámku</string>  
   <string name="menu_new_folder">Nová zložka</string>
   <string name="hint_cannot_view_hidden_note_content">Nie je možné zobraziť obsah skrytej poznámky</string>
+  <string name="dlg_btn_set_password">Nastaviť heslo</string>
+  <string name="dlg_message_password_reset">Heslo pre tajné zložky bude nahradené heslom ochrany súkromia</string>
+  <string name="dlg_message_set_password">Heslo ochrany súkromia chráni aj vaše apl., fotografie a tajné zložky.</string>
+  <string name="dlg_message_use_privacy_password">Použiť heslo ochrany súkromia. Chráni aj vaše apl., fotografie a tajné zložky.</string>
+  <string name="dlg_title_password_reset">Aktualizovať heslo</string>
+  <string name="dlg_title_set_password">Nastaviť heslo</string>
+  <string name="dlg_title_use_privacy_password">Použiť heslo ochrany súkromia</string>
 </resources>

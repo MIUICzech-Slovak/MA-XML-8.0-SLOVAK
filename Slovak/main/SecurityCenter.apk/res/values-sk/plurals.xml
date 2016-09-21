@@ -186,7 +186,7 @@
         <item quantity="one">MAzanie %d vírus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
-        <item quantity="other">+%d bodov</item>
-        <item quantity="one">+%d bod</item>
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
     </plurals>
 </resources>

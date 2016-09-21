@@ -273,4 +273,6 @@
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="children_mode_tips_message">V detskom režime nie je vybraná žiadna aplikácia.</string>
   <string name="children_mode_tips_title">Vyberte aplikáciu</string>
+  <string name="notification_installed">Nainštalované</string>
+  <string name="notification_open_button">Otvoriť</string>
 </resources>

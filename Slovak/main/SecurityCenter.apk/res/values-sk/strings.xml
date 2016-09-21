@@ -1541,4 +1541,17 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="set_applock_password">Nastavte heslo</string>
   <string name="tc_sms_report_get_sms_bill">Získať SMS</string>
   <string name="tc_sms_report_get_sms_calltime">Získať SMS</string>
+  <string name="bind_xiaomi_account_cancel">Zrušiť</string>
+  <string name="bind_xiaomi_account_confirm">Pridať</string>
+  <string name="bind_xiaomi_account_dialog_summery">Pridávate Xiaomi účet %s. Ak ste zabudli vaše heslo, môžete využiť tento účet pre jeho obnovenie. Účet bude automaticky odstránený ak sa odhlásite.</string>
+  <string name="bind_xiaomi_account_success">Xiaomi účet pridaný</string>
+  <string name="bind_xiaomi_account_summary">Použiť Xiaomi účet pre obnovenie vášho hesla</string>
+  <string name="bind_xiaomi_account_title">Pridať Xiaomi účet</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">Pridávanie Xiaomi účtu</string>
+  <string name="password_promotion_button_text">Rozumiem</string>
+  <string name="password_promotion_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný xiaomi účet pre jeho obnovenie.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný xiaomi účet pre jeho obnovenie. Pridajte váš Xiaomi účet.</string>
+  <string name="password_promotion_postbutton_text">Otvorte Nastavenia</string>
+  <string name="password_promotion_title">Heslo ochrany súkromia</string>
+  <string name="setting_privacy_password">Nastaviť heslo ochrany súkromia</string>
 </resources>

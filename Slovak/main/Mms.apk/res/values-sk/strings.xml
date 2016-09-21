@@ -640,4 +640,12 @@ Pokus: %s."</string>
   <string name="hold_to_talk">Podržte a hovorte</string>
   <string name="open_audio_record_panel">Otvoriť panel nahrávania zvuku</string>
   <string name="slide_up_to_cancel">Posuňte nahor pre ukončenie</string>
+  <string name="privacy_password_message1">Heslo ochrany súkromia chráni aj vaše apl., fotografie a tajné zložky.</string>
+  <string name="privacy_password_message2">Použiť heslo ochrany súkromia. Chráni aj vaše apl., fotografie a tajné zložky.</string>
+  <string name="privacy_password_message3">Heslo súkromných správ bude nahradené heslom ochrany súkromia ktoré chráni aj vaše apl., fotografie a tajné zložky.</string>
+  <string name="privacy_password_set_password">Nastaviť</string>
+  <string name="privacy_password_title1">Nastaviť heslo</string>
+  <string name="privacy_password_title2">Použiť heslo ochrany súkromia</string>
+  <string name="privacy_password_title3">Aktualizovať heslo</string>
+  <string name="privacy_password_title4">Heslo aktualizované</string>
 </resources>

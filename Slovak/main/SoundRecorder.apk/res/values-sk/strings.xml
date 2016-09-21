@@ -142,4 +142,6 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="btn_clear_records">Vymazať nahrávky (%d)</string>
   <string name="choose_call_records_count">Položiek: %d</string>
   <string name="clear_records">Vymazať synchr. nahrávky</string>
+  <string name="low_battery_error_confirm">OK</string>
+  <string name="low_battery_error_title">Slabá batéria</string>
 </resources>

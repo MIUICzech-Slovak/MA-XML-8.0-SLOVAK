@@ -107,4 +107,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="weather_alert">Varovania</string>
   <string name="global_aqi"/>
   <string name="hide_topic">Skryť</string>
+  <string name="common_loading_text">Načítavanie...</string>
+  <string name="refresh_fail">Nebolo možné pripojiť sa k sieti</string>
 </resources>

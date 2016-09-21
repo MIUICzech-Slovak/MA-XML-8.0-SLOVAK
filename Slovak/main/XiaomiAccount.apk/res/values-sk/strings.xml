@@ -414,4 +414,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="verify_phone_title">Overiť telefónné číslo</string>
   <string name="passport_trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
   <string name="passport_vcode_sms_send_prompt">Odoslať overovací kód na %s</string>
+  <string name="delete_bank_card_message">Pre ochranu vášho súkromia bude karta odstránená ak sa odhlásite.</string>
+  <string name="delete_bank_card_title">Odstránenie vašej platobnej kartu</string>
 </resources>
