@@ -67,7 +67,7 @@
   <string name="bind_sina_weibo">Autorizovať Sina Weibo</string>
   <string name="bind_sns_description">Prihlásiť sa s %s.</string>
   <string name="bind_weibo_description">Nájsť kontakty, priateľov a ostatné informácie priamo z Vášho účtu</string>
-  <string name="binded">Účet pridaný</string>
+  <string name="binded">Pripojené</string>
   <string name="binded_description" formatted="false">"%s pridaný. 
  Vyplňte svoj profil %s."</string>
   <string name="button_unbind">Odhlásiť sa</string>
