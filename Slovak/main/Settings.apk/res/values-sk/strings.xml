@@ -4706,8 +4706,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="forget_privacy_password_summary">Použiť Xiaomi účet pre obnovu hesla</string>
   <string name="gallery_privacy_password_role_instruction">Vaše súkromné fotografie budú uložené tu.</string>
   <string name="instruction_privacy_password">Toto heslo chráni nasledovné položky</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Čakajte %ds a skúste to znova.</string>
-  <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš mnoho neúspešných pokusov!</string>
   <string name="mms_privacy_password_role_instruction">Vaše konverzácie so súkromnými kontaktami budú uložené tu.</string>
   <string name="modify_instruction_password_settings">Nastaviť heslo</string>
   <string name="modify_privacy_password">Zmeniť heslo</string>
