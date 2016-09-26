@@ -416,4 +416,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_vcode_sms_send_prompt">Odoslať overovací kód na %s</string>
   <string name="delete_bank_card_message">Pre ochranu vášho súkromia bude karta odstránená ak sa odhlásite.</string>
   <string name="delete_bank_card_title">Odstránenie vašej platobnej kartu</string>
+  <string name="unlock_help_notice">"Pomoc:
+ · Ak ste zabudli heslo, môžete ho obnoviť na id.mi.com.
+ · Ak nemôžete odomknúť vaše zariadenie, choďte na i.mi.com a deaktivujte Vyhľadávanie zariadenia.
+ · Toto číslo napíšte nášej zákazníckej podpore: %s"</string>
 </resources>

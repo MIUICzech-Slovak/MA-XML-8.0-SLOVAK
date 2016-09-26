@@ -1566,4 +1566,13 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="sys_app_prot_cracked_title">Bezpečnostné riziko</string>
   <string name="notification_sysapp_cracked_text">Skontrolujte si vašu verziu MIUI na našom fóre miuios.cz</string>
   <string name="notification_sysapp_cracked_title">Neznáma verzia MIUI</string>
+  <string name="adb_install_no_network">Pripojte sa k sieti a skúste to znova</string>
+  <string name="adb_install_open">Povolenie...</string>
+  <string name="adb_install_open_error">Nebolo možné povoliť. Skontrolujte vaše nasatvenie siete.</string>
+  <string name="adb_install_reject_notiy">Nepovolená inštalácia %s cez USB</string>
+  <string name="adb_install_reject_notiy_desc">Môžete povoliť inštaláciu cez USB v nastaveniach pre vývojárov</string>
+  <string name="adb_login_xiaomi_account">Najskôr sa prihláste k vášmu Xiaomi účtu</string>
+  <string name="usb_adb_input_apply_step_1">Vaše PC bude môcť zmeniť nastavenia v telefóne a získať povolenia bez upozornenia po pripojení k USB</string>
+  <string name="usb_adb_input_apply_step_2">Môže to viesť k úniku vašich súkromných údajov</string>
+  <string name="usb_adb_input_apply_step_3">Uistite sa, že rozumiete všetkým rizikám. Naozaj chcete povoliť?</string>
 </resources>

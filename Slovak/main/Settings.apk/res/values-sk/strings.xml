@@ -4731,4 +4731,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_password_visible_pattern">Zobraziť vzor</string>
   <string name="setting_privacy_password">Nastaviť heslo ochrany súkromia</string>
   <string name="use_privacy_password_immediate">Použiť</string>
+  <string name="usb_adb_input">USB ladenie (Bezpečnostné nastavenia)</string>
+  <string name="usb_adb_input_desc">Povoliť získanie oprávnení a vstup cez USB ladenie</string>
+  <string name="usb_install_app">Inštalovať cez USB</string>
+  <string name="usb_install_app_desc">Povoliť inštaláciu apk cez USB</string>
 </resources>
