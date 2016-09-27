@@ -118,7 +118,7 @@ Ak zmeníte SIM kartu, odošle sa SMS pre aktiváciu tejto služby."</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_hint">Načítavanie...</string>
   <string name="master_alert_notif_content">Nie je možné synchr.</string>
-  <string name="master_alert_notif_dspt_add">Nesynchronizované: %s</string>
+  <string name="master_alert_notif_dspt_add">Čaká na synchr.: %s</string>
   <string name="master_alert_notif_dspt_no">Všetko je aktuálne.</string>
   <string name="master_alert_notif_title">Povoľte MiCloud</string>
   <string name="micloud_all_sub_1_intl_sms">"Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty. Bude spoplatnená vašim operátorom. Ak povolíte funkciu 'Vyhľadať zariadenie', aktivačná SMS bude odoslaná ak vymeníte SIM karty."</string>
