@@ -118,7 +118,7 @@ Ak zmeníte SIM kartu, odošle sa SMS pre aktiváciu tejto služby."</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_hint">Načítavanie...</string>
   <string name="master_alert_notif_content">Nie je možné synchr.</string>
-  <string name="master_alert_notif_dspt_add">%s nebolo synchronizované.</string>
+  <string name="master_alert_notif_dspt_add">Nesynchronizované: %s</string>
   <string name="master_alert_notif_dspt_no">Všetko je aktuálne.</string>
   <string name="master_alert_notif_title">Povoľte MiCloud</string>
   <string name="micloud_all_sub_1_intl_sms">"Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty. Bude spoplatnená vašim operátorom. Ak povolíte funkciu 'Vyhľadať zariadenie', aktivačná SMS bude odoslaná ak vymeníte SIM karty."</string>
@@ -188,7 +188,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_detail_syncing">Synchr...</string>
   <string name="micloud_detail_upload_syncing">Odosielanie %s</string>
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
-  <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázkov kontaktu</string>
+  <string name="micloud_detail_wlan_contact">Nesynchr kontakty: %d</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
   <string name="micloud_dspt">Používajte MiCloud na synchr., vyhľadanie telefónu,</string>
   <string name="micloud_dspt_provision">Používajte MiCloud na synchr., vyhľadanie telefónu a zdieľanie súborov.</string>
@@ -235,7 +235,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_main_multi_user_error_title">MiCloud pozastavený</string>
   <string name="micloud_main_network_abnormal">Nie je možné sa pripojiť k sieti</string>
   <string name="micloud_main_network_error">Sieť je nedostupná. Skontrolujte vaše nastavenia a skúste to znova.</string>
-  <string name="micloud_main_not_sync">%d položiek čaká na synchr.</string>
+  <string name="micloud_main_not_sync">Čaká na synchr.: %d</string>
   <string name="micloud_main_query_error_message">Nie je isté či sa synchr. už dokončila</string>
   <string name="micloud_main_query_error_title">Nie je možné načítať stav synchr.</string>
   <string name="micloud_main_set_internet">Sieť</string>
@@ -264,7 +264,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_main_title_sync_off">Synchr. vypnutá</string>
   <string name="micloud_main_title_sync_on_wifi">Použiť Wi-Fi</string>
   <string name="micloud_main_update_space">Aktualizovať kapacitu</string>
-  <string name="micloud_main_wlan_sync_data_count">Synchr. sa cez Wi-Fi: %d</string>
+  <string name="micloud_main_wlan_sync_data_count">Čaká na synchr.: %d</string>
   <string name="micloud_member">MiCloud členstvo</string>
   <string name="micloud_member_advantage">Získať viac úložného priestoru.</string>
   <string name="micloud_member_buy_content" formatted="false">"Platné pre %s-%s-%s
@@ -406,7 +406,7 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="start_micloud">Začať</string>
   <string name="storage">Úložisko</string>
   <string name="sub_alert_notif_content">Povoľte MiCloud</string>
-  <string name="sub_alert_notif_dspt_add">%s nebolo synchronizované.</string>
+  <string name="sub_alert_notif_dspt_add">Čaká na synchr.: %s</string>
   <string name="sub_alert_notif_dspt_no">Všetko je aktuálne.</string>
   <string name="sub_alert_notif_title">Synchr. s MiCloud</string>
   <string name="sub_sync_item_sms_summary">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
