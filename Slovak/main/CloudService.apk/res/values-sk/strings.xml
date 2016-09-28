@@ -129,7 +129,7 @@ Ak zmeníte SIM kartu, odošle sa SMS pre aktiváciu tejto služby."</string>
   <string name="micloud_all_sub_resend_sms">"Ak aktivujete 'Vyhľadanie zariadenia', po zmene SIM karty bude znovu odoslaná SMS pre aktiváciu služby."</string>
   <string name="micloud_battery_low_notification_message">zmeniť a synchr.</string>
   <string name="micloud_battery_low_notification_title">Slabá batéria</string>
-  <string name="micloud_buy_member">Účet</string>
+  <string name="micloud_buy_member">Kúpiť členstvo v MiCloud</string>
   <string name="micloud_check_sim_notify_text">"Zrejme bola zmenená SIM karta. Prihláste sa
 do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znova aktivovať MiCloud</string>
@@ -462,4 +462,28 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="add_cloud_storage">Zväčšiť úložisko</string>
+  <string name="add_short_cut">Zväčšiť</string>
+  <string name="added_successfully">Zväčšené</string>
+  <string name="all_sync_item_open">Všetky položky sú povolené</string>
+  <string name="cloud_storage_full">Cloudové úložisko</string>
+  <string name="cloud_storage_is_full">Plné</string>
+  <string name="due_date_format">dd.MM.yyyy</string>
+  <string name="find_device_service_summary">Vyhľadajte vaše zariadenie a zablokujte ho v prípade straty.</string>
+  <string name="find_device_service_summary_international">Vyhľadajte vaše zariadenie a zablokujte ho v prípade straty.</string>
+  <string name="find_device_service_title">Vyhľadať zariadenie</string>
+  <string name="member_due_date">Platné do %s</string>
+  <string name="micloud_sync_off">Synchr. s MiCloud deaktivovaná</string>
+  <string name="network_unconnected">Nie je pripojenie na internet</string>
+  <string name="one_sync_item_close">%d je vyp.</string>
+  <string name="open_micloud_sync">Povoliť synchr. s MiCloud</string>
+  <string name="other_sync_item">Ostatné položky</string>
+  <string name="passed_synced_time_day">Synchr. pred %dd</string>
+  <string name="passed_synced_time_hour">Synchr. pred %1$dh %2$dmin</string>
+  <string name="passed_synced_time_min">Synchr. pred %dmin</string>
+  <string name="passed_synced_time_sec">Synchr. pred %ds</string>
+  <string name="recommend_open_all_sync">Synchr. všetko</string>
+  <string name="short_cut_desc">Pridať MiCloud ikonu na plochu?</string>
+  <string name="some_sync_item_close">%d sú vyp.</string>
+  <string name="sync_item_title">Synchr. položky</string>
 </resources>

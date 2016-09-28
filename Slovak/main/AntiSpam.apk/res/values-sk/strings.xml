@@ -350,4 +350,8 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="mark_courier_time_setting">Blokovať čísla ktoré boli nahlásené ako kuriér</string>
   <string name="mark_number_courier">Kuriér</string>
   <string name="dlg_add_blacklist_title">Pridať do čiernej listiny</string>
+  <string name="st_summary_blacklist_numbers">Blokovať hovory a SMS pomocou čísla a smerovacieho čísla</string>
+  <string name="st_summary_keywords_blacklist">Pridať slová pre blokovanie SMS</string>
+  <string name="st_summary_special_numbers">Blokovať označené čísla</string>
+  <string name="st_summary_whitelist_numbers">Povoliť hovory a SMS z určitých čísiel a krajín</string>
 </resources>

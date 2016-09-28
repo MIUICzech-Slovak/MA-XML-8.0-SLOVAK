@@ -391,4 +391,9 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="forcetouch_featured">Odporúčané</string>
   <string name="forcetouch_free_themes">Zdarma</string>
   <string name="forcetouch_offline">Lokálne</string>  
+  <string name="purchased_list_current">MIUI 8</string>
+  <string name="purchased_list_legacy">Staré témy</string>
+  <string name="resource_purchase_common_error">Operácia zlyhala, skúste to znova neskôr.</string>
+  <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
+  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
 </resources>
