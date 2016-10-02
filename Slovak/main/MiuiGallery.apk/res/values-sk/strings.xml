@@ -751,7 +751,6 @@
   <string name="picker_no_network_message">Sieť je nedostupná. Pripojte sa k sieti skúste to znova.</string>
   <string name="set_as_wallpaper_description">Tento obrázok je len náhľad, chcete stiahnuť fotografiu v plnom rozlíšení?</string>
   <string name="set_as_wallpaper_title">Nastaviť ako tapetu</string>
-  <string name="share_app_is_launching">Spúšťa sa aplikácia</string>
   <string name="disable_auto_upload_tip">Nové a vymazané fotografie nebudú synchronizované s MiCloud. Tento album bude presunutý do \"Ostatné albumy\"."</string>
   <string name="disable_auto_upload_title">Vypnúť synchr. s MiCloud</string>
   <string name="doodle_big_size">Veľké</string>
