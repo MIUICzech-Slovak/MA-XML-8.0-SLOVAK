@@ -490,7 +490,7 @@ For more info check the message you received from your service provider"</string
   <string name="history_details_title">Podrobnosti histórie</string>
   <string name="info_and_call">Hovory a správy</string>
   <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
-  <string name="input_traffic_pkg">Zadajte využité dáta</string>
+  <string name="input_traffic_pkg">Zadajte navýšené dáta</string>
   <string name="input_used_hint">Zadajte využité dáta</string>
   <string name="input_used_max_hint">Zadajte spotrebované dáta (menej ako %s)</string>
   <string name="install_title">Inštalovať pomocou USB</string>
