@@ -11,8 +11,6 @@
   <string name="continue_provisioning_notify_text">Klepnutím pokračujte v nastavení pracovného profilu.</string>
   <string name="continue_provisioning_notify_title">Šifrovanie bolo dokončené</string>
   <string name="copying_certs">Nastavujú sa certifikáty CA</string>
-  <string name="default_managed_profile_name">Pracovný profil</string>
-  <string name="default_owned_device_username">Používateľ pracovného zariadenia</string>
   <string name="delete_profile">ODSTRÁNIŤ</string>
   <string name="delete_profile_title">Odstrániť pracovný profil?</string>
   <string name="device_owner_cancel_cancel">ZRUŠIŤ</string>

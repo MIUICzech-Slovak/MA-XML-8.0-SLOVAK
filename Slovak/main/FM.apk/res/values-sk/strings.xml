@@ -25,10 +25,6 @@
   <string name="context_menu_item_favorite">Pridať k obľúbeným</string>
   <string name="context_menu_item_unfavorite">Odobrať z obľúbených</string>
   <string name="context_menu_title">%sMHZ</string>
-  <string name="default_audio">Stereo</string>
-  <string name="default_band">United States</string>
-  <string name="default_blank"/>
-  <string name="default_station">FM</string>
   <string name="delete_station_title">Odstrániť</string>
   <string name="dialog_sleep_title">Čas do automatického vypnutia</string>
   <string name="durationformat">%2$d:%5$02d</string>

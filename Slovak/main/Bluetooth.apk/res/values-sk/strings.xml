@@ -53,7 +53,6 @@
   <string name="bt_toast_6">Odosielanie súboru používateľovi %1$s bolo zastavené</string>
   <string name="btopp_live_folder">Bluetooth – prijaté súbory</string>
   <string name="defaultname">Súprava handsfree do auta</string>
-  <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Odstrániť všetky záznamy</string>
   <string name="delete_record">Odstrániť záznam</string>
   <string name="device_picker">Bluetooth zariadenie</string>
