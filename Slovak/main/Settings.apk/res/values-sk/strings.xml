@@ -1607,12 +1607,8 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
   <string name="input_method">Klávesnica</string>
   <string name="input_method_selector">Ponuka metódy vstupu</string>
   <string name="input_method_selector_always_hide_title">Vždy skrývať</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Vždy zobrazovať</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Automatický</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Nastavenie</string>
   <string name="input_method_settings_button">Nastavenie</string>
   <string name="input_methods_and_subtype_enabler_title">Vybrať aktívne metódy vstupu</string>
@@ -4108,8 +4104,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="wait_for_debugger_summary">Apl. na ladenie čaká na pripojenie lad. nástroja</string>
   <string name="wakeup_for_keyguard_notification_title">Rozsvietiť displej</string>
   <string name="wallpaper_attributions">Tapety</string>
-  <string name="wallpaper_attributions_values">"Poskytovatelia satelitných snímok:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
   <string name="wallpaper_desktop">Domáca obrazovka</string>
   <string name="wallpaper_live">Živá tapeta</string>
   <string name="wallpaper_lockscreen">Zamykacia obrazovka</string>

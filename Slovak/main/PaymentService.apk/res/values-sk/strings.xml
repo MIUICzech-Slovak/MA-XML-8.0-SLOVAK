@@ -280,7 +280,6 @@ Informácie na čísle: 400-100-5678"</string>
   <string name="title_transaction">Transakcie</string>
   <string name="title_visible_pattern">Zobraziť vzor</string>
   <string name="unit">MiKredity</string>
-  <string name="unit_value">%1$s MiKreditov</string>
   <string name="voucher_card_text">Zotrite ochrannú vrstvu</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password_empty">Prázdne.</string>
