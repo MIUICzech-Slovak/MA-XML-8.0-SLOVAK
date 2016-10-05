@@ -4,7 +4,6 @@
   <string name="configure">Konfigurovať</string>
   <string name="data_received">Prijaté:</string>
   <string name="data_transmitted">Odoslané:</string>
-  <string name="data_value_format">%1$sB/%2$spaketov</string>
   <string name="disconnect">Odpojiť</string>
   <string name="duration">Trvanie:</string>
   <string name="legacy_title">Sieť VPN je pripojená</string>

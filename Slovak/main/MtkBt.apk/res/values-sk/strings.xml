@@ -212,7 +212,6 @@ Chcete pokračovať v odosielaní?"</string>
   <string name="dialog_printing_hide">Skryť</string>
   <string name="dialog_printing_ok">OK</string>
   <string name="dialog_title_bpp_not_ready">Služba je nedostupná</string>
-  <string name="get_default_value">Získať predvolenú hodnotu</string>
   <string name="number_of_copies">Nastaviť počet kópií</string>
   <string name="orientation">Orientácia</string>
   <string name="pages_per_sheet">Strany na jeden hárok</string>

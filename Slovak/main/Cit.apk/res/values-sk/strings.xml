@@ -18,9 +18,6 @@
   <string name="cit_audio_cali_playing">Stlačte pre kalibráciu</string>
   <string name="cit_audio_cali_summary">Kalibrovať Reproduktor</string>
   <string name="cit_audio_cali_title">Kalibrácia reproduktora</string>
-  <string name="cit_audio_cali_valueF0">F0:</string>
-  <string name="cit_audio_cali_valueR">Impedancia:</string>
-  <string name="cit_audio_cali_valueT">tCoef:</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
   <string name="cit_audio_lb_phonecall_title">Simulation call test</string>

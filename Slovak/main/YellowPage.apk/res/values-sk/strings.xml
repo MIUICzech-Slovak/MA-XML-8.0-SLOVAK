@@ -146,8 +146,6 @@ Please check tracking number"</string>
   <string name="phone_info_divider">" | "</string>
   <string name="provider_tag">Zdroj informácií</string>
   <string name="recharge_actual_price">Cena:</string>
-  <string name="recharge_charge_range">Cena:¥%1$s-%2$s</string>
-  <string name="recharge_charge_value">Cena:¥%s</string>
   <string name="recharge_history">História navýšenia</string>
   <string name="recharge_history_empty">No history</string>
   <string name="recharge_input_phone_title">Zadajte číslo telefónu(China mobile, China Unicom, alebo China Telecom)</string>
