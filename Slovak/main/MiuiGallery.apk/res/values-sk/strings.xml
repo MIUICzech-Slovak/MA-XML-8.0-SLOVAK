@@ -779,4 +779,5 @@
   <string name="secret_album_set_pc_password_dialog_title">Nastaviť nové heslo</string>
   <string name="secret_album_set_pc_password_first_use_msg">Ochrana súkromia heslom chráni vaše apl, fotografie, poznámky, tajné zložky, atď</string>
   <string name="secret_album_set_pc_password_first_use_title">Ochrana súkromia heslom</string>
+  <string name="share_app_is_launching">{0,choice,0#Spúšťanie aplikácie...|1#%s sa spúšťa...}</string>
 </resources>
