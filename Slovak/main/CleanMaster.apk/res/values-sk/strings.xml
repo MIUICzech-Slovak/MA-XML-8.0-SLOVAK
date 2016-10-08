@@ -437,4 +437,6 @@
   <string name="deepclean_install_info_desc2">Odinštalujte apl. pre uvoľnenie miesta</string>
   <string name="hint_clean_select_items">Mazanie duplikátov...</string>
   <string name="scanning">Kontrola...</string>
+  <string name="buy_a_new_phone">Navýšenie úložiska</string>
+  <string name="pref_title_clean_alert">Vyčistiť automaticky</string>
 </resources>

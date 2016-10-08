@@ -348,4 +348,6 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
   <string name="abort_restore_confirm">Obnova nie je dokončená. Skutočne chcete ukončiť?</string>
+  <string name="notif_trans_receiving_failed">Prijímanie dát zlyhalo</string>
+  <string name="notif_trans_sending_failed">Odosielanie dát zlyhalo</string>
 </resources>

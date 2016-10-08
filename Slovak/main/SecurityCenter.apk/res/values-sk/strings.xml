@@ -1575,4 +1575,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usb_adb_input_apply_step_1">Vaše PC bude môcť zmeniť nastavenia v telefóne a získať povolenia bez upozornenia po pripojení k USB</string>
   <string name="usb_adb_input_apply_step_2">Môže to viesť k úniku vašich súkromných údajov</string>
   <string name="usb_adb_input_apply_step_3">Uistite sa, že rozumiete všetkým rizikám. Naozaj chcete povoliť?</string>
+  <string name="optimize_result_button_realname_now">Overiť</string>
+  <string name="sp_network_privacy_dialog_message">Nie je možné overiť platby pretože ste zakázali aplikácií Optimalizácia dátové pripojenie. Chcete ho povoliť teraz?</string>
+  <string name="sp_network_privacy_dialog_title">Nie je možné skontrolovať platby</string>
+  <string name="summary_realname_verify">Overiť vašu identitu pre bezpečnejšie platby.</string>
+  <string name="title_realname_verify">Overenie ID</string>
 </resources>
