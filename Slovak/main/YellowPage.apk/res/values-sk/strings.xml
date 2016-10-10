@@ -154,7 +154,7 @@ Please check tracking number"</string>
   <string name="recharge_order_original_price">RMB%s</string>
   <string name="recharge_order_pay">Zaplatiť</string>
   <string name="recharge_pay">Navýšiť teraz</string>
-  <string name="recharge_pay_hint">Podpora poskytovaná Xiaomi</string>
+  <string name="recharge_pay_hint">Podpora poskytovaná Mi</string>
   <string name="recharge_pay_hint_license">Upozornenie</string>
   <string name="recharge_payment_result_failed_summary">Skúste to neskôr</string>
   <string name="recharge_payment_result_failed_title">Navýšenie zlyhalo</string>

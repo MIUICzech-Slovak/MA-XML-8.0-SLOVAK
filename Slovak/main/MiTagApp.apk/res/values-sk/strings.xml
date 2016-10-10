@@ -111,7 +111,7 @@ sa dotknete štítkom telefónu"</string>
   <string name="new_configures">Nové nastavenia</string>
   <string name="no_available_networks">Žiadna dostupná sieť</string>
   <string name="no_available_networks_summary">Skúste to opäť po pripojení k Wi-Fi</string>
-  <string name="no_available_xiaomi_shop">Otvorenie obchodu Xiaomi zlyhalo</string>
+  <string name="no_available_xiaomi_shop">Otvorenie obchodu Mi zlyhalo</string>
   <string name="not_save_btn">Nie</string>
   <string name="notification_value">Upozornenia %s%%</string>
   <string name="null_task">Žiadne úlohy</string>
@@ -119,7 +119,7 @@ sa dotknete štítkom telefónu"</string>
   <string name="on">Zapnúť</string>
   <string name="one_minute">1 minúta</string>
   <string name="open_web">Otvoriť web stránku</string>
-  <string name="open_xiaomi_web">Otvoriť Xiaomi.com</string>
+  <string name="open_xiaomi_web">Otvoriť Mi.com</string>
   <string name="password_preference">Heslo Štítku</string>
   <string name="personal">Osobné</string>
   <string name="phone">Telefón</string>

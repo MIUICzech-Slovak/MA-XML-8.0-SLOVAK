@@ -84,7 +84,7 @@
   <string name="aspect_ratio_origin">Originál</string>
   <string name="associate_face_album">Vyberte album</string>
   <string name="auto">Auto</string>
-  <string name="auto_backup_introduce">Automaticky zálohovať fotografie a videá (Xiaomi účet je nutný)</string>
+  <string name="auto_backup_introduce">Automaticky zálohovať fotografie a videá (Mi účet je nutný)</string>
   <string name="auto_update_face">Pridať foto. automaticky</string>
   <string name="auto_update_face_summary">Automaticky rozpoznať a pridať do detského albumu</string>
   <string name="auto_update_off">Vyp</string>
@@ -411,7 +411,7 @@
   <string name="merge_album">Spojiť</string>
   <string name="merge_album_title">Spojiť albumy</string>
   <string name="messagelist_sender_self">Ja</string>
-  <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Xiaomi účet</string>
+  <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Mi účet</string>
   <string name="more_album_hint">,atď</string>
   <string name="more_face_album_name">Viac ľudí</string>
   <string name="must_pick_file">Vyberte fotografiu</string>
@@ -658,7 +658,7 @@
   <string name="user_agreement2">" Podmienky používania"</string>
   <string name="user_agreement4">Podmienky používania</string>
   <string name="user_alias_self">Ja</string>
-  <string name="user_notice_identify_summary_format">"Používaním tejto služby, súhlasíte s Xiaomi %1$s a %2$s."</string>
+  <string name="user_notice_identify_summary_format">"Používaním tejto služby, súhlasíte s Mi %1$s a %2$s."</string>
   <string name="user_notice_title">Upozornenie</string>
   <string name="video_edit_file_not_exits_tip">Najskôr musíte stiahnuť video</string>
   <string name="video_editor_abandon_changes_tip_message">Zrušiť všetky zmeny?</string>
@@ -731,7 +731,7 @@
   <string name="welcome_to_slim">Vitajte v zmenšení albumu</string>
   <string name="where_is_barcode">Kde je QR kód?</string>
   <string name="who_is_this">Kto?</string>
-  <string name="xiaomi_account_not_exists_toast">Xiaomi účet neexistuje</string>
+  <string name="xiaomi_account_not_exists_toast">Mi účet neexistuje</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
   <string name="custom_select_title_quickly_share">Rýchle zdieľanie</string>

@@ -187,7 +187,7 @@
   <string name="forward_prefix">"Fwd: "</string>
   <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do Vášho súčasného účtu: %2$s?</string>
   <string name="found_old_messages_title">Nahrať správy</string>
-  <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Xiaomi účtom a povoľte synchronizáciu SMS.</string>
+  <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Mi účtom a povoľte synchronizáciu SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Synchr. SMS správy z MiCould v nastaveniach SMS.</string>
   <string name="found_wild_messages_guide_sync_not_started">Synchr. ešte nezačala</string>
   <string name="found_wild_messages_title">Synchr. SMS správy z MiCloud</string>
@@ -335,8 +335,8 @@
   <string name="mx_type_guide">Cloudové správy umožnujú MIUI odosielať zdarma SMS cez Wi-Fi alebo mobilné dáta</string>
   <string name="need_download">Čakanie na synchronizáciu...</string>
   <string name="networking_allow_continue">OK</string>
-  <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Xiaomi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
-  <string name="networking_allow_desc_without_mx">Inteligentné správy umožňujú rozpoznávanie neznámych čísel, filtrovať spam, atď. Používaním tejto služby súhlasíte s Xiaomi %1$s a %2$s.</string>
+  <string name="networking_allow_desc">"Smart messages allow you to send free texts and voice, recognize unknown numbers, filter spam, etc. By using this service, you agree to Mi's %1$s and %2$s. You have to turn on Yellow pages and connect to the internet to use this service."</string>
+  <string name="networking_allow_desc_without_mx">Inteligentné správy umožňujú rozpoznávanie neznámych čísel, filtrovať spam, atď. Používaním tejto služby súhlasíte s Mi %1$s a %2$s.</string>
   <string name="networking_allow_title">Attention</string>
   <string name="new_message">Nová správa</string>
   <string name="new_message_arrived">Prišla nová správa</string>
@@ -491,7 +491,7 @@
   <string name="secs">s</string>
   <string name="security_alert_desc">Odosielateľ nie je vo vašom zozname kontaktov.</string>
   <string name="security_alert_desc_highlight">Nahlásiť toto číslo</string>
-  <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Xiaomi pre ďalšiu analýzu.</string>
+  <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Mi pre ďalšiu analýzu.</string>
   <string name="security_alert_dialog_title">Nahlásiť</string>
   <string name="select_audio">Vybrať audio</string>
   <string name="select_bottom_text">Text dole</string>

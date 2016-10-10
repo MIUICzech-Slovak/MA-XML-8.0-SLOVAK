@@ -23,8 +23,8 @@
   <string name="add_organization">Pridať organizáciu</string>
   <string name="add_to_my_contacts">Pridať do Mojich kontaktov</string>
   <string name="add_wait">Pridať pauzu</string>
-  <string name="add_xiaomi_account_dialog_btn">Použiť účet Xiaomi</string>
-  <string name="add_xiaomi_account_dialog_msg">Pre čo najväčšie pohodlie zvážte používanie účtu Xiaomi na synchronizáciu a zálohu Vaších kontaktov.</string>
+  <string name="add_xiaomi_account_dialog_btn">Použiť účet Mi</string>
+  <string name="add_xiaomi_account_dialog_msg">Pre čo najväčšie pohodlie zvážte používanie účtu Mi na synchronizáciu a zálohu Vaších kontaktov.</string>
   <string name="add_xiaomi_account_dialog_title">Zvoliť účet synchr.</string>
   <string name="aggregation_suggestion_edit_dialog_message">Prepnúť do úpravy zvoleného kontaktu? Doposiaľ zadané informácie budú skopírované.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Upraviť vybrané kontakty</string>
@@ -448,8 +448,8 @@ Chyba: \"%s\""</string>
   <string name="import_to_xiaomi_account_confirm">Presunúť</string>
   <string name="import_to_xiaomi_account_progress_finish">Presun ukončený</string>
   <string name="import_to_xiaomi_account_progress_message">Presúvanie kontaktov...</string>
-  <string name="import_to_xiaomi_account_progress_title">Presúvanie kontaktov na Xiaomi účet</string>
-  <string name="import_to_xiaomi_account_title">Presunúť kontakty na Xiaomi účet?</string>
+  <string name="import_to_xiaomi_account_progress_title">Presúvanie kontaktov na Mi účet</string>
+  <string name="import_to_xiaomi_account_title">Presunúť kontakty na Mi účet?</string>
   <string name="import_vcard_description">Importovať kontakty z SD karty</string>
   <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
@@ -612,7 +612,7 @@ Chyba: \"%s\""</string>
   <string name="nickname_picker_nickname_column">Titul</string>
   <string name="noAccounts">Aby bolo možné vytvoriť skupiny, musí byť vytvorený účet</string>
   <string name="noContactHelpTextAccountsInfo">Synchronizujte Google alebo Exchange kontakty.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví dáta zálohované na účte Xiaomi</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví dáta zálohované na účte Mi</string>
   <string name="noContacts">žiadne kontakty</string>
   <string name="noContactsHelpText">"Nemáte žiadne kontakty na zobrazenie.
 
@@ -738,9 +738,9 @@ Synchronizujte ich teraz."</string>
   <string name="pref_key_rebuild_t9_index_message">Opraviť index vyhľadávania kontaktov</string>
   <string name="pref_key_rebuild_t9_index_title">Obnoviť T9 index</string>
   <string name="pref_key_sim_manage">Správa SIM kariet</string>
-  <string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>
+  <string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Mi</string>
   <string name="pref_title_account_import">Kopírovanie z účtu</string>
-  <string name="pref_title_import_from_account">Kopírovanie na účet Xiaomi</string>
+  <string name="pref_title_import_from_account">Kopírovanie na účet Mi</string>
   <string name="preference_auto_ip_summary_disable">Nie je povolené</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_auto_ip_title">Auto IP</string>

@@ -361,7 +361,7 @@
   <string name="user_notice_button_exit">Ukončiť</string>
   <string name="user_notice_button_ok">OK</string>
   <string name="user_notice_declaration_ignore">Viac nezobrazovať</string>
-  <string name="user_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie, vašu polohu a prístup ku kontaktom pre ich správne fungovanie.</string>
+  <string name="user_notice_message">Používaním tejto aplikácie súhlasíte s Mi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie, vašu polohu a prístup ku kontaktom pre ich správne fungovanie.</string>
   <string name="user_notice_title">Upozornenie</string>
   <string name="user_notification">Upozornenie</string>
   <string name="user_notification_descrip">Zobraziť upozornenie pri každom otvorení kalendára</string>
@@ -380,7 +380,7 @@
   <string name="widget_select_style">Vyberte štýl</string>
   <string name="work_day_indication"/>
   <string name="wuxing"/>
-  <string name="xiaomi_calendar_display_name">Xiaomi Kalendár</string>
+  <string name="xiaomi_calendar_display_name">Mi Kalendár</string>
   <string name="xingxiu"/>
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>

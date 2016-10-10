@@ -53,7 +53,7 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="cloud_back_up_opening">Načítavanie...</string>
   <string name="cloud_back_up_share_activity_confirm">Navýšiť</string>
   <string name="cloud_back_up_share_activity_discription">Získajte viac miesta na úložisku v MiCloud.</string>
-  <string name="cloud_back_up_share_activity_title">Navýšiť Xiaomi účet</string>
+  <string name="cloud_back_up_share_activity_title">Navýšiť Mi účet</string>
   <string name="cloud_back_up_task">Zálohovanie...</string>
   <string name="cloud_backup_detail_frequence">Plánovanie zálohy</string>
   <string name="cloud_backup_detail_frequence_day">Zálohovať %1$s</string>

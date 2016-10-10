@@ -55,13 +55,13 @@
   <string name="feedback_description_suggest_hint">Popis novej funkcie v angličtine.</string>
   <string name="feedback_detail_tile">Stav</string>
   <string name="feedback_empty_report_list">žiadne hlásenia</string>
-  <string name="feedback_history_remind_login_desc">Prihláste sa svojim Xiaomi účtom pre zobrazenie podrobností a stav vašich nahlásených chýb.</string>
+  <string name="feedback_history_remind_login_desc">Prihláste sa svojim Mi účtom pre zobrazenie podrobností a stav vašich nahlásených chýb.</string>
   <string name="feedback_id">ID: %d</string>
   <string name="feedback_package_log_failed">Nebolo možné skomprimovať záznamy o chybe</string>
   <string name="feedback_phone_model_label">Model telefónu</string>
   <string name="feedback_probability_label">Pravdepodobnosť</string>
   <string name="feedback_remind_login_btn">Prihlásiť sa</string>
-  <string name="feedback_report_remind_login_desc">Prihláste sa svojim Xiaomi účtom aby sme vás mohli kontaktovať.</string>
+  <string name="feedback_report_remind_login_desc">Prihláste sa svojim Mi účtom aby sme vás mohli kontaktovať.</string>
   <string name="feedback_report_remind_login_desc2">Múžete zobraziť stav vašich nahlásených chýb v \"Moje hlásenia\"."</string>
   <string name="feedback_retest_label">Ako reprodukovať chybu</string>
   <string name="feedback_select_images">Pridať obrázok</string>
@@ -125,7 +125,7 @@
   <string name="non_system_app_select">Stiahnuté aplikácie</string>
   <string name="packaging_dialog_content">Generuje sa report, čakajte prosím...</string>
   <string name="pic_not_exist">Tento obrázok neexistuje</string>
-  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Xiaomi server.</string>
+  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Mi server.</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamätať nastavenie</string>
   <string name="post_miui_bbs_failed">Nebolo možné napísať na fórum</string>
   <string name="pull_to_refresh_pull_label">Potiahnite pre obnovenie</string>
@@ -145,7 +145,7 @@
   <string name="section_screenshot">Screenshot</string>
   <string name="submit_dialog_cancel">Zrušiť</string>
   <string name="submit_dialog_confirm">Odoslať</string>
-  <string name="submit_dialog_content">Vaše hlásenie bude odoslané na server Xiaomi.</string>
+  <string name="submit_dialog_content">Vaše hlásenie bude odoslané na server Mi.</string>
   <string name="submit_dialog_title">Odoslať hlásenie</string>
   <string name="submit_feedback_info_failed">Nebolo možné odoslať hlásenie</string>
   <string name="suggestion_description">Napíšte svoj návrh na novú funkciu (v angličtine)...</string>

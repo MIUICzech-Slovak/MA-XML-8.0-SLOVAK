@@ -1587,7 +1587,7 @@ Chcete ju zavrieť?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Komu:</string>
   <string name="wifi_p2p_turnon_message">Spustiť priame pripojenie siete Wi-Fi. Táto možnosť vypne sieť Wi-Fi v režime klient alebo hotspot.</string>
-  <string name="wifi_tether_configure_ssid_default">Xiaomi-AP</string>
+  <string name="wifi_tether_configure_ssid_default">Mi-AP</string>
   <string name="wifi_watchdog_network_disabled">Nepodarilo sa pripojiť k sieti Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" má nekvalitné internetové pripojenie."</string>
   <string name="wireless_display_route_description">Bezdrôtový displej</string>

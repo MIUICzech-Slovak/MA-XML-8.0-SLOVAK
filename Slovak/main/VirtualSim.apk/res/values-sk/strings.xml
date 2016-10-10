@@ -46,7 +46,7 @@
   <string name="err_max_buy_number">"You've already purchased the maximum number of virtual SIMs allowed."</string>
   <string name="err_product_sold_out_toast">"This item isn't available at the moment"</string>
   <string name="err_refund_fail_toast">"Couldn't request refund. Card has already been activated."</string>
-  <string name="err_refund_inner_error_toast">Could request refund. Contact Xiaomi support now.</string>
+  <string name="err_refund_inner_error_toast">Could request refund. Contact Mi support now.</string>
   <string name="err_sim_insufficient_toast">"Couldn't get order info"</string>
   <string name="err_white_list_user_rejection_toast">"It looks like you don't have permission to use the beta version of this feature."</string>
   <string name="fill_data">"Oops! Make sure you've filled in the required fields."</string>
@@ -126,7 +126,7 @@
   <string name="virtualsim_activate_dailog_description">Virtual SIM service begins immediately upon activation.</string>
   <string name="virtualsim_activate_dailog_title">Activate virtual SIM now?</string>
   <string name="virtualsim_description">Connect to mobile data networks while roaming outside of Mainland China without swapping SIM cards. At the moment, this service is only available in Hong Kong and Macao.</string>
-  <string name="welcome_brand_name">Xiaomi Inc.</string>
+  <string name="welcome_brand_name">Mi Inc.</string>
   <string name="welcome_buy_btn">Continue</string>
   <string name="welcome_user_agreement_content1">Agree</string>
   <string name="welcome_user_agreement_content2">Terms of Service</string>

@@ -17,7 +17,7 @@
   <string name="ads_control_desc">Zobraziť reklamu pri spustení aplikácie</string>
   <string name="ads_ignore">Preskočiť</string>
   <string name="airkan_control_device_des">Môžete ovládať prehrávanie pomocou tlačidiel v dolnej časti</string>
-  <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_device_xiaomi_phone">Mi</string>
   <string name="airkan_playing">hrajú</string>
   <string name="airkan_playing_to">" na "</string>
   <string name="airkan_tips">Spustiť video na MiBox alebo TV</string>
@@ -169,7 +169,7 @@
   <string name="local_media_empty_sub_title">Stiahnuť a prehrať offline</string>
   <string name="local_media_empty_title">Žiadne</string>
   <string name="local_video">Lokálne</string>
-  <string name="login_tip_content">Prihláste sa Vašim Xiaomi účtom pre aktualizácie Vašich obľúbených seriálov.</string>
+  <string name="login_tip_content">Prihláste sa Vašim Mi účtom pre aktualizácie Vašich obľúbených seriálov.</string>
   <string name="login_tip_title">Prihlásiť</string>
   <string name="media_name_comment">%s komentár</string>
   <string name="memory_mode_desc">Save memory usage</string>
@@ -179,7 +179,7 @@
   <string name="mine_info_account_summary_none">Not login</string>
   <string name="mine_info_account_title">Account information</string>
   <string name="minute"> Minute</string>
-  <string name="mipush_setting">Xiaomi push upozornenia</string>
+  <string name="mipush_setting">Mi push upozornenia</string>
   <string name="month">"."</string>
   <string name="my_favorite">Obľúbené</string>
   <string name="my_local_favorite">Local tarred</string>
@@ -189,7 +189,7 @@
   <string name="myfavorite_onlylocal">Obľúbené</string>
   <string name="negative_comment">Slabý komentár</string>
   <string name="netease">NetEase</string>
-  <string name="no_login_xiaomi_account">Prihláste sa svojim Xiaomi účtom pre odoslanie komentárov.</string>
+  <string name="no_login_xiaomi_account">Prihláste sa svojim Mi účtom pre odoslanie komentárov.</string>
   <string name="no_longer_tips">Viac sa nepýtať</string>
   <string name="no_sdcard_no_download">No enough storage, fail to request download.</string>
   <string name="not_login">Neprihlásený</string>
@@ -246,7 +246,7 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Movie</string>
   <string name="receive_develop_summary">Receive application update when new develop version is available</string>
-  <string name="receive_mipush">Xiaomi push notifikácie</string>
+  <string name="receive_mipush">Mi push notifikácie</string>
   <string name="receive_follow">Upozornenie na novú epizódu</string>
   <string name="receive_follow_summary">Dostávať upozornenia o novej epizóde seriálu</string>  
   <string name="receive_mipush_summary">Prijímať upozornenia o novom online obsahu</string>
@@ -422,8 +422,8 @@
   <string name="waiting_to_download">Čakanie</string>
   <string name="wasu">Wasu</string>
   <string name="write_comment">Komentovať</string>
-  <string name="xiaomi_account_type_unsupported">Systém nepodporuje Xiaomi účet.</string>
-  <string name="xiaomi_user">Xiaomi užívateľ</string>
+  <string name="xiaomi_account_type_unsupported">Systém nepodporuje Mi účet.</string>
+  <string name="xiaomi_user">Mi užívateľ</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
 </resources>

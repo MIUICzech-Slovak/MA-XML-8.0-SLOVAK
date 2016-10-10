@@ -2,8 +2,8 @@
 <resources>
   <string name="about_device">Info o telefóne</string>
   <string name="active_xiaomi_account">Aktívny</string>
-  <string name="active_xiaomi_account_msg">Pre aktivovanie vášho Xiaomi účtu navštívte http://account.mi.com/.</string>
-  <string name="active_xiaomi_account_title">Aktivovať Xiaomi účet</string>
+  <string name="active_xiaomi_account_msg">Pre aktivovanie vášho Mi účtu navštívte http://account.mi.com/.</string>
+  <string name="active_xiaomi_account_title">Aktivovať Mi účet</string>
   <string name="app_name">Aktualizácia</string>
   <string name="apply_title">Aktualizácia (%s)</string>
   <string name="apply_update_dialog_cancel_button">Zrušiť</string>
@@ -46,7 +46,7 @@
   <string name="comment_sending">Odosielanie...</string>
   <string name="comment_upload_failed">Odosielanie komentára zlyhalo</string>
   <string name="comment_upload_hint">Ďakujeme za váš názor!</string>
-  <string name="comment_upload_not_logined">Musíte sa prihlásiť na svoj Xiaomi účet</string>
+  <string name="comment_upload_not_logined">Musíte sa prihlásiť na svoj Mi účet</string>
   <string name="comment_upload_success">Odoslané</string>
   <string name="confirm_local_package_wipe_btn">Vymazať a aktualizovať</string>
   <string name="confirm_local_package_wipe_msg">Vaše užívateľské dáta budú vymazané. Uistite sa, že máte zálohované všetky dôležité dáta predtým ako spustite inštaláciu.</string>
@@ -119,10 +119,10 @@
   <string name="notification_auto_reboot_seccess_title">Aktualizované automaticky</string>
   <string name="notification_downloading">Sťahovanie aktualizácie...</string>
   <string name="notification_fail_msg">Skúste stiahnuť celú ROM z miuios.cz/rom</string>
-  <string name="notification_load_body_alpha">Prihláste sa do svojho Xiaomi účtu pre aktualizáciu vášho zariadenia.</string>
-  <string name="notification_load_body_dev">Prihláste sa do svojho Xiaomi účtu pre aktualizáciu vášho zariadenia.</string>
-  <string name="notification_load_title_alpha">Prihláste sa do Xiaomi účtu</string>
-  <string name="notification_load_title_dev">Prihláste sa do Xiaomi účtu</string>
+  <string name="notification_load_body_alpha">Prihláste sa do svojho Mi účtu pre aktualizáciu vášho zariadenia.</string>
+  <string name="notification_load_body_dev">Prihláste sa do svojho Mi účtu pre aktualizáciu vášho zariadenia.</string>
+  <string name="notification_load_title_alpha">Prihláste sa do Mi účtu</string>
+  <string name="notification_load_title_dev">Prihláste sa do Mi účtu</string>
   <string name="notification_reboot_btn">Reštart</string>
   <string name="notification_reboot_seccess_des">Zobraziť informácie o aktualizácií</string>
   <string name="notification_reboot_seccess_title">Aktualizované!</string>
@@ -209,7 +209,7 @@ Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
   <string name="update_feedback_end_sum">Svoj názor môžete odoslať každý pondelok.</string>
   <string name="update_feedback_expired">"Zmeškali ste hodnotenie aktuálnej verzie.
 Svoj názor môžete odoslať každý pondelok"</string>
-  <string name="update_feedback_need_account">Musíte sa prihlásiť k Xiaomi účtu</string>
+  <string name="update_feedback_need_account">Musíte sa prihlásiť k Mi účtu</string>
   <string name="update_feedback_need_network">Pripojte sa k sieti</string>
   <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najkôr aktualizovať na najnovšiu verziu.</string>
   <string name="update_feel">Čo si o tom myslíte?</string>
@@ -242,7 +242,7 @@ BETA Feedback Programu"</string>
   <string name="vote_error2">"Nie je možné odoslať váš názor.
 Aktualizujte vaše zariadenie a skúste to znova"</string>
   <string name="vote_error3">"Nie je možné sa prihlásiť.
-Skúste sa znova prihlásiť vašim Xiaomi účtom."</string>
+Skúste sa znova prihlásiť vašim Mi účtom."</string>
   <string name="vote_error4">Váš názor už bol odoslaný</string>
   <string name="vote_error5">"Nastala chyba,
 Nie je možné odoslať váš názor"</string>

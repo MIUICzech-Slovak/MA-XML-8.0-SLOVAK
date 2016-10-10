@@ -39,7 +39,7 @@
   <string name="sim_card_detecting">Vyhľadávanie SIM karty...</string>
   <string name="sim_card_detecting_title">Skontrolovať SIM kartu</string>
   <string name="sim_card_detection">SIM karta sa nenašla</string>
-  <string name="sim_card_detection_info">Pre vytvorenie Xiaomi účtu sa vyžaduje SIM karta.</string>
+  <string name="sim_card_detection_info">Pre vytvorenie Mi účtu sa vyžaduje SIM karta.</string>
   <string name="sim_dectection_next">Pokračovať</string>
   <string name="sim_redetection">Skontr. SIM</string>
   <string name="skip_underline">Preskočiť</string>

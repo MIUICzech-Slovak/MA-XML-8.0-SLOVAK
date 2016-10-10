@@ -95,7 +95,7 @@
   <string name="day">Deň</string>
   <string name="delete">Vymazať</string>
   <string name="delete_confirm">Odpojiť zariadenie?</string>
-  <string name="delete_desc">Nebude možné ovládať “%s” pomocou Xiaomi zariania.</string>
+  <string name="delete_desc">Nebude možné ovládať “%s” pomocou Mi zariania.</string>
   <string name="delete_device_frame">Vymazať: %1$s</string>
   <string name="delete_frame">Vymazať %1$s?</string>
   <string name="device_brand">Značka</string>
@@ -104,7 +104,7 @@
   <string name="device_type">typ</string>
   <string name="diagnose">Analýza problému</string>
   <string name="diagnosis_intro">Skontrolovať sieťové pripojenie</string>
-  <string name="dialog_install_assistant_content">Xiaomi installed a specially developed application artifact screen cast, Fun MiTV/MiBox</string>
+  <string name="dialog_install_assistant_content">Mi installed a specially developed application artifact screen cast, Fun MiTV/MiBox</string>
   <string name="dining_room">Reštaurácia</string>
   <string name="download_assistant">Cast-screen artifact</string>
   <string name="download_path_fail">Sťahovanie zlyhalo</string>
@@ -296,8 +296,8 @@ Pustite keď %1$s zareaguje</string>
   <string name="maybe_is">Uistite sa: </string>
   <string name="menu">Menu</string>
   <string name="menu_settings">Nastavenia</string>
-  <string name="mi_brand">Xiaomi</string>
-  <string name="mi_rc">Xiaomi ovládanie</string>
+  <string name="mi_brand">Mi</string>
+  <string name="mi_rc">Mi ovládanie</string>
   <string name="mibox">MiBox</string>
   <string name="milink_nowifi">Wi-Fi nie je pripojená</string>
   <string name="minute">min</string>
@@ -344,7 +344,7 @@ Pustite keď %1$s zareaguje</string>
   <string name="passport_account_not_actived">Váš účet nebol aktivovaný</string>
   <string name="passport_active_email_visit">Skontrolujte vaš email (aj SPAM) na %s</string>
   <string name="passport_activing_account">Aktivácia...</string>
-  <string name="passport_app_name">Xiaomi účet</string>
+  <string name="passport_app_name">Mi účet</string>
   <string name="passport_area_code_hot">Často používané</string>
   <string name="passport_area_code_title">Kód krajiny</string>
   <string name="passport_bad_authentication">Nesprávne meno alebo heslo</string>
@@ -365,14 +365,14 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_data_keep_in_device">Ponechať v zariadení</string>
   <string name="passport_data_wipe_from_device">Odstrániť zo zariadenia</string>
   <string name="passport_delete_account">Odhlásiť sa</string>
-  <string name="passport_dspt_provision">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
+  <string name="passport_dspt_provision">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Mi s jednym účtom.</string>
   <string name="passport_dspt_provision2">Viac</string>
   <string name="passport_email">Emailová adresa</string>
-  <string name="passport_email_or_id_hint_text">Emailová adresa alebo Xiaomi ID</string>
+  <string name="passport_email_or_id_hint_text">Emailová adresa alebo Mi ID</string>
   <string name="passport_email_reg_success_summary">%1$s bol prepojený s vašim účtom. Môžete sa ním prihlásiť alebo obnoviť vaše heslo.</string>
   <string name="passport_error_device_id">Nie je možné načítať ID zariadenia</string>
-  <string name="passport_error_dup_email">Táto emailová adresa už je prepojená s iným Xiaomi účtom</string>
-  <string name="passport_error_dup_phone">Toto telefónne čislo už je prepojené s iným Xiaomi účtom</string>
+  <string name="passport_error_dup_email">Táto emailová adresa už je prepojená s iným Mi účtom</string>
+  <string name="passport_error_dup_phone">Toto telefónne čislo už je prepojené s iným Mi účtom</string>
   <string name="passport_error_email">Zadaná emailová adresa nie je správna</string>
   <string name="passport_error_empty_captcha_code">Zadajte passport_captcha kód</string>
   <string name="passport_error_empty_email">Zadajte emailovú adresu</string>
@@ -411,8 +411,8 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_login_instead_reg">Použiť toto číslo</string>
   <string name="passport_login_instead_reg_with_email">Použiť tento email</string>
   <string name="passport_login_notice">Prihlasovanie...</string>
-  <string name="passport_login_title">Prihlásiť sa k Xiaomi účtu</string>
-  <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Xiaomi ID</string>
+  <string name="passport_login_title">Prihlásiť sa k Mi účtu</string>
+  <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Mi ID</string>
   <string name="passport_next">Ďalej</string>
   <string name="passport_notification_title">Chyba prihlásenia pre %1$s</string>
   <string name="passport_password">Zadajte vaše heslo</string>
@@ -428,7 +428,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_re_get_verify_code">Získat kód znova</string>
   <string name="passport_re_register">Prihlásiť sa znova</string>
   <string name="passport_reg_failed">Nie je možné vytvoriť účet</string>
-  <string name="passport_reg_new">Vytvoriť Xiaomi účet</string>
+  <string name="passport_reg_new">Vytvoriť Mi účet</string>
   <string name="passport_reg_sms_send_prompt">Odoslať overovací kód na %s</string>
   <string name="passport_reg_success">Účet vytvorený</string>
   <string name="passport_reg_success_summary">%1$s bol prepojený s vašim účtom. Môžete sa ním prihlásiť alebo obnoviť vaše heslo.</string>
@@ -453,7 +453,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_sim_index_info">SIM karta %1$d - %2$s</string>
   <string name="passport_skip_login">Preskočiť</string>
   <string name="passport_skip_register">Preskočiť</string>
-  <string name="passport_skip_setup_account_msg">Môžete nastaviť Xiaomi účet neskôr.</string>
+  <string name="passport_skip_setup_account_msg">Môžete nastaviť Mi účet neskôr.</string>
   <string name="passport_skip_setup_account_title">Preskočiť</string>
   <string name="passport_title_reg">Vytvoriť účet</string>
   <string name="passport_trust_device">Dôverovať tomuto zariadeniu</string>
@@ -471,7 +471,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_wrong_captcha">Zadaný kód nie je správny</string>
   <string name="passport_wrong_phone_number_format">Formát telefónneho čísla nie je správny</string>
   <string name="passport_wrong_vcode">Zadaný kód nie je správny</string>
-  <string name="passport_xiaomi_account_dspt">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
+  <string name="passport_xiaomi_account_dspt">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Mi s jednym účtom.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2"/>
   <string name="place_frame">Miesto:</string>
@@ -532,7 +532,7 @@ Skontrolujte aj SPAM."</string>
   <string name="share_app_downloads">Stiahnuté:</string>
   <string name="share_comment_hint">Pridajte komentár...</string>
   <string name="share_content_device_box_to_sina_weibo">MiBox</string>
-  <string name="share_content_device_other_to_sina_weibo">Xiaomi</string>
+  <string name="share_content_device_other_to_sina_weibo">Mi</string>
   <string name="share_content_device_tv_to_sina_weibo">MiTV</string>
   <string name="share_content_to_sina_weibo">%1$s %2$s</string>
   <string name="share_content_type_app_to_sina_weibo">Aplikácia</string>
@@ -560,7 +560,7 @@ Skontrolujte aj SPAM."</string>
   <string name="sorry">Prepáčte :(</string>
   <string name="speech_init_failed">Nebola nájdená aplikácia iFlytek, chcete ju nainštalovať?</string>
   <string name="splash_add_device_des">Pridajte vaše domáce zariadenie</string>
-  <string name="splash_desc">Xiaomi telefón môže nahradiť vaše diaľkové ovládanie v domácnosti.</string>
+  <string name="splash_desc">Mi telefón môže nahradiť vaše diaľkové ovládanie v domácnosti.</string>
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Párovať</string>
   <string name="stb">STB</string>
