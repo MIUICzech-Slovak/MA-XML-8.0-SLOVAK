@@ -137,4 +137,6 @@
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
   <string name="timer_alarm_dot_matrix_label">ČASOVAČ</string>
+  <string name="upcoming_alarm">Nasledujúci budík</string>
+  <string name="upcoming_alarm_hint">Môžete vypnúť tento budík</string>  
 </resources>

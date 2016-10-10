@@ -4729,4 +4729,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="usb_adb_input_desc">Povoliť získanie oprávnení a vstup cez USB ladenie</string>
   <string name="usb_install_app">Inštalovať cez USB</string>
   <string name="usb_install_app_desc">Povoliť inštaláciu apk cez USB</string>
+  <string name="security_encryption_progress_dialog_open">Dešifrovanie...</string>
 </resources>

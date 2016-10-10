@@ -1220,4 +1220,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="call_background_default">Predvolený obrázok</string>
   <string name="call_background_lock_wallpaper">Tapeta zamyk. obrazovky</string>
   <string name="call_background_setting">Pozadie pri hovore</string>  
+  <string name="change_data_preference_4g_only_prompt">Vyzerá to, že máte len 4G SIM kartu. Chcete ju nastaviť ako predvolenú pre mobilné dáta?</string>
+  <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Neobmedzuje vašu sekundárnu SIM kartu v prípade núdzového hovoru.</string>
  </resources>
