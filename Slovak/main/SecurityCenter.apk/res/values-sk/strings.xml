@@ -1599,10 +1599,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_edit_adandon_button_text">Zrušiť</string>
   <string name="auto_task_edit_choose_condition_title">Vyberte podmienky</string>
   <string name="auto_task_edit_choose_new_operation">Pridať akciu</string>
-  <string name="auto_task_edit_choose_operation_title">Vybrať akciu</string>
+  <string name="auto_task_edit_choose_operation_title">Vyberte akciu</string>
   <string name="auto_task_edit_condition_summary">Napr., \"O 23:00\"</string>
   <string name="auto_task_edit_condition_title">Pridať podmienku</string>
-  <string name="auto_task_edit_my_custom_task">Názov</string>
+  <string name="auto_task_edit_my_custom_task">Zadajte názov</string>
   <string name="auto_task_edit_operation_summary">Napr., \"Zapnúť režim Lietadlo\"</string>
   <string name="auto_task_edit_task_name">Názov</string>
   <string name="auto_task_main_summary">Zmeniť nastavenia systému pre určitú dobu alebo podľa stavu batérie</string>
@@ -1616,8 +1616,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_operation_auto_brightness">Auto. jas</string>
   <string name="auto_task_operation_bluetooth">Bluetooth</string>
   <string name="auto_task_operation_brightness">Jas displeja</string>
-  <string name="auto_task_operation_close">Vyp</string>
-  <string name="auto_task_operation_close_string">Vypnúť %s</string>
+  <string name="auto_task_operation_close">Vypnúť</string>
+  <string name="auto_task_operation_close_string">Vypnúť: %s</string>
   <string name="auto_task_operation_gps">GPS</string>
   <string name="auto_task_operation_lockscreen_time">Zámok displeja</string>
   <string name="auto_task_operation_memory_clean_lockscreen">Vyčistiť RAM</string>
@@ -1625,8 +1625,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_operation_modify_string">Upraviť %s</string>
   <string name="auto_task_operation_mute">Tichý režim</string>
   <string name="auto_task_operation_no_op">Nevybrať túto akciu</string>
-  <string name="auto_task_operation_open">Zap</string>
-  <string name="auto_task_operation_open_string">Zapnúť %s</string>
+  <string name="auto_task_operation_open">Zapnúť</string>
+  <string name="auto_task_operation_open_string">Zapnúť: %s</string>
   <string name="auto_task_operation_string_comma">,</string>
   <string name="auto_task_operation_string_etc">, atď.</string>
   <string name="auto_task_operation_string_modify">Upraviť</string>
@@ -1634,7 +1634,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_operation_sync">Synchr.</string>
   <string name="auto_task_operation_vibration">Vibrácie</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
-  <string name="card_main_gamebooster_summary">Zrúchliť a zlepšiť odozvu pri hrách</string>
+  <string name="card_main_gamebooster_summary">Zrýchliť a zlepšiť odozvu pri hrách</string>
   <string name="card_main_gamebooster_title">Odozva pri hraní hier</string>
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="summary_auto_update">MIUI zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
