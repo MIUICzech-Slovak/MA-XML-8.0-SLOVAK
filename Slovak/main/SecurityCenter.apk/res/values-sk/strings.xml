@@ -1639,4 +1639,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="summary_auto_update">MIUI zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
   <string name="title_auto_update">Aktualizovať automaticky</string>
+  <string name="auto_task_operation_string_comma">", "</string>
+  <string name="auto_task_operation_string_split">"; "</string>
 </resources>
