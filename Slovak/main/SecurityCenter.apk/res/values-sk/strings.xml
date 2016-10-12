@@ -1627,10 +1627,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_operation_no_op">Nevybrať túto akciu</string>
   <string name="auto_task_operation_open">Zapnúť</string>
   <string name="auto_task_operation_open_string">Zapnúť: %s</string>
-  <string name="auto_task_operation_string_comma">,</string>
+  <string name="auto_task_operation_string_comma">", "</string>
   <string name="auto_task_operation_string_etc">, atď.</string>
   <string name="auto_task_operation_string_modify">Upraviť</string>
-  <string name="auto_task_operation_string_split">;</string>
+  <string name="auto_task_operation_string_split">"; "</string>
   <string name="auto_task_operation_sync">Synchr.</string>
   <string name="auto_task_operation_vibration">Vibrácie</string>
   <string name="auto_task_operation_wifi">Wi-Fi</string>
@@ -1639,6 +1639,4 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="summary_auto_update">MIUI zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
   <string name="title_auto_update">Aktualizovať automaticky</string>
-  <string name="auto_task_operation_string_comma">", "</string>
-  <string name="auto_task_operation_string_split">"; "</string>
 </resources>
