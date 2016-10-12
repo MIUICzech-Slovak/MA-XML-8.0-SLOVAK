@@ -408,16 +408,10 @@
   <string name="snap_confirmed">Potvrdiť</string>
   <string name="message_snap_double_confirm">Súčasný režim dlhého podržania tlačidla hlasitosti nadol je NFC. Chcete potvrdiť túto zmenu?</string>
   <string name="cannot_connect_camera_volte_call">Práve prebieha video hovor. Skúste to znova neskôr.</string>
-  <string name="message_snap_double_confirm">Súčasný režim dlhého podržania tlačidla hlasitosti je NFC, chcete ho zmeniť?</string>
-  <string name="pref_camera_groupshot_mode_title">GroupShot</string>
   <string name="pref_camera_mono_mode_title">Mono</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_groupshot_with_primitive_title">Uložiť v GroupShot režime</string>
-  <string name="simple_mode_button_text_groupshot">Vypnúť GroupShot</string>
   <string name="simple_mode_button_text_mono">Vypnúť Mono</string>
   <string name="simple_mode_button_text_raw">Vypnúť RAW</string>
-  <string name="snap_cancel">Zrušiť</string>
-  <string name="snap_confirmed">Zmeniť</string>
-  <string name="title_snap_double_confirm">Potvrďte znova</string>
   <string name="toast_saving">Ukladanie fotografií...</string>
 </resources>
