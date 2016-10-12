@@ -648,4 +648,7 @@ Pokus: %s."</string>
   <string name="privacy_password_title2">Použiť heslo ochrany súkromia</string>
   <string name="privacy_password_title3">Aktualizovať heslo</string>
   <string name="privacy_password_title4">Heslo aktualizované</string>
+  <string name="audio_message_expired">Táto hlasová správa expirovala.</string>
+  <string name="audio_message_mx_offline">Nebolo možné stiahnuť audio. Cloudové správy sú nedostupné.</string>
+  <string name="audio_sim_card_mismatching">Žiadne dátové pripojenie alebo nesprávna SIM karta. Vložte SIM kartu z ktorej bola odoslaná správa a pripojte sa k sieti.</string> 
 </resources>

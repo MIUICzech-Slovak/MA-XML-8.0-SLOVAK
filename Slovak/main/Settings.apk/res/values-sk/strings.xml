@@ -4729,4 +4729,23 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="usb_adb_input_desc">Povoliť získanie oprávnení a vstup cez USB ladenie</string>
   <string name="usb_install_app">Inštalovať cez USB</string>
   <string name="usb_install_app_desc">Povoliť inštaláciu apk cez USB</string>
+  <string name="bootloader_device_bind_already">Úspešne pridané. Mi účet je teraz prepojený s týmto zariadením.</string>
+  <string name="bootloader_device_bind_fail">Nebolo možné overiť, skúste to znova neskôr.</string>
+  <string name="bootloader_device_bind_msg">Príprava pre pridanie účtu a zariadenia...</string>
+  <string name="bootloader_device_bind_no_account">Najskôr sa prihláste k svojmu Mi účtu</string>
+  <string name="bootloader_device_bind_no_network">Pripojte sa k sieti a skúste to znova</string>
+  <string name="bootloader_locked_answer_1">Uzamykáme bootloader kvôli vašej bezpečnosti a zamedzeniu nahrávania upravených FAKE ROM samotnými predajcami. Ak chcete nahrať ROM od miuios.cz/rom je nutné odomknúť bootloader.</string>
+  <string name="bootloader_locked_answer_1_warning">Po odomknutí zariadenia môžete nahrať TWRP recovery a ROM od miuios.cz/rom</string>
+  <string name="bootloader_locked_answer_2">Stlačte tlačidlo nižšie pre prepojenie vášho Mi účtu s týmto zariadením. Potom choďte na stránku pre zadanie žiadosti o odomknutie bootloadera a po doručení potvrdzovacej SMS odomknite bootloader pomocou nástroja na tejto stránke: "</string>
+  <string name="bootloader_locked_check_status">Pridať účet a zariadenie</string>
+  <string name="bootloader_locked_question_1">Prečo by malo byť moje zariadenie uzamknuté?</string>
+  <string name="bootloader_locked_question_2">Rozumiem rizikám ale chcem mať na svojom zariadení ROM od miuios.cz a odomknutý bootloader.</string>
+  <string name="bootloader_status">Stav bootloadera</string>
+  <string name="bootloader_status_locked">Uzamknutý</string>
+  <string name="bootloader_status_locked_info">Toto zariadenie je uzamknuté</string>
+  <string name="bootloader_status_locked_summary">Nie je možné nahrať ROM z miuios.cz</string>
+  <string name="bootloader_status_summary">Skontrolovať stav bootloadera</string>
+  <string name="bootloader_status_unlocked">Odomknuté</string>
+  <string name="bootloader_status_unlocked_info">Možete nahrať ROM z miuios.cz/rom</string>  
+ <string name="bootloader_unlock_webhome">http://en.miui.com/unlock</string>
 </resources>
