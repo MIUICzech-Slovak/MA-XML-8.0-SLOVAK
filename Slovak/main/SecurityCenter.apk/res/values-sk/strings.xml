@@ -1639,10 +1639,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="summary_auto_update">MIUI zvolí čo najlepší čas pre stiahnutie a nainštalovanie aktualizácií.</string>
   <string name="title_auto_update">Aktualizovať automaticky</string>
-  <string name="auto_task_notify_task_cancel_count_down">Autoatická úloha sa zruší o 5 sekúnd</string>
+  <string name="auto_task_notify_task_cancel_count_down">Automatická úloha sa zruší o 5 sekúnd</string>
   <string name="auto_task_notify_task_cancel_do">Zrušiť úlohu</string>
   <string name="auto_task_notify_task_canceled_summary">Môžete uskutočniť hovory</string>
   <string name="auto_task_notify_task_canceled_title">Úloha je zrušená</string>
   <string name="auto_task_notify_task_continue_do">Spustiť úlohu</string>
-  <string name="auto_task_notify_task_count_down">Autoatická úloha sa spustí o 5 sekúnd</string>  
+  <string name="auto_task_notify_task_count_down">Automatická úloha sa spustí o 5 sekúnd</string>  
 </resources>
