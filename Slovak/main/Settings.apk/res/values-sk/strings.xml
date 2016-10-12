@@ -4746,6 +4746,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="bootloader_status_locked_summary">Nie je možné nahrať ROM z miuios.cz</string>
   <string name="bootloader_status_summary">Skontrolovať stav bootloadera</string>
   <string name="bootloader_status_unlocked">Odomknuté</string>
-  <string name="bootloader_status_unlocked_info">Možete nahrať ROM z miuios.cz/rom</string>  
- <string name="bootloader_unlock_webhome">http://en.miui.com/unlock</string>
+  <string name="bootloader_status_unlocked_info">Bootloader je odomknutý</string>  
+  <string name="bootloader_unlock_webhome">http://en.miui.com/unlock</string>
 </resources>
