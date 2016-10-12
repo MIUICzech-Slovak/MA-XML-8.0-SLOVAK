@@ -80,6 +80,6 @@
   <string name="application_desc">Aplikácia</string>
   <string name="applications_search_label">Apl.</string>
   <string name="entrance_setting">Otváranie vyhľadávania</string>
-  <string name="swipe_up_summary">Potiahnite nahor pre Vyhľadávanie</string>
-  <string name="swipe_up_title">Potiahnite nahor</string>
+  <string name="swipe_up_summary">Potiahnite nahor pre vyhľadávanie</string>
+  <string name="swipe_up_title">Potiahnutím nahor otvoriť</string>
 </resources>
