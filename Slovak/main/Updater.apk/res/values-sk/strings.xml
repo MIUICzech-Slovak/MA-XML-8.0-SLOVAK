@@ -20,7 +20,7 @@
   <string name="auto_update_sum">Automaticky zvoliť najlepšiu aktualizáciu</string>
   <string name="autosetmode">Nastavenie aktualizácie</string>
   <string name="best_update">Skvelá aktualizácia</string>
-  <string name="boot_recovery">Reštart do Recovery</string>
+  <string name="boot_recovery">Reštart do TWRP Recovery</string>
   <string name="button_text_check">Skontrolovať</string>
   <string name="button_text_later_reboot">Neskôr</string>
   <string name="button_text_reboot">Reštartovať</string>
@@ -95,7 +95,7 @@
   <string name="menu_title_current_version_log">Informácie o aktualizácií</string>
   <string name="menu_title_download_current_rom">Stiahnuť aktualizáciu</string>
   <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
-  <string name="menu_title_recovery">Reštartovať do Recovery</string>
+  <string name="menu_title_recovery">Reštartovať do TWRP Recovery</string>
   <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI fórum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">" Je dostupná nová verzia  "</string>
   <string name="miui_summary_no_new_version">"Nie je dostupná nová verzia. 
