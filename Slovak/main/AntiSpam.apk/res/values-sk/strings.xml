@@ -354,4 +354,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="st_summary_keywords_blacklist">Pridať slová pre blokovanie SMS</string>
   <string name="st_summary_special_numbers">Blokovať označené čísla</string>
   <string name="st_summary_whitelist_numbers">Povoliť hovory a SMS z určitých čísiel a krajín</string>
+  <string name="st_summary_blacklist_numbers_international">Blokovať hovory a správy z týchto čísel</string>
+  <string name="st_summary_whitelist_numbers_international">Povoliť hovory a správy z týchto čísel</string>
 </resources>

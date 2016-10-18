@@ -1222,4 +1222,22 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="call_background_setting">Pozadie pri hovore</string>  
   <string name="change_data_preference_4g_only_prompt">Vyzerá to, že máte len 4G SIM kartu. Chcete ju nastaviť ako predvolenú pre mobilné dáta?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">Neobmedzuje vašu sekundárnu SIM kartu v prípade núdzového hovoru.</string>
+  <string name="dialpad_abc">ABC</string>
+  <string name="dialpad_def">DEF</string>
+  <string name="dialpad_eight">8</string>
+  <string name="dialpad_five">5</string>
+  <string name="dialpad_four">4</string>
+  <string name="dialpad_ghi">GHI</string>
+  <string name="dialpad_jkl">JKL</string>
+  <string name="dialpad_mno">MNO</string>
+  <string name="dialpad_nine">9</string>
+  <string name="dialpad_one">1</string>
+  <string name="dialpad_pqrs">PQRS</string>
+  <string name="dialpad_seven">7</string>
+  <string name="dialpad_six">6</string>
+  <string name="dialpad_three">3</string>
+  <string name="dialpad_tuv">TUV</string>
+  <string name="dialpad_two">2</string>
+  <string name="dialpad_wxyz">WXYZ</string>
+  <string name="dialpad_zero">0</string>
  </resources>

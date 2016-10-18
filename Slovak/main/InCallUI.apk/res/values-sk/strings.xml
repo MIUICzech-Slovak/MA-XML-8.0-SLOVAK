@@ -216,4 +216,22 @@
   <string name="do_not_support_video_calls_by_remote">Video hovor nie je podporovaný druhým zariadením</string>
   <string name="sip_call_not_support_record">SIP hovor nepodporuje nahrávanie</string>
   <string name="description_image_button_video_answer">Video hovor</string>
+  <string name="dialpad_abc">ABC</string>
+  <string name="dialpad_def">DEF</string>
+  <string name="dialpad_eight">8</string>
+  <string name="dialpad_five">5</string>
+  <string name="dialpad_four">4</string>
+  <string name="dialpad_ghi">GHI</string>
+  <string name="dialpad_jkl">JKL</string>
+  <string name="dialpad_mno">MNO</string>
+  <string name="dialpad_nine">9</string>
+  <string name="dialpad_one">1</string>
+  <string name="dialpad_pqrs">PQRS</string>
+  <string name="dialpad_seven">7</string>
+  <string name="dialpad_six">6</string>
+  <string name="dialpad_three">3</string>
+  <string name="dialpad_tuv">TUV</string>
+  <string name="dialpad_two">2</string>
+  <string name="dialpad_wxyz">WXYZ</string>
+  <string name="dialpad_zero">0</string>
 </resources>
