@@ -188,4 +188,5 @@ http://www.miuios.cz/rom
   <string name="alert_message_restore">Nebolo možné otvoriť túto poznámku. Obnovte ju pre jej úpravu.</string>
   <string name="alert_title_restore">Obnoviť poznámku</string>
   <string name="pref_title_show_root_folder_in_homepage">Zobraziť iba rýchle poznámky na prvej strane</string>
+  <string name="note_sort_way">Vyberte ako chcete triediť poznámky</string>
 </resources>

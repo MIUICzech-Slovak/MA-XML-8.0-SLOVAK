@@ -82,4 +82,21 @@
   <string name="entrance_setting">Otváranie vyhľadávania</string>
   <string name="swipe_up_summary">Potiahnite nahor pre vyhľadávanie</string>
   <string name="swipe_up_title">Potiahnutím nahor otvoriť</string>
+  <string name="permission_prompt_detail">Vyhľadať filmy, knihy, hudbu, a oveľa viac.</string>
+  <string name="permission_prompt_start">Povoliť</string>
+  <string name="permission_prompt_started_info">Povolili ste globálne vyhľadávanie</string>
+  <string name="permission_prompt_title">Chcete viac?</string>
+  <string name="switch_application">Aplikácie</string>
+  <string name="switch_browser">Prehliadač</string>
+  <string name="switch_contacts">Kontakty</string>
+  <string name="switch_file">Súbory</string>
+  <string name="switch_mms">Správy</string>
+  <string name="switch_notes">Poznámky</string>
+  <string name="switch_online">Online</string>
+  <string name="switch_prompt_ignore">Ignorovať</string>
+  <string name="switch_prompt_set">Zobraziť možnosti</string>
+  <string name="switch_prompt_title">Nemôžete nájsť %s?</string>
+  <string name="switch_prompt_title_default">Nemôžete nájsť čo hľadáte?</string>
+  <string name="switch_setting">Nastavenia</string>
+  <string name="top_clicked">Časté položky</string> 
 </resources>

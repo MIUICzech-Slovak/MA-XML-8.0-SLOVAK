@@ -43,4 +43,8 @@ http://www.miuios.cz/
         <item>Premenovať</item>
         <item>Vymazať</item>
      </string-array>
+    <string-array name="note_sort_way">
+        <item>Triedené podľa dátumu vytvorenia</item>
+        <item>Triedené podľa dátumu úpravy</item>
+    </string-array>	 
 </resources>
