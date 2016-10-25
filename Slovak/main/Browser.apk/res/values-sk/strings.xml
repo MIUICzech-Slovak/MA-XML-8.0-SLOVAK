@@ -815,4 +815,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="video_subtitle_prefix2">"Pozreté "</string>
   <string name="video_unknown_duration">Neznáme</string>
   <string name="media_error_network_unreachable">Sieť je nedostupná</string>
+  <string name="add_favorites_to">Pridať obľúbené do</string>
+  <string name="isReplacePage">Súbor už existuje. Chcete ho prepísať?</string>
+  
 </resources>

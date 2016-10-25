@@ -168,4 +168,7 @@
          <item>Zamknúť po zatvorení aplikácie</item>
          <item>Zamknúť 1min po zatvorení aplikácie</item>
      </string-array>
+    <string-array name="long_add_menu">
+        <item>Pridať do výnimiek</item>
+    </string-array>	 
 </resources>

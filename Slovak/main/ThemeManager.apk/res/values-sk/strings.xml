@@ -396,4 +396,8 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="resource_purchase_common_error">Operácia zlyhala, skúste to znova neskôr.</string>
   <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
   <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Zvonenie je nastavené rovnako pre SIM1 aj SIM2.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Rozumiem</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">Viac nezobrazovať</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>  
 </resources>
