@@ -1716,7 +1716,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="title_of_app_manage">Aplikácie</string>
   <string name="title_of_auto_launch_manage">Autoštart</string>
   <string name="title_of_operators_set">Nastavenie operátora</string>
-  <string name="title_of_package_set">Nastavenie baláčku dát</string>
+  <string name="title_of_package_set">Nastavenie balíčku dát</string>
   <string name="title_share_link">Zdieľať URL</string>
   <string name="toast_add_virus_white_list_success">Pridané do Výnimiek. Zobrazíte položky v nastaveniach.</string>
   <string name="toast_removed_from_virus_white_list">Odobrané z Výnimiek. Položka bude kontrolovaná nabudúce.</string>
