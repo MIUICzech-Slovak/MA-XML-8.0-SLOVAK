@@ -18,6 +18,14 @@
   <string name="cloud_state_finished">Synchr. s MiCloud</string>
   <string name="cloud_state_syncing">Synchr. s MiCloud</string>
   <string name="cold_dews"/>
+  <string name="cta_button_continue">Povoliť</string>
+  <string name="cta_button_quit">Ukončiť</string>
+  <string name="cta_check_reminder">Viac sa nepýtať</string>
+  <string name="cta_message_license">Používaním tohto produktu súhlasíte s našími Podmienkami používania a Ochranou súkromia.</string>
+  <string name="cta_message_permission">Táto aplikácia vyžaduje %2$s pre jej správne fungovanie.</string>
+  <string name="cta_permission_and"> a </string>
+  <string name="cta_permission_delimiter">, </string>
+  <string name="cta_title">Podmienky používania</string>
   <string name="day_following_good_friday"/>
   <string name="delete_frequent_phrases">Vymazať časté frázy</string>
   <string name="delete_frequent_phrases_confirm">Vymazať vybrané frázy?</string>
@@ -110,12 +118,4 @@
   <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
-  <string name="cta_button_continue">Povoliť</string>
-  <string name="cta_button_quit">Ukončiť</string>
-  <string name="cta_check_reminder">Viac sa nepýtať</string>
-  <string name="cta_message_license">Používaním tohto produktu súhlasíte s našími Podmienkami používania a Ochranou súkromia.</string>
-  <string name="cta_message_permission">Táto aplikácia vyžaduje %2$s pre jej správne fungovanie.</string>
-  <string name="cta_permission_and"> a </string>
-  <string name="cta_permission_delimiter">, </string>
-  <string name="cta_title">Podmienky používania</string>  
 </resources>

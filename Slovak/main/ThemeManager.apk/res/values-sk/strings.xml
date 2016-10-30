@@ -45,6 +45,9 @@
   <string name="fail_to_add_account">Pridávanie účtu zlyhalo.</string>
   <string name="favorite_list">Obľúbené</string>
   <string name="favorite_list_format">Obľúbené %1$s</string>
+  <string name="forcetouch_featured">Odporúčané</string>
+  <string name="forcetouch_free_themes">Zdarma</string>
+  <string name="forcetouch_offline">Lokálne</string>
   <string name="gift_anonymous">Anonymne</string>
   <string name="gift_count_format">%1$s+</string>
   <string name="gift_operation_fail_dlg_abandon">Zrušiť</string>
@@ -93,6 +96,10 @@
   <string name="lockscreen_wallpaper">Tapeta zámku</string>
   <string name="lockstyle_personal_settings">Prispôsobiť</string>
   <string name="mi_wallpaper">Mi-tapeta</string>
+  <string name="multi_sim_ringtone_settings_dialog_message">Zvonenie je nastavené rovnako pre SIM1 aj SIM2.</string>
+  <string name="multi_sim_ringtone_settings_dialog_ok">Rozumiem</string>
+  <string name="multi_sim_ringtone_settings_dialog_remind_never">Viac nezobrazovať</string>
+  <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>
   <string name="my_gifts">Dary</string>
   <string name="my_gifts_purchased">Zakúpené</string>
   <string name="my_gifts_received">Prijaté</string>
@@ -106,7 +113,9 @@
   <string name="provision_second_title">Vyberte si jednu z piatich predvolených tém</string>
   <string name="provision_title">Vyberte tému</string>
   <string name="purchased_list">Zakúpené témy</string>
+  <string name="purchased_list_current">MIUI 8</string>
   <string name="purchased_list_format">Zakúpené %1$s</string>
+  <string name="purchased_list_legacy">Staré témy</string>
   <string name="reload">Znova</string>
   <string name="resource_account_abnormal_state">Chyba účtu: Skúste to opäť neskôr.</string>
   <string name="resource_account_fail_to_add">Pridávanie účtu zlyhalo.</string>
@@ -160,6 +169,7 @@
   <string name="resource_comment_upload_not_logined">Musíte sa najskôr prihlásiť</string>
   <string name="resource_comment_upload_success">Komentár je odoslaný! Zobrazí sa až po jeho schválení.</string>
   <string name="resource_continue">Ďalej</string>
+  <string name="resource_data_empty">Prázdne</string>
   <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroj</string>
   <string name="resource_delete">Vymazať</string>
@@ -237,8 +247,11 @@
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Zdarma</string>
   <string name="resource_price_unit">" MiKreditov"</string>
+  <string name="resource_purchase_common_error">Operácia zlyhala, skúste to znova neskôr.</string>
+  <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
   <string name="resource_purchase_getting_order">Načítavanie info. o objednávke...</string>
   <string name="resource_purchase_verifying_payment">Overovanie info. o platbe...</string>
+  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
   <string name="resource_purchase_waiting_payment">Čakanie na info. o platbe...</string>
   <string name="resource_ranking">Populárne</string>
   <string name="resource_ranking_free">Zdarma</string>
@@ -387,17 +400,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="resource_data_empty">Prázdne</string>
-  <string name="forcetouch_featured">Odporúčané</string>
-  <string name="forcetouch_free_themes">Zdarma</string>
-  <string name="forcetouch_offline">Lokálne</string>  
-  <string name="purchased_list_current">MIUI 8</string>
-  <string name="purchased_list_legacy">Staré témy</string>
-  <string name="resource_purchase_common_error">Operácia zlyhala, skúste to znova neskôr.</string>
-  <string name="resource_purchase_continue_to_pay">Continue to pay %s</string>
-  <string name="resource_purchase_vip_pay_failed">Failed to pay by vip.</string>
-  <string name="multi_sim_ringtone_settings_dialog_message">Zvonenie je nastavené rovnako pre SIM1 aj SIM2.</string>
-  <string name="multi_sim_ringtone_settings_dialog_ok">Rozumiem</string>
-  <string name="multi_sim_ringtone_settings_dialog_remind_never">Viac nezobrazovať</string>
-  <string name="multi_sim_ringtone_settings_dialog_title">Chyba kompatibility</string>  
 </resources>

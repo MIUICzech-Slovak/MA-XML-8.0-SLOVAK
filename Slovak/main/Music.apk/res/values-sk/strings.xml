@@ -211,6 +211,7 @@
   <string name="impunity_declaration_summary">Zobraziť Podmienky používania pre Baidu Online Music Service vždy pri otvorení aplikácie</string>
   <string name="impunity_declaration_title">Podmienky používania</string>
   <string name="in_searching_please_wait">Vyhľadávanie...</string>
+  <string name="input_hint_prefix">Zadajte %1$s</string>
   <string name="is_loading_data">Načítavanie skladby...</string>
   <string name="is_scanning">Skenujem, prosím o strpenie.</string>
   <string name="is_scanning_support_online">Skenujem, počkajte prosím alebo si vyberte hudbu online.</string>
@@ -517,5 +518,4 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
-  <string name="input_hint_prefix">Zadajte %1$s</string>
 </resources>

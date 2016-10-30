@@ -2,9 +2,14 @@
 <resources>
   <string name="agree">Súhlasím</string>
   <string name="agree_terms">Prečítal som a súhlasím s Podmienkami používania a Ochranou súkromia.</string>
+  <string name="app_name">Provision</string>
   <string name="back">Späť</string>
   <string name="congratulation_label"/>
   <string name="congratulation_title">Navštívte miuios.cz</string>
+  <string name="content_description_complete">Hotovo</string>
+  <string name="content_description_language_picker">Výber jazyka</string>
+  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_start">Spustiť</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa.</string>
@@ -24,8 +29,14 @@
   <string name="next">Ďalej</string>
   <string name="next_fingerprint">Ďalej</string>
   <string name="other_settings">Ďalšie nastavenia</string>
+  <string name="other_settings_auto_update">Aktualizovať MIUI</string>
+  <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip</string>
   <string name="other_settings_location">Prístup k polohe</string>
   <string name="other_settings_location_summary">Povoliť aplikáciam prístup k vašej polohe</string>
+  <string name="other_settings_mifg_online_content">Denná tapeta zamyk. obr.</string>
+  <string name="other_settings_mifg_online_content_summary">Pripojte sa na internet pre získanie denných tapiet na vašu zamykaciu obrazovku.</string>
+  <string name="other_settings_upload_debug_log_summary">Diagnostické dáta môžu obsahovať informácie o používaní vášho zariadenia, operačnom systéme a aplikácií. Tieto dáta budú použité pre analýzu vášho problému v systéme.</string>
+  <string name="other_settings_upload_debug_log_title">Odoslať diagnostické dáta</string>
   <string name="other_settings_user_experience">Spätná väzba</string>
   <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej %s"</string>
   <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
@@ -49,15 +60,4 @@
   <string name="title_fingerprint">Pridať odtlačok prsta</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte</string>
-  <string name="content_description_complete">Hotovo</string>
-  <string name="content_description_start">Spustiť</string>
-  <string name="app_name">Provision</string>
-  <string name="content_description_language_picker">Výber jazyka</string>
-  <string name="content_description_miui_version">MIUI 8</string>
-  <string name="other_settings_upload_debug_log_summary">Diagnostické dáta môžu obsahovať informácie o používaní vášho zariadenia, operačnom systéme a aplikácií. Tieto dáta budú použité pre analýzu vášho problému v systéme.</string>
-  <string name="other_settings_upload_debug_log_title">Odoslať diagnostické dáta</string>  
-  <string name="other_settings_auto_update">Aktualizovať MIUI</string>
-  <string name="other_settings_auto_update_summary">Nové aktualizácie MIUI stiahnite na adrese miuios.cz/rom a nainštalujete v aplikácií Aktualizácia - Menu (3 bodky)- Vybrať zip</string>  
-  <string name="other_settings_mifg_online_content">Denná tapeta zamyk. obr.</string>
-  <string name="other_settings_mifg_online_content_summary">Pripojte sa na internet pre získanie denných tapiet na vašu zamykaciu obrazovku.</string>
 </resources>

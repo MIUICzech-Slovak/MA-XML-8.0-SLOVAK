@@ -12,6 +12,7 @@
   <string name="auto_disable_screenbuttons_prompts_not_show_again">Viac krát nezobrazovať</string>
   <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
   <string name="auto_disable_screenbuttons_prompts_title">Automaticky deaktivovať tlačidlá pod displejom</string>
+  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dotknite sa znova pre ukončenie</string>
   <string name="auto_start_warning_allow">Povoliť</string>
   <string name="auto_start_warning_deny">Odmietnuť</string>
   <string name="auto_start_warning_title">Povoliť %s spúšťať sa automaticky?</string>
@@ -69,10 +70,15 @@
   <string name="screen_button_notification_text">"Stlačte 'Domov'+'Zapínanie' pre aktiváciu"</string>
   <string name="screen_button_notification_title">Tlačidlá pod displejom sú deaktivované</string>
   <string name="screen_on_proximity_sensor_hint">"Vynútené ukončenie: Stlačte 'Späť'+'Hlasitosť hore'"</string>
+  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pre deaktivovanie tejto funkcie, stlačte tlačidlo hlasitosti nadol.</string>
   <string name="screen_on_proximity_sensor_summary">Odkryte senzor priblíženia!</string>
   <string name="screen_on_proximity_sensor_title">Odkryte senzor priblíženia!</string>
   <string name="screen_paper_mode_enter_toast">Čítací režim je aktívny. Môžete ho kedykoľvek vypnúť v Nastavenia - Ďalšie nastavenia - Čítací režim.</string>
   <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá</string>
+  <string name="screenshot_gesture_detect_alert_button">Choďte do nastavení screenshotu</string>
+  <string name="screenshot_gesture_detect_alert_dont_again">Viac nezobrazovať</string>
+  <string name="screenshot_gesture_detect_alert_msg">Povoliť zhotovenie screenshotu posunutím troma prstami?</string>
+  <string name="screenshot_gesture_detect_alert_title">Screenshot troma prstami</string>
   <string name="select">Vybrať</string>
   <string name="select_all">Všetko</string>
   <string name="set_password_action">Nastaviť heslo</string>
@@ -92,6 +98,7 @@
   <string name="status_bar_toggle_data">Dáta</string>
   <string name="status_bar_toggle_divider">Upraviť</string>
   <string name="status_bar_toggle_drive_mode">AUTO</string>
+  <string name="status_bar_toggle_edit">Viac</string>
   <string name="status_bar_toggle_flight_mode">Lietadlo</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zámok</string>
@@ -117,11 +124,4 @@
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="turn_off">Vypnúť</string>
   <string name="unknown_caller">Neznáme číslo</string>
-  <string name="screenshot_gesture_detect_alert_button">Choďte do nastavení screenshotu</string>
-  <string name="screenshot_gesture_detect_alert_dont_again">Viac nezobrazovať</string>
-  <string name="screenshot_gesture_detect_alert_msg">Povoliť zhotovenie screenshotu posunutím troma prstami?</string>
-  <string name="screenshot_gesture_detect_alert_title">Screenshot troma prstami</string>
-  <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Dotknite sa znova pre ukončenie</string>
-  <string name="screen_on_proximity_sensor_hint_has_navigation_bar">Pre deaktivovanie tejto funkcie, stlačte tlačidlo hlasitosti nadol.</string>
-  <string name="status_bar_toggle_edit">Viac</string>
 </resources>

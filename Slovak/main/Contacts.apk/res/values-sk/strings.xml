@@ -160,6 +160,7 @@
   <string name="clip_dialog_title">Vytočiť skopírované číslo?</string>
   <string name="close_dial_pad_description">Zatvoriť číselník</string>
   <string name="cloud_antispam_mark">Spam</string>
+  <string name="cloud_antispam_marked">Označené</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
   <string name="cloud_recommend_msg">Dotykom synchronizujete kontakty s MiCloud.</string>
   <string name="cloud_state_disabled">Synchr. s MiCloud je vypnutá</string>
@@ -196,6 +197,7 @@
   <string name="contact_detail_action_item_nocalllog">Žiadna história</string>
   <string name="contact_detail_calllog_call_note_tips">Poznámka o hovore</string>
   <string name="contact_detail_calllog_call_record_tips">Nahrávka hovoru</string>
+  <string name="contact_detail_calllog_empty">Žiadna história hovorov</string>
   <string name="contact_detail_menu_delete_miprofile">Vymazať kartu</string>
   <string name="contact_detail_miprofile_accept">Vymeniť si karty kontaktu</string>
   <string name="contact_detail_miprofile_accept_fail_toast">Nebolo možné vymeniť si karty kontaktu</string>
@@ -446,9 +448,11 @@ Chyba: \"%s\""</string>
   <string name="force_touch_miprofile">Karta kontaktu</string>
   <string name="force_touch_new_contact">Nový kontakt</string>
   <string name="foundTooManyContacts">Nájdených viac ako %d</string>
+  <string name="fraud_more_indemnity">Viac</string>
   <string name="frequentList">Často používané</string>
   <string name="from_account_format">%1$s</string>
   <string name="full_name">Celé meno</string>
+  <string name="gallery">Galérie</string>
   <string name="generic_no_account_prompt">Majte svoje kontakty v bezpečí aj keď stratíte telefón: synchronizujte ich online.</string>
   <string name="generic_no_account_prompt_title">Pridať účet</string>
   <string name="ghostData_company">Firma</string>
@@ -1030,6 +1034,7 @@ Synchronizujte ich teraz."</string>
   <string name="search_import_from_other_phone">Contacts;Import;other phone</string>
   <string name="search_import_from_sdcard">Contacts;Import;sdcard</string>
   <string name="search_import_from_sim">Contacts;Import;SIM card</string>
+  <string name="search_input_hint">Môžete vyhľadať telefónne číslo alebo služby</string>
   <string name="search_key_photo_word">Assign;contact;photos;Contacts</string>
   <string name="search_key_rebuild_t9_index_title">Organize;Contacts;t9</string>
   <string name="search_key_sim_manage">Organize;Contacts</string>
@@ -1245,9 +1250,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="fraud_more_indemnity">Viac</string>
-  <string name="contact_detail_calllog_empty">Žiadna história hovorov</string>
-  <string name="gallery">Galérie</string>
-  <string name="search_input_hint">Môžete vyhľadať telefónne číslo alebo služby</string>
-  <string name="cloud_antispam_marked">Označené</string>
 </resources>

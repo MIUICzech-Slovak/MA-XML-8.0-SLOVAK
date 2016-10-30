@@ -246,9 +246,9 @@
   <string name="qiyi">iQiyi</string>
   <string name="rank_title_movie">Movie</string>
   <string name="receive_develop_summary">Receive application update when new develop version is available</string>
-  <string name="receive_mipush">Mi push notifikácie</string>
   <string name="receive_follow">Upozornenie na novú epizódu</string>
-  <string name="receive_follow_summary">Dostávať upozornenia o novej epizóde seriálu</string>  
+  <string name="receive_follow_summary">Dostávať upozornenia o novej epizóde seriálu</string>
+  <string name="receive_mipush">Mi push notifikácie</string>
   <string name="receive_mipush_summary">Prijímať upozornenia o novom online obsahu</string>
   <string name="recentplay">Naposledy prehrávané</string>
   <string name="refreshing">Loading…</string>

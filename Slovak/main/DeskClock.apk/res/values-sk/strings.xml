@@ -111,6 +111,7 @@
   <string name="time">Čas</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotykom ukončíte vyzváňanie</string>
+  <string name="timer_alarm_dot_matrix_label">ČASOVAČ</string>
   <string name="timer_alert_alert_silenced">Časovač sa zastavil po %d minútach.</string>
   <string name="timer_clock_alert_text">Nastavte časovač</string>
   <string name="timer_continue">Pokračovať</string>
@@ -129,6 +130,8 @@
   <string name="tomorrow">Zajtra</string>
   <string name="turn_off_a_repeat_alarm">Vypnúť opakovanie budíka</string>
   <string name="turn_off_this_repeat_alarm">Vypnúť opakovanie tohto budíka</string>
+  <string name="upcoming_alarm">" bude zvoniť budík"</string>
+  <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>
   <string name="vibrate_pref_summary">Vibrovať počas budenia</string>
   <string name="vibrate_when_ringing">Vibrovať počas zvonenia</string>
   <string name="volume_button_setting_summary">Nastavte funkciu týchto tlačidiel, pokiaľ sú stlačená počas vyzváňania budíka.</string>
@@ -136,7 +139,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="timer_alarm_dot_matrix_label">ČASOVAČ</string>
-  <string name="upcoming_alarm">" bude zvoniť budík"</string>
-  <string name="upcoming_alarm_hint">Môžete ho zrušiť</string>  
 </resources>

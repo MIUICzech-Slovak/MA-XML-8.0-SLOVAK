@@ -56,6 +56,7 @@
   <string name="adblock_websites_settings_empyt_hint">Prázdne</string>
   <string name="adblock_websites_settings_title">Vlastné pravidlá</string>
   <string name="add_bookmark_group">Nová skupina</string>
+  <string name="add_favorites_to">Pridať obľúbené do</string>
   <string name="add_new_bookmark">Nová záložka</string>
   <string name="add_new_quicklink">Pridať odkaz</string>
   <string name="add_ql_bm_title">Uložiť</string>
@@ -213,6 +214,16 @@
   <string name="dialog_queued_body">Tento súbor je zaradený do sťahovania.</string>
   <string name="dialog_title_not_available">Nebolo možné stiahnuť</string>
   <string name="dialog_title_queued_body">Súbor je nedostupný</string>
+  <string name="document_download_background_btn">Sťahovanie na pozadí</string>
+  <string name="document_download_cancel_btn">Zrušiť</string>
+  <string name="document_download_failed">Sťahovanie zlyhalo</string>
+  <string name="document_download_official">Oficiálne sťahovanie</string>
+  <string name="document_download_open_direct">Otvoriť priamo</string>
+  <string name="document_download_title">Sťahovanie</string>
+  <string name="document_open_file">Otvoriť %s</string>
+  <string name="document_open_message">Pre lepšiu kompatibilitu odporúčame používať aplikáciu WPS office</string>
+  <string name="document_open_other">Ostatné aplikácie</string>
+  <string name="document_open_title">Otvoriť s</string>
   <string name="dont_remind_again">Zapamätať</string>
   <string name="download_btn_select_all">Všetko</string>
   <string name="download_btn_select_none">Odznačiť všetko</string>
@@ -308,12 +319,14 @@
   <string name="homepage_top_card_menu">Top</string>
   <string name="in_incognito">Je aktívny režim inkognito, neukladá sa história navštívených stránok.</string>
   <string name="in_secureaccess">Prehliadač je prepnutý do bezpečnostného režimu</string>
+  <string name="isReplacePage">Súbor už existuje. Chcete ho prepísať?</string>
   <string name="is_first_history_item">Prvý záznam v histórii</string>
   <string name="is_first_tab">prvá záložka</string>
   <string name="is_last_history_item">Posledný záznam v histórii</string>
   <string name="is_last_tab">Posledná záložka</string>
   <string name="is_page_bottom">V dolnej časti stránky</string>
   <string name="is_page_top">V hornej časti stránky</string>
+  <string name="isreplace">Súbor už existuje, prepísať?</string>
   <string name="js_dialog_before_unload">"%s 
 
 Chcete opustiť túto web stránku?"</string>
@@ -336,6 +349,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="media_error_action_replace_video_source">Zmeniť zdroj videa</string>
   <string name="media_error_failure">Prehrávanie zlyhalo</string>
   <string name="media_error_format">Chybný formát videa</string>
+  <string name="media_error_network_unreachable">Sieť je nedostupná</string>
   <string name="media_error_nomemory">Nie je dostatok meista na úložisku</string>
   <string name="media_error_source">Chyba zdroja videa</string>
   <string name="media_error_timeout">Spojenie bolo ukončené</string>
@@ -430,12 +444,14 @@ Chcete opustiť túto web stránku?"</string>
   <string name="network_show_wifi_setting_tip_dialog_title">Dostupná Wi-Fi sieť</string>
   <string name="new_folder_name_lable">Názov skupiny</string>
   <string name="next_button_label">Ďalej</string>
+  <string name="no_app_open_document">Nenašla sa žiadna aplikácia pre túto akciu</string>
   <string name="no_matches">Nič sa nenašlo</string>
   <string name="no_space_alert_cancel">Neskôr</string>
   <string name="no_space_alert_clean">Uvoľniť miesto</string>
   <string name="no_space_alert_text">Nie je dostatok voľného miesta na úložisku</string>
   <string name="no_space_alert_title">Sťahovanie pozastavené</string>
   <string name="no_space_clean_failed">Nebolo možné uvoľniť miesto na úložisku​</string>
+  <string name="not_allowed_open">Nebolo možné použiť Prehliadač</string>
   <string name="not_remind_again">Viac nepripomínať</string>
   <string name="notif_install_successful">Sťahovanie dokončené</string>
   <string name="ok">OK</string>
@@ -590,6 +606,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="remove_history_item">Odstrániť z histórie</string>
   <string name="remove_snapshot">Vymazať uloženú stránku</string>
   <string name="removed_from_bookmarks">Odstránené zo záložiek.</string>
+  <string name="replace">Prepísať</string>
   <string name="reply_comment_title">Odpoveď: %s</string>
   <string name="resume_download">Spustiť</string>
   <string name="retry_after_network_available">Nie je možné pripojiť sa k sieti</string>
@@ -604,6 +621,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="same_folder_name_warning">Táto zložka už existuje</string>
   <string name="save_button_text">Uložiť</string>
   <string name="save_dialog_title">Uložiť súbor</string>
+  <string name="save_file">Uložiť %s súbor</string>
   <string name="save_file_already_exist_alert_message">Súbor už existuje, chcete ho prepísať?</string>
   <string name="save_file_already_exist_alert_title">Upozornenie</string>
   <string name="save_form_data_confirm_message">Deaktivovanie tejto funkcie môže ovplyvniť používanie.</string>
@@ -685,6 +703,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="suggest_access_item_album_songs">Skladby: %d</string>
   <string name="suggest_access_item_singer_albums">Albumy: %d</string>
   <string name="suggest_access_item_singer_pop">Skladby: %d</string>
+  <string name="suggest_item_delete_text">Vymazať</string>
   <string name="suggest_open_app_failed">Nebolo možné otvoriť túto aplikáciu</string>
   <string name="switch_proxy_dialog_msg">"Bolo zistené napadnutie vašej siete. Použite MIUI aplikáciu Optimalizácia alebo to nahláste vášmu operátorovi."</string>
   <string name="switch_proxy_dialog_title">Napadnutie siete</string>
@@ -748,6 +767,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="video_download_exists">Video sa sťahuje</string>
   <string name="video_download_fail">Chyba</string>
   <string name="video_download_failed">Sťahovanie videa zlyhalo</string>
+  <string name="video_download_finding_address">Vyhľadávanie adresy</string>
   <string name="video_download_pause">Zastaviť</string>
   <string name="video_download_start">Sťahovanie videa</string>
   <string name="video_download_success">Koniec</string>
@@ -768,6 +788,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="video_group_noupdates_list">NoUpdates</string>
   <string name="video_group_updates_list">Aktualizácie</string>
   <string name="video_history_empty">História je prázdna</string>
+  <string name="video_manager_action_bar_end_view">Videá</string>
   <string name="video_play_error">Chyba prehrávania videa</string>
   <string name="video_project_button">Zastaviť</string>
   <string name="video_project_msg">Zobrazené na %s</string>
@@ -775,9 +796,14 @@ Chcete opustiť túto web stránku?"</string>
   <string name="video_push_multi_message">Dostupné aktualizácie: %1$d</string>
   <string name="video_push_multi_title">Dostupné aktualizácie</string>
   <string name="video_push_single_message">Aktualizovať na %1$d</string>
+  <string name="video_subtitle_last_message1">Ostáva menej ako 1min</string>
+  <string name="video_subtitle_prefix1">Pozreté</string>
+  <string name="video_subtitle_prefix2">"Pozreté "</string>
   <string name="video_subtitle_prefix_message">Prehrané:</string>
   <string name="video_title_prefix_message">Offline:</string>
+  <string name="video_unknown_duration">Neznáme</string>
   <string name="view_certificate">Zobraz certifikát</string>
+  <string name="view_document_downloaded_files">Zobraziť stiahnuté aplikácie v Správcovi sťahovania</string>
   <string name="voice_sub_title">"Neviete čo povedať? Skúste otvoriť mi.com!"</string>
   <string name="voice_title">Vyslovte váš príkaz...</string>
   <string name="voice_title_distinguish">Spracováva sa...</string>
@@ -791,31 +817,4 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="suggest_item_delete_text">Vymazať</string>
-  <string name="document_download_background_btn">Sťahovanie na pozadí</string>
-  <string name="document_download_cancel_btn">Zrušiť</string>
-  <string name="document_download_failed">Sťahovanie zlyhalo</string>
-  <string name="document_download_official">Oficiálne sťahovanie</string>
-  <string name="document_download_open_direct">Otvoriť priamo</string>
-  <string name="document_download_title">Sťahovanie</string>
-  <string name="document_open_file">Otvoriť %s</string>
-  <string name="document_open_message">Pre lepšiu kompatibilitu odporúčame používať aplikáciu WPS office</string>
-  <string name="document_open_other">Ostatné aplikácie</string>
-  <string name="document_open_title">Otvoriť s</string>
-  <string name="no_app_open_document">Nenašla sa žiadna aplikácia pre túto akciu</string>
-  <string name="save_file">Uložiť %s súbor</string>
-  <string name="view_document_downloaded_files">Zobraziť stiahnuté aplikácie v Správcovi sťahovania</string>
-  <string name="isreplace">Súbor už existuje, prepísať?</string>
-  <string name="not_allowed_open">Nebolo možné použiť Prehliadač</string>
-  <string name="replace">Prepísať</string>
-  <string name="video_download_finding_address">Vyhľadávanie adresy</string>
-  <string name="video_manager_action_bar_end_view">Videá</string>
-  <string name="video_subtitle_last_message1">Ostáva menej ako 1min</string>
-  <string name="video_subtitle_prefix1">Pozreté</string>
-  <string name="video_subtitle_prefix2">"Pozreté "</string>
-  <string name="video_unknown_duration">Neznáme</string>
-  <string name="media_error_network_unreachable">Sieť je nedostupná</string>
-  <string name="add_favorites_to">Pridať obľúbené do</string>
-  <string name="isReplacePage">Súbor už existuje. Chcete ho prepísať?</string>
-  
 </resources>

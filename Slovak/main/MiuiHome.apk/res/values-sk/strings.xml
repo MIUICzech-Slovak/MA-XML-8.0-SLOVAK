@@ -48,6 +48,8 @@
   <string name="children_folder_title">Rodičovská kontrola</string>
   <string name="children_mode_exit">Ukončiť</string>
   <string name="children_mode_tips">Vráťte sa do nastavení pre správu dostupných aplikácií.</string>
+  <string name="children_mode_tips_message">V detskom režime nie je vybraná žiadna aplikácia.</string>
+  <string name="children_mode_tips_title">Vyberte aplikáciu</string>
   <string name="choose_wallpaper">Vyberte tapetu</string>
   <string name="chooser_wallpaper">Vybrať tapetu z</string>
   <string name="cloud_app_restore_title">V poradí</string>
@@ -175,6 +177,8 @@
   <string name="multi_selecting_tips">Dotknite sa ikon</string>
   <string name="no_detail_page">Žiadne podrobnosti</string>
   <string name="normal_wallpaper">Tapeta</string>
+  <string name="notification_installed">Nainštalované</string>
+  <string name="notification_open_button">Otvoriť</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na tejto ploche už nie je miesto.</string>
   <string name="permdesc_install_shortcut">Povoľuje aplikácií pridať zástupcu bez zásahu užívateľa.</string>
@@ -271,8 +275,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="children_mode_tips_message">V detskom režime nie je vybraná žiadna aplikácia.</string>
-  <string name="children_mode_tips_title">Vyberte aplikáciu</string>
-  <string name="notification_installed">Nainštalované</string>
-  <string name="notification_open_button">Otvoriť</string>
 </resources>

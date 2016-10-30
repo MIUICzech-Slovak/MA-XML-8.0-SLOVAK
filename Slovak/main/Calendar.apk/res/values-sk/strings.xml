@@ -212,6 +212,9 @@
   <string name="no_network_btn">Skúsiť znova</string>
   <string name="no_syncable_calendars">Žiadne kalendáre</string>
   <string name="no_title_label">(bez názvu)</string>
+  <string name="no_visiable_calendar_message">Musíte vybrať účet kalendára, stlačte Vybrať účet.</string>
+  <string name="no_visiable_calendar_select_account">Vybrať účet</string>
+  <string name="no_visiable_calendar_title">Vyberte účet kalendára</string>
   <string name="not_synced">nie je synchronizovaný</string>
   <string name="path_calendar">Systémové aplikácie/Kalendár/Nastavenia</string>
   <string name="pengzu"/>
@@ -302,8 +305,17 @@
   <string name="select_synced_calendars_title">Kalendáre, ktoré sa majú synchronizovať</string>
   <string name="select_visible_calendars_title">Kalendáre, ktoré sa majú zobraziť</string>
   <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
+  <string name="setting_about_calendar_version">"Verzia kalendára: "</string>
+  <string name="setting_about_imei">IMEI:</string>
+  <string name="setting_about_miui_version">"Verzia MIUI: "</string>
+  <string name="setting_about_summary">"Verzia: "</string>
   <string name="setting_holiday">Sviatky</string>
+  <string name="setting_holiday_display_desc">Sviatky na hlavnej obrazovke kalendára</string>
+  <string name="setting_holiday_display_title">Zobraziť sviatky</string>
+  <string name="setting_holiday_reminder">Upozorniť na sviatky</string>
+  <string name="setting_homepage">Hlavná obrazovka</string>
   <string name="setting_others">Ostatné</string>
+  <string name="setting_title_about">O aplikácií</string>
   <string name="settings_calendar">Kalendár</string>
   <string name="show_controls">Zobraziť ovládacie prvky</string>
   <string name="show_day_view">Zobraziť deň</string>
@@ -324,6 +336,7 @@
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index">Udalosť %1$s z %2$s</string>
+  <string name="template_week_num">Týždeň %1$s</string>
   <string name="text_year">Rok</string>
   <string name="time_zone">Zóna</string>
   <string name="timezone_label">Časové pásmo</string>
@@ -376,6 +389,7 @@
   <string name="when_label">Kedy</string>
   <string name="where_label">Kde</string>
   <string name="widget_events">Nasledujúce udalosti</string>
+  <string name="widget_get_weather_info">Získať info o počasí</string>
   <string name="widget_no_events">Žiadne udalosti</string>
   <string name="widget_select_style">Vyberte štýl</string>
   <string name="work_day_indication"/>
@@ -385,18 +399,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="setting_about_calendar_version">"Verzia kalendára: "</string>
-  <string name="setting_about_imei">IMEI:</string>
-  <string name="setting_about_miui_version">"Verzia MIUI: "</string>
-  <string name="setting_about_summary">"Verzia: "</string>
-  <string name="setting_holiday_display_desc">Sviatky na hlavnej obrazovke kalendára</string>
-  <string name="setting_holiday_display_title">Zobraziť sviatky</string>
-  <string name="setting_holiday_reminder">Upozorniť na sviatky</string>
-  <string name="setting_homepage">Hlavná obrazovka</string>
-  <string name="setting_title_about">O aplikácií</string>
-  <string name="no_visiable_calendar_message">Musíte vybrať účet kalendára, stlačte Vybrať účet.</string>
-  <string name="no_visiable_calendar_select_account">Vybrať účet</string>
-  <string name="no_visiable_calendar_title">Vyberte účet kalendára</string>
-  <string name="template_week_num">Týždeň %1$s</string>
-  <string name="widget_get_weather_info">Získať info o počasí</string>
 </resources>

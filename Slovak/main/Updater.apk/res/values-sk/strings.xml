@@ -21,6 +21,7 @@
   <string name="autosetmode">Nastavenie aktualizácie</string>
   <string name="best_update">Skvelá aktualizácia</string>
   <string name="boot_recovery">Reštart do TWRP Recovery</string>
+  <string name="button_delay_update_reboot">Reštartovať a aktualizovať</string>
   <string name="button_text_check">Skontrolovať</string>
   <string name="button_text_later_reboot">Neskôr</string>
   <string name="button_text_reboot">Reštartovať</string>
@@ -54,6 +55,11 @@
   <string name="continue_update_negative_btn">Pokračovať</string>
   <string name="continue_update_positive_btn">Zastaviť</string>
   <string name="daily_build">Denná verzia</string>
+  <string name="delay_update_text">Aktualizovať neskôr</string>
+  <string name="dialog_delay_update_cancel">Zrušiť</string>
+  <string name="dialog_delay_update_msg">Vaše zariadenie sa reštartuje pre nainštalovanie aktualizácie keď je zapnuté a batéria má aspoň 30%</string>
+  <string name="dialog_delay_update_title">Dostupná aktualizácia</string>
+  <string name="dialog_delay_update_tonight">Aktualizovať dnes v noci</string>
   <string name="dialog_reboot_message">Bude prebiehať aktualizácia MIUI. Tento proces môže trvať 5-20 minút. Nevypínajte a nereštartujte vaše zariadenie počas procesu aktualizácie!</string>
   <string name="dialog_reboot_title">Aktualizácia systému</string>
   <string name="dialog_reboot_yes">Aktualizovať</string>
@@ -117,6 +123,12 @@
   <string name="no_wifi_title">Využitie mobilných dát</string>
   <string name="not_open">Nie</string>
   <string name="notification_auto_reboot_seccess_title">Aktualizované automaticky</string>
+  <string name="notification_delay_update_button">Aktualizovať o 2 hodiny</string>
+  <string name="notification_delay_update_cancel">Neaktualizovať dnes v noci</string>
+  <string name="notification_delay_update_low_power">Batéria bola pod 30% v noci</string>
+  <string name="notification_delay_update_msg">Zariadenie sa reštartuje a aktualizuje o​ %ss</string>
+  <string name="notification_delay_update_no_update">Aktualizácia nebola nainštalovaná</string>
+  <string name="notification_delay_update_shutdown">Zariadenie bolo v noci vypnuté</string>
   <string name="notification_downloading">Sťahovanie aktualizácie...</string>
   <string name="notification_fail_msg">Skúste stiahnuť celú ROM z miuios.cz/rom</string>
   <string name="notification_load_body_alpha">Prihláste sa do svojho Mi účtu pre aktualizáciu vášho zariadenia.</string>
@@ -131,6 +143,9 @@
   <string name="notification_reboot_title_hm">Reštartujte pre aktualizáciu</string>
   <string name="notification_restart">Aktualizovať znova</string>
   <string name="notification_share">Zdieľať</string>
+  <string name="notification_uncrypt_summary_hm">Dotykom reštartujete zariadenie.</string>
+  <string name="notification_uncrypt_title_hm">Reštartujte pre aktualizáciu</string>
+  <string name="notification_uncrypting">Dekódovanie aktualizácie</string>
   <string name="notification_update_new_version">Dostupná nová verzia</string>
   <string name="notification_update_now">Aktualizovať</string>
   <string name="notification_updating">Aktualizácia...</string>
@@ -197,7 +212,9 @@ Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
   <string name="test">Test</string>
   <string name="timer_title">Zariadenie sa reštartuje o %ds.</string>
   <string name="title_toast_auto">Automatické sťahovanie aktualizácií je povolené</string>
+  <string name="toast_delay_update_tonight">Vaše zariadenie sa aktualizuje medzi 2:00 až 5:00 ráno</string>
   <string name="top_secret_build">Tajná verzia</string>
+  <string name="uncrypt_title">Dekódovanie (%s)</string>
   <string name="unkown_error_title">Chyba pri sťahovaní, navštívte miuios.cz/rom</string>
   <string name="unstable_build">Stabilná verzia</string>
   <string name="update_comment_hint"/>
@@ -258,21 +275,4 @@ Nie je možné odoslať váš názor"</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 8</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
-  <string name="notification_uncrypt_summary_hm">Dotykom reštartujete zariadenie.</string>
-  <string name="notification_uncrypt_title_hm">Reštartujte pre aktualizáciu</string>
-  <string name="notification_uncrypting">Dekódovanie aktualizácie</string>
-  <string name="uncrypt_title">Dekódovanie (%s)</string>
-  <string name="button_delay_update_reboot">Reštartovať a aktualizovať</string>
-  <string name="delay_update_text">Aktualizovať neskôr</string>
-  <string name="dialog_delay_update_cancel">Zrušiť</string>
-  <string name="dialog_delay_update_msg">Vaše zariadenie sa reštartuje pre nainštalovanie aktualizácie keď je zapnuté a batéria má aspoň 30%</string>
-  <string name="dialog_delay_update_title">Dostupná aktualizácia</string>
-  <string name="dialog_delay_update_tonight">Aktualizovať dnes v noci</string>
-  <string name="notification_delay_update_button">Aktualizovať o 2 hodiny</string>
-  <string name="notification_delay_update_cancel">Neaktualizovať dnes v noci</string>
-  <string name="notification_delay_update_low_power">Batéria bola pod 30% v noci</string>
-  <string name="notification_delay_update_msg">Zariadenie sa reštartuje a aktualizuje o​ %ss</string>
-  <string name="notification_delay_update_no_update">Aktualizácia nebola nainštalovaná</string>
-  <string name="notification_delay_update_shutdown">Zariadenie bolo v noci vypnuté</string>
-  <string name="toast_delay_update_tonight">Vaše zariadenie sa aktualizuje medzi 2:00 až 5:00 ráno</string>
 </resources>

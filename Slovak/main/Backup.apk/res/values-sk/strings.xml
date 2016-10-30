@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="abort_backup_confirm">Záloha nie je dokončená. Chcete ukončiť zálohovanie?</string>
+  <string name="abort_restore_confirm">Obnova nie je dokončená. Skutočne chcete ukončiť?</string>
   <string name="account_contact_backup_info">Dáta (Mi, Gmail a Email. Účty a kontakty budú uložené spolu.)</string>
   <string name="account_login">Prihlásiť sa</string>
   <string name="account_summary">Zálohovanie Gmailu, Emailu a účtu Mi</string>
@@ -152,7 +153,9 @@
   <string name="notif_restore_content">Obnovenie užívateľských dát</string>
   <string name="notif_restore_title">Obnoviť dáta</string>
   <string name="notif_trans_receiving_completed">Dáta úspešne prijaté</string>
+  <string name="notif_trans_receiving_failed">Prijímanie dát zlyhalo</string>
   <string name="notif_trans_sending_completed">Dáta úspešne odoslané</string>
+  <string name="notif_trans_sending_failed">Odosielanie dát zlyhalo</string>
   <string name="page_loading">Načítavanie...</string>
   <string name="progress_backup_hint">Zálohovanie dát...</string>
   <string name="progress_restore_hint">Obnovovanie dát...</string>
@@ -347,7 +350,4 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
-  <string name="abort_restore_confirm">Obnova nie je dokončená. Skutočne chcete ukončiť?</string>
-  <string name="notif_trans_receiving_failed">Prijímanie dát zlyhalo</string>
-  <string name="notif_trans_sending_failed">Odosielanie dát zlyhalo</string>
 </resources>

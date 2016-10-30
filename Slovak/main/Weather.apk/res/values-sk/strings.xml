@@ -29,7 +29,9 @@
   <string name="button_exit">Ukončiť</string>
   <string name="button_not_allow">Zrušiť</string>
   <string name="button_sure_abandon">Zrušiť zmeny?</string>
+  <string name="change_alert">Skontrolujte nastavenie siete a skúste to znova</string>
   <string name="close">Zatvoriť</string>
+  <string name="common_loading_text">Načítavanie...</string>
   <string name="daily_forcast_drawer_on_bottom">Skryť</string>
   <string name="daily_forcast_drawer_on_top">%1$s-dňová predpoveď</string>
   <string name="daily_forcast_no_stable_direction">Bezvetrie</string>
@@ -42,7 +44,9 @@
   <string name="empty">" "</string>
   <string name="first_start_network_msg">Pre načítanie informácií o počasí a polohe je nutné internetové pripojenie.</string>
   <string name="first_start_network_title">Upozornenie na pripojenie</string>
+  <string name="global_aqi"/>
   <string name="gps_hint">Súčasná poloha</string>
+  <string name="hide_topic">Skryť</string>
   <string name="hourly_forcast_now">Teraz</string>
   <string name="hourly_forecast_title">Hodinová predpoveď</string>
   <string name="indices_desc_feel">Pocitovo %1$s°C</string>
@@ -83,6 +87,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkosť</string>
   <string name="realtime_wind_default_title">Vietor</string>
+  <string name="refresh_fail">Nebolo možné pripojiť sa k sieti</string>
   <string name="retry">Znova</string>
   <string name="set">Nastavenia</string>
   <string name="share">Zdieľať</string>
@@ -105,9 +110,4 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="weather_alert">Varovania</string>
-  <string name="global_aqi"/>
-  <string name="hide_topic">Skryť</string>
-  <string name="common_loading_text">Načítavanie...</string>
-  <string name="refresh_fail">Nebolo možné pripojiť sa k sieti</string>
-  <string name="change_alert">Skontrolujte nastavenie siete a skúste to znova</string>
 </resources>

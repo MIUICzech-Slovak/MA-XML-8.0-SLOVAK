@@ -3,6 +3,7 @@
   <string name="accessibility_call_muted">Hovor stíšený.</string>
   <string name="accessibility_speakerphone_enabled">Reproduktor je zapnutý.</string>
   <string name="add_vm_number_str">Pridať číslo</string>
+  <string name="can_not_dial_vt_while_voice_prompt">Nie je možné uskutočniť video hovor ak práve prebieha hlasový hovor</string>
   <string name="can_not_dial_while_vt_prompt">Nie je možné vytočiť počas video hovoru</string>
   <string name="change_default_dialer_dialog_title">Chcete zmeniť predvolenú aplikáciu vytáčania?</string>
   <string name="change_default_dialer_no_previous_app_set_text">Chcete použiť aplikáciu %s ako predvolenú aplikáciu vytáčania?</string>
@@ -44,5 +45,4 @@
   <string name="voice_dial_out">Hlasový hovor</string>
   <string name="voice_report_incoming_call">Volanie</string>
   <string name="voice_report_unknown_num">Neznáme číslo</string>
-  <string name="can_not_dial_vt_while_voice_prompt">Nie je možné uskutočniť video hovor ak práve prebieha hlasový hovor</string>
 </resources>

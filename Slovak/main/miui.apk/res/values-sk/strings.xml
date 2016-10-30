@@ -158,6 +158,7 @@
   <string name="friday_short">Pia</string>
   <string name="friday_shortest">P</string>
   <string name="hybrid_provider">Web stránka je poskytovaná %1$s .</string>
+  <string name="instruction">Pokyny</string>
   <string name="midnight">AM</string>
   <string name="monday">Pondelok</string>
   <string name="monday_short">Pon</string>
@@ -326,5 +327,4 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="instruction">Pokyny</string>
 </resources>

@@ -24,6 +24,7 @@
   <string name="account_none_binded_info">Žiadny</string>
   <string name="account_none_binded_secure_phone">Žiaden telefón</string>
   <string name="account_none_user_name">Žiadne</string>
+  <string name="account_protection">Ochrana účtu</string>
   <string name="account_security_question">Bezpečnostná otázka</string>
   <string name="account_settings">Nastavenie účtu</string>
   <string name="account_user_avatar">Profilová fotka</string>
@@ -57,8 +58,10 @@
   <string name="activate_email_notice">Váš účet musíte aktivovať do 24 hodín</string>
   <string name="activity_not_found_notice">Nie je možné nájsť aplikáciu</string>
   <string name="add_account">Pridať účet</string>
+  <string name="add_this_verified_device">Pridajte toto zariadenie do dôverychodných zariadení</string>
   <string name="alert_title_remove_account">Odstrániť účet?</string>
   <string name="app_name">Mi účet</string>
+  <string name="auth_fail_warning">Prihlásenie k účtu vypršalo, skúste to znova</string>
   <string name="authorize_title">Autorizácia</string>
   <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po prihlásení sa.</string>
   <string name="bind_facebook">Pridať Facebook účet</string>
@@ -79,6 +82,9 @@
   <string name="cloud_service">MiCloud</string>
   <string name="completed">Dokončiť</string>
   <string name="confirm_activate_email">Overené</string>
+  <string name="confirm_delete_app_message">Po vymazaní tejto apl, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
+  <string name="confirm_delete_browser_message">Po vymazaní tohto prehliadača,bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
+  <string name="confirm_delete_device_message">Po vymazaní tohto zariadenia, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
   <string name="confirm_phone_number_dialog_message">Overovací kód bude odoslaný na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrdenie telefónneho čísla</string>
   <string name="confirm_unbind">Odpojiť?</string>
@@ -92,14 +98,21 @@
   <string name="data_keep_in_device">Ponechať v mojom zariadení</string>
   <string name="data_wipe_from_device">Vymazať z môjho zariadenia</string>
   <string name="delete_action">Vymazať</string>
+  <string name="delete_app">Vymazať apl.</string>
+  <string name="delete_bank_card_message">Pre ochranu vášho súkromia bude karta odstránená ak sa odhlásite.</string>
+  <string name="delete_bank_card_title">Odstránenie vašej platobnej kartu</string>
+  <string name="delete_browser">Vymazať Prehliadač</string>
+  <string name="delete_device">Vymazať zariadenie</string>
   <string name="delete_device_btn">Odobrať</string>
   <string name="delete_device_failed">Nie je možné odobrať zariadenie</string>
   <string name="delete_device_notice">Po odobraní zariadenia budete automaticky odhlásený aj z Mi účtu.</string>
+  <string name="delete_lock_device_success">Vymazané</string>
   <string name="device_delete_loading">Moment...</string>
   <string name="device_delete_success_message">Ak ste sa neprihlásili z tohto zariadenia, odporúčame vám čo najskôr si zmeniť vaše heslo.</string>
   <string name="device_delete_success_title">Odhlásený</string>
   <string name="device_list__header">Moje zariadenia</string>
   <string name="device_list_title">Zoznam zariadení</string>
+  <string name="device_name">Názov zariadenia</string>
   <string name="device_trust_info">Dôveryhodné zariadenie</string>
   <string name="empty_device_list_notice">Žiadne zariadenia</string>
   <string name="error_dup_binded_email">Táto emailová adresa už je použitá pre iný Mi účet.</string>
@@ -113,7 +126,9 @@
   <string name="failed_dup_secure_phone_number">Toto telefónné číslo už je použité pre iný Mi účet</string>
   <string name="find_device_access_denied">Nie je možné načítať stav zariadenia, prístup zamietnutý</string>
   <string name="find_device_account_error">Nie je možné načítať stav zariadenia kvôli chybe účtu</string>
+  <string name="find_device_activate_account">Aktivovať účet</string>
   <string name="find_device_bad_response_error">Nie je možné načítať stav kvôli chybe servera, skúste to neskôr znova.</string>
+  <string name="find_device_display_id">Číslo odomknutia: %s</string>
   <string name="find_device_error_password_not_confirmed">Nie je možné deaktivovať vyhľadávanie zariadenia. Zadajte svoje heslo ku Mi účtu znova.</string>
   <string name="find_device_error_password_recently_changed">Zmenili ste svoje heslo ku Mi účtu v posledných 3 dňoch. Nie je možné deaktivovať vyhľadávanie zariadenia z bezpečnostných dôvodov.</string>
   <string name="find_device_interrupted">Akcia bola prerušená, skúste to znova neskôr.</string>
@@ -125,15 +140,22 @@
   <string name="find_device_request_error">Nie je možné vyžiadať stav zariadenia, skúste to znova neskôr.</string>
   <string name="find_device_request_prepare_error">Nie je možné načítať stav zariadenia skúste to znova neskôr.</string>
   <string name="find_device_unknown_error">Nie je možné načítať stav zariadenia skúste to znova neskôr.</string>
+  <string name="first_login_time">Prvý pokus prihlásenia: %s</string>
   <string name="forward_to_bind">Pripojiť</string>
   <string name="get_device_list_failed">Nie je možné načítať zariadenia</string>
   <string name="get_phone_verifycode_exceed_limit">Bolo odoslaných príliš mnoho overovacích kódov. Čakajte 24 hodín a skúste to znova.</string>
   <string name="ignore">Teraz nie</string>
   <string name="input_email_address_notice">Táto adresa bude použitá pre overenie vášho účtu</string>
+  <string name="io_error_title">Potvrďte vašu sieť</string>
   <string name="just_a_second">Čakajte prosím...</string>
   <string name="loading_micloud_sync_data">Načítavanie...</string>
+  <string name="local_device">(toto zariadenie)</string>
   <string name="locating_current_location">Ziskávanie polohy...</string>
   <string name="location_service_not_working">Chyba zistenia polohy</string>
+  <string name="login_check_find_device">Získavanie info o zabezpečení...</string>
+  <string name="login_check_find_device_failed_title">Nebolo možné skontrolovať stav vyhľadávania zariadenia</string>
+  <string name="login_find_device_bind">Toto zariadenie je spojené s existujúcim Mi účtom (%s).</string>
+  <string name="login_guard_prompt">Vyžadovať overenie telefónneho čísla pri nasledujúcom prihlásení sa ku Mi účtu na neznámom zariadení alebo aplikácií.</string>
   <string name="logout_failed">Odhlásenie zlyhalo</string>
   <string name="mi_account_identity_title">Overiť vašu identitu</string>
   <string name="mi_pass">MiPass</string>
@@ -141,6 +163,8 @@
   <string name="micloud_space_info">Ostáva: %s</string>
   <string name="mili_center">MiKredity</string>
   <string name="mipay_center">Peňaženka</string>
+  <string name="miui_provision_find_status_text">"Toto zariadenie je spojené s existujúcim Mi účtom (%1$s), zadajte heslo pre overenie tohto zariadenia.
+(Číslo odomknutia: %2$s)"</string>
   <string name="multi_user_not_show_sync_activity_message_1">Vyzerá to, že používate váš Mi účet z Primárneho profilu.</string>
   <string name="multi_user_not_show_sync_activity_message_2">V tomto prípade budú všetky vaše dáta synchr. do Druhého profilu. Pre zabránenie zakážte synchr. s MiCloud.</string>
   <string name="multi_user_not_show_sync_activity_title">Nezapínajte synchr. s MiCloud</string>
@@ -149,8 +173,14 @@
   <string name="no_network_title">Nie je možné sa pripojiť k sieti.</string>
   <string name="no_response_retry">Žiadna odpoveď, skúste to neskôr.</string>
   <string name="no_sim_card">Žiadna SIM karta</string>
+  <string name="no_sim_card_or_unactivated">Žiadna SIM karta alebo nie je aktivovaná</string>
   <string name="nobind">Odhlásené</string>
+  <string name="notify_network_restricted_content_bg_network">Prístup Mi účtu k internetu na pozadí je zakázaný. Dotykom povolíte.</string>
+  <string name="notify_network_restricted_content_hidden_state">Aktivita Mi účtu na pozadí je zakázaná.  Dotykom povolíte.</string>
+  <string name="notify_network_restricted_content_mobile_network">Prístup Mi účtu k internetu je zakázaný.  Dotykom povolíte.</string>
+  <string name="notify_network_restricted_title">Mi účet nemá povolenie na prístup k internetu</string>
   <string name="other_devices">Ostatné zariadenia</string>
+  <string name="other_devices_title">Ostatné zariadenia</string>
   <string name="passport_access_denied">Prístup zamietnutý</string>
   <string name="passport_account_hint_text">Email alebo telefónne číslo</string>
   <string name="passport_account_identity_title">Overiť vašu identitu</string>
@@ -180,6 +210,8 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_completed">Dokončiť</string>
   <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Áno</string>
+  <string name="passport_copy_message_text_success">Text skopírovaný</string>
+  <string name="passport_copy_message_vcode">Kopírovať overovací kód</string>
   <string name="passport_delete_account">Odhlásiť sa</string>
   <string name="passport_downlink_reg">Vytvoriť účet pomocou telefónneho čísla</string>
   <string name="passport_email">Emailová adresa</string>
@@ -240,6 +272,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_login_title">Prihlásiť sa k Mi účtu</string>
   <string name="passport_login_using_other_ways">Prihlásiť sa iným spôsobom</string>
   <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Mi ID</string>
+  <string name="passport_message_dialog_title">Overovací kód v správe</string>
   <string name="passport_miui_provision_find_status_text">Toto zariadenie je prepojené s existujúcim Mi účtom ID（%1$s), musíte zadať heslo pre overenie zariadenia.
 (odblokovacie čislo: %2$s)"</string>
   <string name="passport_next">Ďalej</string>
@@ -303,6 +336,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_skip_setup_account_title">Preskočiť</string>
   <string name="passport_title_reg">Vytvoriť účet</string>
   <string name="passport_trust_device">Dôverovať tomuto zariadeniu</string>
+  <string name="passport_trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
   <string name="passport_uplink_reg">Použiť telefónné číslo</string>
   <string name="passport_uplink_slot1_reg">Použiť SIM 1</string>
   <string name="passport_uplink_slot2_reg">Použiť SIM 2</string>
@@ -315,6 +349,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_user_agreement_p4">Ochranou súkromia</string>
   <string name="passport_vcode_notification_title">Vaše overenie prihlásenia nie je dokončené</string>
   <string name="passport_vcode_prompt_long">Zadajte váš overovací kód</string>
+  <string name="passport_vcode_sms_send_prompt">Odoslať overovací kód na %s</string>
   <string name="passport_verification_failed">Chyba prihlásenia</string>
   <string name="passport_verify">Overiť</string>
   <string name="passport_wait_for_sms_prompt">Začať odznova? Doručenie overovacej správy môže trvať okolo 10 minút.</string>
@@ -356,14 +391,21 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="service_error">Chyba služby</string>
   <string name="set_security_question_title">Nastaviť bezpečnostné otázky</string>
   <string name="sina_weibo">Sina Weibo</string>
+  <string name="sms_send_success">Odoslané</string>
   <string name="sns_access_token_expired_warning">Prihlásenie k účtu vypršalo. Prihláste sa znovu.</string>
   <string name="submit_answers">Odoslať</string>
   <string name="success">Hotovo</string>
+  <string name="trusted_browsers">Dôveryhodné Prehliadače</string>
+  <string name="trusted_browsers_prompt">Prehliadač nebude viac dôveryhodný ak zmažete cookies.</string>
   <string name="trying_read_verify_code_sms">Získavanie ogverovacieho kódu...</string>
   <string name="turn_off_find_device_failed_title">Nie je možné deaktivovať vyhľadávanie zariadenia</string>
   <string name="turning_off_find_device">Deaktivovanie vyhľadania záriadenia...</string>
   <string name="unbind_sns_description">Po odpojení, sa už neprihlásite do Mi účtu cez %s</string>
   <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
+  <string name="unlock_help_notice">"Pomoc:
+ · Ak ste zabudli heslo, môžete ho obnoviť na id.mi.com.
+ · Ak nemôžete odomknúť vaše zariadenie, choďte na i.mi.com a deaktivujte Vyhľadávanie zariadenia.
+ · Toto číslo napíšte nášej zákazníckej podpore: %s"</string>
   <string name="update_contacts">Aktualizovať kontakty</string>
   <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>
   <string name="update_email_address_dialog_message">Musíte overiť vašu identitu predtým ako zmeníte váš email.</string>
@@ -372,53 +414,11 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="updated_nothing">Žiadna aktualizácia</string>
   <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
   <string name="user_avatar_uploading">Nahrávanie...</string>
-  <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
-  <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
-  <string name="notify_network_restricted_content_bg_network">Prístup Mi účtu k internetu na pozadí je zakázaný. Dotykom povolíte.</string>
-  <string name="notify_network_restricted_content_hidden_state">Aktivita Mi účtu na pozadí je zakázaná.  Dotykom povolíte.</string>
-  <string name="notify_network_restricted_content_mobile_network">Prístup Mi účtu k internetu je zakázaný.  Dotykom povolíte.</string>
-  <string name="notify_network_restricted_title">Mi účet nemá povolenie na prístup k internetu</string>
-  <string name="account_protection">Ochrana účtu</string>
-  <string name="add_this_verified_device">Pridajte toto zariadenie do dôverychodných zariadení</string>
-  <string name="auth_fail_warning">Prihlásenie k účtu vypršalo, skúste to znova</string>
-  <string name="confirm_delete_app_message">Po vymazaní tejto apl, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
-  <string name="confirm_delete_browser_message">Po vymazaní tohto prehliadača,bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
-  <string name="confirm_delete_device_message">Po vymazaní tohto zariadenia, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
-  <string name="delete_app">Vymazať apl.</string>
-  <string name="delete_browser">Vymazať Prehliadač</string>
-  <string name="delete_device">Vymazať zariadenie</string>
-  <string name="delete_lock_device_success">Vymazané</string>
-  <string name="device_name">Názov zariadenia</string>
-  <string name="find_device_activate_account">Aktivovať účet</string>
-  <string name="find_device_display_id">Číslo odomknutia: %s</string>
-  <string name="first_login_time">Prvý pokus prihlásenia: %s</string>
-  <string name="local_device">(toto zariadenie)</string>
-  <string name="login_check_find_device">Získavanie info o zabezpečení...</string>
-  <string name="login_check_find_device_failed_title">Nebolo možné skontrolovať stav vyhľadávania zariadenia</string>
-  <string name="login_find_device_bind">Toto zariadenie je spojené s existujúcim Mi účtom (%s).</string>
-  <string name="login_guard_prompt">Vyžadovať overenie telefónneho čísla pri nasledujúcom prihlásení sa ku Mi účtu na neznámom zariadení alebo aplikácií.</string>
-   <string name="miui_provision_find_status_text">"Toto zariadenie je spojené s existujúcim Mi účtom (%1$s), zadajte heslo pre overenie tohto zariadenia.
-(Číslo odomknutia: %2$s)"</string>
-  <string name="no_sim_card_or_unactivated">Žiadna SIM karta alebo nie je aktivovaná</string>
-  <string name="other_devices_title">Ostatné zariadenia</string>
-  <string name="passport_copy_message_text_success">Text skopírovaný</string>
-  <string name="passport_copy_message_vcode">Kopírovať overovací kód</string>
-  <string name="passport_message_dialog_title">Overovací kód v správe</string>
-  <string name="sms_send_success">Odoslané</string>
-  <string name="trusted_browsers">Dôveryhodné Prehliadače</string>
-  <string name="trusted_browsers_prompt">Prehliadač nebude viac dôveryhodný ak zmažete cookies.</string>
   <string name="verified_apps">Overené apl.</string>
   <string name="verified_devices">Overené zariadenia</string>
   <string name="verify_phone_prompt">Vyberte telefónné číslo na overenie</string>
   <string name="verify_phone_title">Overiť telefónné číslo</string>
-  <string name="passport_trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
-  <string name="passport_vcode_sms_send_prompt">Odoslať overovací kód na %s</string>
-  <string name="delete_bank_card_message">Pre ochranu vášho súkromia bude karta odstránená ak sa odhlásite.</string>
-  <string name="delete_bank_card_title">Odstránenie vašej platobnej kartu</string>
-  <string name="unlock_help_notice">"Pomoc:
- · Ak ste zabudli heslo, môžete ho obnoviť na id.mi.com.
- · Ak nemôžete odomknúť vaše zariadenie, choďte na i.mi.com a deaktivujte Vyhľadávanie zariadenia.
- · Toto číslo napíšte nášej zákazníckej podpore: %s"</string>
- <string name="io_error_title">Potvrďte vašu sieť</string>
+  <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
 </resources>
