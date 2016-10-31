@@ -4,4 +4,9 @@
         <item>Ťahanie</item>
         <item>Stlačenie</item>
     </string-array>
+    <string-array name="enabled_for_pad_entries">
+        <item>Zakázané</item>
+        <item>Povolené</item>
+        <item>Dočasne zobraziť v režime na ležato</item>
+    </string-array>
 </resources>

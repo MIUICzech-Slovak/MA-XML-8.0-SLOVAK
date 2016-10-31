@@ -4751,4 +4751,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="auto_disable_screenbuttons_rotation_summary">Ak je vaše zariadenie v režime na ležato, navigačné tlačidlá budú blokované</string>
+  <string name="auto_disable_screenbuttons_rotation_title">Blokovať navigačné tlačidlá v režime na ležato</string>
+  <string name="input_password_hint_text">Zadajte heslo</string>
+  <string name="storage_wizard_format_confirm_third_body">^1 bolo formátované</string>
 </resources>

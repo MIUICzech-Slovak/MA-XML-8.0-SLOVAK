@@ -281,4 +281,12 @@
         <item quantity="other">Pridaných %d cloud fotografií, deaktivujte \"Zoraziť len lokálne albumy\" pre ich zobrazenie.</item>
         <item quantity="one">Pridaná %d cloud fotografia, deaktivujte \"Zoraziť len lokálne albumy\" pre ich zobrazenie..</item>
     </plurals> 
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d fotografií</item>
+        <item quantity="one">1 fotografia</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d videí</item>
+        <item quantity="one">1 video</item>
+    </plurals>
 </resources>

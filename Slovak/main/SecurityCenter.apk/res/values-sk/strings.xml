@@ -1725,4 +1725,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_encryption">Wi-Fi šifrovanie</string>
   <string name="wifi_item_title_fake">Detekcia falošnej Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
+  <string name="auto_task_edit_step1">1.</string>
+  <string name="auto_task_edit_step2">2.</string>
+  <string name="main_alert_message_open_traffic_ctrl">Odporúčame obmedziť spotrebu dát</string>
+  <string name="main_open_traffic_ctrl_button">Obmedziť spotrebu dát</string>
+  <string name="pref_traffic_manage_title">Spotreba dát</string>
 </resources>
