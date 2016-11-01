@@ -1730,4 +1730,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="main_alert_message_open_traffic_ctrl">Odporúčame obmedziť spotrebu dát</string>
   <string name="main_open_traffic_ctrl_button">Obmedziť spotrebu dát</string>
   <string name="pref_traffic_manage_title">Spotreba dát</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Vymazať nebezpečné apl.</string>
+  <string name="antivirus_monitor_btn_text_clean_virus">Vymazať vírusy</string>
+  <string name="antivirus_monitor_clean_tips">Vymazaných %s</string>
+  <string name="antivirus_monitor_risk_advice">Táto aplikácia nie je bezpečná, vymažte ju.</string>
+  <string name="antivirus_monitor_virus_advice">Táto aplikácia môže obsahovať vírus, vymažte ju.</string>
 </resources>
