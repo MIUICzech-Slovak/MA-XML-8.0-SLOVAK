@@ -817,4 +817,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="low_memory_toast">Nie je možné použiť Prehliadač z dôvodu málo voľnej RAM</string>
 </resources>
