@@ -153,7 +153,7 @@
   <string name="locating_current_location">Ziskávanie polohy...</string>
   <string name="location_service_not_working">Chyba zistenia polohy</string>
   <string name="login_check_find_device">Získavanie info o zabezpečení...</string>
-  <string name="login_check_find_device_failed_title">Nebolo možné skontrolovať stav vyhľadávania zariadenia</string>
+  <string name="login_check_find_device_failed_title">Nebolo možné skontrolovať zabezpečenie zariadenia</string>
   <string name="login_find_device_bind">Toto zariadenie je spojené s existujúcim Mi účtom (%s).</string>
   <string name="login_guard_prompt">Vyžadovať overenie telefónneho čísla pri nasledujúcom prihlásení sa ku Mi účtu na neznámom zariadení alebo aplikácií.</string>
   <string name="logout_failed">Odhlásenie zlyhalo</string>
