@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">Pridaných apl.: %d</item>
+        <item quantity="one">Pridaných apl.: %d</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">Nepridaných apl.: %d</item>
+        <item quantity="one">Nepridaných apl.: %d</item>
+    </plurals>
+</resources>
