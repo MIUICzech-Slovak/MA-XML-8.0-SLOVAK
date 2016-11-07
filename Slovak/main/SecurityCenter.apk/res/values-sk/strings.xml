@@ -1696,9 +1696,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Zakázať režim spánku</string>
   <string name="usage_type_wifi_running">Pripojenie Wi-Fi aktívne</string>
-  <string name="usb_adb_input_apply_step_1">Vaše PC bude môcť zmeniť nastavenia v telefóne a získať povolenia bez upozornenia po pripojení k USB</string>
-  <string name="usb_adb_input_apply_step_2">Môže to viesť k úniku vašich súkromných údajov</string>
-  <string name="usb_adb_input_apply_step_3">Uistite sa, že rozumiete všetkým rizikám. Naozaj chcete povoliť?</string>
+  <string name="usb_adb_input_apply_step_1">Môže to viesť k úniku osobných informácií alebo strate dát. Neodporáčame to robiť ak nie ste vývojár.</string>
+  <string name="usb_adb_input_apply_step_2">Vývojári môžu využiť špeciálny software pre ovládanie gest, zmenu nastavení, prístup k USB, atď.</string>
+  <string name="usb_adb_input_apply_step_3">Povoliť?</string>
   <string name="usb_install_desc">Inštalovať túto aplikáciu cez USB?</string>
   <string name="usbsharenet_exception_summary">Nie je možné skontrolovať pripojenie cez MiPCsuite.</string>
   <string name="usbsharenet_exception_title">Skontrolovať sieť cez USB</string>
@@ -1735,4 +1735,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="antivirus_monitor_clean_tips">Vymazaných %s</string>
   <string name="antivirus_monitor_risk_advice">Táto aplikácia nie je bezpečná, vymažte ju.</string>
   <string name="antivirus_monitor_virus_advice">Táto aplikácia môže obsahovať vírus, vymažte ju.</string>
+  <string name="keywords_powercenter_powerrank">Spotreba batérie</string>
+  <string name="old_sdk_deny_warning">Aplikácia nie je kompatibilná s posledným Android API. Zakázanie práv môže spôsobiť nesprávne fungovanie tejto aplikácie.</string>
+  <string name="resource_powercenter_powerrank">Batéria a výkon</string>
 </resources>
