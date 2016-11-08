@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_game">Pridať hru</string>
+  <string name="add_game">Pridať</string>
   <string name="anti_disturb_msg_detail">Vypnúť všetky upozornenia okrem prich. hovorov</string>
   <string name="anti_disturb_msg_title">Režim Nerušiť</string>
   <string name="app_name">Zrýchlenie hier</string>
@@ -14,9 +14,9 @@
   <string name="close">Zatvoriť</string>
   <string name="dont_bore">Nenechajte sa vyrušovať upozorneniami</string>
   <string name="empty">" "</string>
-  <string name="game_booster">Zrýchlenie pri hrách</string>
+  <string name="game_booster">Zrýchlenie hier</string>
   <string name="game_booster_intro">Čo to je</string>
-  <string name="game_booster_total">Zrýchlené %1$s čas, pridané %2$s hracieho času</string>
+  <string name="game_booster_total">Zrýchlené %1$sx, pridaných %2$s hracieho času</string>
   <string name="game_more_improve">Obmedziť aktivity na pozadí a rýchlosť sťahovania pre úsporu batérie a rýchlejšie hranie hier.</string>
   <string name="game_setting">Nastavenie hier</string>
   <string name="gs_app_back_self_start">Úspora batérie</string>
@@ -29,7 +29,7 @@
   <string name="gs_only_self_start_for_list">Obmedziť procesy na pozadí pre úsporu batérie</string>
   <string name="gs_open_game_booster">Zrýchlenie</string>
   <string name="gs_performance_mode">Výkonný režim</string>
-  <string name="gs_performance_mode_detail">Navýšiť využívanie CPU pre čo najvyšší výkon hier</string>
+  <string name="gs_performance_mode_detail">Navýšiť využívanie CPU pre čo najvyšší výkon</string>
   <string name="install_game_count">Pridaných %d hier</string>
   <string name="loading">Načítavanie...</string>
   <string name="main_toolbar_purchase">Navýšiť</string>
@@ -65,7 +65,7 @@
   <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
   <string name="privacy_declare_dialog_title">Podmienky používania</string>
   <string name="privacy_prompt_traffic_purchase_message">"Your phone number and carrier details will be encrypted and uploaded to Mi's servers to get more info about data purchasing options."</string>
-  <string name="release_memory">Vymazať cache</string>
+  <string name="release_memory">Vymazaná cache</string>
   <string name="scan_installed_games">Kontrola nainštalovaných hier...</string>
   <string name="setting">Nastavenia</string>
   <string name="share">Zdieľať</string>
