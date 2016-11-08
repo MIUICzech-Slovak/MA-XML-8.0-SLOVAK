@@ -135,4 +135,5 @@
   <string name="package_delete_confirm_step_1">Vymazať %s?</string>
   <string name="package_delete_confirm_step_2">Vymazanie tejto aplikácie môže spôsobiť nestabilitu celého systému.</string>
   <string name="package_delete_confirm_step_3">Po vymazaní nebudete môcť túto aplikáciu znova otvoriť.</string>
+  <string name="translation_more">Viac</string>
 </resources>

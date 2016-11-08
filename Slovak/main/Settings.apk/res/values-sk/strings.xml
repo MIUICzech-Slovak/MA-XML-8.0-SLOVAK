@@ -4754,4 +4754,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="auto_disable_screenbuttons_rotation_summary">Ak je vaše zariadenie v režime na ležato, navigačné tlačidlá budú blokované</string>
   <string name="auto_disable_screenbuttons_rotation_title">Blokovať navigačné tlačidlá v režime na ležato</string>
   <string name="storage_wizard_format_confirm_third_body">^1 je formátované</string>
+  <string name="approve_title">Overenie</string>
 </resources>

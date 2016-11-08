@@ -1049,7 +1049,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="simFdnContacts_empty">Žiadne fixné kontakty.</string>
   <string name="sim_absent">Chýba</string>
   <string name="sim_card_activate">Overenie SIM</string>
-  <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
+  <string name="sim_card_summary_no_sim_card">Žiadna SIM karta</string>
   <string name="sim_cards_network_mode_changed_summary">Zobraziť nastavenia SMS a Hovoru.</string>
   <string name="sim_cards_network_mode_changed_title">Zistená nová SIM karta</string>
   <string name="sim_contact_name">Meno</string>
@@ -1241,4 +1241,25 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="home_screen_shortcut">Odkaz na domácej obrazovke</string>
+  <string name="account_changed_title">Účet zmenený</string>
+  <string name="autoip_summary_more">, %d celkom</string>
+  <string name="call_log">Zoznam hovorov</string>
+  <string name="confirm">Potvrdiť</string>
+  <string name="dialog_call_ordinary_telephone">Bežný hovor (%ds)</string>
+  <string name="enable_button_text">Ďalej</string>
+  <string name="general_remove">Odstrániť</string>
+  <string name="internation_remain_minutes">(alebo %1$s %2$s medzinárodný hovor)</string>
+  <string name="keep_wait_call_back">Čakať</string>
+  <string name="menu_add_numbers">Pridať číslo</string>
+  <string name="please_connect_network_message">Pripojte sa k sieti</string>
+  <string name="please_connect_network_title">Žiadna sieť</string>
+  <string name="please_login_mi_accout">Prihlásiť</string>
+  <string name="propmpt_dialog_do_not_ask">Viac nezobrazovať</string>
+  <string name="propmpt_dialog_network_failed_title">Call timeout</string>
+  <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">telefónne číslo nie je overené</string>
+  <string name="setting">Nastavenia</string>
+  <string name="undefined_setting">Žiadne</string>
+  <string name="verify_failed">Chyba overenia</string>
 </resources>
