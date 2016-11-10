@@ -130,8 +130,6 @@
   <string name="sina_share_success">Odoslané</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
-  <string name="snippet_image_stub">[Image]</string>
-  <string name="snippet_image_template">[Image %1$s]</string>
   <string name="sns_action_send">Odoslať</string>
   <string name="sns_choose_quality_high">Vysoká (%1$s)</string>
   <string name="sns_choose_quality_low">Nízka</string>
