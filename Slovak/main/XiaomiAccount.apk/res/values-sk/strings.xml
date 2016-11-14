@@ -421,4 +421,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
+  <string name="passport_barcode_add_account_prompt">Pre pripojenie účtu načítajte QR kód znova po prihlásení.</string>
 </resources>
