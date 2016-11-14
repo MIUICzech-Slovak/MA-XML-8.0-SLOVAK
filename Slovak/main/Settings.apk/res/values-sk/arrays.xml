@@ -149,6 +149,7 @@
     <string-array name="wifi_proxy_settings">
         <item>Žiadne</item>
         <item>Ručne</item>
+        <item>Proxy Auto-Config</item>
     </string-array>
     <string-array name="emergency_tone_entries">
         <item>Vypnuté</item>
@@ -160,11 +161,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP alebo CHAP</item>
-    </string-array>
-    <string-array name="bearer_entries">
-        <item>LTE</item>
-        <item>eHRPD</item>
-        <item>Nešpecifikované</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Interné úložisko zariadenia</item>
@@ -273,13 +269,6 @@
         <item>Stredné</item>
         <item>Dlhé</item>
     </string-array>
-    <string-array name="captioning_typeface_selector_titles">
-        <item>Predvolené</item>
-        <item>Sans-serif</item>
-        <item>Sans-serif – zúžené</item>
-        <item>Serif</item>
-        <item>Monospace</item>
-    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>Veľmi malé</item>
         <item>Malé</item>
@@ -287,12 +276,8 @@
         <item>Veľké</item>
         <item>Veľmi veľké</item>
     </string-array>
-    <string-array name="captioning_edge_type_selector_titles">
-        <item>Žiadne</item>
-        <item>Obrys</item>
-        <item>Tieň</item>
-    </string-array>
     <string-array name="captioning_preset_selector_titles">
+        <item>Predvolené aplikáciou</item>
         <item>Biele na čiernom</item>
         <item>Čierne na bielom</item>
         <item>Žlté na čiernom</item>
@@ -341,16 +326,6 @@
         <item>Mierka animácie 5x</item>
         <item>Mierka animácie 10x</item>
     </string-array>
-    <string-array name="overlay_display_devices_entries">
-        <item>Žiadne</item>
-        <item>720 x 480 mdpi</item>
-        <item>720 x 480 mdpi (zabezpečené)</item>
-        <item>1 280 x 720 tvdpi</item>
-        <item>1 280 x 720 tvdpi (zabezpečené)</item>
-        <item>1 920 x 1 080 xhdpi</item>
-        <item>1 920 x 1 080 xhdpi (zabezpečené)</item>
-        <item>1 280x720 tvdpi a 1 920x1 080 xhdpi</item>
-    </string-array>
     <string-array name="enable_opengl_traces_entries">
         <item>Žiadne</item>
         <item>Logcat</item>
@@ -365,14 +340,12 @@
     <string-array name="track_frame_time_entries">
         <item>Vypnuté</item>
         <item>Na obrazovke v podobe stĺpcov</item>
-        <item>Na obrazovke v podobe riadkov</item>
         <item>V adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Vypnuté</item>
         <item>Zobraziť oblasti prekreslení</item>
         <item>Zobraziť oblasti pre deuteranomáliu</item>
-        <item>Zobraziť počítadlo prekreslení</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Štandardný limit</item>
@@ -415,6 +388,7 @@
         <item>stredné</item>
         <item>nízke</item>
         <item>kritické</item>
+   	<item>\?</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
       <item>Vypnuté</item>
