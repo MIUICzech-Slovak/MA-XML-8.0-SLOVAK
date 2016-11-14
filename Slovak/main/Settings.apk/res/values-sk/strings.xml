@@ -4755,11 +4755,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="auto_disable_screenbuttons_rotation_title">Blokovať navigačné tlačidlá v režime na ležato</string>
   <string name="storage_wizard_format_confirm_third_body">^1 je formátované</string>
   <string name="approve_title">Overenie</string>
-  <string name="choose_smartcover_type">Vyberte typ púzdra</string>
   <string name="full_transparent_smarrcover_title">Priehľadný predný kryt</string>
-  <string name="lattice_smartcover_title">Dierkovaný predný kryt</string>
-  <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
-  <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smartcover zamykanie alebo odomykanie</string>
   <string name="smartcover_sensitive_summary">Zamknite alebo odomknite obrazovku pomocou predného krytu</string>
 </resources>
