@@ -268,4 +268,7 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="xunlei_open_info">Stiahnuť tento súbor cez MIUI správcu sťahovania?</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
+  <string name="download_status_continue">Obnoviť</string>
+  <string name="download_status_fail">Znova</string>
+  <string name="download_status_paused">Pauza</string>  
 </resources>
