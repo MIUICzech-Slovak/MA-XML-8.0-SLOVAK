@@ -4758,4 +4758,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="full_transparent_smarrcover_title">Priehľadný predný kryt</string>
   <string name="smartcover_lock_or_unlock_screen_tittle">Smartcover zamykanie alebo odomykanie</string>
   <string name="smartcover_sensitive_summary">Zamknite alebo odomknite obrazovku pomocou predného krytu</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_huami_watch">Dotknite sa tlačidla na hodinkách pre odomknutie.</string>
+  <string name="bluetooth_unlock_confirm_device_text_for_miband2">Dotknite sa tlačidla na náramku pre odomknutie.</string>  
 </resources>

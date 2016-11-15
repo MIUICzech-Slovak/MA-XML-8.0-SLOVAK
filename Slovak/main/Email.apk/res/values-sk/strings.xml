@@ -843,4 +843,19 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="account_setting_message_body_load_complete">Celá správa</string>
+  <string name="account_setting_message_body_load_head_abstract">Popis správy</string>
+  <string name="account_setting_message_body_load_head_only">Len hlavička</string>
+  <string name="account_setting_message_body_load_text">Len telo správy</string>
+  <string name="attachment_size_exceed_limit">Veľkosť prekročila limit servera</string>
+  <string name="conversation_quick_button_approve">Súhlasím</string>
+  <string name="conversation_quick_button_disapprove">Nesúhlasím</string>
+  <string name="conversation_quick_button_received">Prijaté</string>
+  <string name="first_quick_default_reply">Dotknite sa tohto odkazu, potom \"%s\" bude odoslaná všetkým adresátom.</string>
+  <string name="menu_contact_edit">Upraviť</string>
+  <string name="message_body_load_set_description">Veľkosť pre nové správy ak používate mobilné dáta</string>
+  <string name="remind_attachment_size_limit">Vaše správy by mali byť menšie ako %sMB</string>
+  <string name="send_mail">Odoslať</string>
+  <string name="sending_quick_reply">Odosielanie správy \"%s\"</string>
+  <string name="youfuli">Reklama</string>
 </resources>
