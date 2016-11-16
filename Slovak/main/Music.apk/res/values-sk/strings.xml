@@ -123,10 +123,10 @@
   <string name="download_start">Spúšťanie sťahovania...</string>
   <string name="download_while_playing_summary">"Automaticky stiahnuť skladby ktoré ste počúvali online"</string>
   <string name="download_while_playing_title">Počúvať počas sťahovania</string>
-  <string name="empty_page_no_album">Žiadne albumy.</string>
-  <string name="empty_page_no_artist">Žiadni umelci.</string>
-  <string name="empty_page_no_document">Žiadne dokumenty.</string>
-  <string name="empty_page_no_track">Žiadne skladby.</string>
+  <string name="empty_page_no_album">Žiadne albumy</string>
+  <string name="empty_page_no_artist">Žiadni umelci</string>
+  <string name="empty_page_no_document">Žiadne dokumenty</string>
+  <string name="empty_page_no_track">Žiadne skladby</string>
   <string name="enabled">Povolené</string>
   <string name="english_female">Európske a Americké speváčky</string>
   <string name="english_group">Európske a Americké skupiny</string>
@@ -289,7 +289,7 @@
   <string name="music_settings">Hudba</string>
   <string name="my_account">Môj účet</string>
   <string name="my_music">Moja Hudba</string>
-  <string name="my_music_empty">\"Moja Hudba\" je prázdna. Stiahnite alebo označte nejaké skladby v \"Online Hudbe\"</string>
+  <string name="my_music_empty">Zoznam skladieb je prázdny.</string>
   <string name="my_music_empty_goto_online">Váš zoznam skladieb je prázdny.</string>
   <string name="my_playlist">Môj playlist</string>
   <string name="name_online_personal_radio">Rádio</string>
@@ -308,10 +308,10 @@
   <string name="no_album_info">Žiadne informácie</string>
   <string name="no_artist_info">Žiadne informácie</string>
   <string name="no_enough_info">Nie je dostatok informácií</string>
-  <string name="no_favorites_songs">Prázdne</string>
+  <string name="no_favorites_songs">Žiadne skladby</string>
   <string name="no_file_picker_find">Správca súborov nie je nainštalovaný</string>
   <string name="no_introduction">Žiadne informácie</string>
-  <string name="no_local_songs">Prázdne</string>
+  <string name="no_local_songs">Žiadne skladby</string>
   <string name="no_local_songs_selected">Nie je možné odoslať skladby lebo neboli stiahnuté</string>
   <string name="no_local_source_find">Lokálne súbory sa nenašli, odosielanie zlyhalo!</string>
   <string name="no_online_song_selected">Žiadne vybrané skladby</string>
