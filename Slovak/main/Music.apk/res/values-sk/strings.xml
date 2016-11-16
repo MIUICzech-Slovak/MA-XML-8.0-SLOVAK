@@ -13,7 +13,7 @@
   <string name="action_item_favorite">Obľúbené</string>
   <string name="action_item_follow">Sledovať</string>
   <string name="action_item_hide">Skryť</string>
-  <string name="action_item_hifi">Slúchadlá a efekty</string>
+  <string name="action_item_hifi">Slúchadlá</string>
   <string name="action_item_multiple">Upraviť</string>
   <string name="action_item_play_all">Prehrať všetko</string>
   <string name="action_item_remove">Odstrániť</string>
@@ -269,7 +269,7 @@
   <string name="modify_lyric">Upraviť Text</string>
   <string name="modify_progress">Upraviť posun Textu</string>
   <string name="modify_progress_helper">Posuňte nahor alebo nadol pre nastavenie posunu Textu</string>
-  <string name="modify_song_info">Upraviť informácie o skladbe</string>
+  <string name="modify_song_info">Upraviť</string>
   <string name="monthly_price">MiKredity</string>
   <string name="more">Viac</string>
   <string name="more_about_artist">Viac o %s</string>
@@ -410,7 +410,7 @@
   <string name="service_and_settings">Služby a nastavenia</string>
   <string name="service_stop">Služba bola ukončená</string>
   <string name="set_album_successful">Album uložený</string>
-  <string name="set_as_ring">Nastaviť ako zvonenie</string>
+  <string name="set_as_ring">Zvonenie</string>
   <string name="set_id3_failed">Nastavenie skladby zlyhalo</string>
   <string name="set_id3_not_have_read_or_write_permission">Nemáte povolenie upraviť tento súbor</string>
   <string name="set_id3_not_support_format">Tento formát súboru nie je možné upraviť</string>
@@ -518,4 +518,6 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
+  <string name="editmode_menu_share">Zdieľať</string>
+  <string name="more_add_song_list">Pridať</string>
 </resources>
