@@ -391,7 +391,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="editContactNameExpandOpenDescription">Rozbaliť meno</string>
   <string name="editGroupDescription">Upraviť skupinu</string>
   <string name="edit_contact">Upraviť kontakt</string>
-  <string name="edit_contact_card_title">Upraviť kontakt</string>
+  <string name="edit_contact_card_title">Vyberte položky na zdieľanie</string>
   <string name="edit_contact_photo">Upraviť obrázok kontaktu</string>
   <string name="email">E-mail</string>
   <string name="emailLabelsGroup">E-mail</string>

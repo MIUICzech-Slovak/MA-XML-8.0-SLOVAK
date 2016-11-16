@@ -422,4 +422,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
   <string name="passport_barcode_add_account_prompt">Pre pripojenie účtu načítajte QR kód znova po prihlásení.</string>
+  <string name="oauth_get_scopes_failed">Nebolo možné získať info o účte</string>
+  <string name="oauth_getting_scopes">Overenie účtu...</string>
+  <string name="oauth_scopes_intro">%2$s získa tieto povolenia: %3$s</string>
+  <string name="oauth_title">Prihláste sa s Mi účtom</string>  
 </resources>
