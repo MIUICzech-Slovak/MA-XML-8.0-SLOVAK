@@ -433,7 +433,7 @@
   <string name="settings_search_title_download_when_favorite"/>
   <string name="settings_search_title_notification"/>
   <string name="settings_search_title_vip_service"/>
-  <string name="share_append_text">Od @小米音乐</string>
+  <string name="share_append_text">Od @MIUI</string>
   <string name="share_chooser_title">Zdieľať</string>
   <string name="share_description">Z MiMusic</string>
   <string name="share_end_note">Z MiMusic</string>
@@ -519,5 +519,5 @@
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
   <string name="editmode_menu_share">Zdieľať</string>
-  <string name="more_add_song_list">Pridať</string>
+  <string name="more_share">Zdieľať</string>
 </resources>
