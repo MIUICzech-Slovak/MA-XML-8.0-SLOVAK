@@ -497,7 +497,7 @@ For more info check the message you received from your service provider"</string
   <string name="empty_app">Žiadne aplikácie</string>
   <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
   <string name="empty_title_garbage_cache">Prázdne</string>
-  <string name="empty_title_garbage_virus_white_list">Uchovať výsledky v zozname pre ich preskočenie pri budúcej kontrole</string>
+  <string name="empty_title_garbage_virus_white_list">Podržte prst na položke pre jej preskočenie pri budúcej kontrole</string>
   <string name="empty_title_garbage_white_list">Prázdne</string>
   <string name="empty_title_installed_apps">Prázdne</string>
   <string name="empty_title_manual_item_white_list">Žiadne výnimky.</string>
@@ -713,7 +713,7 @@ For more info check the message you received from your service provider"</string
   <string name="lockscreen_glogin_checking_password">Kontrola...</string>
   <string name="lockscreen_glogin_password_hint">Heslo</string>
   <string name="lockscreen_glogin_submit_button">Prihlásiť</string>
-  <string name="long_click_dialog_summary">Uchovať výsledky v zozname pre ich pridanie do Výnimiek</string>
+  <string name="long_click_dialog_summary">Podržte prst na položke pre pridanie do Výnimiek</string>
   <string name="long_click_dialog_title">Upozornenie</string>
   <string name="main_activity_content_summary_root">Práva ROOT</string>
   <string name="main_activity_content_summary_update">Aktualizácia systému</string>

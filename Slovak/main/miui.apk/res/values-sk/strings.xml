@@ -215,7 +215,7 @@
   <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
   <string name="phone">Telefón</string>
   <string name="pm">PM</string>
-  <string name="privacy_policy">Ochranou súkromia</string>
+  <string name="privacy_policy">Ochrana súkromia</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -317,7 +317,7 @@
   <string name="tuesday">Utorok</string>
   <string name="tuesday_short">Uto</string>
   <string name="tuesday_shortest">U</string>
-  <string name="user_agreement">Podmienkami používania</string>
+  <string name="user_agreement">Podmienky používania</string>
   <string name="user_manual">Návod</string>
   <string name="web_sso_login_fail">Musíte sa znova prihlásiť</string>
   <string name="web_sso_login_message">Prihlasovanie...</string>

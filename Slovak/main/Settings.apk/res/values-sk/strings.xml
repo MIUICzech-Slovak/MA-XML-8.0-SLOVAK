@@ -2119,7 +2119,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="menu_restore">Obnoviť predvolené</string>
   <string name="menu_save">Uložiť</string>
   <string name="menu_show_percentage">Zobraziť percentá</string>
-  <string name="menu_show_system">Zobraziť systém</string>
+  <string name="menu_show_system">Zobraziť systémové</string>
   <string name="menu_stats_last_unplugged">%1$s od posledného odpojenia</string>
   <string name="menu_stats_refresh">Obnoviť</string>
   <string name="menu_stats_total">Využitie batérie celkom</string>
