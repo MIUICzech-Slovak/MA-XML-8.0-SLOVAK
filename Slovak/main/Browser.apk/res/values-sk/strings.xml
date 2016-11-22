@@ -818,4 +818,9 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="low_memory_toast">Nie je možné použiť Prehliadač z dôvodu málo voľnej RAM</string>
+  <string name="actionbar_textselection_title">Výber textu</string>
+  <string name="autofill_keyboard_accessory_content_description">Dostupné návrhy</string>
+  <string name="permission_alert_window">Pre použitie tejto funkcie povoľte vyskakovacie okná.</string>
+  <string name="permission_unknown">Neznáme nastavenie</string>
+  <string name="updating_chrome">Aktualizácia Chrome...</string>
 </resources>
