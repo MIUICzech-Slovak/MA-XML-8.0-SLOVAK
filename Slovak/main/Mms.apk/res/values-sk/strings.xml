@@ -652,4 +652,15 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
   <string name="from_pkg_name">"Z aplikácie: "</string>
+  <string name="hybrid_check_network">Nasatvenie siete</string>
+  <string name="hybrid_data_error">Nastala chyba</string>
+  <string name="hybrid_locating_fail">Nebolo možné nájsť vašu polohu</string>
+  <string name="hybrid_network_access_denied">Prístup k sieti zamietnutý</string>
+  <string name="hybrid_network_unavaliable">Nebolo možné pripojiť sa k sieti</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Potiahnite pre obnovenie...</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Načítavanie...</string>
+  <string name="hybrid_pull_to_refresh_release_label">Pustite pre obnovenie...</string>
+  <string name="hybrid_service_unavailiable">Služba nie je dostupná</string>
+  <string name="hybrid_try_again">Skúsiť znova</string>
+  <string name="pref_msg_trash_bin_title">Nedávno vymazané správy</string> 
 </resources>

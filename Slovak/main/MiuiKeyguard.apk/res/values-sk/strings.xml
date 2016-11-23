@@ -72,4 +72,6 @@
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="fingerprint_add_text">Rozpoznávanie odtlačku prsta bolo aktualizované. Pridajte svoj odtlačok prsta znova.</string>
+  <string name="fingerprint_add_title">Pridať odlačok</string>  
 </resources>
