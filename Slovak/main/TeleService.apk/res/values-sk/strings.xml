@@ -1262,4 +1262,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="setting">Nastavenia</string>
   <string name="undefined_setting">Žiadne</string>
   <string name="verify_failed">Chyba overenia</string>
+  <string name="autoip_phone">Auto. IP vytáčanie</string>
 </resources>

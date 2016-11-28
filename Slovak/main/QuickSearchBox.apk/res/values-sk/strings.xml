@@ -99,4 +99,25 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
+  <string name="recent_apps_filter">Skryte aplikácie ktoré nepoužívate</string>
+  <string name="recent_close_content">"Vypnúť túto funkciu teraz?
+ Môžete to zmeniť v Nastavenia - Nainštalované aplikácie - Vyhľadávanie"</string>
+  <string name="recent_close_title">Vypnúť funkciu</string>
+  <string name="recent_delete_content">"Skryť tieto apl. teraz?
+ Môžete to zmeniť v Nastavenia - Nainštalované aplikácie - Vyhľadávanie"</string>
+  <string name="recent_delete_negative">Zrušiť</string>
+  <string name="recent_delete_positive">OK</string>
+  <string name="recent_delete_title">Skryť aplikácie</string>
+  <string name="recent_edit">Upraviť</string>
+  <string name="recent_edit_done">Dokončiť</string>
+  <string name="recent_filter_functions">Vypnuté funkcie</string>
+  <string name="recent_function">Funkcie</string>  
+  <string name="search_button">Vyhľadávanie</string>
+  <string name="update_check">Skontrolovať aktualizácie</string>
+  <string name="update_right_now">Aktualizácia</string>
+  <string name="update_title">Dostupná aktualizácia</string>
+  <string name="update_version_alpha">Alpha</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Stable</string>
+  <string name="updated_title">MIUI je aktualizované</string>
 </resources>

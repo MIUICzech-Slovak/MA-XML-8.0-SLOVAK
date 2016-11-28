@@ -226,4 +226,8 @@
         <item quantity="other">%d položiek</item>
         <item quantity="one">1 položka</item>
     </plurals>
+    <plurals name="quick_optimize_suggest_issue_found">
+        <item quantity="other">Nájdených %d problémov s batériou</item>
+        <item quantity="one">Nájdený %d problém s batériou</item>
+    </plurals>	
 </resources>

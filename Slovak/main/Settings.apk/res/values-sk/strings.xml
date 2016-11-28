@@ -4792,4 +4792,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="turn_off_keyguard_password_confirm_msg">Naozaj chcete deaktivovať heslo zamykania?</string>
   <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg">Nebude možné používať odtlačok prsta po zrušení hesla</string>
   <string name="turn_on_keyguard_password">Povoliť heslo zamykacej obrazovky</string>
+  <string name="reset_second_space_passwd">Obnoviť heslo pre Druhý profil</string>
+  <string name="reset_second_space_passwd_cancel">Zrušiť</string>
+  <string name="reset_second_space_passwd_confirm">Pokračovať</string>
+  <string name="reset_second_space_passwd_detail">Zadajte heslo Mi úťtu použité pre Prvý profil</string>
+  <string name="resetting_second_space_passwd">Obnova hesla Druhého profilu</string>
 </resources>

@@ -213,4 +213,6 @@
   <string name="title_same_question_feedback_main">Podobné chyby na MIUI fóre</string>
   <string name="toast_module_required">Vyberte položku</string>
   <string name="toast_problem_class_required">Vyberte kategóriu</string>
+  <string name="feedback_submit_hint">Nahláste chyby vždy keď máte problém pre ich čo najrýchlejšiu opravu.</string>
+  <string name="toast_post_deleted">Táto téma neexistuje alebo bola vymazaná.</string>
 </resources>

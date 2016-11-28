@@ -188,4 +188,9 @@
   <string name="tax_last_salary_number">Zárobky</string>
   <string name="tax_city_error">Zadajte vaše mesto</string>
   <string name="tax_annual_bonus_number">Bonus</string>
+  <string name="preference_about_calculator">O kalkulačke</string>
+  <string name="preference_check_update_title">Skontrolovať aktualizácie</string>
+  <string name="preference_settings">Nastavenia</string>
+  <string name="preference_use_degress_summary">Nahradiť radiány s uhlami v goniometrických funkciách</string>
+  <string name="preference_use_degress_title">Použitie uhlov</string>
 </resources>
