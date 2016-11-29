@@ -289,4 +289,12 @@
         <item quantity="other">%1$d videí</item>
         <item quantity="one">1 video</item>
     </plurals>
+    <plurals name="face_count">
+        <item quantity="other">Celkom %d fotografií</item>
+        <item quantity="one">Celkom %d fotografia</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">Celkom %d fotografií</item>
+        <item quantity="one">Celkom %d fotografia</item>
+    </plurals>	
 </resources>
