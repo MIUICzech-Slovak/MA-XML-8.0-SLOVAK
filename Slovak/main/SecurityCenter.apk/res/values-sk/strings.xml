@@ -1748,4 +1748,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="btn_text_optimize_extend_battery_time">Pridať %s</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Batéria sa neprimerane rýchlo vybíja</string>
   <string name="quick_optimize_suggest_battery_over_heat">Zariadenie sa prehrieva</string>
+  <string name="antivirus_choose_engine_update_disable_toast">Nie je možné zmeniť vírusovú databázu počas kontroly</string>
+  <string name="msg_update_error_code_success">Hotovo</string>
+  <string name="msg_update_up">Skryť</string>
+  <string name="pref_title_manual_check_virus_db_update">Skontrolovať aktualizácie</string>
+  <string name="virus_already_update">Definície vírusov sú aktuálne</string>
+  <string name="virus_dp_update_title">Aktualizácia definície vírusov</string>
+  <string name="virus_update_fail">Nebolo možné aktualizovať</string>
+  <string name="virus_update_success">Aktualizované</string>
+  <string name="virus_update_tips_title">Pripojte sa k Wi-Fi</string>
+  <string name="virus_wait_network_dialog_message">Pripojte sa k Wi-Fi pre stiahnutie databázy</string>
 </resources>

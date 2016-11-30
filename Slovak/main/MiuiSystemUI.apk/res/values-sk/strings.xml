@@ -353,4 +353,5 @@ posunutím nadol uzamknete"</string>
   <string name="wifi_remembered">Uložené</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_security_passpoint">Passpoint</string>
+  <string name="long_screenshot_top_msg_manual">Orežte screenshot a stlačte tlačidlo pre dokončenie</string>
 </resources>

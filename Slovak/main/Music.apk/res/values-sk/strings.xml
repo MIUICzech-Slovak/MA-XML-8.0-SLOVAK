@@ -521,4 +521,5 @@
   <string name="editmode_menu_share">Zdieľať</string>
   <string name="more_share">Zdieľať</string>
   <string name="more_add_song_list">Pridať</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Vymazať z playlistu?</string>
 </resources>

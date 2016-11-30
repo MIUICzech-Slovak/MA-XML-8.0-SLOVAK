@@ -1354,7 +1354,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="enable_service_password_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoje heslo.</string>
   <string name="enable_service_pattern_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj vzor.</string>
   <string name="enable_service_pin_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj kód PIN.</string>
-  <string name="enable_service_title">Služba vykoná tieto akcie:</string>
+  <string name="enable_service_title">Použiť %1$s?</string>
   <string name="enable_snapshot_screenlock">Rýchla fotografia tl. Späť</string>
   <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
   <string name="enable_terminal_title">Miestny terminál</string>
@@ -4797,4 +4797,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="reset_second_space_passwd_confirm">Pokračovať</string>
   <string name="reset_second_space_passwd_detail">Zadajte heslo Mi úťtu použité pre Prvý profil</string>
   <string name="resetting_second_space_passwd">Obnova hesla Druhého profilu</string>
+  <string name="miui_enable_service_title">Služba vykoná tieto akcie:</string>
+  <string name="privacy_password_bind_account">Pridať Mi účet</string>
+  <string name="privacy_password_bind_account_immediate">Pridať</string>
+  <string name="privacy_password_enter_privacy">Zadajte heslo ochrany súkromia</string>
+  <string name="privacy_password_never_remind">Viac sa nepýtať</string>
+  <string name="privacy_password_remind_bind_notlogin_account">Pridajte váš Mi účet pre možnosť obnovy vášho hesla ak ho zabudnete.</string>
+  <string name="privacy_password_remind_bindaccont_message">Pridajte váš Mi účet (%s) pre možnosť obnovy vášho hesla ak ho zabudnete.</string>
+  <string name="privacy_password_remind_bindaccount_title">Pridať Mi účet</string>
 </resources>
