@@ -4775,7 +4775,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="launcher_title">Launcher</string>
   <string name="lock_screen_cells_title">Uzamknúť bunky</string>
   <string name="lock_screen_signature_summary">Podpis bude zobrazený na zamknutej obrazovke</string>
-  <string name="lock_screen_signature_title">Podpis na zamknute obrazovke</string>
+  <string name="lock_screen_signature_title">Podpis na zamknutej obrazovke</string>
   <string name="manage_fingerprint_text">Správa odtlačkov</string>
   <string name="master_clear_apply_step_1">Obnovenie do továrnych nastavení vymaže všetky vaše dáta vrátane fotografií, hudby, poznámok. Uistite sa, že máte zálohované všetky vaše dôležité dáta.</string>
   <string name="master_clear_apply_step_2">Uistite sa, že máte zálohované všetky vaše dôležité dáta. Všetky dáta budú vymazané z tohto zariadenia.</string>

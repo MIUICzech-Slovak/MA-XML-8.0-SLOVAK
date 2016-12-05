@@ -207,7 +207,7 @@
   <string name="default_album_name">Nový album</string>
   <string name="delete">Vymazať</string>
   <string name="delete_album_failed">Zmazanie albumu neúspešné.</string>
-  <string name="delete_album_msg_format">Zmazať \"%2$s\" album %1$s%3$s?</string>
+  <string name="delete_album_msg_format">Vymazať \"%2$s\" album %1$s %3$s?</string>
   <string name="delete_album_success">Album zmazaný.</string>
   <string name="delete_finish_format">%d zmazané</string>
   <string name="delete_from_album">z \"%s\" albumu a MiCloud</string>
@@ -627,10 +627,10 @@
   <string name="set_as_baby_lock_wallpaper">Nastaviť ako tapetu zamykacej obrazovky</string>
   <string name="set_as_wallpaper_description">Tento obrázok je len náhľad, chcete stiahnuť fotografiu v plnom rozlíšení?</string>
   <string name="set_as_wallpaper_title">Nastaviť ako tapetu</string>
-  <string name="set_face_group_toast_msg_new_user">Dlho podržte náhľad. ľudia môžu byť spojení alebo ignorovaní.</string>
-  <string name="set_face_group_toast_msg_old_user">Dlho podržte náhľad. ľudia môžu byť rozdelení na rodinu, priateľov, spolužiakov, atď.</string>
+  <string name="set_face_group_toast_msg_new_user">Dlho podržte náhľad. Ľudia môžu byť spojení alebo ignorovaní.</string>
+  <string name="set_face_group_toast_msg_old_user">Dlho podržte náhľad. Ľudia môžu byť rozdelení na rodinu, priateľov, spolužiakov, atď.</string>
   <string name="set_face_group_toast_title_new_user">Doporučené</string>
-  <string name="set_face_group_toast_title_old_user">Ľudia môžu byť nastavený do skupín</string>
+  <string name="set_face_group_toast_title_old_user">Ľudia môžu byť nastavení do skupín</string>
   <string name="set_face_image">Nastaviť novú osobu</string>
   <string name="set_group">Nastaviť skupinu</string>
   <string name="shadow">Tiene</string>
@@ -799,4 +799,5 @@
   <string name="face_recommend">Odporúčania</string>
   <string name="more_face">Viac ľudí ktorí vyzerajú ako</string>
   <string name="remind_face_recommend_confirm">Potvrdiť</string>
+  <string name="empty_recommend_back">Späť</string>
 </resources>
