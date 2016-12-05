@@ -214,7 +214,6 @@ Môžete nastaviť novú zámku obrazovky pre svoje zariadenie aj pracovný prof
      <string name="lockpattern_settings_require_pattern_before_startup_summary">Na spustenie zariadenia sa bude vyžadovať bezpečnostný vzor. Keď je zariadenie vypnuté, nemôže prijímať hovory, správy, upozornenia ani používať budíky</string>
      <string name="lockpattern_settings_require_pin_before_startup_summary">Na spustenie zariadenia sa bude vyžadovať kód PIN. Keď je zariadenie vypnuté, nemôže prijímať hovory, správy, upozornenia ani používať budíky</string>
      <string name="lockscreen_remote_input">V prípade uzamknutia zariadenia nebudete môcť v upozorneniach písať odpovede ani iný text</string>
-     <string name="managed_profile_location_switch_title">Poloha pre pracovný profil</string>
      <string name="manual">Príručka</string>
      <string name="memory_summary">Využíva sa v priemere %1$s z celkovej pamäte %2$s</string>
      <string name="move_error_device_admin">Správcu zariadenia nie je možné nainštalovať na externé médiá.</string>
