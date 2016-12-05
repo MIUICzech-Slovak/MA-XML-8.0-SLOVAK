@@ -349,7 +349,6 @@ Môžete nastaviť novú zámku obrazovky pre svoje zariadenie aj pracovný prof
      <string name="special_access">Špeciálny prístup</string>
      <string name="spell_checker_not_selected">Nie je vybraté</string>
      <string name="status_bar_notification_info_overflow">999+</string>
-     <string name="storage_size_large">^1&lt;small&gt;&lt;small&gt; ^2&lt;/small&gt;&lt;/small&gt;</string>
      <string name="storage_summary">Využité miesto: %1$s z %2$s</string>
      <string name="suggested_fingerprint_lock_settings_summary">Odomykanie pomocou odtlačku prsta</string>
      <string name="suggested_lock_settings_summary">Chráňte svoje zariadenie</string>
@@ -551,19 +550,6 @@ Môžete nastaviť novú zámku obrazovky pre svoje zariadenie aj pracovný prof
      <string name="storage_menu_cleanup">Vyčistiť úložisko</string>
      <string name="tether_settings_disabled_on_data_saver">Keď je Šetrič dát zapnutý, nie je možné zdieľať internetové pripojenie ani používať prenosné hotspoty</string>
      <string name="tether_settings_launch_title">Mobilný Hot-Spot</string>
-     <string name="tethering_help_dialog_text">"&lt;b&gt;USB tethering&lt;/b&gt;" 
- You can tether your Android device to your computer with a USB cable, to share your device's Internet connection with your computer. 
-
-1.USB tethering works with Windows Vista, Windows 7, Windows 8, Windows 8.1 and Linux. 
-
-2.If your device has an SD card or USB storage, you can't mount it on your computer when USB tethered. 
-
- "&lt;b&gt;Portable WLAN hotspot &lt;/b&gt;"
- You can turn your Android device into a portable WLAN hotspot, to share your Android device's Internet connection with one or more computers or other devices. 
-
-1.When your device is serving as a WLAN hotspot, you can't use your device's applications to access the Internet via its WLAN connection (but of course you remain connected to the Internet via your mobile data network). 
-
-2.You configure the hotspot with the WLAN hotspot settings.""</string>
      <string name="tethering_help_dialog_title">Pomoc</string>
      <string name="tethering_no_sim_alert_title">Žiadna SIM karta</string>
      <string name="tethering_no_sim_card_text">Please install SIM card in order to share your data connection with other devices using Mobile HotSpot or USB tethering for Internet access.</string>
