@@ -216,4 +216,118 @@
         <item>Zobraziť oblasti prekreslení</item>
         <item>Zobraziť oblasti pre deuteranomáliu</item>
     </string-array>
+     <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4 alebo IPv6</item>
+     </string-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>Predvolené</item>
+        <item>Žiadne</item>
+        <item>Obrys</item>
+        <item>Tieň</item>
+        <item>Reliéf</item>
+        <item>Rytina</item>
+     </string-array>
+     <string-array name="captioning_opacity_selector_titles">
+        <item>25 %</item>
+        <item>50 %</item>
+        <item>75 %</item>
+        <item>100 %</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>Predvolené</item>
+        <item>Bezpätkové</item>
+        <item>Bezpätkové zhustené</item>
+        <item>Bezpätkové neproporcionálne</item>
+        <item>Pätkové</item>
+        <item>Pätkové neproporcionálne</item>
+        <item>Štandardné</item>
+        <item>Kurzíva</item>
+        <item>Kapitálky</item>
+     </string-array>
+     <string-array name="color_mode_descriptions">
+        <item>Vylepšené farby</item>
+        <item>Prirodzené farby, ako ich vidí ľudské oko</item>
+        <item>Farby optimalizované pre digitálny obsah</item>
+     </string-array>
+     <string-array name="color_mode_names">
+        <item>Sýty (predvolený)</item>
+        <item>Prirodzený</item>
+        <item>Štandardný</item>
+     </string-array>
+     <string-array name="color_picker">
+        <item>Modrozelená</item>
+        <item>Modrá</item>
+        <item>Indigo</item>
+        <item>Purpurová</item>
+        <item>Ružová</item>
+        <item>Červená</item>
+     </string-array>
+     <string-array name="data_usage_data_range">
+        <item>Posledných 30 dní</item>
+        <item>Nastaviť cyklus využitia</item>
+     </string-array>
+     <string-array name="entries_font_size">
+        <item>Malé</item>
+        <item>Predvolené</item>
+        <item>Veľké</item>
+        <item>Najväčšie</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Normálny</item>
+        <item>Stredný</item>
+        <item>Nízky</item>
+        <item>Kritický</item>
+     </string-array>
+     <string-array name="proc_stats_process_states">
+        <item>Pretrvávajúci</item>
+        <item>Najčastejšia aktivita</item>
+        <item>Dôležitý (v popredí)</item>
+        <item>Dôležitý (v pozadí)</item>
+        <item>Záloha</item>
+        <item>Vysoké vyťaženie</item>
+        <item>Služba (spustená)</item>
+        <item>Služba (reštartuje sa)</item>
+        <item>Prijímač</item>
+        <item>Plocha</item>
+        <item>Posledná aktivita</item>
+        <item>Vo vyrovnávacej pamäti (aktivita)</item>
+        <item>Vo vyrovnávacej pamäti (klient aktivity)</item>
+        <item>Vo vyrovnávacej pamäti (prázdne)</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>Vypnuté</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+     </string-array>
+     <string-array name="select_logd_size_summaries">
+        <item>Vypnuté</item>
+        <item>64 kB na vyrov. pamäť denníka</item>
+        <item>256 kB na vyrov. pamäť denníka</item>
+        <item>1 MB na vyrov. pam. denníka</item>
+        <item>4 MB na vyrov. pamäť denníka</item>
+        <item>16 MB na vyrov. pamäť denníka</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>Vypnuté</item>
+        <item>64 kB</item>
+        <item>256 kB</item>
+        <item>1 MB</item>
+        <item>4 MB</item>
+        <item>16 MB</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>Nabíjanie</item>
+        <item>MTP (Media Transfer Protocol – protokol na prenos médií)</item>
+        <item>PTP (Picture Transfer Protocol – protokol na prenos obrázkov)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Zdroj zvuku</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_choices">
+        <item>Uprednostniť Wi-Fi</item>
+        <item>Uprednostniť mobilné pripojenie</item>
+     </string-array>
 </resources>
