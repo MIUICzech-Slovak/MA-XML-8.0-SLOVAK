@@ -164,26 +164,6 @@
         <item>Nízky</item>
         <item>Kritický</item>
     </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>Pretrvávajúci</item>
-        <item>Najčastejšia aktivita</item>
-        <item>Dôležitý (v popredí)</item>
-        <item>Dôležitý (v pozadí)</item>
-        <item>Záloha</item>
-        <item>Vysoké vyťaženie</item>
-        <item>Služba (spustená)</item>
-        <item>Služba (reštartuje sa)</item>
-        <item>Prijímač</item>
-        <item>Plocha</item>
-        <item>Posledná aktivita</item>
-        <item>Vo vyrovnávacej pamäti (aktivita)</item>
-        <item>Vo vyrovnávacej pamäti (klient aktivity)</item>
-        <item>Vo vyrovnávacej pamäti (prázdne)</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Posledných 30 dní</item>
-        <item>Nastaviť cyklus využitia</item>
-    </string-array>
     <string-array name="entries_zen_mode">
         <item>Vypnuté</item>
         <item>Obmedzený počet vyrušení</item>
@@ -220,14 +200,6 @@
         <item>IPv4</item>
         <item>IPv6</item>
         <item>IPv4 alebo IPv6</item>
-     </string-array>
-     <string-array name="captioning_edge_type_selector_titles">
-        <item>Predvolené</item>
-        <item>Žiadne</item>
-        <item>Obrys</item>
-        <item>Tieň</item>
-        <item>Reliéf</item>
-        <item>Rytina</item>
      </string-array>
      <string-array name="captioning_opacity_selector_titles">
         <item>25 %</item>
@@ -274,12 +246,6 @@
         <item>Veľké</item>
         <item>Najväčšie</item>
      </string-array>
-     <string-array name="proc_stats_memory_states">
-        <item>Normálny</item>
-        <item>Stredný</item>
-        <item>Nízky</item>
-        <item>Kritický</item>
-     </string-array>
      <string-array name="proc_stats_process_states">
         <item>Pretrvávajúci</item>
         <item>Najčastejšia aktivita</item>
@@ -301,14 +267,6 @@
         <item>64 kB</item>
         <item>256 kB</item>
         <item>1 MB</item>
-     </string-array>
-     <string-array name="select_logd_size_summaries">
-        <item>Vypnuté</item>
-        <item>64 kB na vyrov. pamäť denníka</item>
-        <item>256 kB na vyrov. pamäť denníka</item>
-        <item>1 MB na vyrov. pam. denníka</item>
-        <item>4 MB na vyrov. pamäť denníka</item>
-        <item>16 MB na vyrov. pamäť denníka</item>
      </string-array>
      <string-array name="select_logd_size_titles">
         <item>Vypnuté</item>
