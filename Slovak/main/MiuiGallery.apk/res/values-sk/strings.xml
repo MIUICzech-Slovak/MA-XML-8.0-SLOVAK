@@ -800,4 +800,10 @@
   <string name="more_face">Viac ľudí ktorí vyzerajú ako</string>
   <string name="remind_face_recommend_confirm">Potvrdiť</string>
   <string name="empty_recommend_back">Späť</string>
+  <string name="operation_remove_face">Odstrániť</string>
+  <string name="remove_from_album_message">Táto fotografia tu viac nebude zobrazená</string>
+  <string name="remove_from_album_title">Odstrániť z tohto albumu</string>
+  <string name="remove_from_current_album">Odstrániť z tohto albumu</string>
+  <string name="remove_to_album_title">Spojiť s</string>
+  <string name="remove_to_other_album">Spojiť s inou osobou</string>
 </resources>

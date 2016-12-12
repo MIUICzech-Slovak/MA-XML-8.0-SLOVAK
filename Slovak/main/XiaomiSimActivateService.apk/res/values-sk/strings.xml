@@ -112,4 +112,8 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="activate_history_canceled_overview">Aktivácia SIM karty bola zrušená. Aktivácia je spustená \"%1$s\".</string>
+  <string name="activate_history_multisim_canceled_overview">Aktivácia SIM karty %2$d bola zrušená. Aktivácia je spustená \"%1$s\".</string>
+  <string name="activate_history_multisim_success_overview">Aktivácia SIM karty %2$d úspešná. Aktivácia je spustená \"%1$s\".</string>
+  <string name="activate_history_success_overview">Aktivácia SIM karty úspešná. Aktivácia je spustená \"%1$s\".</string>
 </resources>
