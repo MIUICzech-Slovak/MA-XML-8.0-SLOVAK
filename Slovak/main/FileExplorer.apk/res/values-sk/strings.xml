@@ -680,4 +680,5 @@ Získali ste ďalších %1$s"</string>
   <string name="create_shortcut_success">Odkaz pridaný</string>
   <string name="setting_shortcut">Pridať odkaz na plochu</string>
   <string name="shortcut_exists">Odkaz už existuje</string>
+  <string name="rename_alert2">Súbor bude ukrytý.</string>
 </resources>

@@ -354,4 +354,9 @@ posunutím nadol uzamknete"</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_security_passpoint">Passpoint</string>
   <string name="long_screenshot_top_msg_manual">Orežte screenshot a stlačte tlačidlo pre dokončenie</string>
+  <string name="divider_menu_close">Zatvoriť</string>
+  <string name="divider_menu_select_apps">Vybrať</string>
+  <string name="divider_menu_swap_task">Zameniť</string>
+  <string name="no_multi_window_app">Žiadna aplikácie s podporou Multi-Window</string>
+  <string name="not_support_multi_window">Súčasná aplikácia nepodporuje Multi-Window</string>
 </resources>

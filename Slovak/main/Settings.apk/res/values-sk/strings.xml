@@ -4816,4 +4816,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="block_list_summary">Zobraziť zariadenia ktoré nemajú povolenie pripojiť sa k vášmu hotspotu</string>
   <string name="block_list_title">Čierna listina</string>
   <string name="tether_devices_max_number">Limit pripojených zariadení</string> 
+  <string name="block_list_mtk_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia</string>
+  <string name="block_list_qcom_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia a pridá ho na čiernu listinu</string>
 </resources>

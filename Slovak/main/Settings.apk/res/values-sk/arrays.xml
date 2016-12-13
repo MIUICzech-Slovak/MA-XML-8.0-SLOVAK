@@ -877,7 +877,8 @@ Postupujte podľa pokynov"</item>
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>Žiadne</item>
-        <item>Rýchla fotografia (vyberte režim vo fotoaparáte)</item>
+        <item>Rýchla zhotovenie fotografie</item>
+        <item>Rýchle zhotovenie videa</item>
         <item>Mestská doprava</item>
     </string-array>	
     <string-array name="anr_record_interval_entries">
