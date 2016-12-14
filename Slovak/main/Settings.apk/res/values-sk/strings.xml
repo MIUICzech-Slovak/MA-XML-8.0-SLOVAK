@@ -4819,4 +4819,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="block_list_mtk_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia</string>
   <string name="block_list_qcom_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia a pridá ho na čiernu listinu</string>
   <string name="status_bar_settings_app_notification_preferences">Nastavenie aplikácie</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">Zrušiť</string>
+  <string name="open_personal_assistant_dialog_btn_confirm">Zatvoriť</string>
+  <string name="open_personal_assistant_dialog_desc">Nebude možné používať Asistenta. Chcete ho vypnúť?</string>
+  <string name="open_personal_assistant_dialog_title">Deaktivovať Asistenta</string>
+  <string name="open_personal_assistant_title">Aktivovať Asistenta</string>
 </resources>
