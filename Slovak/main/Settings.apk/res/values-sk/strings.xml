@@ -4818,4 +4818,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="tether_devices_max_number">Limit pripojených zariadení</string> 
   <string name="block_list_mtk_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia</string>
   <string name="block_list_qcom_dialog_content">Táto akcia odpojí “%s” od tohto zariadenia a pridá ho na čiernu listinu</string>
+  <string name="status_bar_settings_app_notification_preferences">Nastavenie aplikácie</string>
 </resources>

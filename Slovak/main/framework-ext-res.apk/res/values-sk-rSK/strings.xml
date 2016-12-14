@@ -137,4 +137,6 @@
   <string name="package_delete_confirm_step_3">Po vymazaní nebudete môcť túto aplikáciu znova otvoriť.</string>
   <string name="translation_more">Viac</string>
   <string name="configure_input_methods">Vybrať klávesnicu</string>
+  <string name="status_bar_toggle_battery_saver">Šetrenie batérie</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
 </resources>
