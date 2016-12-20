@@ -612,7 +612,7 @@ For more info check the message you received from your service provider"</string
   <string name="hints_scan_result_risk">Má riziká</string>
   <string name="hints_scan_result_safe">OK</string>
   <string name="hints_scan_result_virus">Má vírus</string>
-  <string name="hints_scanning">Konstrola...</string>
+  <string name="hints_scanning">Kontrola...</string>
   <string name="hints_scanning_text">Kontrola...</string>
   <string name="hints_scanning_virus_by_cloud">Kontrola cloudu...</string>
   <string name="hints_unknown_virus_name">Neznámy</string>
