@@ -271,4 +271,10 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="download_status_continue">Obnoviť</string>
   <string name="download_status_fail">Znova</string>
   <string name="download_status_paused">Pauza</string>  
+  <string name="info_flow_only_load_wifi">Načítať odporúčané len cez Wi-Fi</string>
+  <string name="info_flow_setting">Nastavenie obsahu</string>
+  <string name="info_flow_show">Zobraziť odporúčaný obsah</string>
+  <string name="dialog_title_recommend">deaktivovať odporúčaný obsah</string>
+  <string name="dialog_msg_recommend">Nebude možné zobraziť odporúčané zdroje. Je to funkcia len pre Čínu a odporúča sa ju deaktivovať.</string>
+  <string name="dialog_btn_cancel">Zrušiť</string>
 </resources>
