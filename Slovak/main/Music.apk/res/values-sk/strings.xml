@@ -522,4 +522,6 @@
   <string name="more_share">Zdieľať</string>
   <string name="more_add_song_list">Pridať</string>
   <string name="nowplaying_dialog_title_delete_tracks">Vymazať playlist?</string>
+  <string name="force_touch_audio_picker">Rozpoznať</string>
+  <string name="force_touch_play_local_music_random">Prehrávanie</string>
 </resources>

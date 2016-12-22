@@ -77,7 +77,7 @@
 Zadajte vaše mesto manuálne"</string>
   <string name="location_management">Mestá</string>
   <string name="location_tag">Lokalizovať</string>
-  <string name="menu_add_city">Pridať alebo vymazať mesto</string>
+  <string name="menu_add_city">Upraviť mesto</string>
   <string name="menu_location">Mestá</string>
   <string name="more_details">Podrobnosti</string>
   <string name="network_not_available">Nebolo možné sa pripojiť k sieti</string>
