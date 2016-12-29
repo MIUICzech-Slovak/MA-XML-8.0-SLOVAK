@@ -1760,4 +1760,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_wait_network_dialog_message">Pripojte sa k Wi-Fi pre stiahnutie databázy</string>
   <string name="skin_change_close_btn_text">Nastaviť ako predvolené pozadie</string>
   <string name="skin_change_close_toast">Zmena bude aplikovaná pri ďalšom otvorení aplikácie Optimalizácia</string>  
+  <string name="try_recommended_function">Chráňte vaše zariadenie používaním nových bezpečnostných funkcií</string>
 </resources>

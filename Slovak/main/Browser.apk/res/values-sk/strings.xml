@@ -823,4 +823,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="permission_alert_window">Pre použitie tejto funkcie povoľte vyskakovacie okná.</string>
   <string name="permission_unknown">Neznáme nastavenie</string>
   <string name="updating_chrome">Aktualizácia Chrome...</string>
+  <string name="contextmenu_recognise_qr_code">Rozpoznať QR kód</string>
+  <string name="pref_paper_mode_title">Čítací režim</string>
+  <string name="comment_hint">Komentár</string>
 </resources>

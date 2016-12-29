@@ -665,4 +665,5 @@ Pokus: %s."</string>
   <string name="pref_msg_trash_bin_title">Nedávno vymazané správy</string> 
   <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="pref_title_about_smart_sms">About Smart messages partner</string>
+  <string name="mx_stranger_recommend_msg">Dotykom zablokujete Mi správy z neznámych čísel</string>
 </resources>

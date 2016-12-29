@@ -22,7 +22,6 @@
         <item>2 týždne</item>
     </string-array>
         <string-array name="miui_reminder_minutes_labels">
-        <item>Bez pripomenutia</item>
         <item>0 minút</item>
         <item>5 minút</item>
         <item>10 minút</item>
@@ -49,8 +48,18 @@
         <item>1 týždeň</item>
         <item>2 týždne</item>
     </string-array>
+    <string-array name="default_reminder_labels">
+        <item>At event time</item>
+        <item>5 minutes before</item>
+        <item>10 minutes before</item>
+        <item>15 minutes before</item>
+        <item>30 minutes before</item>
+        <item>1 hour before</item>
+        <item>1 day before</item>
+        <item>2 days before</item>
+        <item>1 week before</item>
+    </string-array>
     <integer-array name="reminder_minutes_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>
@@ -78,7 +87,6 @@
         <item>2 týždne</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
         <item>0</item>
         <item>5</item>
         <item>10</item>

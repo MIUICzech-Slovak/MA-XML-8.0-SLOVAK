@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">%d min</item>
-        <item quantity="one">1 min</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">%d min</item>
-        <item quantity="one">1 min</item>
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d hod.</item>
-        <item quantity="one">1 hodina</item>
+        <item quantity="other">pred %d hod.</item>
+        <item quantity="one">pred 1 hod.</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">%d dní</item>
-        <item quantity="one">1 deň</item>
+        <item quantity="other">pred %d dňami</item>
+        <item quantity="one">pred 1 dňom</item>
 	</plurals>
     <plurals name="weekN">
         <item quantity="other">%d. týždeň</item>
@@ -32,5 +31,17 @@
     <plurals name="N_remaining_events">
         <item quantity="other">+%d udalosti</item>
         <item quantity="one">+1 udalosť</item>
+    </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">Pred %1$d dňami o %2$s</item>
+        <item quantity="one">Pred %1$d dňom o %2$s</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">Po %1$d dňoch o %2$s</item>
+        <item quantity="one">Po %1$d dni o %2$s</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">pred %d týždňami</item>
+        <item quantity="one">pred 1 týždňom</item>
     </plurals>
 </resources>

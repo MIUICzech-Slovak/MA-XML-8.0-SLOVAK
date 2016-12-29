@@ -230,4 +230,8 @@
         <item quantity="other">Nájdených %d problémov s batériou</item>
         <item quantity="one">Nájdený %d problém s batériou</item>
     </plurals>	
+    <plurals name="virus_clean_num">
+        <item quantity="other">Všetko vyzerá byť v poriadku</item>
+        <item quantity="one">Všetko vyzerá byť v poriadku</item>
+    </plurals>
 </resources>

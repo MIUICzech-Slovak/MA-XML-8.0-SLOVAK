@@ -120,4 +120,7 @@
   <string name="update_version_dev">Beta</string>
   <string name="update_version_stable">Stable</string>
   <string name="updated_title">MIUI je aktualizované</string>
+  <string name="app_loaction">Ukázať na ploche</string>
+  <string name="local_app">Aplikácie</string>
+  <string name="local_setting">Nastavenia</string>
 </resources>
