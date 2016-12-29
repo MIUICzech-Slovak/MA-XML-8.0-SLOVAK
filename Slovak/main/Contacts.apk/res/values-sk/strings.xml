@@ -347,8 +347,6 @@ Karty kontaktu sú deaktivované"</string>
   <string name="device_paired_dialog_title">Zariadenie je spárované, získavanie kontaktov</string>
   <string name="device_pairing_dialog_message">Párovanie zariadení (môže sa vyžadovať potvrdenie na druhom zariadení)...</string>
   <string name="device_pairing_dialog_title">Párovanie zariadení</string>
-  <string name="device_version_header_bluetooth">Otvorte Bluetooth</string>
-  <string name="device_version_header_no_bluetooth">Importovať kontakty so SIM kartou</string>
   <string name="device_version_title">Zvoľte verziu telefónu</string>
   <string name="dial">Vytočiť</string>
   <string name="dialerDialpadHintText">Vytočte pre pridanie hovoru</string>
