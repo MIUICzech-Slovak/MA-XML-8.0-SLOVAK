@@ -428,6 +428,6 @@
   <string name="pref_reminder_time">Čas upozornenia</string>
   <string name="preferences_default_allday_reminder_title">Predvolená upozornenie na celý deň</string>
   <string name="setting_accounts">Účty kalendára</string>
-  <string name="setting_features_title">Nastavenie</string>
+  <string name="setting_features_title">Sviatky</string>
   <string name="setting_title_holiday_display">Zobraziť sviatky</string>
 </resources>

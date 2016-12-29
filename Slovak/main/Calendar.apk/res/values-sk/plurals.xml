@@ -2,20 +2,20 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
     <plurals name="Nminutes">
-        <item quantity="other">pred %d min</item>
-        <item quantity="one">pred 1 min</item>
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nmins">
-        <item quantity="other">pred %d min</item>
-        <item quantity="one">pred 1 min</item>
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">pred %d hod.</item>
-        <item quantity="one">pred 1 hod.</item>
+        <item quantity="other">%d hod.</item>
+        <item quantity="one">1 hod.</item>
     </plurals>
     <plurals name="Ndays">
-        <item quantity="other">pred %d dňami</item>
-        <item quantity="one">pred 1 dňom</item>
+        <item quantity="other">%d dni</item>
+        <item quantity="one">1 deň</item>
 	</plurals>
     <plurals name="weekN">
         <item quantity="other">%d. týždeň</item>
@@ -41,7 +41,7 @@
         <item quantity="one">Po %1$d dni o %2$s</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">pred %d týždňami</item>
-        <item quantity="one">pred 1 týždňom</item>
+        <item quantity="other">%d týždne</item>
+        <item quantity="one">1 týždeň</item>
     </plurals>
 </resources>
