@@ -414,4 +414,7 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
+  <string name="front_camera_hint_text_confirm">Rozumiem</string>
+  <string name="front_camera_hint_text_place">Otočte telefón aby kamera bola na hornej strane pre zhotovenie selfie</string>
+  <string name="front_camera_hint_text_rotate">Otočte telefón</string>
 </resources>
