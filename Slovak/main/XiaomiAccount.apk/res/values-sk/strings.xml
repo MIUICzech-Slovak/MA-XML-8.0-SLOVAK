@@ -144,6 +144,7 @@
   <string name="forward_to_bind">Pripojiť</string>
   <string name="get_device_list_failed">Nie je možné načítať zariadenia</string>
   <string name="get_phone_verifycode_exceed_limit">Bolo odoslaných príliš mnoho overovacích kódov. Čakajte 24 hodín a skúste to znova.</string>
+  <string name="guest_account_label">Účet Mi Hosťa</string>
   <string name="ignore">Teraz nie</string>
   <string name="input_email_address_notice">Táto adresa bude použitá pre overenie vášho účtu</string>
   <string name="io_error_title">Potvrďte vašu sieť</string>
@@ -179,6 +180,10 @@
   <string name="notify_network_restricted_content_hidden_state">Aktivita Mi účtu na pozadí je zakázaná.  Dotykom povolíte.</string>
   <string name="notify_network_restricted_content_mobile_network">Prístup Mi účtu k internetu je zakázaný.  Dotykom povolíte.</string>
   <string name="notify_network_restricted_title">Mi účet nemá povolenie na prístup k internetu</string>
+  <string name="oauth_get_scopes_failed">Nebolo možné získať info o účte</string>
+  <string name="oauth_getting_scopes">Overenie účtu...</string>
+  <string name="oauth_scopes_intro">%2$s získa tieto povolenia: %3$s</string>
+  <string name="oauth_title">Prihláste sa s Mi účtom</string>
   <string name="other_devices">Ostatné zariadenia</string>
   <string name="other_devices_title">Ostatné zariadenia</string>
   <string name="passport_access_denied">Prístup zamietnutý</string>
@@ -195,6 +200,7 @@
   <string name="passport_auto_generate_pwd">Vygenerujte bezpečné heslo</string>
   <string name="passport_back">Späť</string>
   <string name="passport_bad_authentication">Nesprávne meno alebo heslo</string>
+  <string name="passport_barcode_add_account_prompt">Pre pripojenie účtu načítajte QR kód znova po prihlásení.</string>
   <string name="passport_btn_return">Späť</string>
   <string name="passport_button_cancel">Zrušiť</string>
   <string name="passport_change_account">Zmeniť účet</string>
@@ -421,10 +427,4 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
-  <string name="passport_barcode_add_account_prompt">Pre pripojenie účtu načítajte QR kód znova po prihlásení.</string>
-  <string name="oauth_get_scopes_failed">Nebolo možné získať info o účte</string>
-  <string name="oauth_getting_scopes">Overenie účtu...</string>
-  <string name="oauth_scopes_intro">%2$s získa tieto povolenia: %3$s</string>
-  <string name="oauth_title">Prihláste sa s Mi účtom</string>  
-  <string name="guest_account_label">Účet Mi Hosťa</string>
 </resources>

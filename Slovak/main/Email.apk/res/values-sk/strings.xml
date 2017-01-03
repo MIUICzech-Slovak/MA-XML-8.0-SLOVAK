@@ -15,6 +15,10 @@
   <string name="account_set_up_change_type_note">Ak chcete zmeniť nastavenia účtu z POP3 a IMAP, musíte vymazať a znovu nastaviť svoj účet.</string>
   <string name="account_setting">Účty</string>
   <string name="account_setting_keywords">Účty;mail</string>
+  <string name="account_setting_message_body_load_complete">Celá správa</string>
+  <string name="account_setting_message_body_load_head_abstract">Popis správy</string>
+  <string name="account_setting_message_body_load_head_only">Len hlavička</string>
+  <string name="account_setting_message_body_load_text">Len telo správy</string>
   <string name="account_settings_action">Nastavenia účtu</string>
   <string name="account_settings_background_attachments_label">Preberať všetky prílohy</string>
   <string name="account_settings_background_attachments_summary">Automaticky preberať prílohy najnovších správ prostredníctvom siete Wi-Fi</string>
@@ -182,6 +186,7 @@
   <string name="attachment_not_exists">Príloha nie je dostupná!</string>
   <string name="attachment_open_SecurityException_hint">Nemáte oprávnenie na otvorenie tohto súboru alebo je poškodený súbor.</string>
   <string name="attachment_open_SecurityException_title">Otvorenie súboru zlyhalo</string>
+  <string name="attachment_size_exceed_limit">Veľkosť prekročila limit servera</string>
   <string name="attachment_stop_all">Zastaviť</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">Tento typ prílohy žiaľ nemôžete uložiť ani otvoriť.</string>
@@ -289,6 +294,9 @@
   <string name="conversation_item_mark_read">Prečítané</string>
   <string name="conversation_item_mark_unread">Neprečítané</string>
   <string name="conversation_photo_welcome_text">Dotykom na obrázok odosielateľa vyberiete danú konverzáciu.</string>
+  <string name="conversation_quick_button_approve">Súhlasím</string>
+  <string name="conversation_quick_button_disapprove">Nesúhlasím</string>
+  <string name="conversation_quick_button_received">Prijaté</string>
   <string name="conversation_view">Zobrazenie konverzácie</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
   <string name="copied">Skopírované</string>
@@ -379,6 +387,7 @@
   <string name="file_not_found_redownload">Súbor nenájdený, skúste to znova!</string>
   <string name="file_rar_not_support">Šifrované .rar súbory nie sú podporované!</string>
   <string name="filtered_tag">[%1$s]%2$s</string>
+  <string name="first_quick_default_reply">Dotknite sa tohto odkazu, potom \"%s\" bude odoslaná všetkým adresátom.</string>
   <string name="folder_list_display_all">Zobraziť všetky zložky</string>
   <string name="folder_list_display_only_import">Zobraziť len dôležité zložky</string>
   <string name="folder_picker_title">Výber priečinka</string>
@@ -494,6 +503,7 @@
   <string name="menu_att_mgr_order_size">Podľa veľkosti</string>
   <string name="menu_change_folders">Zmeniť priečinky</string>
   <string name="menu_compose">Napísať správu</string>
+  <string name="menu_contact_edit">Upraviť</string>
   <string name="menu_discovery">Discovery</string>
   <string name="menu_folder_options">Možnosti synchronizácie</string>
   <string name="menu_move_to">Presunúť do</string>
@@ -505,6 +515,7 @@
   <string name="menu_search">Hľadať</string>
   <string name="menu_settings">Nastavenia</string>
   <string name="merged_mailbox_compose_select_account">Zvoľte účet</string>
+  <string name="message_body_load_set_description">Veľkosť pre nové správy ak používate mobilné dáta</string>
   <string name="message_compose_insert_quick_response_list_title">Vložiť rýchlu odpoveď</string>
   <string name="message_decode_error">Pri dekódovaní správy sa vyskytla chyba.</string>
   <string name="message_details_title">Podrobnosti správy</string>
@@ -697,6 +708,7 @@
   <string name="refreshing">Aktualizácia...</string>
   <string name="refreshing_done">Synchronizácia dokončená</string>
   <string name="release_to_refresh">Pustite pre obnovenie</string>
+  <string name="remind_attachment_size_limit">Vaše správy by mali byť menšie ako %sMB</string>
   <string name="remote_search_result">Správ nájdených an serveri: %s</string>
   <string name="remove_account">Odobrať účet</string>
   <string name="remove_folder">Odstrániť z priečinka %1$s</string>
@@ -736,10 +748,12 @@
   <string name="selected_lable">Vybrané</string>
   <string name="send">Poslať</string>
   <string name="send_failed">Správa nebola odoslaná.</string>
+  <string name="send_mail">Odoslať</string>
   <string name="sender_whitelist_cleared">Obrázky sa nebudú zobrazovať automaticky.</string>
   <string name="senders_split_token">, </string>
   <string name="sending">Odosielanie...</string>
   <string name="sending_message">Prebieha odosielanie správy...</string>
+  <string name="sending_quick_reply">Odosielanie správy \"%s\"</string>
   <string name="sent_folder_selection_title">Prieč. odosl. polož. servera pre %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Overenie certifikátu zlyhalo
 \u0009 (Skontrolujte, či je nastavená "Automatická synchronizácia")"</string>
@@ -842,20 +856,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
-  <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="account_setting_message_body_load_complete">Celá správa</string>
-  <string name="account_setting_message_body_load_head_abstract">Popis správy</string>
-  <string name="account_setting_message_body_load_head_only">Len hlavička</string>
-  <string name="account_setting_message_body_load_text">Len telo správy</string>
-  <string name="attachment_size_exceed_limit">Veľkosť prekročila limit servera</string>
-  <string name="conversation_quick_button_approve">Súhlasím</string>
-  <string name="conversation_quick_button_disapprove">Nesúhlasím</string>
-  <string name="conversation_quick_button_received">Prijaté</string>
-  <string name="first_quick_default_reply">Dotknite sa tohto odkazu, potom \"%s\" bude odoslaná všetkým adresátom.</string>
-  <string name="menu_contact_edit">Upraviť</string>
-  <string name="message_body_load_set_description">Veľkosť pre nové správy ak používate mobilné dáta</string>
-  <string name="remind_attachment_size_limit">Vaše správy by mali byť menšie ako %sMB</string>
-  <string name="send_mail">Odoslať</string>
-  <string name="sending_quick_reply">Odosielanie správy \"%s\"</string>
   <string name="youfuli">Reklama</string>
+  <string name="zip_viewer_no_file">Žiadne súbory!</string>
 </resources>

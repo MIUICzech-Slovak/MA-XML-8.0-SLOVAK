@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="app_loaction">Ukázať na ploche</string>
   <string name="app_name">Vyhľadávanie</string>
   <string name="application_desc">Aplikácia</string>
   <string name="applications_search_label">Apl.</string>
@@ -47,6 +48,8 @@
   <string name="hot_search">Často vyhľadávané</string>
   <string name="hot_words"/>
   <string name="loading">Načítavanie...</string>
+  <string name="local_app">Aplikácie</string>
+  <string name="local_setting">Nastavenia</string>
   <string name="menu_help">Nápoveda</string>
   <string name="menu_settings">Nastavenie hľadania</string>
   <string name="network_unavailable">Žiadne internetové pripojenie</string>
@@ -55,10 +58,24 @@
   <string name="permission_prompt_started_info">Povolili ste globálne vyhľadávanie</string>
   <string name="permission_prompt_title">Chcete viac?</string>
   <string name="recent_apps">Nedávne apl.</string>
+  <string name="recent_apps_filter">Skryte aplikácie ktoré nepoužívate</string>
+  <string name="recent_close_content">"Vypnúť túto funkciu teraz?
+ Môžete to zmeniť v Nastavenia - Nainštalované aplikácie - Vyhľadávanie"</string>
+  <string name="recent_close_title">Vypnúť funkciu</string>
+  <string name="recent_delete_content">"Skryť tieto apl. teraz?
+ Môžete to zmeniť v Nastavenia - Nainštalované aplikácie - Vyhľadávanie"</string>
+  <string name="recent_delete_negative">Zrušiť</string>
+  <string name="recent_delete_positive">OK</string>
+  <string name="recent_delete_title">Skryť aplikácie</string>
+  <string name="recent_edit">Upraviť</string>
+  <string name="recent_edit_done">Dokončiť</string>
+  <string name="recent_filter_functions">Vypnuté funkcie</string>
+  <string name="recent_function">Funkcie</string>
   <string name="recently_shortcut_label">Nedávne odkazy</string>
   <string name="remove_from_history">Odobrať z histórie hľadania</string>
   <string name="remove_from_history_failed">"Odobranie položky z histórie sa nepodarilo"</string>
   <string name="search_apps">Vyhľadať aplikáciu</string>
+  <string name="search_button">Vyhľadávanie</string>
   <string name="search_group_fold">Skryť</string>
   <string name="search_group_unfold">Viac</string>
   <string name="search_history">História vyhľadávania</string>
@@ -89,6 +106,13 @@
   <string name="switch_setting">Nastavenia</string>
   <string name="system_search_category_title">Telefón</string>
   <string name="top_clicked">Časté položky</string>
+  <string name="update_check">Skontrolovať aktualizácie</string>
+  <string name="update_right_now">Aktualizácia</string>
+  <string name="update_title">Dostupná aktualizácia</string>
+  <string name="update_version_alpha">Alpha</string>
+  <string name="update_version_dev">Beta</string>
+  <string name="update_version_stable">Stable</string>
+  <string name="updated_title">MIUI je aktualizované</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Skúste hovoriť:</string>
@@ -99,28 +123,4 @@
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
-  <string name="recent_apps_filter">Skryte aplikácie ktoré nepoužívate</string>
-  <string name="recent_close_content">"Vypnúť túto funkciu teraz?
- Môžete to zmeniť v Nastavenia - Nainštalované aplikácie - Vyhľadávanie"</string>
-  <string name="recent_close_title">Vypnúť funkciu</string>
-  <string name="recent_delete_content">"Skryť tieto apl. teraz?
- Môžete to zmeniť v Nastavenia - Nainštalované aplikácie - Vyhľadávanie"</string>
-  <string name="recent_delete_negative">Zrušiť</string>
-  <string name="recent_delete_positive">OK</string>
-  <string name="recent_delete_title">Skryť aplikácie</string>
-  <string name="recent_edit">Upraviť</string>
-  <string name="recent_edit_done">Dokončiť</string>
-  <string name="recent_filter_functions">Vypnuté funkcie</string>
-  <string name="recent_function">Funkcie</string>  
-  <string name="search_button">Vyhľadávanie</string>
-  <string name="update_check">Skontrolovať aktualizácie</string>
-  <string name="update_right_now">Aktualizácia</string>
-  <string name="update_title">Dostupná aktualizácia</string>
-  <string name="update_version_alpha">Alpha</string>
-  <string name="update_version_dev">Beta</string>
-  <string name="update_version_stable">Stable</string>
-  <string name="updated_title">MIUI je aktualizované</string>
-  <string name="app_loaction">Ukázať na ploche</string>
-  <string name="local_app">Aplikácie</string>
-  <string name="local_setting">Nastavenia</string>
 </resources>

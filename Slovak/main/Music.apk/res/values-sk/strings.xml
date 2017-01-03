@@ -123,6 +123,7 @@
   <string name="download_start">Spúšťanie sťahovania...</string>
   <string name="download_while_playing_summary">"Automaticky stiahnuť skladby ktoré ste počúvali online"</string>
   <string name="download_while_playing_title">Počúvať počas sťahovania</string>
+  <string name="editmode_menu_share">Zdieľať</string>
   <string name="empty_page_no_album">Žiadne albumy</string>
   <string name="empty_page_no_artist">Žiadni umelci</string>
   <string name="empty_page_no_document">Žiadne dokumenty</string>
@@ -181,6 +182,8 @@
   <string name="filter_by_size_prefix">"Minimálna veľkosť: "</string>
   <string name="filter_by_size_summary">Nezobrazovať malé audio súbory</string>
   <string name="find_music">Prehliadať skladby</string>
+  <string name="force_touch_audio_picker">Rozpoznať</string>
+  <string name="force_touch_play_local_music_random">Prehrávanie</string>
   <string name="format_not_support">Formát nie je podporovaný</string>
   <string name="format_unsupported_or_corrupted">"Tento formát nie je podporovaný alebo je súbor poškodený"</string>
   <string name="fragment_more">Viac</string>
@@ -273,6 +276,7 @@
   <string name="monthly_price">MiKredity</string>
   <string name="more">Viac</string>
   <string name="more_about_artist">Viac o %s</string>
+  <string name="more_add_song_list">Pridať</string>
   <string name="more_online_artist">Viac</string>
   <string name="more_online_billboard">Viac</string>
   <string name="more_online_fm">Viac</string>
@@ -282,6 +286,7 @@
   <string name="more_online_suggest">Viac</string>
   <string name="more_settings">Viac nastavení</string>
   <string name="more_settings_summary">Nastavenie sťahovania, spánku, mobilných dát atď.</string>
+  <string name="more_share">Zdieľať</string>
   <string name="multichoice">Vybrať</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_filter">Filtrovať audio súbory</string>
@@ -336,6 +341,7 @@
   <string name="notification_recommend_title">Reklamné upozornenia</string>
   <string name="notification_setting">Nastavenie upozornení</string>
   <string name="notification_title_no_song">Zistite čo ostatní počúvajú!</string>
+  <string name="nowplaying_dialog_title_delete_tracks">Vymazať playlist?</string>
   <string name="nowplaying_menu_item_delete">Vymazať</string>
   <string name="ok">OK</string>
   <string name="one_month">1 mesiac</string>
@@ -518,10 +524,4 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
-  <string name="editmode_menu_share">Zdieľať</string>
-  <string name="more_share">Zdieľať</string>
-  <string name="more_add_song_list">Pridať</string>
-  <string name="nowplaying_dialog_title_delete_tracks">Vymazať playlist?</string>
-  <string name="force_touch_audio_picker">Rozpoznať</string>
-  <string name="force_touch_play_local_music_random">Prehrávanie</string>
 </resources>

@@ -347,6 +347,16 @@ Karty kontaktu sú deaktivované"</string>
   <string name="device_paired_dialog_title">Zariadenie je spárované, získavanie kontaktov</string>
   <string name="device_pairing_dialog_message">Párovanie zariadení (môže sa vyžadovať potvrdenie na druhom zariadení)...</string>
   <string name="device_pairing_dialog_title">Párovanie zariadení</string>
+  <string name="device_transfer_by_bluetooth_message">"1. Zapnite \"Bluetooth\" na druhom zariadení;
+- Android zariadenia majú nastavenie \"Bluetooth\" v nastaveniach siete
+- iOS zariadenia majú \"Bluetooth\" v Nastaveniach
+2. Android zariadenia by mali mať povolené \"Viditeľné zariadenie\";
+3. Stlačte \"Ďalej\", a povoľte prístup ku kontaktom."</string>
+  <string name="device_transfer_by_sim_message">"1. Uložte vaše kontakty na SIM kartu v druhom telefóne;
+
+2. Choďte do \"Nastavenia kontaktov\" -- \"Import/Export kontaktov\" -- \"Importovať zo SIM karty\", dlho podržte prst na SIM kontakte, vyberte tieto kontakty pre importovanie, potom stlačte \"Importovať\"."</string>
+  <string name="device_version_header_bluetooth">Importovať cez Bluetooth</string>
+  <string name="device_version_header_no_bluetooth">Importovať cez SIM kartu</string>
   <string name="device_version_title">Zvoľte verziu telefónu</string>
   <string name="dial">Vytočiť</string>
   <string name="dialerDialpadHintText">Vytočte pre pridanie hovoru</string>
@@ -1166,6 +1176,7 @@ Synchronizujte ich teraz."</string>
   <string name="toast_making_personal_copy">Vytváram osobnú kópiu</string>
   <string name="toast_text_copied">Text skopírovaný</string>
   <string name="today">Dnes</string>
+  <string name="tomorrow">Zajtra</string>
   <string name="transfer_accounts">Preniesť účty</string>
   <string name="type_incoming">Prichádzajúci hovor</string>
   <string name="type_missed">Zmeškaný hovor</string>
@@ -1247,17 +1258,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
-  <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="tomorrow">Zajtra</string>
   <string name="yesterday">Včera</string>
-  <string name="device_transfer_by_bluetooth_message">"1. Zapnite \"Bluetooth\" na druhom zariadení;
-- Android zariadenia majú nastavenie \"Bluetooth\" v nastaveniach siete
-- iOS zariadenia majú \"Bluetooth\" v Nastaveniach
-2. Android zariadenia by mali mať povolené \"Viditeľné zariadenie\";
-3. Stlačte \"Ďalej\", a povoľte prístup ku kontaktom."</string>
-  <string name="device_transfer_by_sim_message">"1. Uložte vaše kontakty na SIM kartu v druhom telefóne;
-
-2. Choďte do \"Nastavenia kontaktov\" -- \"Import/Export kontaktov\" -- \"Importovať zo SIM karty\", dlho podržte prst na SIM kontakte, vyberte tieto kontakty pre importovanie, potom stlačte \"Importovať\"."</string>
-  <string name="device_version_header_bluetooth">Importovať cez Bluetooth</string>
-  <string name="device_version_header_no_bluetooth">Importovať cez SIM kartu</string>
+  <string name="zero_items_selected">Nič nie je vybrané</string>
 </resources>

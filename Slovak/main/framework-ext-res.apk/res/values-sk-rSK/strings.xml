@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="activity_package_delete_confirm_title">Dôležité upozornenie</string>
   <string name="add_frequent_phrases">Pridať časté frázy</string>
   <string name="alwaysUsePrompt">Viac sa nepýtať</string>
   <string name="apply_password_action">Nastaviť heslo</string>
@@ -16,10 +17,16 @@
   <string name="auto_start_warning_allow">Povoliť</string>
   <string name="auto_start_warning_deny">Odmietnuť</string>
   <string name="auto_start_warning_title">Povoliť %s spúšťať sa automaticky?</string>
+  <string name="button_text_cancel">Zrušiť</string>
+  <string name="button_text_delete">Vymazať</string>
+  <string name="button_text_delete_timer">Vymazať (%d)</string>
+  <string name="button_text_next_step">Ďalej</string>
+  <string name="button_text_next_step_timer">Ďalej (%d)</string>
   <string name="call_record_or">" Alebo "</string>
   <string name="call_record_sample_prefix_miui">Nahrávka</string>
   <string name="caller_info_name_delimiter">" Alebo "</string>
   <string name="cancel_action">Zrušiť</string>
+  <string name="configure_input_methods">Vybrať klávesnicu</string>
   <string name="copy">Kopírovať</string>
   <string name="cut">Vystrihnúť</string>
   <string name="default_name">Predvolené</string>
@@ -56,6 +63,9 @@
   <string name="maml_component_customization_title">Nastavenia</string>
   <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
   <string name="memory_clear_result">"Uvoľnené: %1$sB \nDostupné: %2$sB"</string>
+  <string name="package_delete_confirm_step_1">Vymazať %s?</string>
+  <string name="package_delete_confirm_step_2">Vymazanie tejto aplikácie môže spôsobiť nestabilitu celého systému.</string>
+  <string name="package_delete_confirm_step_3">Po vymazaní nebudete môcť túto aplikáciu znova otvoriť.</string>
   <string name="paste">Vložiť</string>
   <string name="perm_send_push_dspt">Povoliť MiPush správy</string>
   <string name="perm_send_push_lab">Odoslať push správu</string>
@@ -92,6 +102,7 @@
   <string name="softap_notifif_title">Hot-spot \"%s\" aktívny</string>
   <string name="status_bar_toggle_ac">Kontrola prístupu</string>
   <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
+  <string name="status_bar_toggle_battery_saver">Šetrenie batérie</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Jas</string>
   <string name="status_bar_toggle_cast">Prenos</string>
@@ -105,6 +116,7 @@
   <string name="status_bar_toggle_midrop">MiDrop</string>
   <string name="status_bar_toggle_mute">Ticho</string>
   <string name="status_bar_toggle_network_type">Režim siete</string>
+  <string name="status_bar_toggle_nfc">NFC</string>
   <string name="status_bar_toggle_paper_mode">Čítací režim</string>
   <string name="status_bar_toggle_power_mode">Výkon</string>
   <string name="status_bar_toggle_privacy_mode">Návštevník</string>
@@ -122,21 +134,9 @@
   <string name="status_bar_toggle_vibrate">Vibrácie</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+  <string name="translation_more">Viac</string>
   <string name="turn_off">Vypnúť</string>
   <string name="unknown_caller">Neznáme číslo</string>
   <string name="user_switching_dialog_text">Prepínanie...</string>
-  <string name="xspace_resolver_activity_title">Vybrať apl.</string>  
-  <string name="activity_package_delete_confirm_title">Dôležité upozornenie</string>
-  <string name="button_text_cancel">Zrušiť</string>
-  <string name="button_text_delete">Vymazať</string>
-  <string name="button_text_delete_timer">Vymazať (%d)</string>
-  <string name="button_text_next_step">Ďalej</string>
-  <string name="button_text_next_step_timer">Ďalej (%d)</string>
-  <string name="package_delete_confirm_step_1">Vymazať %s?</string>
-  <string name="package_delete_confirm_step_2">Vymazanie tejto aplikácie môže spôsobiť nestabilitu celého systému.</string>
-  <string name="package_delete_confirm_step_3">Po vymazaní nebudete môcť túto aplikáciu znova otvoriť.</string>
-  <string name="translation_more">Viac</string>
-  <string name="configure_input_methods">Vybrať klávesnicu</string>
-  <string name="status_bar_toggle_battery_saver">Šetrenie batérie</string>
-  <string name="status_bar_toggle_nfc">NFC</string>
+  <string name="xspace_resolver_activity_title">Vybrať apl.</string>
 </resources>

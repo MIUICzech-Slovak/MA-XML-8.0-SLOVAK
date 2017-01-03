@@ -4,6 +4,12 @@
   <string name="active_xiaomi_account">Aktívny</string>
   <string name="active_xiaomi_account_msg">Pre aktivovanie vášho Mi účtu navštívte http://account.mi.com/.</string>
   <string name="active_xiaomi_account_title">Aktivovať Mi účet</string>
+  <string name="alpha_apply">Odhlásenie z BETA testovania</string>
+  <string name="alpha_cancel">Odhlásiť sa z BETA testovania</string>
+  <string name="alpha_cancel_cancel">Zrušiť</string>
+  <string name="alpha_cancel_confirm">Odhlásiť?</string>
+  <string name="alpha_cancel_ok">OK</string>
+  <string name="alpha_no_network">Pripojte sa k sieti</string>
   <string name="app_name">Aktualizácia</string>
   <string name="apply_title">Aktualizácia (%s)</string>
   <string name="apply_update_dialog_cancel_button">Zrušiť</string>
@@ -98,6 +104,7 @@
   <string name="later">Neskôr</string>
   <string name="loading">Pripojenie na MIUI server...</string>
   <string name="log_share">Zdieľať</string>
+  <string name="menu_title_apply_for_alpha">Odhlásiť sa z BETA testovania</string>
   <string name="menu_title_current_version_log">Informácie o aktualizácií</string>
   <string name="menu_title_download_current_rom">Stiahnuť aktualizáciu</string>
   <string name="menu_title_pick_rom_file">Vybrať ZIP z úložiska</string>
@@ -275,11 +282,4 @@ Nie je možné odoslať váš názor"</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 8</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
-  <string name="alpha_apply">Odhlásenie z BETA testovania</string>
-  <string name="alpha_cancel">Odhlásiť sa z BETA testovania</string>
-  <string name="alpha_cancel_cancel">Zrušiť</string>
-  <string name="alpha_cancel_confirm">Odhlásiť?</string>
-  <string name="alpha_cancel_ok">OK</string>
-  <string name="alpha_no_network">Pripojte sa k sieti</string>
-  <string name="menu_title_apply_for_alpha">Odhlásiť sa z BETA testovania</string>
 </resources>

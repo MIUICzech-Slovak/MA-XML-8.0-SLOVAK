@@ -1254,6 +1254,9 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="taking_remote_bugreport_notification_title">Preberá sa hlásenie chyby…</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Klepnutím prejdete na nastavenie.</string>
+  <string name="tethered_notification_multi_device_message">Pripojených: %1$s</string>
+  <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
+  <string name="tethered_notification_one_device_message">Pripojených: %1$s</string>
   <string name="tethered_notification_title">Tethering alebo prístupový bod je aktívny</string>
   <string name="textSelectionCABTitle">Výber textu</string>
   <string name="text_copied">Text bol skopírovaný do schránky.</string>
@@ -1400,7 +1403,4 @@ Chcete ju zavrieť?"</string>
   <string name="zen_mode_forever_dnd">Dokým nevypnete stav Nerušiť</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
-  <string name="tethered_notification_multi_device_message">Pripojených: %1$s</string>
-  <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
-  <string name="tethered_notification_one_device_message">Pripojených: %1$s</string>  
 </resources>

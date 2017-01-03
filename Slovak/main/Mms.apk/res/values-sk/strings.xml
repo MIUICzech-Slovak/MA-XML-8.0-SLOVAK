@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_sms_title">Smart messages partner</string>
   <string name="action_firewall_setting">Čierna listina</string>
   <string name="activity_not_found">Program pre zobrazenie prílohy sa nenašiel</string>
   <string name="activity_not_found_uri">Pre túto akciu sa nenašiel program</string>
@@ -195,6 +196,7 @@
   <string name="found_wild_messages_guide_sync_not_started">Synchr. ešte nezačala</string>
   <string name="found_wild_messages_title">Synchr. SMS správy z MiCloud</string>
   <string name="from_label">"Od: "</string>
+  <string name="from_pkg_name">"Z aplikácie: "</string>
   <string name="group_message">Skupinová správa</string>
   <string name="group_message_failed_title">Zlyhalo odoslanie správy ku %d kontaktom. Skúsiť to znova?</string>
   <string name="group_resend_message">Odosielanie (%d)</string>
@@ -208,6 +210,16 @@
   <string name="hms_first_use_tips">Pre príjímanie správ služieb musíte byť pripojený k Wi-Fi sieti</string>
   <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmie byť prázdny</string>
   <string name="hold_to_talk">Podržte a hovorte</string>
+  <string name="hybrid_check_network">Nasatvenie siete</string>
+  <string name="hybrid_data_error">Nastala chyba</string>
+  <string name="hybrid_locating_fail">Nebolo možné nájsť vašu polohu</string>
+  <string name="hybrid_network_access_denied">Prístup k sieti zamietnutý</string>
+  <string name="hybrid_network_unavaliable">Nebolo možné pripojiť sa k sieti</string>
+  <string name="hybrid_pull_to_refresh_pull_label">Potiahnite pre obnovenie...</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">Načítavanie...</string>
+  <string name="hybrid_pull_to_refresh_release_label">Pustite pre obnovenie...</string>
+  <string name="hybrid_service_unavailiable">Služba nie je dostupná</string>
+  <string name="hybrid_try_again">Skúsiť znova</string>
   <string name="importing_progress_private_message">Importovanie správ do súkromnej schránky</string>
   <string name="in_sms">Správa</string>
   <string name="insufficient_drm_rights">Nemáte dostatočné práva DRM.</string>
@@ -336,6 +348,7 @@
   <string name="mx_online">Aktivované</string>
   <string name="mx_reactivate">Znova aktivovať Cloud správy</string>
   <string name="mx_recommend_msg">Povoľte Cloud správy pre zasielanie správ zdarma</string>
+  <string name="mx_stranger_recommend_msg">Dotykom zablokujete Mi správy z neznámych čísel</string>
   <string name="mx_type_guide">Cloudové správy umožnujú MIUI odosielať zdarma SMS cez Wi-Fi alebo mobilné dáta</string>
   <string name="need_download">Čakanie na synchronizáciu...</string>
   <string name="networking_allow_continue">OK</string>
@@ -380,6 +393,7 @@
   <string name="pref_message_recovery_introduction_title">Obnoviť správu</string>
   <string name="pref_messages_to_save">Nastaviť počet správ pre uloženie</string>
   <string name="pref_mms_settings_title">Nastavenie správ (MMS)</string>
+  <string name="pref_msg_trash_bin_title">Nedávno vymazané správy</string>
   <string name="pref_notification_settings_title">Nastavenie oznamovania</string>
   <string name="pref_other_title">Ostatné</string>
   <string name="pref_show_blocked_messages_summary">Zobraziť blokované SMS v konverzácií</string>
@@ -406,6 +420,7 @@
   <string name="pref_time_auto_group_disabled_summary">Nie je podporované v nastavenej veľkosti písma</string>
   <string name="pref_time_auto_group_summary">Zoradiť správy podľa času</string>
   <string name="pref_time_auto_group_title">Zoradiť</string>
+  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
   <string name="pref_title_allow_si_sl_push">Povoliť WAP push</string>
   <string name="pref_title_card_format">Formát vizitky</string>
   <string name="pref_title_delivery_reports">Doručenka</string>
@@ -651,19 +666,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
-  <string name="from_pkg_name">"Z aplikácie: "</string>
-  <string name="hybrid_check_network">Nasatvenie siete</string>
-  <string name="hybrid_data_error">Nastala chyba</string>
-  <string name="hybrid_locating_fail">Nebolo možné nájsť vašu polohu</string>
-  <string name="hybrid_network_access_denied">Prístup k sieti zamietnutý</string>
-  <string name="hybrid_network_unavaliable">Nebolo možné pripojiť sa k sieti</string>
-  <string name="hybrid_pull_to_refresh_pull_label">Potiahnite pre obnovenie...</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Načítavanie...</string>
-  <string name="hybrid_pull_to_refresh_release_label">Pustite pre obnovenie...</string>
-  <string name="hybrid_service_unavailiable">Služba nie je dostupná</string>
-  <string name="hybrid_try_again">Skúsiť znova</string>
-  <string name="pref_msg_trash_bin_title">Nedávno vymazané správy</string> 
-  <string name="about_smart_sms_title">Smart messages partner</string>
-  <string name="pref_title_about_smart_sms">About Smart messages partner</string>
-  <string name="mx_stranger_recommend_msg">Dotykom zablokujete Mi správy z neznámych čísel</string>
 </resources>

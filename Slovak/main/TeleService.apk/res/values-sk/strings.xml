@@ -2,6 +2,7 @@
 <resources>
   <string name="Result_title">Kontakt na SIM karte</string>
   <string name="accessibility_settings_activity_title">Dostupnosť</string>
+  <string name="account_changed_title">Účet zmenený</string>
   <string name="active_phone_fail_nochoice">Nebolo možné overiť SIM kartu</string>
   <string name="active_phone_fail_toast">Nebolo možné overiť SIM kartu %1$s</string>
   <string name="active_phone_sim_absent">Vložte SIM kartu</string>
@@ -89,10 +90,12 @@
   <string name="autoip_exception_summary">%d celkom</string>
   <string name="autoip_exception_summary_more">,... %d celkom</string>
   <string name="autoip_no_exceptions">Pridať čísla ktoré nepotrebujú IP predvoľbu</string>
+  <string name="autoip_phone">Auto. IP vytáčanie</string>
   <string name="autoip_prefix">IP predvoľba</string>
   <string name="autoip_prefix_summary">IP prefix operátora: %s"</string>
   <string name="autoip_setting">Auto IP nastavenia</string>
   <string name="autoip_summary">Pridať IP predvoľbu pre zahraničné čísla</string>
+  <string name="autoip_summary_more">, %d celkom</string>
   <string name="autoip_support_local_numbers">Vždy použiť IP predvoľbu</string>
   <string name="back">Späť</string>
   <string name="badPin">Pôvodný kód PIN bol zadaný nesprávne. Skúste to znova.</string>
@@ -140,6 +143,7 @@
   <string name="call_forwarding_settings">Presmerovanie hovorov</string>
   <string name="call_forwarding_settings_with_label">Presmerovanie hovorov (%s)</string>
   <string name="call_ind_services">Call Independent Services</string>
+  <string name="call_log">Zoznam hovorov</string>
   <string name="call_record_add_numbers">Pridať čísla</string>
   <string name="call_record_auto_always">Všetky čísla</string>
   <string name="call_record_auto_scenario_title">Nastavenie nahrávania</string>
@@ -263,6 +267,7 @@
   <string name="command_error_fdn_failure">Táto operácia nemôže byť povolená pokiaľ je FDN zapnuté. prosím vypnite FDN a skúste to znova.</string>
   <string name="config_default_data_sim">Nastavenia</string>
   <string name="config_dialing_emergency_number_suffix"/>
+  <string name="confirm">Potvrdiť</string>
   <string name="confirmPin2Label">Potvrdiť nový kód PIN2</string>
   <string name="confirmPinLabel">Potvrďte nový kód PIN</string>
   <string name="confirm_change_default_data">Zmeniť</string>
@@ -324,6 +329,7 @@
   <string name="dial_pad_autocomplete">Automatická dopĺňanie číselníka</string>
   <string name="dial_related_setting_catory">Vytočiť</string>
   <string name="dialerKeyboardHintText">Číslo vytočíte pomocou klávesnice.</string>
+  <string name="dialog_call_ordinary_telephone">Bežný hovor (%ds)</string>
   <string name="dialog_network_priority_title">Priorita</string>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_0_number">0</string>
@@ -402,6 +408,7 @@
   <string name="enable">Povoliť</string>
   <string name="enable_antispam_strange_summary">Stíšiť prvé zvonenie z neznámeho čísla</string>
   <string name="enable_antispam_strange_title">Antispam hovorov</string>
+  <string name="enable_button_text">Ďalej</string>
   <string name="enable_disable_administrative">Administratívne</string>
   <string name="enable_disable_advertisements">Reklamy</string>
   <string name="enable_disable_atr">Dopravné správy</string>
@@ -477,6 +484,7 @@
   <string name="fw_change_failed">"Zmena čísla odkazovej schránky neúspešná. Ak problém pretrváva, obráťte sa na svojho operátora."</string>
   <string name="fw_get_in_vm_failed">"Načítanie a uloženie aktuálneho nastavenia čísla pre presmerovanie neúspešné. Naozaj chcete zmeniť operátora?"</string>
   <string name="general_news_settings">Všeobecné správy</string>
+  <string name="general_remove">Odstrániť</string>
   <string name="general_setting">Všeobecné nastavenia</string>
   <string name="get_pin2">Zadajte PIN2</string>
   <string name="get_smsc_address_error">Chyba pri získaní čísla SMS centra</string>
@@ -492,6 +500,7 @@
   <string name="handon_ringer_title">Zdvihnutím stíšiť</string>
   <string name="hintName">Meno</string>
   <string name="hintPhonenumber">Telefónné číslo</string>
+  <string name="home_screen_shortcut">Odkaz na domácej obrazovke</string>
   <string name="importAllSimEntries">Importovať všetko</string>
   <string name="importSimEntry">Importovať</string>
   <string name="importToFDNfromContacts">Import z kontaktov</string>
@@ -528,6 +537,7 @@
   <string name="incall_status_dialed_mmi">Spustenie sekvencie MMI...</string>
   <string name="incoming_video_show_pref_summary">Zobraziť video nastavené volajúcim. Pre aktivovanie tejto funkcie, povoľte Karty kontaktov.</string>
   <string name="incoming_video_show_pref_title">Zobraziť video volajúceho</string>
+  <string name="internation_remain_minutes">(alebo %1$s %2$s medzinárodný hovor)</string>
   <string name="international_disable">Medzinárodné správy zakázané</string>
   <string name="international_enable">Medzinárodné správy povolené</string>
   <string name="international_roaming_setting">Medzinárodný roaming</string>
@@ -541,6 +551,7 @@
   <string name="invalid_puk">Nesprávny PUK, prosím zadajte PUK, ktorý má od 4 do 8 čísel.</string>
   <string name="invalid_puk2">Nesprávny PUK2, prosím zadajte PUK2, ktorý má 8 čísel.</string>
   <string name="ivr_parameter_settings">IVR nastavenia (Čína)</string>
+  <string name="keep_wait_call_back">Čakať</string>
   <string name="labelCDMAMore">Nastavenie CDMA hovorov</string>
   <string name="labelCF">Presmerovanie hovorov</string>
   <string name="labelCFB">Presmerovať ak je obsadené</string>
@@ -608,6 +619,7 @@
   <string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
   <string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
   <string name="menu_add">Pridať kontakt</string>
+  <string name="menu_add_numbers">Pridať číslo</string>
   <string name="menu_delete">Vymazať kontakt</string>
   <string name="menu_edit">Upraviť kontakt</string>
   <string name="messageCFB">Číslo ak je obsadené</string>
@@ -845,7 +857,10 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="place_a_call1">Subscription 1</string>
   <string name="place_a_call2">Subscription 2</string>
   <string name="place_a_call3">Subscription 3</string>
+  <string name="please_connect_network_message">Pripojte sa k sieti</string>
+  <string name="please_connect_network_title">Žiadna sieť</string>
   <string name="please_enter_phone_number">Zadajte telefónné číslo</string>
+  <string name="please_login_mi_accout">Prihlásiť</string>
   <string name="pocket_mode_summary">Zariadenie sa automaticky uzamkne vo vrecku</string>
   <string name="pocket_mode_title">Zabrániť náhodnému použitiu</string>
   <string name="port_title">Číslo Portu</string>
@@ -929,6 +944,11 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="private_num">Súkromné číslo</string>
   <string name="proceed">Pokračovať</string>
   <string name="progress_dialog_exiting_ecm">Ukončenie režimu Núdzového spätného hovoru</string>
+  <string name="propmpt_dialog_do_not_ask">Viac nezobrazovať</string>
+  <string name="propmpt_dialog_network_failed_title">Call timeout</string>
+  <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
+  <string name="propmpt_dialog_not_activate_sim_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
+  <string name="propmpt_dialog_not_activate_sim_title">telefónne číslo nie je overené</string>
   <string name="proxy_address_title">Adresa proxy</string>
   <string name="pstn_connection_service_label">Vstavané SIM karty</string>
   <string name="pstn_phone">Mobilný hovor</string>
@@ -1041,6 +1061,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="set_smsc_address_timeout">Vypršal časový limit pre nastavenie SMS čísla operátora, prosím skúste to neskôr.</string>
   <string name="set_smsc_address_title">Nastaviť číslo SMS centra</string>
   <string name="set_subscription">Select subscriptions</string>
+  <string name="setting">Nastavenia</string>
   <string name="settings_label">Nastavenie siete</string>
   <string name="simContacts_airplaneMode">Ak chcete importovať kontakty z karty SIM, vypnite prosím režim V lietadle.</string>
   <string name="simContacts_empty">Na karte SIM nie sú žiadne kontakty.</string>
@@ -1081,8 +1102,10 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="sip_menu_add">Pridať</string>
   <string name="sip_menu_discard">Zrušiť</string>
   <string name="sip_menu_save">Uložiť</string>
+  <string name="sip_profile_create_error">Nebolo možné vytvoriť nový SIP profil</string>
   <string name="sip_receive_calls">Prijímať prichádzajúce hovory</string>
   <string name="sip_receive_calls_summary">Zníži výdrž batérie</string>
+  <string name="sip_save_register_error">Nebolo možné uložiť nový SIP profil</string>
   <string name="sip_settings">Nastavenia Volania cez internet</string>
   <string name="sip_system_decide">Automaticky</string>
   <string name="slot">Pozícia</string>
@@ -1185,6 +1208,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="turnover_mute_summary">Otočením displeja nadol stíšiť zvonenie</string>
   <string name="turnover_mute_title">Otočením stíšiť</string>
   <string name="undefined">Nedefinované</string>
+  <string name="undefined_setting">Žiadne</string>
   <string name="unknown">Neznáme</string>
   <string name="unlock_failed">Odblokovanie siete neúspešné.</string>
   <string name="unlock_success">Sieť bola úspešne odblokovaná.</string>
@@ -1197,6 +1221,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="username_title">Meno užívateľa</string>
   <string name="ussdRunning">Kód USSD je spustený...</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="verify_failed">Chyba overenia</string>
   <string name="vibrate_after_connected_summary">Vibrate when answers</string>
   <string name="vibrate_after_connected_title">Vibrating after connected</string>
   <string name="vibrate_on_ring_title">Vibrovať pri zvonení</string>
@@ -1240,29 +1265,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="home_screen_shortcut">Odkaz na domácej obrazovke</string>
-  <string name="account_changed_title">Účet zmenený</string>
-  <string name="autoip_summary_more">, %d celkom</string>
-  <string name="call_log">Zoznam hovorov</string>
-  <string name="confirm">Potvrdiť</string>
-  <string name="dialog_call_ordinary_telephone">Bežný hovor (%ds)</string>
-  <string name="enable_button_text">Ďalej</string>
-  <string name="general_remove">Odstrániť</string>
-  <string name="internation_remain_minutes">(alebo %1$s %2$s medzinárodný hovor)</string>
-  <string name="keep_wait_call_back">Čakať</string>
-  <string name="menu_add_numbers">Pridať číslo</string>
-  <string name="please_connect_network_message">Pripojte sa k sieti</string>
-  <string name="please_connect_network_title">Žiadna sieť</string>
-  <string name="please_login_mi_accout">Prihlásiť</string>
-  <string name="propmpt_dialog_do_not_ask">Viac nezobrazovať</string>
-  <string name="propmpt_dialog_network_failed_title">Call timeout</string>
-  <string name="propmpt_dialog_no_call_back_content">Its taking too long to connect. Switching to regular call for which you might be charged by the carrier.</string>
-  <string name="propmpt_dialog_not_activate_sim_content">Verify your phone number to start using Top-up package. You can still make a regular call for which youll be charged by the carrier.</string>
-  <string name="propmpt_dialog_not_activate_sim_title">telefónne číslo nie je overené</string>
-  <string name="setting">Nastavenia</string>
-  <string name="undefined_setting">Žiadne</string>
-  <string name="verify_failed">Chyba overenia</string>
-  <string name="autoip_phone">Auto. IP vytáčanie</string>
-  <string name="sip_profile_create_error">Nebolo možné vytvoriť nový SIP profil</string>
-  <string name="sip_save_register_error">Nebolo možné uložiť nový SIP profil</string>
 </resources>

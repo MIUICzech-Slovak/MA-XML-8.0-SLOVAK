@@ -173,6 +173,7 @@
   <string name="empty_title_garbage_white_list">Prázdne</string>
   <string name="empty_title_installed_apps">Prázdne</string>
   <string name="empty_title_large_files">Prázdne</string>
+  <string name="empty_title_photos">Žiadne fotografie</string>
   <string name="empty_title_residual">Žiadne súbory</string>
   <string name="empty_title_video">Žiadne videá na vymazanie​</string>
   <string name="flow_rank_title">Využitie dát</string>
@@ -440,5 +441,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="empty_title_photos">Žiadne fotografie</string>
 </resources>

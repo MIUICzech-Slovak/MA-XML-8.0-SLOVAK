@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Kalkulačka</string>
+  <string name="app_name_danfa">Mi Kalkulačka</string>
   <string name="cal_convert_to_word_figure">Convert to financial characters</string>
   <string name="cal_copy">Kopírovať</string>
   <string name="cal_edit_mode">Režim úpravy</string>
@@ -22,6 +23,7 @@
   <string name="error">Chyba</string>
   <string name="error_fomrat">Chyba formátu</string>
   <string name="from_unit_en">kilometre za hodinu</string>
+  <string name="home_title_calculator">Kalkulačka</string>
   <string name="item_title_aa_payment">Rozdeliť účet</string>
   <string name="item_title_area_conversion">Plocha</string>
   <string name="item_title_calculator">Kalkulačka</string>
@@ -80,6 +82,15 @@
   <string name="mortgage_years_amount">Hypotekárne obdobie</string>
   <string name="network_confirm_content">Výpočet daní, kurzov mien a hypotéky vyžaduje sťahovanie dát cez internetové pripojenie.</string>
   <string name="network_confirm_title">Vyžaduje sa pripojenie na internet</string>
+  <string name="preference_about_calculator">O kalkulačke</string>
+  <string name="preference_check_update_title">Skontrolovať aktualizácie</string>
+  <string name="preference_settings">Nastavenia</string>
+  <string name="preference_use_degress_summary">Nahradiť radiány s uhlami v goniometrických funkciách</string>
+  <string name="preference_use_degress_title">Použitie uhlov</string>
+  <string name="tax_annual_bonus_number">Bonus</string>
+  <string name="tax_city_error">Zadajte vaše mesto</string>
+  <string name="tax_last_salary_hint">Zadajte vaše zárobky</string>
+  <string name="tax_last_salary_number">Zárobky</string>
   <string name="title_bar">Konvverzia dĺžky</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
@@ -183,15 +194,4 @@
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Rok %s</string>
   <string name="wf_word_figure">Finančné znaky</string>
-  <string name="home_title_calculator">Kalkulačka</string>
-  <string name="tax_last_salary_hint">Zadajte vaše zárobky</string>
-  <string name="tax_last_salary_number">Zárobky</string>
-  <string name="tax_city_error">Zadajte vaše mesto</string>
-  <string name="tax_annual_bonus_number">Bonus</string>
-  <string name="preference_about_calculator">O kalkulačke</string>
-  <string name="preference_check_update_title">Skontrolovať aktualizácie</string>
-  <string name="preference_settings">Nastavenia</string>
-  <string name="preference_use_degress_summary">Nahradiť radiány s uhlami v goniometrických funkciách</string>
-  <string name="preference_use_degress_title">Použitie uhlov</string>
-  <string name="app_name_danfa">Mi Kalkulačka</string>
 </resources>

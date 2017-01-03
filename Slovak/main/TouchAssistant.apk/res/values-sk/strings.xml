@@ -8,6 +8,7 @@
   <string name="close_panel">Zatvoriť</string>
   <string name="customize_entries">Upraviť funkcie</string>
   <string name="enable_touch_assistant">Povoliť Dotykového Asistenta</string>
+  <string name="enabled_for_pad_hint">Ak je povolené v nastaveniach zobrazenie na ležato</string>
   <string name="function_settings">Nastavenie funkcií</string>
   <string name="hide_touch_assistant">Automaticky skryť</string>
   <string name="hide_touch_assistant_intro">Skryť asistenta v niektorých aplikáciách.</string>
@@ -31,6 +32,7 @@
   <string name="name_screenshot">Screenshot</string>
   <string name="name_wechat_payment_code">Wechat quick pay</string>
   <string name="name_wechat_scan">Wechat scan code</string>
+  <string name="not_working">%s (Nefunguje)</string>
   <string name="open_panel">Otvoriť</string>
   <string name="pay_entry_dialog_title_select">Vyberte aplikáciu</string>
   <string name="pay_entry_dialog_title_setting">Set app checked to enable</string>
@@ -42,6 +44,4 @@
   <string name="restore_intro">Obnoviť na predvolené nastavenia, čo zahrňuje funkcie a ostatné. Vaše dáta v telefóne nebudú vymazané.</string>
   <string name="show_on_keyguard">Zobraziť na zamyk. obrazovke</string>
   <string name="theme_manager_not_supported">Témy nie sú podporované.</string>
-  <string name="enabled_for_pad_hint">Ak je povolené v nastaveniach zobrazenie na ležato</string>
-  <string name="not_working">%s (Nefunguje)</string>
 </resources>

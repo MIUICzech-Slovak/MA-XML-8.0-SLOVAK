@@ -52,6 +52,7 @@
   <string name="category_favorite">Obľúbené</string>
   <string name="category_file">Súbory</string>
   <string name="category_files">Súbory</string>
+  <string name="category_installed_app">Nainštalované apl.</string>
   <string name="category_kuaipan">KuaiPan</string>
   <string name="category_midrive">MiDrive</string>
   <string name="category_music">Hudba</string>
@@ -95,6 +96,7 @@
   <string name="create_new_folder_desctiption">Vytváranie novej zložky...</string>
   <string name="create_new_folder_failed">Nie je možné vytvoriť zložku.</string>
   <string name="create_share_link_description">Vytváranie odkazu pre zdieľanie...</string>
+  <string name="create_shortcut_success">Odkaz pridaný</string>
   <string name="cution">Tipy</string>
   <string name="data_capacity">Kapacita: %1$s</string>
   <string name="data_consumption_cancel">Ukončiť</string>
@@ -490,6 +492,7 @@ and never miss the cool new ones!"</string>
   <string name="release_to_signin">Uvolnite pre podpísanie sa.</string>
   <string name="remote_video_no_network">Nie je možné pripojiť s ak sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
+  <string name="rename_alert2">Súbor bude ukrytý.</string>
   <string name="rename_description">Premenovávam...</string>
   <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
   <string name="repair_done">Obnovené</string>
@@ -559,6 +562,7 @@ and never miss the cool new ones!"</string>
   <string name="set_pattern">Heslo bolo aktualizované</string>
   <string name="set_pattern_btn">Nastaviť</string>
   <string name="set_pattern_msg">Nastavte svoje heslo znova. Ochrana súkromia heslom chráni aj vaše fotografie a SMS.</string>
+  <string name="setting_shortcut">Pridať odkaz na plochu</string>
   <string name="share_box">Zdieľané</string>
   <string name="share_box_receive">Prijaté</string>
   <string name="share_box_send">Odoslané</string>
@@ -572,6 +576,7 @@ and never miss the cool new ones!"</string>
 (GIFs can be added to Custom in WeChat Stickers)."</string>
   <string name="shared_sticker_use_tip_title">How to use stickers</string>
   <string name="shared_str">Zdieľané %s</string>
+  <string name="shortcut_exists">Odkaz už existuje</string>
   <string name="show_message">Súbor nie je možné otvoriť bez jeho stiahnutia</string>
   <string name="sign_description">Podpisovanie...</string>
   <string name="signin_error">Žiadne pripojenie k sieti, skúste to neskôr.</string>
@@ -676,9 +681,4 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
-  <string name="category_installed_app">Nainštalované apl.</string>
-  <string name="create_shortcut_success">Odkaz pridaný</string>
-  <string name="setting_shortcut">Pridať odkaz na plochu</string>
-  <string name="shortcut_exists">Odkaz už existuje</string>
-  <string name="rename_alert2">Súbor bude ukrytý.</string>
 </resources>

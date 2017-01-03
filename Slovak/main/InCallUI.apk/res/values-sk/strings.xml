@@ -183,7 +183,9 @@
   <string name="notification_action_answer_video">Video</string>
   <string name="notification_action_answer_voice">Hlas</string>
   <string name="notification_action_dismiss">Odmietnuť</string>
+  <string name="notification_action_earpiece">Slúchadlo</string>
   <string name="notification_action_end_call">Ukončiť hovor</string>
+  <string name="notification_action_speaker">Reproduktor</string>
   <string name="notification_dialing">Vytáčanie</string>
   <string name="notification_incoming_call">Prichádzajúci hovor</string>
   <string name="notification_incoming_video_call">Prichádzajúci videohovor</string>
@@ -234,6 +236,4 @@
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
-  <string name="notification_action_earpiece">Slúchadlo</string>
-  <string name="notification_action_speaker">Reproduktor</string>
 </resources>

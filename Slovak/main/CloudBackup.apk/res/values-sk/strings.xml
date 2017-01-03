@@ -22,6 +22,8 @@
   <string name="button_cancel">Zrušiť</string>
   <string name="button_delete">Vymazať</string>
   <string name="button_next">Ďalej</string>
+  <string name="can_not_backup_in_lite_mode">Nie je možné zálohovať Zjednodušený režim</string>
+  <string name="can_not_restore_in_lite_mode">Nie je možné obnoviť Zjednodušený režim</string>
   <string name="cancel_recover_settings">Zrušiť</string>
   <string name="click_try_to_restore_again">Skúste to znova</string>
   <string name="cloud_app_backup_success">Aplikácie zálohované</string>
@@ -120,6 +122,4 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="start_recover">Obnoviť %s</string>
   <string name="success_open_cloudbackup">Povolená záloha pre rozloženie plochy a apl.</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
-  <string name="can_not_backup_in_lite_mode">Nie je možné zálohovať Zjednodušený režim</string>
-  <string name="can_not_restore_in_lite_mode">Nie je možné obnoviť Zjednodušený režim</string>  
 </resources>

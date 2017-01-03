@@ -3,6 +3,7 @@
   <string name="account_info">Môj účet</string>
   <string name="account_name_not_login">Prihlásiť sa</string>
   <string name="account_unactivated">Účet nie je aktivovaný.</string>
+  <string name="add_resource_detail_fail">Nie je možné pridať zdroje</string>
   <string name="all_resources">Všetko</string>
   <string name="app_name">Témy</string>
   <string name="apply_default_font_tip">Ponechať súčasné písmo?</string>
@@ -387,6 +388,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_user_agreement_remind_summary">Použiť po nasledujúcom spustení</string>
   <string name="theme_user_agreement_title">Vyhlásenie</string>
   <string name="theme_yes">Áno</string>
+  <string name="third_party_pickers_activity_title">Pridať %1$s</string>
   <string name="title_component">Upraviť tému</string>
   <string name="title_my_audio_resource">Moje zvonenia</string>
   <string name="title_my_wallpaper_resource">Moje tapety</string>
@@ -400,6 +402,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="add_resource_detail_fail">Nie je možné pridať zdroje</string>
-  <string name="third_party_pickers_activity_title">Pridať %1$s</string>
 </resources>

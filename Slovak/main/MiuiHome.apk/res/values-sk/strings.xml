@@ -78,6 +78,7 @@
   <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sebe pre úpravu plochy</string>
   <string name="editing_mode_title">Vybraných: %1$d</string>
   <string name="editing_mode_title_empty">Vyberte položky</string>
+  <string name="editing_set_screen_layout_cells">Vyberte efekt rozloženia</string>
   <string name="editing_set_transition_effect_tips">Efekty</string>
   <string name="editing_set_wallpaper_tips">Tapeta</string>
   <string name="editing_tips">Pridať alebo odobrať Widget</string>
@@ -149,6 +150,7 @@
   <string name="invalid_contact_shortcut">Neplatný zástupca kontaktu</string>
   <string name="is_setting_wallpaper_message">Nastavovanie tapety...</string>
   <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
+  <string name="launcher_not_exist">Launcher prestal pracovať, skúste to znova.</string>
   <string name="like">Páči sa</string>
   <string name="liked">Páči sa</string>
   <string name="loading_desktop">Načítavanie launcheru...</string>
@@ -216,6 +218,7 @@
   <string name="recommend_apps_switch_title">Odporúčané apl.</string>
   <string name="recommend_apps_tips">Táto funkcia vyžaduje internetové pripojenie pre jej správne fungovanie. Pre zakázanie funkcie sa dotknite názvu tejto zložky.</string>
   <string name="reset_scene_prompt">Scéna bude obnovená do predvoleného stavu</string>
+  <string name="screen_locked_toast">Rozloženie plochy je uzamknuté</string>
   <string name="screen_number">Plocha: %d</string>
   <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikácií</string>
   <string name="select_all">Všetko</string>
@@ -239,6 +242,7 @@
   <string name="status_pending">Čaká</string>
   <string name="title_select_live_folder">Vybrať zložku</string>
   <string name="title_select_shortcut">Vybrať zástupcu</string>
+  <string name="toast_screen_icons_misplaced">Obnoviť zo starej databázy. Niektoré ikony môžu zmeniť svoje miesto.</string>
   <string name="toggle_select_title">Zvoliť prepínač</string>
   <string name="toggle_title">Prepínač</string>
   <string name="transformation_type_classic">Klasický</string>
@@ -275,8 +279,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="editing_set_screen_layout_cells">Vyberte efekt rozloženia</string>
-  <string name="toast_screen_icons_misplaced">Obnoviť zo starej databázy. Niektoré ikony môžu zmeniť svoje miesto.</string>
-  <string name="launcher_not_exist">Launcher prestal pracovať, skúste to znova.</string>
-  <string name="screen_locked_toast">Rozloženie plochy je uzamknuté</string>
 </resources>

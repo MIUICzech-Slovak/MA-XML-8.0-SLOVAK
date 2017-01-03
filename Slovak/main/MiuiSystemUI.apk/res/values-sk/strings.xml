@@ -142,10 +142,15 @@
   <string name="disable_notification_summary">Nezobrazovať upozornenia pre tieto apl.</string>
   <string name="disable_notification_title">Skryť upozornenia</string>
   <string name="dismount_storage">Nie</string>
+  <string name="divider_menu_close">Zatvoriť</string>
+  <string name="divider_menu_select_apps">Vybrať</string>
+  <string name="divider_menu_swap_task">Zameniť</string>
   <string name="dlg_confirm_kill_storage_users_text">Pokiaľ zapnete USB úložisko, niektoré spustené aplikácie môžu prestať reagovať.</string>
   <string name="dlg_confirm_kill_storage_users_title">Zapnúť USB úložisko</string>
   <string name="dlg_error_title">USB operácia nedokončená</string>
   <string name="dlg_ok">OK</string>
+  <string name="dock_forced_resizable">Aplikácie nemusí fungovať s  Multi-Window.</string>
+  <string name="dock_non_resizeble_failed_to_dock_text">Aplikácia nepodporuje Multi-Window.</string>
   <string name="drive_mode_tip">Režim AUTO je aktivovaný, jazdite opatrne..!</string>
   <string name="enable_power_save_mode">Povoliť Šetrenie batérie</string>
   <string name="expanded_confirm_disable_notification">Potvrdiť</string>
@@ -180,6 +185,7 @@ Použite sieťovú nabíjačku."</string>
   <string name="long_screenshot_processing">Spracovávanie...</string>
   <string name="long_screenshot_stop">Zastaviť</string>
   <string name="long_screenshot_top_msg">Zhotovenie dlhého screenshotu...</string>
+  <string name="long_screenshot_top_msg_manual">Orežte screenshot a stlačte tlačidlo pre dokončenie</string>
   <string name="managed_profile_foreground_toast">Používate pracovný profil</string>
   <string name="mdb_entering">Pristupovanie k MDB</string>
   <string name="mdb_restore_cancel">Zrušiť</string>
@@ -198,10 +204,16 @@ Použite sieťovú nabíjačku."</string>
   <string name="nav_guide_ok">Nastavenia</string>
   <string name="nav_guide_title">Skryť navigačné tlačidlá</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
+  <string name="no_multi_window_app">Žiadna aplikácie s podporou Multi-Window</string>
   <string name="no_notification_tips">Žiadne upozornenia</string>
   <string name="no_weather_description">Získať info o počasí &gt;</string>
+  <string name="not_support_multi_window">Súčasná aplikácia nepodporuje Multi-Window</string>
   <string name="notification_header_title">Upozornenia</string>
   <string name="notification_hidden_text">Obsah je skrytý</string>
+  <string name="notification_low_battery_action_btn">Povoliť</string>
+  <string name="notification_low_battery_need_charge">Batéria je takmer vybitá.</string>
+  <string name="notification_low_battery_open_save_mode">Povoliť Šetrenie batérie</string>
+  <string name="notification_low_battery_title">Slabá batéria: %d%%</string>
   <string name="notification_manager">Spravovať upozornenia</string>
   <string name="notification_manager_des">Filtrovať a spravovať upozornenia</string>
   <string name="notification_otg_gamestick_in">Herný ovládač je pripojený</string>
@@ -233,6 +245,7 @@ Použite sieťovú nabíjačku."</string>
   <string name="recent_task_app_info_text">Info</string>
   <string name="recent_task_lock_text">Uzamknúť</string>
   <string name="recent_task_unlock_text">Odomknúť</string>
+  <string name="recents_launch_error_message">Nebolo možné spustiť %s.</string>
   <string name="reject_call">Odmietnutie</string>
   <string name="return_to_incall_screen">Stlačte pre návrat k hovoru</string>
   <string name="save_mode_btn_ok">OK</string>
@@ -353,17 +366,4 @@ posunutím nadol uzamknete"</string>
   <string name="wifi_remembered">Uložené</string>
   <string name="wifi_security_none">Žiadne</string>
   <string name="wifi_security_passpoint">Passpoint</string>
-  <string name="long_screenshot_top_msg_manual">Orežte screenshot a stlačte tlačidlo pre dokončenie</string>
-  <string name="divider_menu_close">Zatvoriť</string>
-  <string name="divider_menu_select_apps">Vybrať</string>
-  <string name="divider_menu_swap_task">Zameniť</string>
-  <string name="no_multi_window_app">Žiadna aplikácie s podporou Multi-Window</string>
-  <string name="not_support_multi_window">Súčasná aplikácia nepodporuje Multi-Window</string>
-  <string name="dock_forced_resizable">Aplikácie nemusí fungovať s  Multi-Window.</string>
-  <string name="dock_non_resizeble_failed_to_dock_text">Aplikácia nepodporuje Multi-Window.</string>
-  <string name="recents_launch_error_message">Nebolo možné spustiť %s.</string>
-  <string name="notification_low_battery_action_btn">Povoliť</string>
-  <string name="notification_low_battery_need_charge">Batéria je takmer vybitá.</string>
-  <string name="notification_low_battery_open_save_mode">Povoliť Šetrenie batérie</string>
-  <string name="notification_low_battery_title">Slabá batéria: %d%%</string>
 </resources>

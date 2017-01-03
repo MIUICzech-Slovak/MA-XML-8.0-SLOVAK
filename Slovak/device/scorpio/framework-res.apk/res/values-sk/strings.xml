@@ -139,6 +139,7 @@ Pri nabíjaní zariadenia sa šetrič batérie automaticky vypne."</string>
   <string name="clearDefaultHintMsg">Vymazať predvolené nastavenia v sekcii Nastavenia systému &gt; Aplikácie &gt; Stiahnuté položky.</string>
   <string name="common_name">Bežný názov:</string>
   <string name="condition_provider_service_binding_label">Poskytovateľ podmienky</string>
+  <string name="config_forceVoiceInteractionServicePackage">com.google.android.googlequicksearchbox</string>
   <string name="configure_input_methods">Vybrať klávesnicu</string>
   <string name="contentServiceSync">Synchronizovať</string>
   <string name="contentServiceSyncNotificationTitle">Synchronizovať</string>
@@ -1329,5 +1330,4 @@ Chcete ju zavrieť?"</string>
   <string name="zen_mode_forever_dnd">Dokým nevypnete stav Nerušiť</string>
   <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">Do %1$s</string>
-  <string name="config_forceVoiceInteractionServicePackage">com.google.android.googlequicksearchbox</string>
 </resources>

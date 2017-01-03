@@ -47,6 +47,7 @@
   <string name="action_menu_useful_page">Pridať užitočné</string>
   <string name="action_menu_useful_page_added">Pridané</string>
   <string name="actionbar_share">Zdieľať</string>
+  <string name="actionbar_textselection_title">Výber textu</string>
   <string name="actionbar_web_search">Hľadať</string>
   <string name="adblock_force_updating_rules_toast">Aktualizácia blokovania reklamy</string>
   <string name="adblock_notification">Blokované reklamy: %d</string>
@@ -75,6 +76,7 @@
   <string name="app_new_version">Posledná verzia aplikácie je už nainštalovaná</string>
   <string name="app_update_install">Sťahovanie je dokončené</string>
   <string name="application_name">Prehliadač</string>
+  <string name="autofill_keyboard_accessory_content_description">Dostupné návrhy</string>
   <string name="autofill_popup_content_description">Zobraziť automatické vyplňovanie</string>
   <string name="autologin_bar_error">"Prihlásenie neúspešné."</string>
   <string name="autologin_bar_hide_text">Skryť</string>
@@ -150,6 +152,7 @@
   <string name="color_picker_hue">Odtieň</string>
   <string name="color_picker_saturation">Sýtosť farby</string>
   <string name="comment_app_menu">Komentár</string>
+  <string name="comment_hint">Komentár</string>
   <string name="comment_menu">Komentár</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cz</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.sk</string>
@@ -171,6 +174,7 @@
   <string name="contextmenu_openlink">Otvoriť</string>
   <string name="contextmenu_openlink_newwindow">Otvoriť na novej karte</string>
   <string name="contextmenu_openlink_newwindow_background">Otvoriť na novej karte na pozadí</string>
+  <string name="contextmenu_recognise_qr_code">Rozpoznať QR kód</string>
   <string name="contextmenu_savelink">Uložiť odkaz</string>
   <string name="contextmenu_send_mail">Poslať e-mail</string>
   <string name="contextmenu_set_wallpaper">Nastaviť ako tapetu</string>
@@ -343,6 +347,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="local_bookmarks">Lokálne</string>
   <string name="login_failed_toast">Prihlásenie zlyhalo.</string>
   <string name="low_memory_error">Nebolo možné dokončiť predchádzajúcu akciu z dôvodu málo dostupnej pamäte</string>
+  <string name="low_memory_toast">Nie je možné použiť Prehliadač z dôvodu málo voľnej RAM</string>
   <string name="max_tabs_warning">Ďalšie karty sú nedostupné</string>
   <string name="maximum_input_alert">Maximálne 2048 znakov</string>
   <string name="media_error_action_refresh">Obnoviť</string>
@@ -468,6 +473,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="paused_unknown">Pozastavené</string>
   <string name="paused_waiting_for_network">Čaká na pripojenie...</string>
   <string name="paused_waiting_to_retry">Čaká na opakovanie...</string>
+  <string name="permission_alert_window">Pre použitie tejto funkcie povoľte vyskakovacie okná.</string>
+  <string name="permission_unknown">Neznáme nastavenie</string>
   <string name="popup_window_attempt">Povoliť tejto stránke otvoriť pop-up okno?</string>
   <string name="positive_confirm_message">Deaktivovať</string>
   <string name="pref_accessibility">Prispôsobenie</string>
@@ -524,6 +531,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pref_notifications_receive">Nové upozornenia</string>
   <string name="pref_notifications_title">Upozornenia</string>
   <string name="pref_other_title">Ostatné</string>
+  <string name="pref_paper_mode_title">Čítací režim</string>
   <string name="pref_privacy_clear_cache">Vymazať cache</string>
   <string name="pref_privacy_clear_cache_dlg">Vymazať lokálnu cache obsahu a databáz?</string>
   <string name="pref_privacy_clear_cache_summary">Vyčistiť lokálnu cache obsahu a databáz.</string>
@@ -723,6 +731,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="unsecurity_url_toast">Táto webstránka nie je bezpečná</string>
   <string name="up_to_loading_tips">Pustite pre obnovenie</string>
   <string name="update_no_network_toast">Nie je možné sa pripojiť k sieti</string>
+  <string name="updating_chrome">Aktualizácia Chrome...</string>
   <string name="uploads_disabled">Nahrávanie súborov je vypnuté.</string>
   <string name="url_copy_done">Adresa je skopírovaná</string>
   <string name="url_find_on_page_result">Zobraziť v prehliadači</string>
@@ -817,13 +826,4 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="low_memory_toast">Nie je možné použiť Prehliadač z dôvodu málo voľnej RAM</string>
-  <string name="actionbar_textselection_title">Výber textu</string>
-  <string name="autofill_keyboard_accessory_content_description">Dostupné návrhy</string>
-  <string name="permission_alert_window">Pre použitie tejto funkcie povoľte vyskakovacie okná.</string>
-  <string name="permission_unknown">Neznáme nastavenie</string>
-  <string name="updating_chrome">Aktualizácia Chrome...</string>
-  <string name="contextmenu_recognise_qr_code">Rozpoznať QR kód</string>
-  <string name="pref_paper_mode_title">Čítací režim</string>
-  <string name="comment_hint">Komentár</string>
 </resources>
