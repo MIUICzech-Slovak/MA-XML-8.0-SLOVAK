@@ -37,7 +37,7 @@
         <item>Vysoký</item>
         <item>Veľmi vysoký</item>
     </string-array>
-    <string-array name="wind_direction">
+    <string-array name="wind_direction_simple">
         <item>S</item>
         <item>SV</item>
         <item>V</item>
@@ -96,4 +96,21 @@
         <item>Telgart</item>
         <item>Liptovsky Mikulas</item>
     </string-array>	
+     <string-array name="wind_direction">
+        <item>Severný</item>
+        <item>Severovýchodný</item>
+        <item>Východný</item>
+        <item>Juhovýchodný</item>
+        <item>Južný</item>
+        <item>Juhozápadný</item>
+        <item>Západný</item>
+        <item>Severozápadný</item>
+    </string-array>	
+    <string-array name="wind_unit_detail">
+        <item>Beaufortova stupnica</item>
+        <item>Kilometre za hodinu (km/h)</item>
+        <item>Metre za sekundu (m/s)</item>
+        <item>Míle za hodinu (mph)</item>
+        <item>Uzly (kn)</item>
+    </string-array>
 </resources>

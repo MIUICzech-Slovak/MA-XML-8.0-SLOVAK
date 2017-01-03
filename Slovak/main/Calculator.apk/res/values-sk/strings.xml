@@ -193,4 +193,5 @@
   <string name="preference_settings">Nastavenia</string>
   <string name="preference_use_degress_summary">Nahradiť radiány s uhlami v goniometrických funkciách</string>
   <string name="preference_use_degress_title">Použitie uhlov</string>
+  <string name="app_name_danfa">Mi Kalkulačka</string>
 </resources>

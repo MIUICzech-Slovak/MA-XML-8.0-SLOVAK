@@ -275,4 +275,11 @@ Nie je možné odoslať váš názor"</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 8</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
+  <string name="alpha_apply">Odhlásenie z BETA testovania</string>
+  <string name="alpha_cancel">Odhlásiť sa z BETA testovania</string>
+  <string name="alpha_cancel_cancel">Zrušiť</string>
+  <string name="alpha_cancel_confirm">Odhlásiť?</string>
+  <string name="alpha_cancel_ok">OK</string>
+  <string name="alpha_no_network">Pripojte sa k sieti</string>
+  <string name="menu_title_apply_for_alpha">Odhlásiť sa z BETA testovania</string>
 </resources>

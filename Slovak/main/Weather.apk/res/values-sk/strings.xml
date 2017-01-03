@@ -34,8 +34,7 @@
   <string name="common_loading_text">Načítavanie...</string>
   <string name="daily_forcast_drawer_on_bottom">Skryť</string>
   <string name="daily_forcast_drawer_on_top">%1$s-dňová predpoveď</string>
-  <string name="daily_forcast_no_stable_direction">Bezvetrie</string>
-  <string name="daily_forcast_no_wind">&lt;12km/h</string>
+  <string name="daily_forcast_no_stable_direction">Vánok</string>
   <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>
   <string name="daily_forcast_whirl_wind">Víchrica</string>
   <string name="daily_forecast_detail_date">d.M.</string>
@@ -111,4 +110,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="weather_alert">Varovania</string>
   <string name="activity_main_update_time_expire">Neaktuálne dáta</string>
+  <string name="information_manager_extension">Rošírená predpoveď</string>
+  <string name="other">Ostatné</string>
 </resources>
