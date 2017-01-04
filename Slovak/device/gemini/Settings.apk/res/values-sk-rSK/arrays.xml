@@ -288,4 +288,11 @@
         <item>Uprednostniť Wi-Fi</item>
         <item>Uprednostniť mobilné pripojenie</item>
      </string-array>
+	<string-array name="privacy_password_function_specfication_names">
+        <item>Správy</item>
+        <item>Fotografie</item>
+        <item>Súbory</item>
+        <item>Poznámky</item>
+        <item>Detský režim</item>
+    </string-array>	 
 </resources>
