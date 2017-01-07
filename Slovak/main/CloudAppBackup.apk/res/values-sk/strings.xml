@@ -78,7 +78,7 @@ Ok pre zrušenie obnovy"</string>
   <string name="cloud_app_restore_pending">Čakanie...</string>
   <string name="cloud_app_restore_progress">Obnovovanie...</string>
   <string name="cloud_app_restore_prompt">Obnova prepíše všetky dáta v zariadení zálohovanými dátami v cloude.</string>
-  <string name="cloud_app_restore_query_error_prompt">"Načítavanie dát z cloudu zlyhalo. Aplikácie a užívateľské dáta budu automaticky obnovené hneď keď sa podarí spojiť so serverom."</string>
+  <string name="cloud_app_restore_query_error_prompt">"Načítavanie dát z cloudu zlyhalo. Aplikácie a užívateľské dáta budú automaticky obnovené hneď keď sa podarí spojiť so serverom."</string>
   <string name="cloud_app_restore_success">Aplikácia obnovená.</string>
   <string name="cloud_app_restore_summary">Obnoviť aplikácie zo zálohy a dáta aplikácií</string>
   <string name="cloud_app_restore_wifi_prompt">Pre obnovenie aplikácií a užívateľských dát je nutné sa pripojiť k Wi-Fi sieti.</string>

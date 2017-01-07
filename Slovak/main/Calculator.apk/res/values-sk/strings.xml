@@ -91,7 +91,7 @@
   <string name="tax_city_error">Zadajte vaše mesto</string>
   <string name="tax_last_salary_hint">Zadajte vaše zárobky</string>
   <string name="tax_last_salary_number">Zárobky</string>
-  <string name="title_bar">Konvverzia dĺžky</string>
+  <string name="title_bar">Konverzia dĺžky</string>
   <string name="unit_data_default_length_0">m</string>
   <string name="unit_data_default_length_1">cm</string>
   <string name="unit_data_default_weight_0">kg</string>
@@ -141,7 +141,7 @@
   <string name="unit_data_display_time_ms">Millisekunda</string>
   <string name="unit_data_display_time_ps">Picosekunda</string>
   <string name="unit_data_display_time_s">Sekunda</string>
-  <string name="unit_data_display_time_us">Microsekundad</string>
+  <string name="unit_data_display_time_us">Microsekunda</string>
   <string name="unit_data_display_time_week">Týždeň</string>
   <string name="unit_data_display_time_yr">rok</string>
   <string name="unit_data_display_velocity_c">Svetelná rýchlosť</string>

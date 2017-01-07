@@ -212,7 +212,7 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_find_device_guide_micloud">Povoliť synchr. s MiCloud</string>
   <string name="micloud_find_device_guide_micloud_sub_content">Synchr. kontakty, fotografie, poznámky a oveľa viac s MiCloud</string>
   <string name="micloud_find_device_guide_noti_content">Chráňte vaše dáta pri strate telefónu</string>
-  <string name="micloud_find_device_guide_noti_title">Povoliť Vyhľadávanie zariadneia</string>
+  <string name="micloud_find_device_guide_noti_title">Povoliť Vyhľadávanie zariadenia</string>
   <string name="micloud_find_device_guide_progress">Aktivácia Vyhľadávania zariadenia...</string>
   <string name="micloud_find_device_guide_title">Prihláste sa do %s pre vyhľadanie, zablokovanie alebo vymazanie vášho zariadenia.</string>
   <string name="micloud_find_device_open_fail">Nebolo možné aktivovať Vyhľadávanie zariadenia</string>
@@ -381,7 +381,7 @@ Táto funkcia zašifruje a odošle vaše číslo na server Mi."</string>
   <string name="mx_dspt_provision_privacy_2_sim">"Táto funkcia vyžaduje vaše telefónne číslo. Váš operátor môže spoplatniť dve odoslané SMS správy pre aktivovanie tejto funkcie.
 
 Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
-  <string name="mx_dspt_provision_privacy_no_sim">Táto funkcia vyžaduje vaše telefónné číslo. Keď vložíte SIM kartu do telefónu, bude odoslaná SMS pre aktiváciu tejto služby.</string>
+  <string name="mx_dspt_provision_privacy_no_sim">Táto funkcia vyžaduje vaše telefónne číslo. Keď vložíte SIM kartu do telefónu, bude odoslaná SMS pre aktiváciu tejto služby.</string>
   <string name="mx_sub_dspt_provision">Cloud správy</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
   <string name="mx_voip_dspt">MiVoice</string>
@@ -444,7 +444,7 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="sync_dspt_entrance_provision_2">Viac</string>
   <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívať</string>
   <string name="sync_dspt_entrance_provision_confirm_content">Aplikácie MIUI využívajú MiCloud pre zálohu fotografií, kontaktov, poznámok a oveľa viac. MiCloud je dostupný zdarma pre všetkých.</string>
-  <string name="sync_dspt_entrance_provision_confirm_open">Použíť MiCloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Použiť MiCloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
   <string name="sync_dspt_provision">"Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo na "</string>
@@ -486,7 +486,7 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="vcode">Overovací kód</string>
   <string name="verify">Overiť</string>
   <string name="view_storage_title">Kapacita cloudu</string>
-  <string name="voip_choose_sim">Vyberte telefónné číslo pre aktiváciu MiVoice</string>
+  <string name="voip_choose_sim">Vyberte telefónne číslo pre aktiváciu MiVoice</string>
   <string name="wipe_data_dialog_button_check_sync">Skontrolovať synchr.</string>
   <string name="wipe_data_dialog_msg">%s neboli synchronizované a ostanú vo vašom zariadení.</string>
   <string name="wipe_data_dialog_msg_and_on">, a nejaké iné položky</string>

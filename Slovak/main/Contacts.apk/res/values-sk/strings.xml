@@ -29,7 +29,7 @@
   <string name="add_to_my_contacts">Pridať do Mojich kontaktov</string>
   <string name="add_wait">Pridať pauzu</string>
   <string name="add_xiaomi_account_dialog_btn">Použiť účet Mi</string>
-  <string name="add_xiaomi_account_dialog_msg">Pre čo najväčšie pohodlie zvážte používanie účtu Mi na synchronizáciu a zálohu Vaších kontaktov.</string>
+  <string name="add_xiaomi_account_dialog_msg">Pre čo najväčšie pohodlie zvážte používanie účtu Mi na synchronizáciu a zálohu Vašich kontaktov.</string>
   <string name="add_xiaomi_account_dialog_title">Zvoliť účet synchr.</string>
   <string name="aggregation_suggestion_edit_dialog_message">Prepnúť do úpravy zvoleného kontaktu? Doposiaľ zadané informácie budú skopírované.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Upraviť vybrané kontakty</string>
@@ -203,10 +203,10 @@
   <string name="contact_detail_miprofile_accept_fail_toast">Nebolo možné vymeniť si karty kontaktu</string>
   <string name="contact_detail_miprofile_accept_success_toast">Vymeniť karty kontaktu</string>
   <string name="contact_detail_miprofile_binded_label">Pridané</string>
-  <string name="contact_detail_miprofile_exchange_closed">"S týmto Mi účtom nie je prepojené žiadne telefónné číslo
+  <string name="contact_detail_miprofile_exchange_closed">"S týmto Mi účtom nie je prepojené žiadne telefónne číslo
 Karty kontaktu sú deaktivované"</string>
   <string name="contact_detail_miprofile_privacy_settings">Požadovať povolenie pre zobrazenie</string>
-  <string name="contact_detail_miprofile_request">Vymeníť si karty kontaktu</string>
+  <string name="contact_detail_miprofile_request">Vymeniť si karty kontaktu</string>
   <string name="contact_detail_miprofile_request_fail_toast">Požiadavku nebolo možné odoslať</string>
   <string name="contact_detail_miprofile_request_subtitle">Automaticky aktualizovať profilovú fotografiu a informácie</string>
   <string name="contact_detail_miprofile_request_success_toast">Požiadavka odoslaná</string>
@@ -394,7 +394,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="display_ungrouped">Všetky ďalšie kontakty</string>
   <string name="display_warn_remove_ungrouped">"Odstránenie \"%s\" zo synchronizácie zároveň odstráni všetky nezoskupené kontakty."</string>
   <string name="duplicate_group_name">Táto skupina už existuje</string>
-  <string name="editContactDescription">Updaviť kontakt</string>
+  <string name="editContactDescription">Upraviť kontakt</string>
   <string name="editContactNameExpandCloseDescription">Zbaliť meno</string>
   <string name="editContactNameExpandOpenDescription">Rozbaliť meno</string>
   <string name="editGroupDescription">Upraviť skupinu</string>
@@ -482,7 +482,7 @@ Chyba: \"%s\""</string>
   <string name="group_rename_dialog_title">Premenovať skupinu</string>
   <string name="group_rename_fail_toast">Premenovanie skupiny zlyhalo</string>
   <string name="group_rename_success_toast">Skupina je premenovaná</string>
-  <string name="group_sms_error_message">SMS nesmie mať viac ako %s príjmateľov</string>
+  <string name="group_sms_error_message">SMS nesmie mať viac ako %s prijímateľov</string>
   <string name="group_sms_progress_msg">Príprava na skupinovú SMS...</string>
   <string name="groupsLabel">Skupiny</string>
   <string name="groups_list_empty">Žiadne skupiny</string>
@@ -684,9 +684,9 @@ Chyba: \"%s\""</string>
   <string name="miprofile_alertdialog_edit">Zadajte meno</string>
   <string name="miprofile_alertdialog_message">Zobraziť toto meno kontaktom ak žiadate výmenu kariet.</string>
   <string name="miprofile_alertdialog_title">Zadajte meno</string>
-  <string name="miprofile_bind_account_alertdialog_message">Musíte pridať vaše telefónné číslo do Mi účtu pre používanie tejto funkcie.</string>
+  <string name="miprofile_bind_account_alertdialog_message">Musíte pridať vaše telefónne číslo do Mi účtu pre používanie tejto funkcie.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Pridať číslo</string>
-  <string name="miprofile_bind_account_alertdialog_title">Pridať telefónné číslo</string>
+  <string name="miprofile_bind_account_alertdialog_title">Pridať telefónne číslo</string>
   <string name="miprofile_contact_add">Pridať</string>
   <string name="miprofile_contact_added">Pridané</string>
   <string name="miprofile_contact_header">Kontakty s kartou kontaktu</string>
@@ -696,7 +696,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_error_accept_self">Nie je možné vymeniť si vlastnú kartu kontaktu</string>
   <string name="miprofile_error_no_miaccount">Prihláste sa do vášho Mi účtu</string>
   <string name="miprofile_error_not_opened">Vypnúť karty kontaktu</string>
-  <string name="miprofile_error_not_set">Vaša karta kontaktu nebolá synchronizovaná na server</string>
+  <string name="miprofile_error_not_set">Vaša karta kontaktu nebola synchronizovaná na server</string>
   <string name="miprofile_error_unknown">Neznáma chyba</string>
   <string name="miprofile_find_miprofile_title">Pridať profil</string>
   <string name="miprofile_find_profile_batch_add">Pridať všetky profily</string>
@@ -726,13 +726,13 @@ Chyba: \"%s\""</string>
   <string name="miprofile_request_header">Žiadosti na výmenu (platnosť skončí po týždni)</string>
   <string name="miprofile_request_menu_clear_request">Vymazať históriu</string>
   <string name="miprofile_request_message">%1$s ľudí si chce s vami vymeniť kartu kontaktu</string>
-  <string name="miprofile_request_notification_message">Príjmite pre zobrazenie profilovej fotografie a viac informácií</string>
+  <string name="miprofile_request_notification_message">Prijmite pre zobrazenie profilovej fotografie a viac informácií</string>
   <string name="miprofile_request_notification_title">%1$s ľudí si chce s vami vymeniť kartu kontaktu</string>
   <string name="miprofile_request_notification_title_name">%1$s si chce s vami vymeniť kartu kontaktu</string>
   <string name="miprofile_save_alertdialog_message">Vaša karta bude automaticky odoslaná tomuto kontaktu.</string>
   <string name="miprofile_save_alertdialog_title">Karta kontaktu prijatá</string>
   <string name="miprofile_switch_off_alertdialog_message">Nebude možné si vymeniť vašu kartu kontaktu s ostatnými MIUI užívateľmi. Vaše kontakty nebudú vidieť vaše profilové video.</string>
-  <string name="miprofile_switch_on_alertdialog_message">Vymeňte si karty kontaktu pre zobrazenie aktuálnej profilovej fotogarfie.</string>
+  <string name="miprofile_switch_on_alertdialog_message">Vymeňte si karty kontaktu pre zobrazenie aktuálnej profilovej fotografie.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Zapnúť</string>
   <string name="miprofile_switch_on_alertdialog_title">Aktualizácia profilovej fotografie</string>
   <string name="missing_name">Skupiny</string>
@@ -931,7 +931,7 @@ Synchronizujte ich teraz."</string>
   <string name="preference_contacts">Kontakt</string>
   <string name="preference_contacts_display">Zobrazenie kontaktov</string>
   <string name="preference_contacts_filter">Kontakty na zobrazenie</string>
-  <string name="preference_contacts_more">Viac nastavení kontakov</string>
+  <string name="preference_contacts_more">Viac nastavení kontaktov</string>
   <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
   <string name="preference_dial_pad_touch_tone_human">Ľudský hlas</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
@@ -1073,7 +1073,7 @@ Synchronizujte ich teraz."</string>
   <string name="share_error">Tento kontakt nemôže byť zdieľaný.</string>
   <string name="share_over_limit">Viac ako 1000, nemôže byť zdieľané.</string>
   <string name="share_via">Zdieľať cez</string>
-  <string name="share_visible_contacts">Zdielať kontakty</string>
+  <string name="share_visible_contacts">Zdieľať kontakty</string>
   <string name="shortcutActivityTitle">Výber skratky kontaktu</string>
   <string name="shortcutContact">Kontakty</string>
   <string name="shortcutDialContact">Priama voľba</string>

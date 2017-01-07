@@ -55,7 +55,7 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
   <string name="accessibility_personal_account_title">Osobný účet – %s</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tlač. zapínania ukončí hovor</string>
   <string name="accessibility_screen_magnification_enable">Gestá zväčšenia</string>
-  <string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďalovať trojitým klepnutím na obrazovku.
+  <string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďaľovať trojitým klepnutím na obrazovku.
 
 Počas priblíženia môžete:
 "Posúvať: Ťahajte dvoma alebo viacerými prstami po obrazovke.
@@ -304,7 +304,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="assist_footer">Pomocné aplikácie vám pomáhajú na základe informácií zo zobrazenej obrazovky. Niektoré aplikácie podporujú spúšťač aj služby hlasového výstupu, aby vám poskytli integrovanú pomoc.</string>
   <string name="assistant_security_warning">Pomocník bude môcť čítať informácie o aplikáciách používaných vo vašom systéme vrátane údajov viditeľných na obrazovke alebo prístupných v aplikáciách.</string>
   <string name="assistant_security_warning_agree">Súhlasím</string>
-  <string name="assistant_security_warning_disagree">Nesúhlasim</string>
+  <string name="assistant_security_warning_disagree">Nesúhlasím</string>
   <string name="assistant_security_warning_title">Chcete urobiť z aplikácie %s pomocnú aplikáciu?</string>
   <string name="assisted_gps">Použiť systém A-GPS</string>
   <string name="assisted_gps_disabled">Vylepšiť funkčnosť GPS pomocou serveru (zrušením tejto funkcie zvýšite výkon GPS)</string>
@@ -351,10 +351,10 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="background_data_dialog_message">Deaktivácia prenosu dát na pozadí šetrí batériu a znižuje objem prenesených dát. Niektoré aplikácie môžu napriek tomu dátové pripojenie na pozadí používať.</string>
   <string name="background_data_dialog_title">Deaktivovať dáta na pozadí?</string>
   <string name="background_data_summary">Aplikácie môžu kedykoľvek synchronizovať, odosielať a prijímať dáta.</string>
-  <string name="background_location_control_summary">Povoliť alebo zakázať aplikáciam ktoré sú spustené na pozadí prístup k vašej polohe</string>
+  <string name="background_location_control_summary">Povoliť alebo zakázať aplikáciám ktoré sú spustené na pozadí prístup k vašej polohe</string>
   <string name="background_location_control_title">Prístup k polohe na pozadí</string>
   <string name="background_location_deselect_apps">Odznačiť všetky</string>
-  <string name="background_location_requests_summary">Povoliť aplikáciam spusteným na pozadí prístup k vašej polohe.</string>
+  <string name="background_location_requests_summary">Povoliť aplikáciám spusteným na pozadí prístup k vašej polohe.</string>
   <string name="background_location_requests_title">Povoliť polohu na pozadí</string>
   <string name="background_location_select_apps">Vybrať všetky</string>
   <string name="background_process_stop_description">Toto je starý proces aplikácie, ktorý je spustený pre prípad, že bude znovu potrebný. Spravidla nie je dôvod ho zastavovať.</string>
@@ -568,7 +568,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: Zadajte prístupový kľúč požadovaný zariadením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
   <string name="bluetooth_enter_pin_msg">Párovanie so zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
-  <string name="bluetooth_enter_pin_msg_hs">Zariadenie vyžaduje 16 miestné heslo</string>
+  <string name="bluetooth_enter_pin_msg_hs">Zariadenie vyžaduje 16 miestne heslo</string>
   <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>
@@ -728,8 +728,8 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="breathing_light_freq_summary">Pauza LED pred blikaním</string>
   <string name="breathing_light_freq_title">" - Frekvencia blikania LED"</string>
   <string name="brightness">Jas</string>
-  <string name="brightness_auto_adjust_off">Manuálny jas môžete nastaviť posúvaním. Jas sa nebude meniť v zavislosti na okolnom osvetlení.</string>
-  <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v zavislosti na okolnom osvetlení a Vašom nastavení.</string>
+  <string name="brightness_auto_adjust_off">Manuálny jas môžete nastaviť posúvaním. Jas sa nebude meniť v závislosti na okolnom osvetlení.</string>
+  <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v závislosti na okolnom osvetlení a Vašom nastavení.</string>
   <string name="brightness_summary">Nastavenie jasu displeja</string>
   <string name="brightness_title">Jas</string>
   <string name="bssid_label">BSSID:</string>
@@ -830,7 +830,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="checking_decryption">Kontroluje sa…</string>
   <string name="checking_find_device_status">Kontrola stavu...</string>
   <string name="checking_for_updates">Kontrola aktualizácií...</string>
-  <string name="childmod_privacy_password_role_instruction">Povoľte Detský režim pre ochranu pred nechcenými akciami pri používaní vašími deťmi.</string>
+  <string name="childmod_privacy_password_role_instruction">Povoľte Detský režim pre ochranu pred nechcenými akciami pri používaní vašimi deťmi.</string>
   <string name="children_mode_enable_title">Detský režim</string>
   <string name="children_mode_set_apps_title">Dostupné aplikácie</string>
   <string name="children_mode_tips_off">Po povolení detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
@@ -1168,7 +1168,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI</string>
   <string name="device_name">Názov zariadenia</string>
-  <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo，zadajte ho znova</string>
+  <string name="device_name_input_error">Ukladanie názvu zariadenia zlyhalo, zadajte ho znova</string>
   <string name="device_name_input_hint">Zadajte názov Vášho zariadenia</string>
   <string name="device_name_usage_point">Povoliť vyhľadanie telefónu iným Bluetooth zariadeniam.</string>
   <string name="device_picker">Bluetooth zariadenie</string>
@@ -1185,7 +1185,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dialog_title_color_calibration">Možnosti nastavenia farieb</string>
   <string name="dialog_title_font_size">Veľkosť písma</string>
   <string name="dialog_title_hdmi_color_calibration">Nastavenie farieb</string>
-  <string name="dialog_title_login">Pihlásiť sa na Mi účet</string>
+  <string name="dialog_title_login">Prihlásiť sa na Mi účet</string>
   <string name="dialog_yes">Áno</string>
   <string name="dirac_control">Dirac Ovládanie</string>
   <string name="dirac_mode_earbuds">Špunty</string>
@@ -1210,7 +1210,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="disabled_because_no_backup_security">Pred použitím musíte najskôr nastaviť zámok obrazovky</string>
   <string name="disconnect">disconnect</string>
   <string name="display_auto_rotate_rotate">Otáčať obsah obrazovky</string>
-  <string name="display_auto_rotate_stay_in_current">Ponechať obrazovku v súčasnej orentácii</string>
+  <string name="display_auto_rotate_stay_in_current">Ponechať obrazovku v súčasnej orientácii</string>
   <string name="display_auto_rotate_stay_in_landscape">Ponechať obrazovku v zobrazení na šírku</string>
   <string name="display_auto_rotate_stay_in_portrait">Ponechať obrazovku v zobrazení na výšku</string>
   <string name="display_auto_rotate_title">Pri otáčaní zariadenia</string>
@@ -1718,7 +1718,7 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
   <string name="intent_sender_data_label">Dáta:</string>
   <string name="intent_sender_resource_label">Zdroj:</string>
   <string name="intent_sender_sendbroadcast_text">Odoslať broadcast</string>
-  <string name="intent_sender_startactivity_text">Spustiť činnosť activity</string>
+  <string name="intent_sender_startactivity_text">Spustiť činnosť aktivity</string>
   <string name="internal_format">Formátovať interné úložisko</string>
   <string name="internal_format_summary">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>
   <string name="internal_media_format_button_text">Vymazať Interné</string>
@@ -2435,7 +2435,7 @@ Vyberte váš operačný systém:"</string>
   <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
   <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Teraz</string>
-  <string name="nsd_quick_toggle_summary">Povoliť aplikáciám na iných zariadeniach pristupovať k aplikáciam na Vašom zariadení</string>
+  <string name="nsd_quick_toggle_summary">Povoliť aplikáciám na iných zariadeniach pristupovať k aplikáciám na Vašom zariadení</string>
   <string name="nsd_quick_toggle_title">Detekcia sieťových služieb</string>
   <string name="oem_radio_info_label">Informácie a nastaveniach špecifických pre výrobcu OEM</string>
   <string name="oem_unlock_enable">Povoliť odomknutie OEM</string>
@@ -2665,7 +2665,7 @@ Vyberte váš operačný systém:"</string>
   <string name="power_discharge_remaining">Zostáva %1$s</string>
   <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
   <string name="power_flashlight">Svetlo</string>
-  <string name="power_hide_mode_summary">Zakázať aplikáciam počas vypnutého displeja prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
+  <string name="power_hide_mode_summary">Zakázať aplikáciám počas vypnutého displeja prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
   <string name="power_hide_mode_title">Úspora batérie</string>
   <string name="power_idle">V nečinnosti</string>
   <string name="power_mgr">Batéria</string>
@@ -2787,7 +2787,7 @@ Vyberte váš operačný systém:"</string>
   <string name="privacy_settings_title">Zálohovanie a obnovenie dát</string>
   <string name="private_gallery_need_to_unlock">Nakreslite vzor odomknutia:</string>
   <string name="private_gallery_recording_intro_header">Nakreslite vzor odomknutia:</string>
-  <string name="private_gallery_reset_by_account">Pre obnovenie vášho hesla sa prihlástena váš Mi účet</string>
+  <string name="private_gallery_reset_by_account">Pre obnovenie vášho hesla sa prihláste na váš Mi účet</string>
   <string name="private_sms_need_to_unlock">Vložte heslo pre súkromné SMS</string>
   <string name="private_sms_recording_intro_header">Nakreslite vzor pre uzamknutie heslom</string>
   <string name="private_sms_reset_by_account">Prihláste sa na Mi účet pre zrušenie hesla súkromných SMS</string>
@@ -2859,7 +2859,7 @@ Vyberte váš operačný systém:"</string>
   <string name="quiet_group">Tichý režim</string>
   <string name="quiet_important_interruptions_mode">Povoliť len výnimky</string>
   <string name="quiet_mode">Tichý režim</string>
-  <string name="quiet_no_interruptions_mode">Stíšíť všetko</string>
+  <string name="quiet_no_interruptions_mode">Stíšiť všetko</string>
   <string name="quiet_off_mode">Bežný režim</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Pripojené</string>
@@ -2965,7 +2965,7 @@ Vyberte váš operačný systém:"</string>
   <string name="reset_second_space_passwd">Obnoviť heslo pre Druhý profil</string>
   <string name="reset_second_space_passwd_cancel">Zrušiť</string>
   <string name="reset_second_space_passwd_confirm">Pokračovať</string>
-  <string name="reset_second_space_passwd_detail">Zadajte heslo Mi úťtu použité pre Prvý profil</string>
+  <string name="reset_second_space_passwd_detail">Zadajte heslo Mi účtu použité pre Prvý profil</string>
   <string name="resetting_second_space_passwd">Obnova hesla Druhého profilu</string>
   <string name="resolver_settings_label">Zoradiť</string>
   <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
@@ -3036,7 +3036,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="scan_list_label">Nájdené:</string>
   <string name="screen">Displej</string>
   <string name="screen_button">Tlačidlá na displeji</string>
-  <string name="screen_button_tips">Posu%nte nadol pre ukrytie tlačidiel na displeji</string>
+  <string name="screen_button_tips">Posuňte nadol pre ukrytie tlačidiel na displeji</string>
   <string name="screen_cells_config_title">Nastavenie buniek plochy</string>
   <string name="screen_color_and_optimize">Farby a kontrast</string>
   <string name="screen_color_and_optimize_disabled">Nie je možné upraviť teplotu farieb v režime čítania.</string>
@@ -3254,8 +3254,8 @@ Ako funkciu použiť:
   <string name="security_settings_fingerprint_enroll_dialog_delete">Odstrániť</string>
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Meno</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia svojho telefónu môžete pomocou odtlačku autorizovať nákupy a prístup aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Zámok obrazovky bol deaktivovaný. Stále však môžete pomocou svojho odtlačku autorizovať nákupy a prístup aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia svojho telefónu môžete pomocou odtlačku autorizovať nákupy a prístup aplikácií.</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Zámok obrazovky bol deaktivovaný. Stále však môžete pomocou svojho odtlačku autorizovať nákupy a prístup aplikácií.</string>
   <string name="security_settings_fingerprint_enroll_done">Hotovo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustrácia zariadenia a umiestnenia senzoru odtlačku prsta</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Nájdite snímač odtlačkov prstov na zadnej strane telefónu.</string>
@@ -3512,7 +3512,7 @@ Ak chcete získať viac informácií, kontaktujte svojho správcu."</string>
 
 Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom zariadení."</string>
   <string name="stable_build">" | Stabilná"</string>
-  <string name="starting_android">Spúšta sa Android</string>
+  <string name="starting_android">Spúšťa sa Android</string>
   <string name="status_awaiting_tap">Klepnutím na značku začnete zápis...</string>
   <string name="status_awake_time">Doba mimo spánku</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
@@ -3561,7 +3561,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_show_flow_info">Zobraziť info o spotrebe dát</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikácie</string>
   <string name="status_bar_settings_show_keyguard_notification">Upozornenia na zamykacej obr.</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Zobraziť upozornenia na zamykacej obrazovke a pri fullscreen aplikáciach</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Zobraziť upozornenia na zamykacej obrazovke a pri fullscreen aplikáciách</string>
   <string name="status_bar_settings_show_network_speed">Zobr. rýchlosť prenosu dát</string>
   <string name="status_bar_settings_show_notificationBar_notification">Zobraziť v roletke</string>
   <string name="status_bar_settings_show_notification_icon">Zobraziť ikony upozornení</string>
@@ -4067,7 +4067,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="usb_tethering_active_subtext">Zdieľané</string>
   <string name="usb_tethering_available_subtext">Pripojenie USB je k dispozícii. Ak chcete vytvoriť zdieľané dátové pripojenie, vyberte ich.</string>
   <string name="usb_tethering_button_text">Zdieľané pripojenie cez USB</string>
-  <string name="usb_tethering_errored_subtext">Chyba zdieľania dátového pripojenia prostrednictvom USB</string>
+  <string name="usb_tethering_errored_subtext">Chyba zdieľania dátového pripojenia prostredníctvom USB</string>
   <string name="usb_tethering_storage_active_subtext">Nie je možné zdieľať dátové pripojenie, pokiaľ sa používa úložisko USB</string>
   <string name="usb_tethering_turnon_subtext">Pripojte sa</string>
   <string name="usb_tethering_unavailable_subtext">Pripojenie USB nie je k dispozícií</string>
@@ -4256,7 +4256,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="volume_restore">Obnoviť hlasitosť</string>
   <string name="volume_restore_alert">Všetky nastavenia hlasitosti budú obnovené na predvolené hodnoty, chcete pokračovať?</string>
   <string name="volume_ring_description">Zvonenie a oznámenia</string>
-  <string name="volume_ring_mute">Stĺmiť zvonenie a oznámenia</string>
+  <string name="volume_ring_mute">Stlmiť zvonenie a oznámenia</string>
   <string name="volume_system_description">Systémová hlasitosť pre uzávierku fotoaparátu, zámok obrazovky a ďalšie systémové notifikácie</string>
   <string name="volume_voice_description">Hlas</string>
   <string name="vpn_cancel">Zrušiť</string>
@@ -4503,7 +4503,7 @@ sl. Wi‑Fi Assistant"</string>
   <string name="wifi_p2p_disconnect_title">Odpojiť?</string>
   <string name="wifi_p2p_failed_connect_message">"Nepodarilo sa pripojiť."</string>
   <string name="wifi_p2p_failed_rename_message">Premenovanie zariadenia zlyhalo.</string>
-  <string name="wifi_p2p_menu_rename">Premenovať zariadneie</string>
+  <string name="wifi_p2p_menu_rename">Premenovať zariadenie</string>
   <string name="wifi_p2p_menu_search">Vyhľadať zariadenia</string>
   <string name="wifi_p2p_menu_searching">Vyhľadávanie...</string>
   <string name="wifi_p2p_peer_devices">Zariadenia Peer</string>
@@ -4692,8 +4692,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wifi_wps_failed_auth">Overovanie zlyhalo. Skúste ešte raz.</string>
   <string name="wifi_wps_failed_generic">WPS zlyhalo. Skúste opäť neskôr.</string>
   <string name="wifi_wps_failed_overlap">Bolo nájdené iné WPS. Skúste opäť neskôr.</string>
-  <string name="wifi_wps_failed_tkip">Bezpečnostné nastavenia Wi-Fi routeru (TKIP) niesú podporované</string>
-  <string name="wifi_wps_failed_wep">Bezpečnostné nastavenia Wi-Fi routeru (WEP) niesú podporované</string>
+  <string name="wifi_wps_failed_tkip">Bezpečnostné nastavenia Wi-Fi routeru (TKIP) nie sú podporované</string>
+  <string name="wifi_wps_failed_wep">Bezpečnostné nastavenia Wi-Fi routeru (WEP) nie sú podporované</string>
   <string name="wifi_wps_in_progress">WPS prebieha a môže trvať desiatky sekúnd.</string>
   <string name="wifi_wps_nfc_enter_password">Zadajte heslo siete</string>
   <string name="wifi_wps_onstart_pbc">Stlačte Wi-Fi WPS tlačidlo na Vašom routeri. Môže sa volať \"WPS\" alebo mať tento symbol:</string>
@@ -4757,7 +4757,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zen_mode_downtime_days">Dni</string>
   <string name="zen_mode_downtime_days_none">Žiadne</string>
   <string name="zen_mode_end_time">Čas ukončenia</string>
-  <string name="zen_mode_end_time_next_day_summary_format">%s ďalši deň</string>
+  <string name="zen_mode_end_time_next_day_summary_format">%s ďalší deň</string>
   <string name="zen_mode_end_time_summary_format">%s ďalší deň</string>
   <string name="zen_mode_entry_conditions_summary_none">Nikdy</string>
   <string name="zen_mode_entry_conditions_title">Automaticky zapnúť</string>

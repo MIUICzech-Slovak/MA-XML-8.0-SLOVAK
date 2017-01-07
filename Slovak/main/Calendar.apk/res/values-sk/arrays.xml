@@ -194,7 +194,7 @@
     <string-array name="availability">
         <item>Zaneprázdnený</item>
         <item>Dostupný</item>
-	<item>Nezáväzný</item>
+	    <item>Nezáväzný</item>
     </string-array>      
     <string-array name="visibility">
         <item>Predvolená</item>
@@ -236,7 +236,7 @@
     <string-array name="quick_response_defaults">
         <item>Budem trochu meškať.</item>
         <item>Budem tam o 10min.</item>
-        <item>Začnite bezomňa.</item>
+        <item>Začnite bezo mňa.</item>
         <item>"Sorry, ale nestíham. Musíme to presunúť na inokedy."</item>
     </string-array> 
    <string-array name="prefEntries_alerts_vibrateWhen">
@@ -246,7 +246,7 @@
     </string-array>
     <string-array name="widget_style_list">
         <item>Čierny priehľadný</item>
-        <item>Bielé pozadie</item>
+        <item>Biele pozadie</item>
     </string-array>
 	    <string-array name="repeat_frequency_spinner">
         <item>Deň</item>

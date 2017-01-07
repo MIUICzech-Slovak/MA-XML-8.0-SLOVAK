@@ -355,7 +355,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="media_error_failure">Prehrávanie zlyhalo</string>
   <string name="media_error_format">Chybný formát videa</string>
   <string name="media_error_network_unreachable">Sieť je nedostupná</string>
-  <string name="media_error_nomemory">Nie je dostatok meista na úložisku</string>
+  <string name="media_error_nomemory">Nie je dostatok miesta na úložisku</string>
   <string name="media_error_source">Chyba zdroja videa</string>
   <string name="media_error_timeout">Spojenie bolo ukončené</string>
   <string name="media_error_video_not_exist">Video už nie je dostupné</string>

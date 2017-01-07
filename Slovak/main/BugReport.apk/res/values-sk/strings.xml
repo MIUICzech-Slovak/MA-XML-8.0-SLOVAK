@@ -151,7 +151,7 @@
   <string name="network_errortip_timeout">Platnosť spojenia vypršala, skúste to znova</string>
   <string name="network_errortip_unknow">Pokúšame sa to opraviť...</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
-  <string name="network_unavailable_dialog_content">Hlásená chyba bude odoslaná ked sa pripojíte na sieť</string>
+  <string name="network_unavailable_dialog_content">Hlásená chyba bude odoslaná keď sa pripojíte na sieť</string>
   <string name="network_unavailable_dialog_title">Sieť nedostupná</string>
   <string name="non_system_app_select">Stiahnuté aplikácie</string>
   <string name="open_feedback_main">Viac</string>
@@ -190,14 +190,14 @@
   <string name="tab_title_report">Feedback</string>
   <string name="title_answer_feedback_main">Našli sme odpoveď!</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
-  <string name="title_mi_family">Mi Home v blázkosti</string>
+  <string name="title_mi_family">Mi Home v blízkosti</string>
   <string name="title_nonsystem_app">Iné apl.</string>
   <string name="title_same_question_feedback_main">Podobné chyby na MIUI fóre</string>
   <string name="title_system_app">MIUI apl.</string>
   <string name="toast_description_required">Popis je povinný!</string>
   <string name="toast_feedback_collect_store">Vytváranie záznamu...</string>
   <string name="toast_feedback_network_unavailable">Nie je možné sa pripojiť k sieti</string>
-  <string name="toast_feedback_pending_wlan">Hlásená chyba bude odoslaná ked sa pripojíte na Wi-Fi</string>
+  <string name="toast_feedback_pending_wlan">Hlásená chyba bude odoslaná keď sa pripojíte na Wi-Fi</string>
   <string name="toast_feedback_submitted">Hlásenie chyby bolo úspešne odoslané</string>
   <string name="toast_feedback_submitting">Odosielanie...</string>
   <string name="toast_feedbackservice_in_submit">Odosielanie staršieho hlásenia...</string>
