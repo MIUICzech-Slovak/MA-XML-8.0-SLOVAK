@@ -76,7 +76,7 @@
   <string name="album_type_system">Systémový album</string>
   <string name="album_videos_name">Videá</string>
   <string name="alert_secret_album_enter">Viem</string>
-  <string name="alert_secret_album_message">Posuňte prstom zhora nadol v MiCloud abumoch pre zobrazenie tajného albumu. Pre jeho ochranu je nutné nastaviť vzor.</string>
+  <string name="alert_secret_album_message">Posuňte prstom zhora nadol v MiCloud albumoch pre zobrazenie tajného albumu. Pre jeho ochranu je nutné nastaviť vzor.</string>
   <string name="alert_secret_album_title">Pridané do tajného albumu</string>
   <string name="all_faces">Fotografie s touto osobou</string>
   <string name="all_items_synced">Všetky albumy sú synchr. do MiCloud</string>
@@ -114,9 +114,9 @@
   <string name="baby_lock_wallpaper">Tapeta zamykacej obrazovky</string>
   <string name="baby_lock_wallpaper_cancelled">Zmenené na predvolenú tapetu zamknutej obrazovky</string>
   <string name="baby_lock_wallpaper_save_settings_msg">Použiť súčasné nastavenia?</string>
-  <string name="baby_lock_wallpaper_title">Použiť fotografie dieťata ako tapetu zamykacej obrazovky</string>
+  <string name="baby_lock_wallpaper_title">Použiť fotografie dieťaťa ako tapetu zamykacej obrazovky</string>
   <string name="baby_name_cannot_empty">Zadajte meno</string>
-  <string name="baby_name_cannot_start_with">"Meno nesmie začinať s '%s'"</string>
+  <string name="baby_name_cannot_start_with">"Meno nesmie začínať s '%s'"</string>
   <string name="baby_name_contain_invalidate_char">"Meno nesmie obsahovať '%s'"</string>
   <string name="baby_name_reserved">Toto meno je už použité pre iný album</string>
   <string name="baby_nick_name">Prezývka</string>
@@ -281,7 +281,7 @@
   <string name="error_cloud_not_active">MiCloud album sa nepoužíva</string>
   <string name="error_forbidden">Vyskytli sa problémy s vaším účtom: Synchr. deaktivovaná.</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
-  <string name="error_link_has_expired">Platnosť odkazu vypšala</string>
+  <string name="error_link_has_expired">Platnosť odkazu vypršala</string>
   <string name="error_not_acceptable">Chyba servera: Synchr. deaktivovaná.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
   <string name="error_share_not_support">Spájanie zdieľaných albumov nie je podporované</string>
@@ -358,7 +358,7 @@
   <string name="free">Voľné</string>
   <string name="gallery_setting">Galéria</string>
   <string name="gallery_sync_disable_toast">Synchr. galérie nie povolená</string>
-  <string name="get_album_info_in_process">"Získavanie informácií o zdielanom albume. Čakajte prosím..."</string>
+  <string name="get_album_info_in_process">"Získavanie informácií o zdieľanom albume. Čakajte prosím..."</string>
   <string name="gigabyteShort">GB</string>
   <string name="grain">Filmové zrno</string>
   <string name="grayscale">ČB</string>
@@ -399,10 +399,10 @@
   <string name="input_or_select_a_name">Zadajte alebo vyberte meno</string>
   <string name="invalid_invition_url">Chybná URL adresa pozvánky.</string>
   <string name="invalid_recipient_message">"Opravte príjemcov inak nedostanú správu."</string>
-  <string name="invite_send_sms_tip">Odoslaná SMS s pozvánkou môže byť spoplatnena vašim operátorom.</string>
+  <string name="invite_send_sms_tip">Odoslaná SMS s pozvánkou môže byť spoplatnená vašim operátorom.</string>
   <string name="invite_sharer_again_confirm_button_text">Pozvať znovu</string>
   <string name="invite_sharer_confirm_button_text">Pozvať</string>
-  <string name="invite_sharer_phone_number_tip">Zadajte telefónné číslo</string>
+  <string name="invite_sharer_phone_number_tip">Zadajte telefónne číslo</string>
   <string name="invite_sharer_relation_tip">Vzťah s %1$s</string>
   <string name="invite_sharer_title">Pozvať %1$s %2$s</string>
   <string name="invite_tip">Zdieľajte fotografie vášho dieťaťa</string>
@@ -529,7 +529,7 @@
   <string name="people_page_unname">Neznámy</string>
   <string name="pet_album_display_name">Fotografie zvieraťa</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone_number_empty_alert">Pridať telefónné číslo</string>
+  <string name="phone_number_empty_alert">Pridať telefónne číslo</string>
   <string name="photo">Fotografie</string>
   <string name="photo_edit_file_not_exits_tip">Najskôr stiahnite fotografiu pred jej úpravou</string>
   <string name="photo_editor_label">Upraviť</string>
@@ -672,7 +672,7 @@
   <string name="slideshow_interval_title">Zobraziť každý snímok</string>
   <string name="slideshow_interval_value">" %1$d sekúnd"</string>
   <string name="slim_after_backuped_summary">Nahradiť fotografie v plnom rozlíšení na lokálnom úložisku optimalizovanými náhľadmi po zálohovaní na MiCloud. Fotografie v plnom rozlíšení sú stále uložené na Micloud. Takto môžete ušetriť mnoho voľného miesta.</string>
-  <string name="slim_after_backuped_title">Optimalizovať lokálné úložisko po zálohovaní</string>
+  <string name="slim_after_backuped_title">Optimalizovať lokálne úložisko po zálohovaní</string>
   <string name="slim_introduce">Nahradiť fotografie a videa na internom úložisku v plnom rozlíšení za náhľady po ich zálohovaní na MiCloud. V plnom rozlíšení budú i naďalej dostupné na MiCloud. Ušetrite tak viac ako 90% miesta na internom úložisku.</string>
   <string name="slim_introduce_with_specific_size">Nahradiť fotografie a videa na internom úložisku v plnom rozlíšení za náhľady po ich zálohovaní na MiCloud. V plnom rozlíšení budú i naďalej dostupné na MiCloud. Ušetrite tak viac ako %1$s miesta na internom úložisku.</string>
   <string name="slim_now">Zmenšiť teraz</string>
@@ -772,7 +772,7 @@
   <string name="video_editor_more">Viac</string>
   <string name="video_editor_not_support_tips">Žiaden video súbor nie je podporovaný</string>
   <string name="video_editor_ok">OK</string>
-  <string name="video_editor_res_download_failed_tips">Nebolo možné stiahnuť. Skontrolujte nasatvenie siete</string>
+  <string name="video_editor_res_download_failed_tips">Nebolo možné stiahnuť. Skontrolujte nastavenie siete</string>
   <string name="video_editor_res_download_mobil_network_confirm_msg">Stiahnuť hudbu cez mobilné dáta?</string>
   <string name="video_editor_res_download_mobil_network_confirm_title">Využitie mobilných dát</string>
   <string name="video_editor_res_not_load_dialog_msg">Stiahnuť hudbu cez mobilné dáta (viac ako 20MB).</string>

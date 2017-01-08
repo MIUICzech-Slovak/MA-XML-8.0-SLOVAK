@@ -32,7 +32,7 @@
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Nízky</item>
-        <item>Mierný</item>
+        <item>Mierny</item>
         <item>Stredný</item>
         <item>Vysoký</item>
         <item>Veľmi vysoký</item>

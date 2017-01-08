@@ -334,7 +334,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="miui_failed_already_exists">Táto aplikácia už je nainštalovaná</string>
   <string name="miui_failed_conflicting_provider">Konflikt poskytovateľov služieb</string>
   <string name="miui_failed_duplicate_permission">Konflikt povolení</string>
-  <string name="miui_failed_insufficient_storage">Nedostatocná kapacita úložiska</string>
+  <string name="miui_failed_insufficient_storage">Nedostatočná kapacita úložiska</string>
   <string name="miui_failed_invalid_apk">Chyba inštalačného súboru</string>
   <string name="miui_failed_invalid_uri">Nesprávna cesta inštalácie</string>
   <string name="miui_failed_miui_system_incompatible">Inštalačný súbor nie je kompatibilný s MIUI</string>

@@ -111,7 +111,7 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
   <string name="explain_send_sms_permission_button">Overiť</string>
   <string name="explain_send_sms_permission_msg">Pre povolenie %s, Mi Service Framework odošle SMS pre overenie vášho telefónneho čísla. Táto SMS bude spoplatnená bežnou cenou u vášho operátora.</string>
-  <string name="explain_send_sms_permission_title">Overenie vášho telefónneho čisla</string>
+  <string name="explain_send_sms_permission_title">Overenie vášho telefónneho čísla</string>
   <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>

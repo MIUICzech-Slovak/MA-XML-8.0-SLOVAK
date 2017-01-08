@@ -122,7 +122,7 @@
   <string name="account_setup_options_mail_check_frequency_push">Automaticky (v prípade potreby)</string>
   <string name="account_setup_options_mail_window_1day">Posledný deň</string>
   <string name="account_setup_options_mail_window_1month">Minulý mesiac</string>
-  <string name="account_setup_options_mail_window_1quarter">Minulý šťvrťrok</string>
+  <string name="account_setup_options_mail_window_1quarter">Minulý štvrťrok</string>
   <string name="account_setup_options_mail_window_1week">Minulý týždeň</string>
   <string name="account_setup_options_mail_window_2weeks">Posledné dva týždne</string>
   <string name="account_setup_options_mail_window_3days">Posledné tri dni</string>
@@ -314,7 +314,7 @@
   <string name="delete">Odstrániť</string>
   <string name="delete_message_flow">Vymazať tok správy</string>
   <string name="deleted">Odstránené</string>
-  <string name="device_activity_btn_str">Návrat k aktivaci</string>
+  <string name="device_activity_btn_str">Návrat k aktivácií</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
   <string name="device_admin_description">Povoľuje pravidlá zabezpečenia určené serverom</string>
   <string name="device_admin_label">Poslať e-mail</string>
@@ -414,7 +414,7 @@
   <string name="general_preference_text_zoom_tiny">Veľmi malé</string>
   <string name="generic_attachment_problem">Súbor sa nepodarilo pripojiť.</string>
   <string name="get_database_exception">Chyba databázy, vymažte dáta aplikácie Email v Nastaveniach.</string>
-  <string name="gmail_acceleration">Použíť proxy pre Gmail</string>
+  <string name="gmail_acceleration">Použiť proxy pre Gmail</string>
   <string name="gmail_login_confirm_to_use_proxy">Použiť proxy server pre prístup k Gmail účtu?</string>
   <string name="gmail_login_failed_non_proxy_title">Prístup k Gmail serveru zlyhal</string>
   <string name="gmail_server_authorization_deleted">Autorizácia prístupu zlyhala, skúste sa znova prihlásiť.</string>
@@ -451,7 +451,7 @@
   <string name="load_more">Načítať ďalšie</string>
   <string name="loading_conversation">Prebieha načítavanie...</string>
   <string name="loading_conversations">Načítavanie…</string>
-  <string name="loading_from_remote">Vyhľadávanie na servri...</string>
+  <string name="loading_from_remote">Vyhľadávanie na serveri...</string>
   <string name="local_search">Miestne vyhľadávanie</string>
   <string name="local_search_result">Správ nájdených v zariadení: %s</string>
   <string name="login">Prihlásiť</string>
@@ -709,7 +709,7 @@
   <string name="refreshing_done">Synchronizácia dokončená</string>
   <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="remind_attachment_size_limit">Vaše správy by mali byť menšie ako %sMB</string>
-  <string name="remote_search_result">Správ nájdených an serveri: %s</string>
+  <string name="remote_search_result">Správ nájdených na serveri: %s</string>
   <string name="remove_account">Odobrať účet</string>
   <string name="remove_folder">Odstrániť z priečinka %1$s</string>
   <string name="remove_star">Odstrániť hviezdičku</string>

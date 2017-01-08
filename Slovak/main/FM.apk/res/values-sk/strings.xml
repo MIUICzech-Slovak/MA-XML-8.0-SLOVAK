@@ -18,7 +18,7 @@
   <string name="audio_type_mono">Mono</string>
   <string name="audio_type_stereo">Stereo</string>
   <string name="auto_select_af">Alternatívna frekvencia</string>
-  <string name="auto_select_af_summary">Využíva technológie AF pre hľadanie alternativnej frekvencie rovnakej stanice pri slabom signáli</string>
+  <string name="auto_select_af_summary">Využíva technológie AF pre hľadanie alternatívnej frekvencie rovnakej stanice pri slabom signáli</string>
   <string name="button_text_stop">Zastaviť</string>
   <string name="context_menu_item_delete">Vymazať</string>
   <string name="context_menu_item_edit">Upraviť</string>
@@ -109,7 +109,7 @@
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Stlač pre zobrazenie súboru %s</string>
   <string name="reduce_af">Znížiť citlivosť</string>
-  <string name="regional_band">Rozsah frekvencie (vymaže staníce)</string>
+  <string name="regional_band">Rozsah frekvencie (vymaže stanice)</string>
   <string name="runtime_permission_ungranted">Nie je možné nahrávať, pretože apl. nemá potrebné práva</string>
   <string name="search_dialog_title">Vyhľadať stanice</string>
   <string name="sel_band_menu">Vyberte </string>

@@ -58,8 +58,8 @@
         <item quantity="one">Zložky: %d</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Némáte oprávnenie vymazať tieto súbory %d.</item>
-        <item quantity="one">Némáte oprávnenie vymazať tieto súbory %d.</item>
+        <item quantity="other">Nemáte oprávnenie vymazať tieto súbory %d.</item>
+        <item quantity="one">Nemáte oprávnenie vymazať tieto súbory %d.</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Môžete vybrať %d položiek</item>
@@ -258,8 +258,8 @@
         <item quantity="one">Sťahovanie fotografie zlyhalo, skúsiť znova?</item>
      </plurals>
      <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">Sťahovanie %1$d fotografií (%2$dMB) zlyhalo, skôsiť znova?</item>
-        <item quantity="one">Sťahovanie fotografie (%2$dMB) zlyhalo, skôsiť znova?</item>
+        <item quantity="other">Sťahovanie %1$d fotografií (%2$dMB) zlyhalo, skúsiť znova?</item>
+        <item quantity="one">Sťahovanie fotografie (%2$dMB) zlyhalo, skúsiť znova?</item>
      </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">Preskočené vykreslenie %1$d fotografií</item>
@@ -278,8 +278,8 @@
         <item quantity="one">Nebolo možné stiahnuť fotografiu (%2$dMB), pripojte sa k sieti a skúste to znova</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
-        <item quantity="other">Pridaných %d cloud fotografií, deaktivujte \"Zoraziť len lokálne albumy\" pre ich zobrazenie.</item>
-        <item quantity="one">Pridaná %d cloud fotografia, deaktivujte \"Zoraziť len lokálne albumy\" pre ich zobrazenie..</item>
+        <item quantity="other">Pridaných %d cloud fotografií, deaktivujte \"Zobraziť len lokálne albumy\" pre ich zobrazenie.</item>
+        <item quantity="one">Pridaná %d cloud fotografia, deaktivujte \"Zobraziť len lokálne albumy\" pre ich zobrazenie..</item>
     </plurals> 
     <plurals name="number_of_images_synced">
         <item quantity="other">%1$d fotografií</item>

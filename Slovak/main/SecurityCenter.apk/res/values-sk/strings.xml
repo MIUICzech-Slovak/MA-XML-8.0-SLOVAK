@@ -19,7 +19,7 @@
 alebo zadajte heslo"</string>
   <string name="access_control_need_to_unlock_nofingerprint">Zadajte heslo</string>
   <string name="access_control_recording_intro_header">Nakreslite vzor pre uzamknutie aplikácií</string>
-  <string name="access_control_reset_by_account">Prihláste sa na Mi účet pre deaktivovanie zímku aplikácií</string>
+  <string name="access_control_reset_by_account">Prihláste sa na Mi účet pre deaktivovanie zámku aplikácií</string>
   <string name="action_button_text_100">Optimalizovať</string>
   <string name="action_button_text_60">Opraviť</string>
   <string name="action_button_text_60_80">Opraviť</string>
@@ -57,11 +57,11 @@ alebo zadajte heslo"</string>
   <string name="activity_title_white_list">Výnimky</string>
   <string name="adb_install_no_network">Pripojte sa k sieti a skúste to znova</string>
   <string name="adb_install_open">Povolenie...</string>
-  <string name="adb_install_open_error">Nebolo možné povoliť. Skontrolujte vaše nasatvenie siete.</string>
+  <string name="adb_install_open_error">Nebolo možné povoliť. Skontrolujte vaše nastavenie siete.</string>
   <string name="adb_install_reject_notiy">Nepovolená inštalácia %s cez USB</string>
   <string name="adb_install_reject_notiy_desc">Môžete povoliť inštaláciu cez USB v nastaveniach pre vývojárov</string>
   <string name="adb_login_xiaomi_account">Najskôr sa prihláste k vášmu Mi účtu</string>
-  <string name="add_miservice_dialog_content">"%s vyžaduje pridať MIUI service framework do výnimiek. Budete príjmať upozornenia od MIUI a ostatných aplikácií."</string>
+  <string name="add_miservice_dialog_content">"%s vyžaduje pridať MIUI service framework do výnimiek. Budete prijímať upozornenia od MIUI a ostatných aplikácií."</string>
   <string name="add_miservice_dialog_title">MIUI service framework</string>
   <string name="add_to_whitelist_button">Výnimky</string>
   <string name="add_white_list">Pridať</string>
@@ -121,7 +121,7 @@ alebo zadajte heslo"</string>
   <string name="app_not_installed_toast">Aplikácia nie je nainštalovaná.</string>
   <string name="app_version">"Verzia "</string>
   <string name="app_wifi">Wi-Fi</string>
-  <string name="apps_item_sign_dialog_content">\"%s\" podpis nesedí s verziou v App Store. Vymazať túto aplikáciu a nainštalvoať oficiálnu verziu? Poznámka: Inštalovanie aplikácie s iným podpisom môže spôsobiť stratu jej dát.</string>
+  <string name="apps_item_sign_dialog_content">\"%s\" podpis nesedí s verziou v App Store. Vymazať túto aplikáciu a nainštalovať oficiálnu verziu? Poznámka: Inštalovanie aplikácie s iným podpisom môže spôsobiť stratu jej dát.</string>
   <string name="apps_item_sign_dialog_title">Inštalovať Oficiálnu aplikáciu</string>
   <string name="apps_item_sign_install_button_text">Nahradiť</string>
   <string name="apps_item_sms_default_set_success">Nastavené!</string>
@@ -336,7 +336,7 @@ alebo zadajte heslo"</string>
   <string name="cancel_button">Zrušiť</string>
   <string name="captive_portal_exception_title">Pripojiť na verejnú sieť</string>
   <string name="card_main_applock_action">Povoliť</string>
-  <string name="card_main_applock_summary">Chrániť súkromie so zámokm aplikácií</string>
+  <string name="card_main_applock_summary">Chrániť súkromie so zámkom aplikácií</string>
   <string name="card_main_applock_title">Zámok aplikácií</string>
   <string name="card_main_datasave_action">Povoliť</string>
   <string name="card_main_datasave_summary">Komprimovať dáta pre ušetrenie až 20%</string>
@@ -386,8 +386,8 @@ alebo zadajte heslo"</string>
   <string name="cmcc_app_check_dialog_title">Systém je opravený</string>
   <string name="confirmSecondSpacePassword">Potvrďte heslo Druhého profilu</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Pridávanie Mi účtu</string>
-  <string name="confirm_fingerprint_msg">Priložte váš prst na senzor odlačku prstov</string>
-  <string name="confirm_reject_all_permission">Zakázať všetkým aplikáciam používať túto funkciu?</string>
+  <string name="confirm_fingerprint_msg">Priložte váš prst na senzor odtlačku prstov</string>
+  <string name="confirm_reject_all_permission">Zakázať všetkým aplikáciám používať túto funkciu?</string>
   <string name="connect_internet_by_mobiledata">Mobilné pripojenie</string>
   <string name="connect_internet_by_usbshare">Internet cez USB</string>
   <string name="connect_internet_by_wifi">Pripojenie cez Wi-Fi</string>
@@ -456,7 +456,7 @@ For more info check the message you received from your service provider"</string
   <string name="deep_clean_disconnect_data_title">Vypnúť mobilné dáta ak je zariadenie uzamknuté</string>
   <string name="deep_clean_memory_clean_title">Vyčistiť cache ak je zariadenie uzamknuté</string>
   <string name="deep_clean_never_memory_clean">Nikdy</string>
-  <string name="deep_save_memory_clean_summary">Vyčistiť cache ak je zariadenie uzamknuté a zabrániť tak aplikáciam využívať batériu</string>
+  <string name="deep_save_memory_clean_summary">Vyčistiť cache ak je zariadenie uzamknuté a zabrániť tak aplikáciám využívať batériu</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Nastaviť čas kedy sa má zariadenie zapnúť a vypnúť</string>
   <string name="deepclean_cache_header_left">Cache: %d</string>
   <string name="delete">Odstrániť</string>
@@ -482,7 +482,7 @@ For more info check the message you received from your service provider"</string
   <string name="detail_app_button">Podrobnosti</string>
   <string name="details_subtitle">Podrobnosti používania</string>
   <string name="diagnostic_attention_dialog_message">"Prebieha diagnostika pre %1$s. Počkajte kým sa dokonči."</string>
-  <string name="dialog_app_roaming_message">Ak ste v medzinárodnom roamingu, iba aplikácie v zozname výnimiek majú prístup k dátovemu pripojeniu. Aplikácia %1$s nie je pridaná do výnimiek. Zobraziť zoznam výnimiek?"</string>
+  <string name="dialog_app_roaming_message">Ak ste v medzinárodnom roamingu, iba aplikácie v zozname výnimiek majú prístup k dátovému pripojeniu. Aplikácia %1$s nie je pridaná do výnimiek. Zobraziť zoznam výnimiek?"</string>
   <string name="dialog_app_roaming_title">"Roaming nie je povolený pre %1$s"</string>
   <string name="dialog_msg_auto_start_declare">Niektoré bezpečnostné aplikácie môžu nesprávne hlásiť, že im MIUI bráni sa spustiť. Pre kontrolu povolení jednotlivých aplikácií choďte do Nastavenia - Aplikácie.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte pre zálohovanie a odinštalovanie aplikácií</string>
@@ -587,7 +587,7 @@ For more info check the message you received from your service provider"</string
   <string name="hints_ad_header_left">Reklama: %d</string>
   <string name="hints_apk_header_left">Inštalačné apk: %d</string>
   <string name="hints_apk_version">Verzia: %s</string>
-  <string name="hints_auto_start_warning_info">Zákaz auto. spustenia nepovolí príjímať upozornenia aplikácie</string>
+  <string name="hints_auto_start_warning_info">Zákaz auto. spustenia nepovolí prijímať upozornenia aplikácie</string>
   <string name="hints_cleanning_done">Kontrola dokončená</string>
   <string name="hints_cleanning_text">Čistenie...</string>
   <string name="hints_handle_item_text_risk">Riziká: %d</string>
@@ -671,7 +671,7 @@ For more info check the message you received from your service provider"</string
   <string name="kilobyte_per_second">KB/s</string>
   <string name="large_file_sort_type_name">Podľa názvu</string>
   <string name="large_file_sort_type_size">Podľa veľkosti</string>
-  <string name="last_check_canceled">Predchádzajúca kontrola bola zrušena</string>
+  <string name="last_check_canceled">Predchádzajúca kontrola bola zrušená</string>
   <string name="last_check_date_today">"Posledná kontrola: Dnes "</string>
   <string name="last_check_date_yesterday">Posledná kontrola: Včera</string>
   <string name="last_check_never_checked">Odporúča sa spustiť kontrolu</string>
@@ -703,7 +703,7 @@ For more info check the message you received from your service provider"</string
   <string name="lockpattern_continue_button_text">Pokračovať</string>
   <string name="lockpattern_need_to_confirm">Urobte gesto znovu pre potvrdenie:</string>
   <string name="lockpattern_need_to_confirm_wrong">Nezhoduje sa, zadajte ho znovu:</string>
-  <string name="lockpattern_need_to_unlock">PotvrĎte uložený vzor</string>
+  <string name="lockpattern_need_to_unlock">Potvrďte uložený vzor</string>
   <string name="lockpattern_need_to_unlock_wrong">Heslo nie je správne.</string>
   <string name="lockpattern_pattern_confirmed_header">Nový odomykací vzor:</string>
   <string name="lockpattern_pattern_entered_header">Vzor uložený.</string>
@@ -836,7 +836,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
 
  1. Skontrolujte či ste nepresiahli dátový limit u vášho operátora.
  2. Ak ste si práve navýšili dátový limit, skúste reštartovať vaše zariadenie.
- 3. Signál vášho oprátora je možno príliš slabý v tejto lokalite."</string>
+ 3. Signál vášho operátora je možno príliš slabý v tejto lokalite."</string>
   <string name="network_not_available">Nie je možné pripojiť sa k sieti</string>
   <string name="network_operator_exception_summary">Nebolo možné aktivovať vašu SIM kartu. Skontrolujte či ste správne vložili SIM kartu a mobilné dáta sú aktivované u vášho operátora.</string>
   <string name="network_permission_exception_tips">Nie je možné použiť mobilné dáta.</string>
@@ -954,7 +954,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
   <string name="passwordIncorrect">Zadané meno alebo heslo nie je správne</string>
   <string name="password_promotion_button_text">Rozumiem</string>
-  <string name="password_promotion_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný xiaomi účet pre jeho obnovenie.</string>
+  <string name="password_promotion_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný Mi účet pre jeho obnovenie.</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný xiaomi účet pre jeho obnovenie. Pridajte váš Mi účet.</string>
   <string name="password_promotion_postbutton_text">Otvorte Nastavenia</string>
   <string name="password_promotion_title">Heslo ochrany súkromia</string>
@@ -1104,7 +1104,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_category_title_virus_white_list">Výnimky</string>
   <string name="pref_check_network_diagnostics">Skontrolovať či vaše mobilné dáta fungujú normálne</string>
   <string name="pref_connect_settings_enable_background">Povoliť dáta na pozadí</string>
-  <string name="pref_connect_settings_enable_background_hint">"Povoliť aplikáciam využívať dáta aj keď sú spustené na pozadí"</string>
+  <string name="pref_connect_settings_enable_background_hint">"Povoliť aplikáciám využívať dáta aj keď sú spustené na pozadí"</string>
   <string name="pref_connect_settings_exceed_limit">Zakázať dáta nad limit</string>
   <string name="pref_connect_settings_exceed_limit_hint">Zakázať využívanie mobilných dát ak je prekročený limit</string>
   <string name="pref_content_virus_white_list_none">Žiadne položky</string>
@@ -1140,7 +1140,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_specified_adjust">Nastaviť vlastný limit dát</string>
   <string name="pref_specified_traffic_settings">Nastavenie limitu dát</string>
   <string name="pref_summary_lock_screen_memory_clean">Vyčistiť automaticky keď je displej zamknutý</string>
-  <string name="pref_summary_virus_white_list">Zabrániť vybraným aplikáciam pred vyčistením</string>
+  <string name="pref_summary_virus_white_list">Zabrániť vybraným aplikáciám pred vyčistením</string>
   <string name="pref_title_declaration">Dôležité upozornenie</string>
   <string name="pref_title_diagnostics_show_float_notification">Plávajúce upozornenia</string>
   <string name="pref_title_lock_screen_memory_clean">Vyčistiť na pozadí</string>
@@ -1153,7 +1153,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_title_update_notification">Zobraziť spotrebu dát</string>
   <string name="pref_title_virus_white_list">Výnimky</string>
   <string name="pref_traffic_manage_title">Spotreba dát</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Obmädziť využívanie dát pre nové apl.</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Obmedziť využívanie dát pre nové apl.</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Automaticky aktivovať úsporu mobilných dát pre nové nainštalované aplikácie</string>
   <string name="pref_traffic_saving_compressed">Komprimované</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
@@ -1206,7 +1206,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="quick_optimize_no_fix_issue_subtitle">Nebolo možné predĺžiť výdrž batérie</string>
   <string name="quick_optimize_no_fix_issue_title">Nebolo možné opraviť problémy s batériou</string>
   <string name="quick_optimize_no_issue">Žiadne problémy s batériou</string>
-  <string name="quick_optimize_no_issue_subtitle">Všetko vyzera byť v poriadku</string>
+  <string name="quick_optimize_no_issue_subtitle">Všetko vyzerá byť v poriadku</string>
   <string name="quick_optimize_no_issue_title">Nebolo možné nájsť žiadne problémy s batériou</string>
   <string name="quick_optimize_sub_summary_text">Pridané %s k výdrži batérie</string>
   <string name="quick_optimize_suggest_battery_consume_too_fast">Batéria sa neprimerane rýchlo vybíja</string>
@@ -1244,12 +1244,12 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="restrictbackground_conflict_saving_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Deaktivovať Úsporu dát a zakázať dáta na pozadí?</string>
   <string name="result_autoscan_header">Kontrola platieb</string>
   <string name="result_autoscan_info">Automaticky sledovať systémové prostredie ak sú spustené platobné aplikácie</string>
-  <string name="result_sign_header">Nájdených %d neoficálnych apl.</string>
+  <string name="result_sign_header">Nájdených %d neoficiálnych apl.</string>
   <string name="result_sms_header">Zistené riziká pre správy</string>
   <string name="result_sms_info_antispam">Povoliť Antispam pre ochranu pred škodlivými URL</string>
-  <string name="result_sms_info_auth">Zakážte prístup aplikáciam tretích strán k overovacím kódom.</string>
+  <string name="result_sms_info_auth">Zakážte prístup aplikáciám tretích strán k overovacím kódom.</string>
   <string name="result_sms_title_antispam">Nebezpečné URL v SMS</string>
-  <string name="result_sms_title_auth">Riziko pre bankove SMS</string>
+  <string name="result_sms_title_auth">Riziko pre bankové SMS</string>
   <string name="result_virus_header">Nájdených %d vírusov a nebezpečných apl.</string>
   <string name="result_wifi_header">Zistené riziko Wi-Fi</string>
   <string name="right_precent">100%</string>
@@ -1279,7 +1279,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="safe_result_item_empty_monitor">Žiadna apl. nie je vybraná pre platby</string>
   <string name="safe_result_item_info_app_sign">Žiadne neoficiálne apl.</string>
   <string name="safe_result_item_info_app_virus">Žiadne vírusy a nebezpečné apl.</string>
-  <string name="safe_result_item_info_sms_auth">Zakázať prístup aplikáciam tretích strán k overovacím kódom</string>
+  <string name="safe_result_item_info_sms_auth">Zakázať prístup aplikáciám tretích strán k overovacím kódom</string>
   <string name="safe_result_item_info_sms_default">Obnoviť predvolené systémové správy</string>
   <string name="safe_result_item_info_sms_url">Ochrana pred nebezpečnými URL v správach</string>
   <string name="safe_result_item_info_system_antivirus">Ochrana pred vírusmi</string>
@@ -1291,7 +1291,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="safe_result_item_info_wifi_dns">DNS server zabezpečený</string>
   <string name="safe_result_item_info_wifi_encryption">Wi-Fi zašifrovaná</string>
   <string name="safe_result_item_info_wifi_fake">Žiaden fake</string>
-  <string name="safepay_alert_dialog_button_continue">Pokračovat</string>
+  <string name="safepay_alert_dialog_button_continue">Pokračovať</string>
   <string name="safepay_alert_dialog_button_risk">Opraviť</string>
   <string name="safepay_alert_dialog_button_unknown">Znova skontrolovať</string>
   <string name="safepay_alert_dialog_title_risk">&lt;font color=#ec2700&gt;Nájdená hrozba! Prerušte platbu!&lt;/font&gt;</string>
@@ -1299,7 +1299,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="saving_conflict_dialog_cancel">Zrušiť</string>
   <string name="saving_conflict_dialog_ok">OK</string>
   <string name="saving_conflict_dialog_title">Upozornenie</string>
-  <string name="saving_conflict_restrictbackground_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Povoliť dáta na pozadí a Úsporu dát?</string>
+  <string name="saving_conflict_restrictbackground_msg">Nie je možné použiť Úsporu dát ak sú dáta na pozadí zakázané. Povoliť dáta na pozadí a Úsporu dát?</string>
   <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácií prístup k sieťovému pripojeniu.</string>
   <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
   <string name="scan_status_risk">Riskantné</string>
@@ -1385,7 +1385,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="sp_settings_check_item_title_virus_exception">Výnimky vírusov</string>
   <string name="sp_settings_check_item_title_wifi">Wi-Fi</string>
   <string name="sp_settings_exception_count_zero">Žiadne položky</string>
-  <string name="sp_settings_group_title_check_item">Skotrnolovať nastavenia položiek</string>
+  <string name="sp_settings_group_title_check_item">Skontrolovať nastavenia položiek</string>
   <string name="sp_settings_group_title_ime">Bezpečné nastavenie klávesnice</string>
   <string name="sp_settings_group_title_omit">Vynechané položky</string>
   <string name="sp_settings_info_input_method">Použitie systémovej klávesnice v platobných apl.</string>
@@ -1415,7 +1415,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="summary_cloud_space_almost_full">Získať viac miesta na úložisku</string>
   <string name="summary_cloud_space_full">Získajte viac miesta na úložisku a ďalšie funkcie</string>
   <string name="summary_cmcc_app_check">Niektoré aplikácie sa nepodarilo overiť</string>
-  <string name="summary_consume_power">Nájdený problém s prehrievaním ktorý múže ovplyvniť spotrebu batérie</string>
+  <string name="summary_consume_power">Nájdený problém s prehrievaním ktorý môže ovplyvniť spotrebu batérie</string>
   <string name="summary_data_flow">Kontrolovať spotrebu mobilných dát.</string>
   <string name="summary_default_app">%s nie je nastavené ako predvolená aplikácia</string>
   <string name="summary_dev">Zabráňte aplikáciám zneužívať vaše súkromné dáta</string>
@@ -1425,7 +1425,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="summary_flow_purchase_left">Ostáva vám %sMB mobilných dát pre tento mesiac.</string>
   <string name="summary_flow_verify">Vaša spotreba dát nebola synchronizovaná s operátorom %d dní. Objem prenesených dát nameraný vašim zariadením sa môže líšiť od meraní vaším operátorom.</string>
   <string name="summary_flow_verify_failed">Kalibrovať</string>
-  <string name="summary_garbage_clean">Vyčistiťe cache pre uvoľnenie miesta</string>
+  <string name="summary_garbage_clean">Vyčistite cache pre uvoľnenie miesta</string>
   <string name="summary_garbage_lib">Pre lepšiu ochranu proti spyware, adware, a ostatnými škodlivými aplikáciami povoľte automatickú aktualizáciu Čističa.</string>
   <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
   <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
@@ -1435,7 +1435,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="summary_never_flow_verify">Neopravovať objem spotreby dát</string>
   <string name="summary_payment_risk">Vyzerá to, že platobné prostredie nie je bezpečné</string>
   <string name="summary_permission">Chrániť moje súkromie pred aplikáciami</string>
-  <string name="summary_permission_root">Vaše dáta sú vo vačšom ohrození ak aplikácie majú povolené práva ROOT.</string>
+  <string name="summary_permission_root">Vaše dáta sú vo väčšom ohrození ak aplikácie majú povolené práva ROOT.</string>
   <string name="summary_power_optimizer">Úspora batérie obmedzí výkon ak je slabá batéria.</string>
   <string name="summary_realname_verify">Overiť vašu identitu pre bezpečnejšie platby.</string>
   <string name="summary_saving_switch">Úspora mobilných dát môže znížiť objem prenesených dát aplikáciami.</string>
@@ -1726,7 +1726,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Zakázať režim spánku</string>
   <string name="usage_type_wifi_running">Pripojenie Wi-Fi aktívne</string>
-  <string name="usb_adb_input_apply_step_1">Môže to viesť k úniku osobných informácií alebo strate dát. Neodporáčame to robiť ak nie ste vývojár.</string>
+  <string name="usb_adb_input_apply_step_1">Môže to viesť k úniku osobných informácií alebo strate dát. Neodporúčame to robiť ak nie ste vývojár.</string>
   <string name="usb_adb_input_apply_step_2">Vývojári môžu využiť špeciálny software pre ovládanie gest, zmenu nastavení, prístup k USB, atď.</string>
   <string name="usb_adb_input_apply_step_3">Povoliť?</string>
   <string name="usb_install_desc">Inštalovať túto aplikáciu cez USB?</string>

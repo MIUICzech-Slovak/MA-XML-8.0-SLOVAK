@@ -75,7 +75,7 @@
   <string name="download_diff">Stiahnuť len rozdiel</string>
   <string name="download_error">Chyba sťahovania. Skúste to znova.</string>
   <string name="download_failed">Nebolo možné stiahnuť</string>
-  <string name="download_full">Sťiahnuť plnú verziu</string>
+  <string name="download_full">Stiahnuť plnú verziu</string>
   <string name="download_success_reboot_immediately">Reštartujte do novej verzie</string>
   <string name="download_title">Sťahovanie (%s)</string>
   <string name="download_title_first">Získavanie informácií...</string>
@@ -235,7 +235,7 @@ Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
 Svoj názor môžete odoslať každý pondelok"</string>
   <string name="update_feedback_need_account">Musíte sa prihlásiť k Mi účtu</string>
   <string name="update_feedback_need_network">Pripojte sa k sieti</string>
-  <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najkôr aktualizovať na najnovšiu verziu.</string>
+  <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najskôr aktualizovať na najnovšiu verziu.</string>
   <string name="update_feel">Čo si o tom myslíte?</string>
   <string name="update_general">Priemerný</string>
   <string name="update_happy">Skvelý!</string>

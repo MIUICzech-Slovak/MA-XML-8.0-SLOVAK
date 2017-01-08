@@ -164,7 +164,7 @@
   <string name="encrypt_success">Úspešne ukryté</string>
   <string name="encrypt_success_first_five">Úspešne zašifrované. Potiahnite nadol hlavnú stránku aplikácie Súbory pre ich zobrazenie.</string>
   <string name="encrypting">Šifrovanie...</string>
-  <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skuste to znova.</string>
+  <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skúste to znova.</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
   <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
   <string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>
@@ -203,7 +203,7 @@
   <string name="ftp_account_req_notice">Užívateľské meno a heslo, 4~16 znakov, obsahovať čísla, písmena...</string>
   <string name="ftp_anonymous_login">Anonymné FTP</string>
   <string name="ftp_invalid_username_or_password">Chyba prihlásenia</string>
-  <string name="ftp_open_port_error">Nieje možné použiť vybraný FTP port, skontrolujte Vaše nastavenie siete.</string>
+  <string name="ftp_open_port_error">Nie je možné použiť vybraný FTP port, skontrolujte Vaše nastavenie siete.</string>
   <string name="ftp_password_hint">Heslo</string>
   <string name="ftp_port_number">Port</string>
   <string name="ftp_transfer_secure">Bezpečný prenos FTP</string>
@@ -222,7 +222,7 @@
   <string name="homepage_tab_file_view">Úložisko</string>
   <string name="homepage_tab_recent">Nedávne</string>
   <string name="hot_app">Populárne apl</string>
-  <string name="if_cancel">Zrušiť túto opráciu?</string>
+  <string name="if_cancel">Zrušiť túto operáciu?</string>
   <string name="image_loading_error">Nebolo možné načítať obrázok</string>
   <string name="install_fail">Nebolo možné nainštalovať</string>
   <string name="installing">Inštalácia...</string>
@@ -263,7 +263,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="local_video_empty">No small videos on your device. Check out popular ones.</string>
   <string name="login">Prihlásiť sa</string>
   <string name="login_account_bind_skip">Preskočiť</string>
-  <string name="login_reg_content">S MiDrive môžete synchronizovať súbory medzi rôznými zariadeniami.</string>
+  <string name="login_reg_content">S MiDrive môžete synchronizovať súbory medzi rôznymi zariadeniami.</string>
   <string name="login_reg_content0">MiDrive je Váš Cloud</string>
   <string name="login_reg_content1">Použite MiDrive kdekoľvek.</string>
   <string name="login_success_tip">Prihlásenie úspešné</string>
@@ -473,7 +473,7 @@ and never miss the cool new ones!"</string>
   <string name="phone_storage_size_tip">Zobrazenie dostupného miesta na úložisku sa môže líšiť od zobrazenia kapacity v systéme.</string>
   <string name="phone_storage_total">"Celkovo "</string>
   <string name="phone_storage_video_title">"Videá: "</string>
-  <string name="phone_storage_zip_title">"Archivy: "</string>
+  <string name="phone_storage_zip_title">"Archívy: "</string>
   <string name="pick_file">Vyberte súbory</string>
   <string name="pick_folder">Vybrať zložku</string>
   <string name="port_range">Port musí byť medzi 1024–65535</string>
@@ -489,7 +489,7 @@ and never miss the cool new ones!"</string>
   <string name="qq_not_installed">QQ nie je nainštalované</string>
   <string name="quota_info">MiDrive: %1$s dostupné, %2$s celkom</string>
   <string name="recent_show">Nedávne</string>
-  <string name="release_to_signin">Uvolnite pre podpísanie sa.</string>
+  <string name="release_to_signin">Uvoľnite pre podpísanie sa.</string>
   <string name="remote_video_no_network">Nie je možné pripojiť s ak sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
   <string name="rename_alert2">Súbor bude ukrytý.</string>
@@ -568,8 +568,8 @@ and never miss the cool new ones!"</string>
   <string name="share_box_send">Odoslané</string>
   <string name="share_link_failed">Vytváranie odkazu pre zdieľanie zložky zlyhalo!</string>
   <string name="share_to">Zdieľať...</string>
-  <string name="shared_sticker_network_permission_tip">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nasatvenia a skúste to znova.</string>
-  <string name="shared_sticker_page_no_file">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nasatvenia a skúste to znova.</string>
+  <string name="shared_sticker_network_permission_tip">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
+  <string name="shared_sticker_page_no_file">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="shared_sticker_str">Shared by Mi fans</string>
   <string name="shared_sticker_suffix">Sticker at %s</string>
   <string name="shared_sticker_use_tip">"You can send the stickers you saved in WeChat dialogs just like you send images.

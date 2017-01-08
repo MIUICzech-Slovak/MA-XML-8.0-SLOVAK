@@ -45,7 +45,7 @@
   <string name="account_user_name">Meno</string>
   <string name="account_user_name_dialog_title">Zadajte užívateľské meno</string>
   <string name="account_user_other_info">Viac</string>
-  <string name="account_user_phone">Telefónné číslo</string>
+  <string name="account_user_phone">Telefónne číslo</string>
   <string name="account_user_recovery_phone">Telefón obnovy</string>
   <string name="account_user_region">Región</string>
   <string name="account_user_secure_info">Telefón a Email</string>
@@ -58,7 +58,7 @@
   <string name="activate_email_notice">Váš účet musíte aktivovať do 24 hodín</string>
   <string name="activity_not_found_notice">Nie je možné nájsť aplikáciu</string>
   <string name="add_account">Pridať účet</string>
-  <string name="add_this_verified_device">Pridajte toto zariadenie do dôverychodných zariadení</string>
+  <string name="add_this_verified_device">Pridajte toto zariadenie do dôveryhodných zariadení</string>
   <string name="alert_title_remove_account">Odstrániť účet?</string>
   <string name="app_name">Mi účet</string>
   <string name="auth_fail_warning">Prihlásenie k účtu vypršalo, skúste to znova</string>
@@ -82,9 +82,9 @@
   <string name="cloud_service">MiCloud</string>
   <string name="completed">Dokončiť</string>
   <string name="confirm_activate_email">Overené</string>
-  <string name="confirm_delete_app_message">Po vymazaní tejto apl, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
-  <string name="confirm_delete_browser_message">Po vymazaní tohto prehliadača,bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
-  <string name="confirm_delete_device_message">Po vymazaní tohto zariadenia, bude nutné overiť vaše telefónné číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
+  <string name="confirm_delete_app_message">Po vymazaní tejto apl, bude nutné overiť vaše telefónne číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
+  <string name="confirm_delete_browser_message">Po vymazaní tohto prehliadača, bude nutné overiť vaše telefónne číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
+  <string name="confirm_delete_device_message">Po vymazaní tohto zariadenia, bude nutné overiť vaše telefónne číslo pri ďalšom prihlásení sa ku Mi účtu.</string>
   <string name="confirm_phone_number_dialog_message">Overovací kód bude odoslaný na: %s.</string>
   <string name="confirm_phone_number_dialog_title">Potvrdenie telefónneho čísla</string>
   <string name="confirm_unbind">Odpojiť?</string>
@@ -120,10 +120,10 @@
   <string name="error_incomplete_question_or_answer">Vyberte 4 otázky a zadajte odpovede</string>
   <string name="error_invalid_bind_address">Zadaná emailová adresa nie je správna.</string>
   <string name="error_longer_answer_length">Odpoveď môže obsahovať viac ako 128 znakov</string>
-  <string name="error_shorter_answer_length">Odpoveď musí mať via ako 2 znaky</string>
+  <string name="error_shorter_answer_length">Odpoveď musí mať viac ako 2 znaky</string>
   <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je prepojené s viacerými Mi účtami. Nie je možné pridať ďalší účet.</string>
   <string name="facebook">Facebook</string>
-  <string name="failed_dup_secure_phone_number">Toto telefónné číslo už je použité pre iný Mi účet</string>
+  <string name="failed_dup_secure_phone_number">Toto telefónne číslo už je použité pre iný Mi účet</string>
   <string name="find_device_access_denied">Nie je možné načítať stav zariadenia, prístup zamietnutý</string>
   <string name="find_device_account_error">Nie je možné načítať stav zariadenia kvôli chybe účtu</string>
   <string name="find_device_activate_account">Aktivovať účet</string>
@@ -151,7 +151,7 @@
   <string name="just_a_second">Čakajte prosím...</string>
   <string name="loading_micloud_sync_data">Načítavanie...</string>
   <string name="local_device">(toto zariadenie)</string>
-  <string name="locating_current_location">Ziskávanie polohy...</string>
+  <string name="locating_current_location">Získavanie polohy...</string>
   <string name="location_service_not_working">Chyba zistenia polohy</string>
   <string name="login_check_find_device">Získavanie info o zabezpečení...</string>
   <string name="login_check_find_device_failed_title">Nebolo možné skontrolovať zabezpečenie zariadenia</string>
@@ -225,7 +225,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_email_reg_success_summary">%1$s bol prepojený s vašim účtom. Môžete sa ním prihlásiť alebo obnoviť vaše heslo.</string>
   <string name="passport_error_device_id">Nie je možné načítať ID zariadenia</string>
   <string name="passport_error_dup_email">Táto emailová adresa už je prepojená s iným Mi účtom</string>
-  <string name="passport_error_dup_phone">Toto telefónne čislo už je prepojené s iným Mi účtom</string>
+  <string name="passport_error_dup_phone">Toto telefónne číslo už je prepojené s iným Mi účtom</string>
   <string name="passport_error_email">Zadaná emailová adresa nie je správna</string>
   <string name="passport_error_empty_captcha_code">Zadajte passport_captcha kód</string>
   <string name="passport_error_empty_email">Zadajte emailovú adresu</string>
@@ -293,10 +293,10 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_quick_login_dialog_title">Overiť heslo</string>
   <string name="passport_quick_login_step2_title">2-stupňové overenie</string>
   <string name="passport_quick_login_title">Zadajte vaše heslo</string>
-  <string name="passport_re_get_verify_code">Získat kód znova</string>
+  <string name="passport_re_get_verify_code">Získať kód znova</string>
   <string name="passport_re_register">Prihlásiť sa znova</string>
   <string name="passport_recycle_account_prompt">Je toto váš Mi účet?</string>
-  <string name="passport_reg_btn_using_other_phone">Použít alternatívne telefónné číslo</string>
+  <string name="passport_reg_btn_using_other_phone">Použiť alternatívne telefónne číslo</string>
   <string name="passport_reg_failed">Nie je možné vytvoriť účet</string>
   <string name="passport_reg_new">Vytvoriť Mi účet</string>
   <string name="passport_reg_prompt">Nemáte Mi účet? Vytvorte si ho zdarma.</string>
@@ -315,7 +315,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_register_account_goto_email">Otvoriť email</string>
   <string name="passport_register_account_verified_confirm">Účet je overený</string>
   <string name="passport_register_by_email">Vytvoriť účet pomocou emailu</string>
-  <string name="passport_register_restricted">S týmto číslom je spárovaných viacero účtov, zadajte iné telefónné číslo</string>
+  <string name="passport_register_restricted">S týmto číslom je spárovaných viacero účtov, zadajte iné telefónne číslo</string>
   <string name="passport_register_restricted_title">Toto telefónné číslo nie je možné použiť</string>
   <string name="passport_registered_phone_user_ID">Užívateľ ID: %s</string>
   <string name="passport_registered_phone_user_name">Meno: %s</string>
@@ -343,7 +343,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_title_reg">Vytvoriť účet</string>
   <string name="passport_trust_device">Dôverovať tomuto zariadeniu</string>
   <string name="passport_trying_read_verify_code_sms">Získavanie overovacieho kódu...</string>
-  <string name="passport_uplink_reg">Použiť telefónné číslo</string>
+  <string name="passport_uplink_reg">Použiť telefónne číslo</string>
   <string name="passport_uplink_slot1_reg">Použiť SIM 1</string>
   <string name="passport_uplink_slot2_reg">Použiť SIM 2</string>
   <string name="passport_use_generated_pwd_message">Uistite sa, že si pamätáte svoje heslo. Môžete sa ním prihlásiť na inom Mi zariadení.</string>
@@ -405,25 +405,25 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="trusted_browsers_prompt">Prehliadač nebude viac dôveryhodný ak zmažete cookies.</string>
   <string name="trying_read_verify_code_sms">Získavanie ogverovacieho kódu...</string>
   <string name="turn_off_find_device_failed_title">Nie je možné deaktivovať vyhľadávanie zariadenia</string>
-  <string name="turning_off_find_device">Deaktivovanie vyhľadania záriadenia...</string>
+  <string name="turning_off_find_device">Deaktivovanie vyhľadania zariadenia...</string>
   <string name="unbind_sns_description">Po odpojení, sa už neprihlásite do Mi účtu cez %s</string>
   <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
   <string name="unlock_help_notice">"Pomoc:
  · Ak ste zabudli heslo, môžete ho obnoviť na id.mi.com.
  · Ak nemôžete odomknúť vaše zariadenie, choďte na i.mi.com a deaktivujte Vyhľadávanie zariadenia.
- · Toto číslo napíšte nášej zákazníckej podpore: %s"</string>
+ · Toto číslo napíšte našej zákazníckej podpore: %s"</string>
   <string name="update_contacts">Aktualizovať kontakty</string>
   <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>
   <string name="update_email_address_dialog_message">Musíte overiť vašu identitu predtým ako zmeníte váš email.</string>
   <string name="update_email_address_dialog_title">Zmeniť email</string>
-  <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónné čislo.</string>
+  <string name="update_phone_number_notice_message">Musíte overiť vašu identitu predtým ako zmeníte telefónne čislo.</string>
   <string name="updated_nothing">Žiadna aktualizácia</string>
   <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
   <string name="user_avatar_uploading">Nahrávanie...</string>
   <string name="verified_apps">Overené apl.</string>
   <string name="verified_devices">Overené zariadenia</string>
-  <string name="verify_phone_prompt">Vyberte telefónné číslo na overenie</string>
-  <string name="verify_phone_title">Overiť telefónné číslo</string>
+  <string name="verify_phone_prompt">Vyberte telefónne číslo na overenie</string>
+  <string name="verify_phone_title">Overiť telefónne číslo</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>

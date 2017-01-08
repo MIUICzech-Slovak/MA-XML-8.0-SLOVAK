@@ -149,10 +149,10 @@
   <string name="call_record_auto_scenario_title">Nastavenie nahrávania</string>
   <string name="call_record_auto_summary">Všetky nahrávky budú uložené do zložky MIUI/sound_recorder/call_rec</string>
   <string name="call_record_auto_title">Nahrávať automaticky</string>
-  <string name="call_record_auto_unknown_number">NEznáme čísla</string>
+  <string name="call_record_auto_unknown_number">Neznáme čísla</string>
   <string name="call_record_auto_whitelist">Zoznam</string>
   <string name="call_record_auto_whitelist_no_item">Pridajte číslo stlačením tlačidla +</string>
-  <string name="call_record_auto_whitelist_summary">Čisel: %d</string>
+  <string name="call_record_auto_whitelist_summary">Čísel: %d</string>
   <string name="call_record_auto_whitelist_summary_for_one">1 číslo</string>
   <string name="call_record_loading_content">Načítavanie...</string>
   <string name="call_record_off_summary">Nahrávanie deaktivované</string>
@@ -251,7 +251,7 @@
   <string name="change_default_data">Zmeniť</string>
   <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
   <string name="change_default_data_alert_title">Karta UIM musí byť ako predvolená</string>
-  <string name="change_default_data_card">Prevolená SIM pre dáta</string>
+  <string name="change_default_data_card">Predvolená SIM pre dáta</string>
   <string name="change_default_data_card_summary">Vyzerá to, že ste zmenili SIM karty. Nastaviť túto SIM kartu ako predvolenú pre mobilné dáta?</string>
   <string name="change_num">Aktualizovať</string>
   <string name="change_password">Zmeniť heslo blokovania hovorov</string>
@@ -499,7 +499,7 @@
   <string name="handon_ringer_summary">Nefunguje pokiaľ sú zapnuté vibrácie pre prichádzajúce hovory</string>
   <string name="handon_ringer_title">Zdvihnutím stíšiť</string>
   <string name="hintName">Meno</string>
-  <string name="hintPhonenumber">Telefónné číslo</string>
+  <string name="hintPhonenumber">Telefónne číslo</string>
   <string name="home_screen_shortcut">Odkaz na domácej obrazovke</string>
   <string name="importAllSimEntries">Importovať všetko</string>
   <string name="importSimEntry">Importovať</string>
@@ -677,7 +677,7 @@
   <string name="msim_setting_sim_info_editor_title">Upraviť informácie o karte</string>
   <string name="msim_sim_lock">Uzamknutá</string>
   <string name="msim_sim_radio_off">Deaktivovaná</string>
-  <string name="msim_switch_data_conn_toast">Uistite sa, že máte prístup k dátovemu pripojeniu. Režim siete bol zmenený na preferovanie 4G sietí (alebo 3G sietí).</string>
+  <string name="msim_switch_data_conn_toast">Uistite sa, že máte prístup k dátovému pripojeniu. Režim siete bol zmenený na preferovanie 4G sietí (alebo 3G sietí).</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 podporuje len GSM siete. Preferovaný režim siete bol zmenený na 2G.</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
@@ -726,7 +726,7 @@
   <string name="no_change">Neboli vykonané žiadne zmeny.</string>
   <string name="no_internet_available">Ak chcete volať cez internet, skontrolujte najskôr internetové pripojenie.</string>
   <string name="no_internet_available_title">Internetové pripojenie nedostupné</string>
-  <string name="no_number">Žiadne telefónné číslo</string>
+  <string name="no_number">Žiadne telefónne číslo</string>
   <string name="no_sip_account_found">Nemáte žiadne účty pre volanie cez internet. Chcete ho vytvoriť?</string>
   <string name="no_sip_account_found_title">Žiadny účet pre volanie cez internet</string>
   <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
@@ -842,7 +842,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="pin2_changed">Kód PIN2 bol úspešne zmenený.</string>
   <string name="pin2_invalid">Povolené telefónne číslo nebolo aktualizované: Zadali ste nesprávny kód PIN.</string>
   <string name="pin2_invalid_or_name_is_too_long">FDN nebolo aktualizované: zadali ste nesprávny PIN2 alebo je príliš dlhý.</string>
-  <string name="pin2_lock_warning">"Funkce PIN2 bude zablokovaná, ak znova zadáte nesprávny PIN2."</string>
+  <string name="pin2_lock_warning">"Funkcie PIN2 bude zablokovaná, ak znova zadáte nesprávny PIN2."</string>
   <string name="pin2_or_fdn_invalid">Pevne určené čísla (FDN) neboli aktualizované. Kód PIN2 bol nesprávny alebo bolo telefónne číslo odmietnuté.</string>
   <string name="pin2_unblocked">Kód PIN2 bol odblokovaný!</string>
   <string name="pin_attempts">Máte ešte %d pokusov</string>
@@ -859,7 +859,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="place_a_call3">Subscription 3</string>
   <string name="please_connect_network_message">Pripojte sa k sieti</string>
   <string name="please_connect_network_title">Žiadna sieť</string>
-  <string name="please_enter_phone_number">Zadajte telefónné číslo</string>
+  <string name="please_enter_phone_number">Zadajte telefónne číslo</string>
   <string name="please_login_mi_accout">Prihlásiť</string>
   <string name="pocket_mode_summary">Zariadenie sa automaticky uzamkne vo vrecku</string>
   <string name="pocket_mode_title">Zabrániť náhodnému použitiu</string>

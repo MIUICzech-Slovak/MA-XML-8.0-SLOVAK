@@ -63,7 +63,7 @@
   <string name="indices_title_sport">Šport</string>
   <string name="indices_title_uv">UV Index</string>
   <string name="indices_title_visibility">Viditeľnosť</string>
-  <string name="information_manager_extension">Rošírená predpoveď</string>
+  <string name="information_manager_extension">Rozšírená predpoveď</string>
   <string name="information_manager_information">Informácie o počasí</string>
   <string name="information_manager_wlan">Načítať len na Wi-Fi</string>
   <string name="install">Inštalovať</string>
@@ -84,7 +84,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="network_not_available">Nebolo možné sa pripojiť k sieti</string>
   <string name="network_unavailable">Žiadna sieť</string>
   <string name="no_network_btn">Skúsiť znova</string>
-  <string name="open_browser">Otvoriť v Prehliadačí</string>
+  <string name="open_browser">Otvoriť v Prehliadači</string>
   <string name="other">Ostatné</string>
   <string name="pressure_connect">%1$s hPa</string>
   <string name="realtime_humidity_title">Vlhkosť</string>

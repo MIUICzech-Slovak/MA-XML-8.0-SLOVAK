@@ -82,7 +82,7 @@
         <item quantity="one">>Nájdených: %d</item>
     </plurals>	
     <plurals name="hints_install_apps_interval">
-        <item quantity="other">Použíté pred %d dňami</item>
+        <item quantity="other">Použité pred %d dňami</item>
         <item quantity="one">Použité včera</item>
     </plurals>
     <plurals name="search_app_count_txt">
@@ -183,7 +183,7 @@
     </plurals>
     <plurals name="section_security_defend_item_right_tips">
         <item quantity="other">Mazanie %d vírusov</item>
-        <item quantity="one">MAzanie %d vírus</item>
+        <item quantity="one">Mazanie %d vírus</item>
     </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
@@ -193,10 +193,10 @@
         <item quantity="other">Stiahnuté %1$d ľudmi</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">Stiahnuté %1$d ľudmi</item>
+        <item quantity="other">Stiahnuté %1$d ľuďmi</item>
     </plurals>
     <plurals name="million">
-        <item quantity="other">Stiahnuté %1$d ľudmi</item>
+        <item quantity="other">Stiahnuté %1$d ľuďmi</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">Zobrazené: %1$d</item>

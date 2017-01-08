@@ -207,10 +207,10 @@
   <string name="hidden_sender_address">Adresa skrytého odosielateľa</string>
   <string name="hint_search_sms">%d SMS</string>
   <string name="hms_add_image_progress_message">Spracovávanie...</string>
-  <string name="hms_first_use_tips">Pre príjímanie správ služieb musíte byť pripojený k Wi-Fi sieti</string>
+  <string name="hms_first_use_tips">Pre prijímanie správ služieb musíte byť pripojený k Wi-Fi sieti</string>
   <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmie byť prázdny</string>
   <string name="hold_to_talk">Podržte a hovorte</string>
-  <string name="hybrid_check_network">Nasatvenie siete</string>
+  <string name="hybrid_check_network">Nastavenie siete</string>
   <string name="hybrid_data_error">Nastala chyba</string>
   <string name="hybrid_locating_fail">Nebolo možné nájsť vašu polohu</string>
   <string name="hybrid_network_access_denied">Prístup k sieti zamietnutý</string>
@@ -261,7 +261,7 @@
   <string name="message_expired">Platnosť vypršala</string>
   <string name="message_failed">Neúspešné</string>
   <string name="message_failed_body">Skúste to znova</string>
-  <string name="message_number">Telefónné číslo:</string>
+  <string name="message_number">Telefónne číslo:</string>
   <string name="message_pending">Odosielanie...</string>
   <string name="message_queued">V súčasnej dobe nie je možné správu odoslať. Bude odoslaná, akonáhle bude služba k dispozícií.</string>
   <string name="message_readed">Prečítané</string>
@@ -474,7 +474,7 @@
   <string name="received_label">"Prijaté: "</string>
   <string name="recipient_editor_count_format">"%d"</string>
   <string name="recipient_label">"Príjemca: "</string>
-  <string name="recipients_over_size">Príliš mnoho príjmateľov.</string>
+  <string name="recipients_over_size">Príliš mnoho prijímateľov.</string>
   <string name="recording_failed">Nie je možné nahrať</string>
   <string name="refill_now">Znovu zadať</string>
   <string name="refresh">Obnoviť</string>

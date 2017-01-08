@@ -88,7 +88,7 @@
   <string name="download_list_intoAuth">Prístup k autorizácií MIUI</string>
   <string name="download_list_intoAuthAlert">Čakajte prosím</string>
   <string name="download_list_open_xl_cancel">Zrušiť</string>
-  <string name="download_list_open_xl_message">Prístup k Xunlei sťahovaniu, neobmedzenému sťahovanie vyskou rýchlosťou.</string>
+  <string name="download_list_open_xl_message">Prístup k Xunlei sťahovaniu, neobmedzenému sťahovanie vysokou rýchlosťou.</string>
   <string name="download_list_open_xl_ok">OK</string>
   <string name="download_list_open_xl_title">Xunlei sťahovanie</string>
   <string name="download_list_title_browser">Stiahnuté</string>

@@ -78,7 +78,7 @@
   <string name="operation_create_group">Názov</string>
   <string name="operation_create_group_message">Zadajte nový názov skupiny</string>
   <string name="power_chooser_user_define_title">Nový režim</string>
-  <string name="power_config_alarm_sync_summary">Povoliť aplikáciam spustiť budík na pozadí</string>
+  <string name="power_config_alarm_sync_summary">Povoliť aplikáciám spustiť budík na pozadí</string>
   <string name="power_config_alarm_sync_title">Budík</string>
   <string name="power_config_app_background_title">Na pozadí</string>
   <string name="power_config_app_full_screen_title">Na celú obrazovku</string>
@@ -105,7 +105,7 @@
   <string name="power_config_keyguard_notification_title">Upozornenie na zamykacej obrazovke</string>
   <string name="power_config_lcd_mode_dialog_title">Režim LCD</string>
   <string name="power_config_lcd_mode_title">Režim LCD</string>
-  <string name="power_config_location_summary">Povoliť aplikáciam prístup k vašej polohe</string>
+  <string name="power_config_location_summary">Povoliť aplikáciám prístup k vašej polohe</string>
   <string name="power_config_location_title">Poloha</string>
   <string name="power_config_mode_title">Režim úspory</string>
   <string name="power_config_normal_description">Prístup k polohe a dátovému pripojeniu na pozadí bude zakázaný</string>
@@ -138,7 +138,7 @@
   <string name="power_hide_mode_app_list_summary">Nastavenie aplikácií</string>
   <string name="power_hide_mode_app_list_title">Vybrané aplikácie</string>
   <string name="power_hide_mode_app_list_total">Aplikácie: %d</string>
-  <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
+  <string name="power_hide_mode_summary">Zakázať aplikáciám prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
   <string name="power_hide_mode_title">Úspora batérie</string>
   <string name="power_keeper">Úspora batérie</string>
   <string name="power_mode_cpu_state_high">Výkon</string>

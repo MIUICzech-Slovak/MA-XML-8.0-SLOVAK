@@ -40,7 +40,7 @@
   <string name="confirm_location_alert">Ukladanie polohy</string>
   <string name="confirm_location_message">Zariadenie môže zaznamenať vašu polohu vo fotografií. Chcete povoliť?</string>
   <string name="confirm_location_title">Zaznamenávanie polohy</string>
-  <string name="confirm_recording_fail_calling_alert">Počas hovoru nie je možné nahávať video.</string>
+  <string name="confirm_recording_fail_calling_alert">Počas hovoru nie je možné nahrávať video.</string>
   <string name="confirm_recording_fail_recorder_busy_alert">Iná aplikácia využíva mikrofón. Ukončite ju a skúste to znova.</string>
   <string name="confirm_recording_fail_title">Chyba nahrávania</string>
   <string name="confirm_restore_message">Chcete obnoviť predvolené nastavenia?</string>

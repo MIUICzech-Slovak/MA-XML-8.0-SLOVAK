@@ -110,9 +110,9 @@
   <string name="previous">Naspäť</string>
   <string name="qr_code_details">"QR kód: "</string>
   <string name="recognition_error_download_cancel">Neskôr</string>
-  <string name="recognition_error_download_data_msg">Rozpoznávanie vizitiek potrebuje stiahnúť doplnok s veľkosťou okolo 15MB.</string>
+  <string name="recognition_error_download_data_msg">Rozpoznávanie vizitiek potrebuje stiahnuť doplnok s veľkosťou okolo 15MB.</string>
   <string name="recognition_error_download_fail">Sťahovanie doplnku zlyhalo</string>
-  <string name="recognition_error_download_msg">Rozpoznávanie vizitiek potrebuje stiahnúť doplnok s veľkosťou okolo 15MB</string>
+  <string name="recognition_error_download_msg">Rozpoznávanie vizitiek potrebuje stiahnuť doplnok s veľkosťou okolo 15MB</string>
   <string name="recognition_error_download_no_network">Sťahovanie zlyhalo. Skontrolujte nastavenie siete.</string>
   <string name="recognition_error_download_ok">Stiahnuť</string>
   <string name="recognition_error_download_success">Doplnok stiahnutý</string>
@@ -125,7 +125,7 @@
   <string name="sdk_not_ready">Príprava SDK. Skúste to znova neskôr.</string>
   <string name="secure_access_web_url">Otvoriť webstránku</string>
   <string name="see_app_details">Zobraziť podrobnosti</string>
-  <string name="settings">Nasatvenia</string>
+  <string name="settings">Nastavenia</string>
   <string name="shopping_searching">Vyhľadávanie produktu...</string>
   <string name="shopping_title">Odfoťte produkt</string>
   <string name="shopping_vendor_info">Technical support by Taobao</string>

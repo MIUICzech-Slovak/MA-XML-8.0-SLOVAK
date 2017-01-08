@@ -89,8 +89,8 @@
   <string name="setting_alarm_arriving_summary">Zobraziť upozornenie pred zvonením budíka</string>
   <string name="setting_alarm_arriving_title">Upozornenie pred budením</string>
   <string name="settings">Nastavenie</string>
-  <string name="shutdown_alarm_disable_summary">Budík nebude zvoniť ak vypnete zariadnie</string>
-  <string name="shutdown_alarm_enable_summary">Budík bude zvoniť ak vypnete zariadnie</string>
+  <string name="shutdown_alarm_disable_summary">Budík nebude zvoniť ak vypnete zariadenie</string>
+  <string name="shutdown_alarm_enable_summary">Budík bude zvoniť ak vypnete zariadenie</string>
   <string name="shutdown_alarm_title">Zapnúť zariadenie pred budením</string>
   <string name="silent_alarm_summary">Tichý</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
