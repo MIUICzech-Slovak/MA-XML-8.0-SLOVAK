@@ -215,4 +215,7 @@
   <string name="upload_log_failed">Nebolo možné odoslať záznam o chybe</string>
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
+  <string name="permission_granted">Získané povolenia %1$s</string>
+  <string name="time_in_justnow">Práve teraz</string>
+  <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
 </resources>
