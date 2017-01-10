@@ -1265,4 +1265,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="call_forward_option">Presmerovanie hovoru</string>
+  <string name="labelCFVideo">Video</string>
+  <string name="labelCFVoice">Hlas</string>  
 </resources>

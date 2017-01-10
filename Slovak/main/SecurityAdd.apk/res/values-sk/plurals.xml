@@ -8,4 +8,13 @@
         <item quantity="other">Nepridaných apl.: %d</item>
         <item quantity="one">Nepridaných apl.: %d</item>
     </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">Nepridaných apl.: %d</item>
+        <item quantity="zero">Nepridaných apl.: 0</item>
+        <item quantity="one">Nepridaných apl.: %d</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Vyhľadať medzi %d apl.</item>
+        <item quantity="one">Vyhľadať medzi %d apl.</item>
+    </plurals>	
 </resources>

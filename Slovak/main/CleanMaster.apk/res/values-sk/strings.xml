@@ -441,4 +441,11 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="analying">Analýza...</string>
+  <string name="delete_confirm">Vymazať</string>
+  <string name="delete_confirm_msg">Vymazať všetky súbory?</string>
+  <string name="file">Súbory</string>
+  <string name="location_not_found">Nebolo možné nájsť súbor</string>
+  <string name="open_file_error">tento súbor nie je možné otvoriť žiadnou apl.</string>
+  <string name="output_videos">Exportovať videá</string>
 </resources>
