@@ -81,4 +81,25 @@
         <item quantity="other">Skladby už boli označené.</item>
         <item quantity="one">Skladby už boli označené.</item>
     </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"%1$d skladieb nebolo zálohovaných (%2$.1fMB)"</item>
+        <item quantity="one">"%1$d skladba nebola zálohovaná (%2$.1fMB)"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">Zálohovať %1$d skladieb (%2$.1fMB)</item>
+        <item quantity="one">Zálohovať %1$d skladbu (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">Zálohovanie skladieb, ostáva %1$d skladieb (%2$.1fMB)</item>
+        <item quantity="one">Zálohovanie skladby, ostáva %1$d skladba (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">"%d skladieb nebolo zálohovaných do MiCloud. Zastaviť?"</item>
+        <item quantity="one">"%d skladba nebola zálohovaná do MiCloud. Zastaviť?"</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">Vytvorené %1$s | celkom %2$d skladieb</item>
+        <item quantity="zero">Vytvorené %1$s | celkom %2$d skladieb</item>
+        <item quantity="one">Vytvorené %1$s | celkom %2$d skladba</item>
+    </plurals>	
 </resources>
