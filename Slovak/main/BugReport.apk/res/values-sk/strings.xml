@@ -218,4 +218,6 @@
   <string name="permission_granted">Získané povolenia %1$s</string>
   <string name="time_in_justnow">Práve teraz</string>
   <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
+  <string name="feedback_status_forum_reply">Odpovedať</string>
+  <string name="feedback_status_supplement_more">Pridať komentár</string>
 </resources>

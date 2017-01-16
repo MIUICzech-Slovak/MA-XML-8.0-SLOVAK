@@ -60,4 +60,6 @@
   <string name="title_fingerprint">Pridať odtlačok prsta</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte</string>
+  <string name="language_picker_other_languages_title">Ostatné jazyky</string>
+  <string name="language_picker_popular_languages_title">Populárne jazyky</string>  
 </resources>
