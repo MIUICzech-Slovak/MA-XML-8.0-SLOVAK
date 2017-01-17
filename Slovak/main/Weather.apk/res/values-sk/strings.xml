@@ -112,4 +112,10 @@ Zadajte vaše mesto manuálne"</string>
   <string name="view_indexes_item_today">Dnes</string>
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="weather_alert">Varovania</string>
+  <string name="connect_fail">Network connection is abnormal. Please try again later.</string>
+  <string name="daily_forecast_no_data">"Načítavanie dát zlyhalo.
+ Manuálne potiahnite nadol pre obnovenie dát o počasí"</string>
+  <string name="realtime_cityname_default">Miesto</string>
+  <string name="realtime_temperature_no_data">N/A</string>
+  <string name="wind_direction_no_data">Vietor</string>
 </resources>
