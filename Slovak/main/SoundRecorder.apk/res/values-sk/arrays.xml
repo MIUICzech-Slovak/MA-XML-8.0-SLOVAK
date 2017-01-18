@@ -27,7 +27,13 @@
         <item>HD</item>
     </string-array>	
     <string-array name="record_scenes_summaries">
-        <item>Nahrávať cez 2 kanály, prehrávať stereo v slúchadlách</item>
+        <item>Nahrávať hudbu v lepšej kvalite</item>
+        <item>Dajte mikrofón bližšie k zdroju zvuku pre lepšiu kvalitu nahrávky</item>
+        <item>Dajte telefón do stredu medzi dvoch ľudí</item>
+        <item>Maximálna efektívna vzdialenosť od mikrofónu je 10m</item>
+    </string-array>
+    <string-array name="record_scenes_summaries_stereo">
+        <item>Nahrávať hudbu v lepšej kvalite</item>
         <item>Dajte mikrofón bližšie k zdroju zvuku pre lepšiu kvalitu nahrávky</item>
         <item>Dajte telefón do stredu medzi dvoch ľudí</item>
         <item>Maximálna efektívna vzdialenosť od mikrofónu je 10m</item>

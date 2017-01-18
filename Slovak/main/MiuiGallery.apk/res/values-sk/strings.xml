@@ -891,4 +891,6 @@
   <string name="syncing_gprs_title">Zálohovanie cez mobilné dáta</string>
   <string name="syncing_metadata_title">Synchr. MiCloud dát</string>
   <string name="syncing_normal_title">Zálohovanie fotografií a videí</string>  
+  <string name="double_tap_to_higher_definition">Dvakrát poklepte pre HD náhľad</string>
+  <string name="is_higher_definition">HD náhľad</string>
 </resources>

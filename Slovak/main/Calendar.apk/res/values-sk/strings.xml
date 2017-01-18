@@ -430,4 +430,8 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="edit_event_birthday_reminder_summary">Deň %1$s</string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">Tri dni predtým, deň %1$s</string>  
+  <string name="edit_event_reminder_text">%1$s deň %2$s</string>
+  <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s deň %3$s</string>  
 </resources>
