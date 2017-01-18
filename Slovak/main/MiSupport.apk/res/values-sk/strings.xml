@@ -70,6 +70,13 @@ enters this code in Remote assistant."</string>
   <string name="deny">Reject</string>
   <string name="dialog_agree_cancel">Cancel</string>
   <string name="dialog_agree_message">You should agree with our Terms of Service and Privacy Policy to use Remote Assistant. The app should be able to connect to the Internet to work normally.</string>
+  <string name="dialog_agree_message_and">and</string>
+  <string name="dialog_agree_message_eula">Terms of Service</string>
+  <string name="dialog_agree_message_eula_url">http://www.miui.com/res/doc/eula/en.html</string>
+  <string name="dialog_agree_message_head">You should agree with our</string>
+  <string name="dialog_agree_message_privacy">Privacy Policy</string>
+  <string name="dialog_agree_message_privacy_url">http://www.miui.com/res/doc/privacy/en.html</string>
+  <string name="dialog_agree_message_tail">to use Remote Assistant. The app should be able to connect to the Internet to work normally.</string>
   <string name="dialog_agree_noshow">"Don't show again"</string>
   <string name="dialog_agree_ok">Agree</string>
   <string name="dialog_agree_title">Terms and Conditions</string>
