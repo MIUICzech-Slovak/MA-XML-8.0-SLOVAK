@@ -806,7 +806,7 @@
   <string name="xiaomi_account_not_exists_toast">Mi účet neexistuje</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
-  <string name="album_from_format">Od %s</string>
+  <string name="album_from_format">%s</string>
   <string name="album_name_recent_discovery">Nedávne</string>
   <string name="and">" a "</string>
   <string name="backup_battery_low_desc">Stále môžete ešte pokračovať v zálohovaní</string>
