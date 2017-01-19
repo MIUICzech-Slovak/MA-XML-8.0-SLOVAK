@@ -716,7 +716,7 @@
   <string name="reply">Odpovedať</string>
   <string name="reply_add_bodycontent">Vložiť rýchlu odpoveď?</string>
   <string name="reply_all">Odp. všetkým</string>
-  <string name="reply_attribution" formatted="false">Dňa %s používateľ %s napísal:</string>
+  <string name="reply_attribution" formatted="false">%s %s:</string>
   <string name="report_spam">Nahlásiť spam</string>
   <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
   <string name="request_permission_activity">Vyžadujú sa povolenia</string>
