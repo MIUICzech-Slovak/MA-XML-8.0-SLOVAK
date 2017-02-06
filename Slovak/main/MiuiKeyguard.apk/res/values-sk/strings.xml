@@ -74,4 +74,12 @@
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="phone_locked_foget_password">Zabudli ste heslo?</string>
+  <string name="phone_locked_foget_password_content">"Môžete sa prihlásiť na i.mi.com svojim Mi účtom ktorý je prepojený s týmto zariadením a vymazať vaše dáta. Všetky vaše dáta v tomto zariadení budú vymazané. Potom môžete reštartovať zariadenie a obnoviť vaše kontakty, SMS, fotografie z Mi Cloud ak ste mali povolenú synchronizáciu. 
+ 
+ Nebude možné toto vykonať kým sa neprihlásite k vášmu Mi účtu na tomto zariadení."</string>
+  <string name="phone_locked_foget_password_footer">"Postup:
+ Prihláste sa na i.mi.com, choďte na “Find device”, vyberte zariadenie a potvrďte Wipe device."</string>
+  <string name="phone_locked_foget_password_header">Čo mám robiť ak som zabudol heslo?</string>
+  <string name="phone_locked_foget_password_ok">Rozumiem</string>  
 </resources>

@@ -428,4 +428,8 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
   <string name="my_favorite">Moje obľúbené</string>
+  <string name="push_notification_content">Kliknite pre získanie overovacieho kódu</string>
+  <string name="push_notification_title">Prihlásili ste sa svojim Mi účtom na neznámom zariadení</string>
+  <string name="push_notify_dialog_message">New device attempts to log in to your millet account. Please enter the verification code on your new device to complete the security verification. If I do not please modify the millet account password, do not tell others to verify the code.</string>
+  <string name="push_notify_dialog_title">Bezpečnostné overenie prihlásenia</string>  
 </resources>
