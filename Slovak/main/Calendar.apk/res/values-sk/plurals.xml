@@ -33,12 +33,12 @@
         <item quantity="one">+1 udalosť</item>
     </plurals>
     <plurals name="Ndays_ago">
-        <item quantity="other">Pred %1$d dňami o %2$s</item>
-        <item quantity="one">Pred %1$d dňom o %2$s</item>
+        <item quantity="other">%1$d dni predtým o %2$s</item>
+        <item quantity="one">%1$d deň predtým o %2$s</item>
     </plurals>
     <plurals name="Ndays_after">
-        <item quantity="other">Po %1$d dňoch o %2$s</item>
-        <item quantity="one">Po %1$d dni o %2$s</item>
+        <item quantity="other">%1$d dní potom o %2$s</item>
+        <item quantity="one">%1$d deň potom o %2$s</item>
     </plurals>
     <plurals name="Nweeks">
         <item quantity="other">%d týždne</item>
