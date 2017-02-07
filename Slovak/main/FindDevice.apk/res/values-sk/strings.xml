@@ -75,4 +75,6 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
   <string name="unlocking">Aktivovanie...</string>
   <string name="verifing_account">Overovanie hesla...</string>
   <string name="verify_password_failed">Nebolo možné overiť Mi účet. %s.</string>
+  <string name="phone_locked_account_email">, prepojený email: %s</string>
+  <string name="phone_locked_account_phone">, prepojené telefónne číslo: %s</string>  
 </resources>

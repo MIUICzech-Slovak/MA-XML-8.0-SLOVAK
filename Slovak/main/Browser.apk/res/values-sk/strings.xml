@@ -831,4 +831,6 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miuichromium_error_page_btn_report_issue">Nahlásiť chybu</string>
   <string name="pref_fling_on_border">Posunutie od hrany</string>
   <string name="pref_fling_on_border_title_summary">Gesto prstom z pravého alebo ľavého kraja</string>
+  <string name="empty_app_name">iná aplikácia</string>
+  <string name="open_app_confirm_message">Povoliť tejto stránke otvoriť %s?</string>
 </resources>
