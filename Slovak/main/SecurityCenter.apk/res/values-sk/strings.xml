@@ -1763,4 +1763,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
   <string name="auto_task_notify_task_canceled_summary2">Vyzerá to, že hráte hru.</string>
   <string name="shutdown_cancel_reminder_detail2">Vyzerá to, že hráte hru. Naplánované vypnutie je zrušené.</string>
+  <string name="resource_app_permissions">Práva aplikácií</string>
+  <string name="resource_auto_restart">Autoštart aplikácií</string>
+  <string name="resource_usb_install">Inštalácia cez USB</string>
 </resources>

@@ -36,4 +36,8 @@
         <item quantity="other">SMS: %1$s</item>
         <item quantity="one">SMS: %1$s</item>
     </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Vybrané: %d</item>
+        <item quantity="zero">Vyberte položku</item>
+    </plurals>	
 </resources>

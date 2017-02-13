@@ -893,4 +893,11 @@
   <string name="syncing_normal_title">Zálohovanie fotografií a videí</string>  
   <string name="double_tap_to_higher_definition">Dvakrát poklepte pre HD náhľad</string>
   <string name="is_higher_definition">HD náhľad</string>
+  <string name="text_append">Text</string>
+  <string name="text_append_color">Farba</string>
+  <string name="text_append_font">Písmo</string>
+  <string name="text_append_font_example">Aa</string>
+  <string name="text_append_hint">Zadajte text</string>
+  <string name="text_append_style">Bublina</string>
+  <string name="text_append_transparent">Priehľadnosť</string>  
 </resources>

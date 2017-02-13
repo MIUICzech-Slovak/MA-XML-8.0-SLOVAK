@@ -432,4 +432,6 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="push_notification_title">Prihlásili ste sa svojim Mi účtom na neznámom zariadení</string>
   <string name="push_notify_dialog_message">New device attempts to log in to your millet account. Please enter the verification code on your new device to complete the security verification. If I do not please modify the millet account password, do not tell others to verify the code.</string>
   <string name="push_notify_dialog_title">Bezpečnostné overenie prihlásenia</string>  
+  <string name="find_device_locked_account_email" formatted="false">%s, prepojený email: %s</string>
+  <string name="find_device_locked_account_phone" formatted="false">%s, prepojené telefónne číslo: %s</string>  
 </resources>
