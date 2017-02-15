@@ -1268,4 +1268,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="dialog_device_info_hardware_version">Verzia Hardware: %s</string>
   <string name="dialog_device_info_miui_version">Verzia MIUI: %s</string>
   <string name="dialog_device_info_title">Info o verzii</string>
+  <string name="update_sim_contact_photo_toast">Pre kontakty na SIM karte nie je možné nastaviť fotografiu</string>
 </resources>
