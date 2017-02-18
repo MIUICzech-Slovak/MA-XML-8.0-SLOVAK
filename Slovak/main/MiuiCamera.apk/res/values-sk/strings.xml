@@ -417,4 +417,6 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
+  <string name="groupshot_mode_use_hint">"Bude zhotovených viacero snímkov
+pre výber toho najlepšieho"</string>
 </resources>
