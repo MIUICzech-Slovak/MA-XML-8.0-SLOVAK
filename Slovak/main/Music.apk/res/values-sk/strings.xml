@@ -570,4 +570,5 @@
   <string name="shuffle_music">Prehrať náhodne</string>
   <string name="stop">Zastaviť</string>
   <string name="stop_backup">Zastaviť</string>
+  <string name="playlist_type_album">Albumy</string>
 </resources>
