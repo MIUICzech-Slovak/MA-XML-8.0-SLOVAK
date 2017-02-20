@@ -1766,4 +1766,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="resource_app_permissions">Práva aplikácií</string>
   <string name="resource_auto_restart">Autoštart aplikácií</string>
   <string name="resource_usb_install">Inštalácia cez USB</string>
+  <string name="notification_quick_charging_title">Rýchle nabíjanie</string>
 </resources>
