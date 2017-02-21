@@ -340,4 +340,9 @@
         <item>mesiace</item>
         <item>roky</item>
     </string-array>
+    <string-array name="repeat_countdown">
+        <item>Nikdy</item>
+        <item>Mesačne</item>
+        <item>Ročne</item>
+    </string-array>	
 </resources>

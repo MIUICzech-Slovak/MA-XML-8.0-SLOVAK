@@ -6,14 +6,14 @@
         <item quantity="one">Konverzácia bude vymazaná</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">Sekúnd: %s</item>
-        <item quantity="one">Sekúnd: %s</item>
-        <item quantity="few">Sekúnd: %s</item>
+        <item quantity="other">Sekúnd: %d</item>
+        <item quantity="one">Sekúnd: %d</item>
+        <item quantity="few">Sekúnd: %d</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s s</item>
-        <item quantity="one">%s s</item>
-        <item quantity="few">%s s</item>
+        <item quantity="other">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="few">%d s</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s výsledkov na dotaz „%2$s”</item>

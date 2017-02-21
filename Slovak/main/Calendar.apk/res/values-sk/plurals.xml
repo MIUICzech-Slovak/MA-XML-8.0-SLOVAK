@@ -32,11 +32,11 @@
         <item quantity="other">+%d udalosti</item>
         <item quantity="one">+1 udalosť</item>
     </plurals>
-    <plurals name="Ndays_ago">
+    <plurals name="Ndays_ago_at">
         <item quantity="other">%1$d dni predtým o %2$s</item>
         <item quantity="one">%1$d deň predtým o %2$s</item>
     </plurals>
-    <plurals name="Ndays_after">
+    <plurals name="Ndays_after_at">
         <item quantity="other">%1$d dní potom o %2$s</item>
         <item quantity="one">%1$d deň potom o %2$s</item>
     </plurals>
@@ -44,4 +44,32 @@
         <item quantity="other">%d týždne</item>
         <item quantity="one">1 týždeň</item>
     </plurals>
+    <plurals name="Ndays_ago">
+        <item quantity="other">%1$d dni predtým</item>
+        <item quantity="one">%1$d deň predtým</item>
+    </plurals>
+    <plurals name="Ndays_after">
+        <item quantity="other">%1$d dní potom</item>
+        <item quantity="one">%1$d deň potom</item>
+    </plurals>	
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">[Anniversary]%2$d rokov výročie %1$s</item>
+        <item quantity="one">[Anniversary]%2$d rok výročie %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">[Anniversary]%2$d rokov výročie %1$s o 3 dni</item>
+        <item quantity="one">[Anniversary]%2$drok výročie %1$s o 3 days</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">rokov</item>
+        <item quantity="one">rok</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">dní</item>
+        <item quantity="one">deň</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">dní neskôr</item>
+        <item quantity="one">deň neskôr</item>
+    </plurals>	
 </resources>

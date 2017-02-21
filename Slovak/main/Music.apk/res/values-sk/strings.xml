@@ -571,4 +571,21 @@
   <string name="stop">Zastaviť</string>
   <string name="stop_backup">Zastaviť</string>
   <string name="playlist_type_album">Albumy</string>
+  <string name="artist_area_all">Všetky</string>
+  <string name="artist_area_china">Čína</string>
+  <string name="artist_area_europe_usa">Európa/USA</string>
+  <string name="artist_area_japan">Japonsko</string>
+  <string name="artist_area_korea">Kórea</string>
+  <string name="artist_gender_all">Všetky</string>
+  <string name="artist_gender_female">Ženy</string>
+  <string name="artist_gender_group">Skupiny</string>
+  <string name="artist_gender_male">Muži</string>
+  <string name="auto_upgrade">Autom. aktualizácia</string>
+  <string name="favorites">Obľúbené</string>
+  <string name="hot_icon_in_fast_indexer">H</string>
+  <string name="local_page_playlist">Moje playlisty</string>
+  <string name="local_page_song_download_history">Stiahnuté</string>
+  <string name="no_scanned_songs">Prázdne</string>
+  <string name="playlist_empty">Žiaden playlist</string>
+  <string name="recently_played_songs">Nedávno prehrané</string>
 </resources>

@@ -402,4 +402,15 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
+  <string name="both_all_apply_failured">Nie je možné nastaviť tapetu</string>
+  <string name="both_all_apply_success">Tapeta nastavená</string>
+  <string name="home_apply_failured">Nie je možné nastaviť tapetu</string>
+  <string name="home_apply_success">Tapeta nastavená</string>
+  <string name="is_setting_wallpaper_message">Nastavenie tapety...</string>
+  <string name="lockscreen_apply_failured">Nie je možné nastaviť tapetu</string>
+  <string name="lockscreen_apply_failured_but_home_apply_success">Tapeta domácej obrazovky nastavená ale nie je možné nastaviť pre zámok obrazovky</string>
+  <string name="lockscreen_apply_success">Tapeta nastavená</string>
+  <string name="lockscreen_apply_success_but_home_apply_failured">Tapeta zámku nastavená ale nie je možné nastaviť pre domácu obrazovku</string>
+  <string name="the_picture_is_too_small">Obrázok je príliš malý</string>
+  <string name="wallpaper_scroll_type_tips">Posúvanie tapety</string>
 </resources>
