@@ -906,4 +906,8 @@ Postupujte podľa pokynov"</item>
         <item>1</item>
         <item>Neobmedzené</item>
     </string-array>	
+    <string-array name="edge_touch_volume_action">
+        <item>Poklepanie - Spustiť akciu dvojitým poklepaním</item>
+        <item>Potiahnutie - Spustiť akciu potiahnutím</item>
+    </string-array>	
 </resources>
