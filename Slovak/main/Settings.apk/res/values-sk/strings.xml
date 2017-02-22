@@ -4828,7 +4828,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screen_resolution_dialog_title">Zmeniť rozlíšenie</string>
   <string name="screen_resolution_high_format">Vysoké (%1$s)</string>
   <string name="screen_resolution_normal_format">Normálne (%1$s)</string>
-  <string name="screen_resolution_summary">Zníženie rozlíšenia displeja môže zvýšiť výdrž batérie a zrýchliť chod systému.</string>
-  <string name="screen_resolution_switch">Použiť</string>
   <string name="screen_resolution_ultrahigh_format">Ultra (%1$s)</string>
 </resources>
