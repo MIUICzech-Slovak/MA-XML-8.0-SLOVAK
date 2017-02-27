@@ -900,4 +900,21 @@
   <string name="text_append_hint">Zadajte text</string>
   <string name="text_append_style">Bublina</string>
   <string name="text_append_transparent">Priehľadnosť</string>  
+  <string name="backup_close">Ukončiť zálohovanie</string>
+  <string name="backup_pause_title">Zálohovať o %s</string>
+  <string name="default_relation_name">Nová skupina</string>
+  <string name="define_by_user">Vlastné</string>
+  <string name="empty_relation">Názov skupiny nesmie byť prázdny</string>
+  <string name="input_relation_name">Zadajte názov skupiny</string>
+  <string name="load_relations">Načítavanie...</string>
+  <string name="new_relation_invalid_char">Názov skupiny nesmie obsahovať “%s”. Použite len písmena a čísla.</string>
+  <string name="new_relation_invalid_name">“%s” skupina už existuje, zadajte iný názov.</string>
+  <string name="new_relation_invalid_prefix">Nie je možné spustiť skupinu s “.” alebo “_”"</string>
+  <string name="operation_edit_video">Upraviť</string>
+  <string name="operation_rename">Premenovať</string>
+  <string name="rename_album">Premenovať album</string>
+  <string name="rename_album_failed">Nebolo možné premenovať</string>
+  <string name="rename_album_succeeded">Premenované</string>
+  <string name="sync_metatata_wait_title">Čaká na synchr. s MiCloud</string>
+  <string name="sync_state_unknow">Získavanie informácií</string>
 </resources>

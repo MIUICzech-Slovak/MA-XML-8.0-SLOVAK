@@ -329,4 +329,16 @@
         <item quantity="other">Videá: %d</item>
         <item quantity="one">Videá: %d</item>
     </plurals> 
+    <plurals name="backup_after_hours">
+        <item quantity="other">Pokračovať v zálohe o %d hodín</item>
+        <item quantity="one">Pokračovať v zálohe o %d hodinu</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d fotografií alebo videí | Pozastavené</item>
+        <item quantity="one">%d fotografia alebo video | Pozastavené</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">Nebolo možné stiahnuť %1$d súborov, skontrolujte nastavenie siete</item>
+        <item quantity="one">Nebolo možné stiahnuť %1$d súborv, skontrolujte nastavenie siete</item>
+    </plurals>
 </resources>

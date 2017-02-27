@@ -12,4 +12,8 @@
         <item quantity="other">pred %1$ds</item>
         <item quantity="one">pred %1$ds</item>
     </plurals>
+    <plurals name="time_in_day">
+        <item quantity="other">pred %1$d dňami</item>
+        <item quantity="one">"pred %1$d dňom "</item>
+    </plurals>	
 </resources>
