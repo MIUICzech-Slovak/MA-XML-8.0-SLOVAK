@@ -4,7 +4,7 @@
   <string name="app_name">Nahrávanie plochy</string>
   <string name="app_notification_title">Nahrávanie plochy</string>
   <string name="auto_stop_title">Video uložené</string>
-  <string name="battery_not_allowed">Nie je možné nahrávať plochu ak je batéria menej ako 3%, odporúča sa nabiť batériu aspoň na viac ako 20%.</string>
+  <string name="battery_not_allowed">Nie je možné nahrávať plochu ak je batéria menej ako 3%%, odporúča sa nabiť batériu aspoň na viac ako 20%%.</string>
   <string name="bit_rate">Kvalita videa</string>
   <string name="bit_rate_summary">Vyššia kvalita znamená aj väčšiu veľkosť súboru</string>
   <string name="bubble_text">Dotykom spustíte nahrávanie</string>
