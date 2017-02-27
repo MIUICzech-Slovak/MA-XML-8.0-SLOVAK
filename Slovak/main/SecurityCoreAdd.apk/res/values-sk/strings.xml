@@ -245,4 +245,22 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xspace_uninstall_dialog_content">Odinštalovanie klonovanej aplikácie vymaže všetky jej dáta.</string>
   <string name="xspace_uninstall_dialog_title">Odinštalovať klonovanú apl.</string>
   <string name="xspace_uninstalling">Odinštalovanie...</string>
+  <string name="air_space_created">Pracovný priestor vytvorený</string>
+  <string name="air_space_deleted">Pracovný priestor vymazaný</string>
+  <string name="confirm_airspace_password">Potvrďte heslo Pracovného priestoru</string>
+  <string name="create_work_space">Vytvoriť Pracovný priestor</string>
+  <string name="downloading_space">Sťahovanie...</string>
+  <string name="enter_air_space">Prepnúť do Pracovného priestoru</string>
+  <string name="invalid_qr_code">Nesprávny QR kód</string>
+  <string name="need_network_when_create">Pred vytvorením Pracovného priestoru sa musíte pripojiť k sieti</string>
+  <string name="need_reset_passwd">Obnovte heslo Pracovného priestoru pred prepnutím do neho</string>
+  <string name="reset_passwd_success">Heslo bolo obnovené</string>
+  <string name="resource_sspace">Druhý profil</string>
+  <string name="resource_xspace">Klonované aplikácie</string>
+  <string name="space_des_default">Izolovaný priestor so šifrovanými dátami</string>
+  <string name="space_name_default">Pracovný priestor</string>
+  <string name="switch_download_space">Prepnúť do Pracovného priestoru</string>
+  <string name="xpsace_guide_button">Vytvoriť</string>
+  <string name="xspace_guide_des">Použite 2 účty bez prepínania</string>
+  <string name="xspace_guide_title">Vytvoriť klonovanú apl. pre %s</string> 
 </resources>

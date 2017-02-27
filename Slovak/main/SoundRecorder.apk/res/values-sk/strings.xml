@@ -145,4 +145,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="record">Nahrať</string>
+  <string name="head_set_tip_dialog_msg">Odpojte vaše slúchadlá pre možnosť nahrávania zvuku v rôzných režimoch (napr., Hudba, Hlas).</string>
+   <string name="head_set_tip_dialog_ok">Rozumiem</string>
+   <string name="head_set_tip_dialog_title">Použiť interný mikrofón</string>  
 </resources>
