@@ -29,7 +29,7 @@
   <string name="hint_volume_down">Hlasitosť nadol</string>
   <string name="hint_volume_up">Hlasitosť nahor</string>
   <string name="home_title_none">Vyberte položky</string>
-  <string name="loopback_sound">Loopback sound</string>
+  <string name="loopback_sound">Systémové zvuky</string>
   <string name="low_battery">Najskôr nabite batériu pred začiatkom nahrávania</string>
   <string name="low_battery_title">Slabá batéria</string>
   <string name="low_battery_warning">Batéria je príliš slabá. Nahrávanie je zastavené a uložené.</string>
