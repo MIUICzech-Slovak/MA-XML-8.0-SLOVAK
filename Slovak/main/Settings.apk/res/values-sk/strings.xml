@@ -4872,4 +4872,31 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screen_monochrome_mode_summary">Prepnúť do Čiernobielého režimu pre zníženie spotreby batérie</string>
   <string name="screen_monochrome_mode_title">Čiernobiely režim</string>
   <string name="screen_recorder">Nahrávanie plochy</string>
+ 
+  <string name="close_install_and_connect">Nie, ďakujem</string>
+  <string name="confirm_install_and_connect">Nainštalovať a pripojiť</string>
+  <string name="disable_wifi_master_key_service">Vypnúť</string>
+  <string name="enable_wifi_master_key_service">Povoliť Wi-Fi Master key</string>
+  <string name="install_master_key_and_connect">Môžete sa pripojiť k tejto sieti pomocou Wi-Fi Master Key. Chcete ho nainštalovať?</string>
+  <string name="privacy_password_add_account">Pridať</string>
+  <string name="privacy_password_add_account_info">Pridajte Mi účet pre prípad obnovy vášho hesla ak ho zabudnete</string>
+  <string name="privacy_password_add_account_setting">Účet a súkromie</string>
+  <string name="privacy_password_exit_account_info">Účet bude automaticky odstránený keď sa odhlásite</string>
+  <string name="privacy_password_login_and_add_account">Prihlásiť a pridať</string>
+  <string name="privacy_password_not_add_account">Neskôr</string>
+  <string name="privacy_password_not_login_account">Nie ste prihlásený</string>
+  <string name="show_wifi_master_key_summary">Pripojiť sa k zdieľanej Wi-Fi sieti pomocou Wi-Fi Master Key</string>
+  <string name="show_wifi_master_key_title">Vyhľadať zdieľané Wi-Fi siete</string>
+  <string name="system_apps_updater">Aktualizácia systémových apl.</string>
+  <string name="uninstall_wifi_master_key">Odinštalovať Wi-Fi Master Key</string>
+  <string name="use_wifi_master_key_summary">Pripojiť pomocou Wi-Fi Master Key</string>
+  <string name="wifi_master_key_dialog_content_master_key">Wi-Fi Master Key</string>
+  <string name="wifi_master_key_dialog_content_password">Heslo</string>
+  <string name="wifi_master_key_dialog_title">Pripojiť pomocou</string>
+  <string name="wifi_master_key_name">Wi-Fi Master Key</string>
+  <string name="wifi_master_key_service_dialog_content">Wi-Fi Master Key je služba ktorá zdarma poskytuje heslá k zdieľaným Wi-Fi sieťam. Wi-Fi Master Key nebude zdieľať heslo vašej siete.</string>
+  <string name="wifi_master_key_service_dialog_title">Zdieľané Wi-Fi siete</string>
+  <string name="work_space_delete">Vymazať Pracovný priestor</string>
+  <string name="work_space_delete_confirm">Potvrďte vymazanie</string>
+  <string name="work_space_delete_description">Nebude možné prepnúť sa do tohto Pracovného priestoru ak ho vymažete. Všetky dáta budú presunuté alebo vymazané.</string>
 </resources>

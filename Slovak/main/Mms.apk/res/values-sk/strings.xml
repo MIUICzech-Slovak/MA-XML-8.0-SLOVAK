@@ -667,4 +667,5 @@ Pokus: %s."</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
   <string name="title_use_gsm_alphabet">Orezať diakritiku pred odoslaním</string>
+  <string name="fail_to_add_attachment">Nebolo možné pripojiť prílohu</string>
 </resources>

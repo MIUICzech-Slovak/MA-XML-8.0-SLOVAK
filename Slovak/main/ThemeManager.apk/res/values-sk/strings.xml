@@ -413,4 +413,9 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="lockscreen_apply_success_but_home_apply_failured">Tapeta zámku nastavená ale nie je možné nastaviť pre domácu obrazovku</string>
   <string name="the_picture_is_too_small">Obrázok je príliš malý</string>
   <string name="wallpaper_scroll_type_tips">Posúvanie tapety</string>
+  <string name="wallpaper_auto_change_title">Zamykacia obrazovka</string>
+  <string name="wallpaper_settings_change_wallpaper">Zmeniť</string>
+  <string name="wallpaper_settings_desktop_text">Domáca plocha</string>
+  <string name="wallpaper_settings_lockscreen_text">Zamykacia obrazovka</string>
+  <string name="wallpaper_settings_page_title">tapeta</string>
 </resources>

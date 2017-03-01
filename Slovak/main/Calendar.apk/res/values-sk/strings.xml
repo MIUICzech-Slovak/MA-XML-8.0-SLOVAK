@@ -58,8 +58,7 @@
   <string name="birthday_event_description_tomorrow">Zajtra</string>
   <string name="birthday_event_description_yesterday">Včera</string>
   <string name="birthday_event_title_suffix">" má narodeniny"</string>
-  <string name="birthday_metric"/>
-  <string name="birthday_notification_age_term"/>
+  <string name="birthday_metric">-ročný</string>
   <string name="birthday_notification_text_days_later">%1$s dní do %4$s (%5$s)</string>
   <string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>
   <string name="birthday_notification_title_days_later">%1$s bude mať %2$s</string>

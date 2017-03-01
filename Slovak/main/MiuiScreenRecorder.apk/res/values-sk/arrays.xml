@@ -8,5 +8,6 @@
     <string-array name="screenrecorder_settings_sound">
         <item>Bez zvuku</item>
         <item>Zvuk z mikrofónu</item>
+		<item>Systémové zvuky</item>
     </string-array>
 </resources>

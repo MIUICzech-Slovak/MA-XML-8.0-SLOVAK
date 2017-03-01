@@ -263,4 +263,15 @@ Môžete ich aj znova stiahnuť."</string>
   <string name="xpsace_guide_button">Vytvoriť</string>
   <string name="xspace_guide_des">Použite 2 účty bez prepínania</string>
   <string name="xspace_guide_title">Vytvoriť klonovanú apl. pre %s</string> 
+  <string name="air_space_exit">Odísť z Pracovného priestoru</string>
+  <string name="air_space_setting">Nastavenie Pracovného priestoru</string>
+  <string name="airspace_users_full">Nebolo možné vytvoriť viac pracovných priestorov</string>
+  <string name="contact_us">Kontaktujte nás</string>
+  <string name="loading">Načítavanie...</string>
+  <string name="not_support_air_space">Táto funkcia nie je podporovaná vašim zariadením</string>
+  <string name="other">Ostatné</string>
+  <string name="same_qr_code_create_space">Vytvoriť nový</string>
+  <string name="same_qr_code_des">Tento Pracovný priestor už existuje. Chcete sa do neho prepnúť?</string>
+  <string name="same_qr_code_enter_space">Prepnúť</string>
+  <string name="same_qr_code_title">%s už existuje</string>
 </resources>

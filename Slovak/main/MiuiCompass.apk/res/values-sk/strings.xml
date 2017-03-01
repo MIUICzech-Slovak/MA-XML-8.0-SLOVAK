@@ -38,7 +38,7 @@
   <string name="location_enable_later">Neskôr</string>
   <string name="location_enabled">Zisťovanie polohy je povolené. Môžete to kedykoľvek zmeniť v nastaveniach polohy.</string>
   <string name="location_north">N</string>
-  <string name="location_not_enabled_summary">Je potrebný prístup k aktuálnej polohe pre správne fungovanie.</string>
+  <string name="location_not_enabled_summary">Pre správne fungovanie aplikácie je potrebný prístup k polohe zariadenia.</string>
   <string name="location_not_enabled_title">Povoliť zisťovanie polohy</string>
   <string name="location_south">S</string>
   <string name="location_west">W</string>
