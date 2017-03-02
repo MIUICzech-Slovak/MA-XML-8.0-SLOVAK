@@ -588,4 +588,5 @@
   <string name="no_scanned_songs">Prázdne</string>
   <string name="playlist_empty">Žiaden playlist</string>
   <string name="recently_played_songs">Nedávno prehrané</string>
+  <string name="artist_album">Albumy</string>
 </resources>
