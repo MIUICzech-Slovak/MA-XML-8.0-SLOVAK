@@ -822,7 +822,7 @@
   <string name="backup_dirty_num">Celkovo: %s</string>
   <string name="backup_dirty_tip">Nezálohované fotografie a videá</string>
   <string name="backup_immediately">Zálohovať</string>
-  <string name="backup_need_sync_desc">Stlačte tlačidlo pre pokračovanie zálohovania</string>
+  <string name="backup_need_sync_desc">Dotknite sa pre pokračovanie zálohovania</string>
   <string name="backup_need_sync_title">Zálohovanie zastavené</string>
   <string name="backup_no_network_btn_text">Nastavenie siete</string>
   <string name="backup_no_network_desc">Pripojte sa k sieti pre pokračovanie zálohovania</string>
@@ -843,7 +843,7 @@
   <string name="backuped_desc">Fotofragie a videá sú zálohované na MiCloud</string>
   <string name="backuped_title">Záloha dokončená</string>
   <string name="backuping_title_gprs">Zálohovanie cez mobilné dáta...</string>
-  <string name="backuping_title_normal">Zálohovanie</string>
+  <string name="backuping_title_normal">Zálohovanie...</string>
   <string name="backup_pause">Pozastaviť</string>
   <string name="backup_pending">Bude zálohované automaticky</string>
   <string name="cloud_storage_ok_append_desc">Dostupné %s</string>
@@ -917,4 +917,6 @@
   <string name="rename_album_succeeded">Premenované</string>
   <string name="sync_metatata_wait_title">Čaká na synchr. s MiCloud</string>
   <string name="sync_state_unknow">Získavanie informácií</string>
+  <string name="backup_detail_page_empty">Žiadne videá alebo fotografie na zálohovanie</string>
+  
 </resources>
