@@ -169,16 +169,11 @@
   <string name="female_artist">Speváčky</string>
   <string name="file_not_found">"Súbor neexistuje"</string>
   <string name="filter_by_duration">Filtrovať podľa dĺžky</string>
-  <string name="filter_by_duration_format">%2$dmin%5$2ds</string>
-  <string name="filter_by_duration_max">5 min</string>
-  <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_duration_prefix">"Minimálna dĺžka: "</string>
   <string name="filter_by_duration_summary">Nezobrazovať krátke audio súbory</string>
   <string name="filter_by_folder">Filtrovať podľa zložky</string>
   <string name="filter_by_folder_summary">Vybrať zložky na zobrazenie</string>
   <string name="filter_by_size">Filtrovať podľa veľkosti</string>
-  <string name="filter_by_size_max">2MB</string>
-  <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Minimálna veľkosť: "</string>
   <string name="filter_by_size_summary">Nezobrazovať malé audio súbory</string>
   <string name="find_music">Prehliadať skladby</string>
@@ -244,7 +239,6 @@
   <string name="lyric_open_other_connect">Stiahnuť texty cez mobilnú sieť</string>
   <string name="lyric_setting">Nastavenie Textu skladby</string>
   <string name="male_artist">Speváci</string>
-  <string name="max_sleep_time">90</string>
   <string name="mediaplaybacklabel">Hudba</string>
   <string name="message_delete_playlist">Vymazať zoznam skladieb %s ?</string>
   <string name="metered_alert">Upozornenie</string>
