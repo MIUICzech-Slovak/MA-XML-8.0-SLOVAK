@@ -61,4 +61,6 @@
   <string name="stop_by_second_space">Prepnutie užívateľov zastaví nahrávanie</string>
   <string name="stop_record_while_locking">Uzamknutie ukončí nahrávanie</string>
   <string name="stop_record_while_locking_summary">Ukončiť nahrávanie a uložiť nahrávku uzamknutím obrazovky</string>
+  <string name="date_month">-</string>
+  <string name="date_year">-</string>
 </resources>
