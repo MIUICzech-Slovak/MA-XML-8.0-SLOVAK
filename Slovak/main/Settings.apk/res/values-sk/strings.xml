@@ -4824,4 +4824,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="work_space_delete">Vymazať Pracovný priestor</string>
   <string name="work_space_delete_confirm">Potvrďte vymazanie</string>
   <string name="work_space_delete_description">Nebude možné prepnúť sa do tohto Pracovného priestoru ak ho vymažete. Všetky dáta budú presunuté alebo vymazané.</string>
+  <string name="device_name_input_overlength">Nad limitom slov</string>
+  <string name="disable_wifi_master_key_service_first">Vypnúť</string>
+  <string name="enable_wifi_master_key_service_first">Zapnúť</string>
 </resources>

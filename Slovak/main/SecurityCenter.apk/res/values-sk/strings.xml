@@ -1016,8 +1016,8 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="power_consume_rank_hardware">Hardware</string>
   <string name="power_consume_rank_software">Aplikácie</string>
   <string name="power_consume_rank_title">Spotreba batérie</string>
-  <string name="power_consume_total_hardware">Hardware: %1$d%%</string>
-  <string name="power_consume_total_software">Aplikácie: %1$d%%</string>
+  <string name="power_consume_total_hardware">Hardware: %s</string>
+  <string name="power_consume_total_software">Aplikácie: %s</string>
   <string name="power_customize_giveup_change">Zrušiť zmeny?</string>
   <string name="power_customizer_cancel">Zrušiť</string>
   <string name="power_customizer_ok">OK</string>
@@ -1768,4 +1768,10 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="resource_usb_install">Inštalácia cez USB</string>
   <string name="notification_quick_charging_title">Rýchle nabíjanie</string>
   <string name="accessibility_service_description">Táto funkcia je len pre Čínu. Na jej odstránení pracujeme...</string>
+  <string name="about_autostart">Čo je to Auto-štart</string>
+  <string name="domestic_roaming_setting">Národný roaming</string>
+  <string name="hide_system_app">Skryť systémové apl.</string>
+  <string name="notification_mask_summary">Nezobrazovať obsah upozornení na zamykacej obrazovke a v roletke</string>
+  <string name="notification_mask_title">Skryť obsah upozornení</string>
+  <string name="show_system_app">Zobraziť systémové apl.</string>
 </resources>
