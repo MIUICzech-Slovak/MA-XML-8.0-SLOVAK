@@ -63,4 +63,5 @@
   <string name="stop_record_while_locking_summary">Ukončiť nahrávanie a uložiť nahrávku uzamknutím obrazovky</string>
   <string name="date_month">-</string>
   <string name="date_year">-</string>
+  <string name="cannot_record">Nebolo možné nahrať, skúste to znova neskôr.</string>
 </resources>

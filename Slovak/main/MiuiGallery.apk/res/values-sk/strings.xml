@@ -918,5 +918,5 @@
   <string name="sync_metatata_wait_title">Čaká na synchr. s MiCloud</string>
   <string name="sync_state_unknow">Získavanie informácií</string>
   <string name="backup_detail_page_empty">Žiadne videá alebo fotografie na zálohovanie</string>
-  
+  <string name="set_wallpaper_get_image_failed">Nebolo možné stiahnuť obrázok, skúste to neskôr.</string>
 </resources>
