@@ -53,4 +53,34 @@
         <item>Vlastné pravidlá</item>
         <item>Odporúčané pravidlá</item>
     </string-array>
+     <string-array name="invisible_app_groups">
+        <item>vybrané</item>
+        <item>nevybrané</item>
+     </string-array>
+     <string-array name="power_checker_group_prefix">
+        <item>Teraz</item>
+        <item>Pozadie</item>
+        <item>Nedávne</item>
+     </string-array>
+     <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+     </string-array>
+     <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI scan</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Wake Up</item>
+     </string-array>
+     <string-array name="power_checker_running_group_titles">
+        <item>Blokovanie hlbokého spánku</item>
+        <item>Blokovanie spánku</item>
+        <item>Vyhľadávanie Wi-Fi</item>
+        <item>Používanie GPS</item>
+        <item>Využívanie CPU</item>
+        <item>Časté prebúdzanie zariadenia</item>
+     </string-array>
 </resources>

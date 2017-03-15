@@ -183,4 +183,9 @@
   <string name="power_checker_wakeup_alarm_title">%1$s často prebúdza CPU</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s často vyhľadáva Wi-Fi siete</string>
   <string name="power_checker_wifi_scan_title">%1$s často vyhľadáva Wi-Fi siete</string> 
+  <string name="power_checker_recent_btn_title">Nastavenie Výkonu</string>
+  <string name="power_checker_recent_group_title">Nedávne</string>
+  <string name="power_checker_running_btn_title">Ukončiť Process</string>
+  <string name="power_checker_running_group_title">Spustené</string>
+  <string name="power_checker_title">PowerChecker</string>
 </resources>
