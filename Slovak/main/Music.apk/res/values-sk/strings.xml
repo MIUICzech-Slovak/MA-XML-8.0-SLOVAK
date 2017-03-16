@@ -583,4 +583,5 @@
   <string name="playlist_empty">Žiaden playlist</string>
   <string name="recently_played_songs">Nedávno prehrané</string>
   <string name="artist_album">Albumy</string>
+  <string name="loadercontainer_loading">Načítavanie...</string>
 </resources>
