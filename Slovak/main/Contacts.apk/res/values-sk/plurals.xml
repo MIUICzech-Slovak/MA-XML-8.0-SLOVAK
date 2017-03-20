@@ -56,8 +56,8 @@
         <item quantity="one">%1$d pridaný kontakt</item>
     </plurals>
     <plurals name="smart_group_member_count">
-        <item quantity="other">%d ľudí</item>
-        <item quantity="one">1 človek</item>
+        <item quantity="other">%1$d ľudí</item>
+        <item quantity="one">%1$d človek</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">Vybraných: %1$d</item>
@@ -97,28 +97,28 @@
         <item quantity="one">Importovaných kontaktov: %1$d</item>
     </plurals>
     <plurals name="export_sim_contacts_dialog_message">
-        <item quantity="other">SIM karta uloží %d kontaktov.</item>
-        <item quantity="one">SIM karta uloží %d kontakt.</item>
+        <item quantity="other">SIM karta uloží %1$d kontaktov.</item>
+        <item quantity="one">SIM karta uloží %1$d kontakt.</item>
     </plurals>
     <plurals name="confirm_delete_sim_entry_miui">
-        <item quantity="other">Vymazať kontakty (%d) zo SIM karty?</item>
-        <item quantity="one">Vymazať kontakty (%d) zo SIM karty?</item>
+        <item quantity="other">Vymazať kontakty (%1$d) zo SIM karty?</item>
+        <item quantity="one">Vymazať kontakty (%1$d) zo SIM karty?</item>
     </plurals>
     <plurals name="export_sim_contact_finish_success">
         <item quantity="other">Skopírované kontakty: %d</item>
         <item quantity="one">Skopírované kontakty: %d</item>
     </plurals>
     <plurals name="btn_delete_multi_contacts">
-        <item quantity="other">Vymazať kontakty %d</item>
-        <item quantity="one">Vymazať kontakt</item>
+        <item quantity="other">Vymazať kontakty %1$d</item>
+        <item quantity="one">Vymazať kontakty %1$d</item>
     </plurals>
     <plurals name="batch_delete_msg">
-        <item quantity="other">Vymazať kontakty (%d)?</item>
-        <item quantity="one">Vymazať kontakty (%d)?</item>
+        <item quantity="other">Vymazať kontakty (%1$d)?</item>
+        <item quantity="one">Vymazať kontakty (%1$d)?</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">Zvonil %dx</item>
-        <item quantity="one">Zvonil %dx</item>
+        <item quantity="other">Zvonil %1$dx</item>
+        <item quantity="one">Zvonil %1$dx</item>
     </plurals>
     <plurals name="dlg_add_blacklist">
         <item quantity="other">Blokovať tieto %1$d čísla?</item>
@@ -133,8 +133,8 @@
         <item quantity="one">Kontaktov: %1$d</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
-        <item quantity="other">Nesynchr. kontakty: %d</item>
-        <item quantity="one">Nesynchr. kontakty: 1</item>
+        <item quantity="other">Nesynchr. kontakty: %1$d</item>
+        <item quantity="one">Nesynchr. kontakty: %1$d</item>
     </plurals>
     <plurals name="voip_contacts_count">
         <item quantity="other">Ľudí: %1$d</item>
@@ -150,9 +150,11 @@
     </plurals>
     <plurals name="group_move_success_toast">
         <item quantity="other">Presunutých kontaktov: %1$d</item>
+        <item quantity="one">Presunutých kontaktov: %1$d</item>
     </plurals>
     <plurals name="group_copy_success_toast">
         <item quantity="other">Skopírovaných kontaktov: %1$d</item>
+        <item quantity="one">Skopírovaných kontaktov: %1$d</item>
     </plurals>	
     <plurals name="abbrev_a_hour_ago">
         <item quantity="other">Pred 1h</item>
@@ -164,8 +166,8 @@
         <item quantity="other">Teraz</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">Pred %dmin</item>
-        <item quantity="one">Pred 1min</item>
+        <item quantity="other">Pred %1$dmin</item>
+        <item quantity="one">Pred %1$dmin</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
         <item quantity="other">O 1h</item>
@@ -177,7 +179,7 @@
         <item quantity="other">Okamžite</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">o %dmin</item>
-        <item quantity="one">o 1min</item>
+        <item quantity="other">o %1$dmin</item>
+        <item quantity="one">o %1$dmin</item>
     </plurals>	
 </resources>

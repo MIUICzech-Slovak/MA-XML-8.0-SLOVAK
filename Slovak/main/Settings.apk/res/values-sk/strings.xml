@@ -4827,4 +4827,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="device_name_input_overlength">Nad limitom slov</string>
   <string name="disable_wifi_master_key_service_first">Vypnúť</string>
   <string name="enable_wifi_master_key_service_first">Zapnúť</string>
+  <string name="vpn_set_screen_lock_content">Nastavte zámok displeja a uložte vaše nastavenia VPN</string>
+  <string name="vpn_set_screen_lock_title">Nastaviť zámok displeja</string>
 </resources>

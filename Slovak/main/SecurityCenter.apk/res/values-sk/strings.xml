@@ -1774,4 +1774,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="notification_mask_summary">Nezobrazovať obsah upozornení na zamykacej obrazovke a v roletke</string>
   <string name="notification_mask_title">Skryť obsah upozornení</string>
   <string name="show_system_app">Zobraziť systémové apl.</string>
+  <string name="auto_task_notify_task_canceled_summary3">Zrušené Druhým profilom</string>
+  <string name="auto_task_notify_task_canceled_summary4">Zrušené Prvým profilom</string>
+  <string name="menu_text_power_percent_title_default">Batéria</string> 
 </resources>

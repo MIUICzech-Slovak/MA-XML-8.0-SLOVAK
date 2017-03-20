@@ -62,4 +62,7 @@
   <string name="welcome">Vitajte</string>
   <string name="language_picker_other_languages_title">Viac jazykov</string>
   <string name="language_picker_popular_languages_title">Populárne jazyky</string>  
+  <string name="enable_accessibility_dialog_message">Povolili ste TalkBack podržaním dvoch prstov na displeji po dobu 10s. TalkBack pomáha nevidiacim užívateľom. Ak ste ho aktivovali omylom, stlačte tlačidlo zrušiť a 2x poklepte po displeji.</string>
+  <string name="enable_accessibility_dialog_negative_btn">Zrušiť</string>
+  <string name="enable_accessibility_dialog_positive_btn">OK</string>  
 </resources>
