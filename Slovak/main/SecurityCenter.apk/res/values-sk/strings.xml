@@ -545,7 +545,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_fragment_tab_title_sys">Systémové</string>
   <string name="firewall_network_restrict_notify_message">Zmeniť nastavenia</string>
   <string name="firewall_network_restrict_notify_mobile">Mobilné dáta</string>
-  <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k %2$s.</string>
+  <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k sieti.</string>
   <string name="firewall_restrict_android_dialog_content">Pre zaistenie správnej funkčnosti vášho systému, niektoré systémové aplikácie budú mať stále prístup k internetu. Tieto aplikácie budú využívať vaše mobilné pripojenie.</string>
   <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
@@ -1777,4 +1777,21 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_notify_task_canceled_summary3">Zrušené Druhým profilom</string>
   <string name="auto_task_notify_task_canceled_summary4">Zrušené Prvým profilom</string>
   <string name="menu_text_power_percent_title_default">Batéria</string> 
+  <string name="button_look_up">TZobraziť</string>
+  <string name="customize_limit_pkg">%s (vlastné)</string>
+  <string name="data_usage_warning_body_notify">Zobraziť podrobnosti</string>
+  <string name="data_usage_warning_title_notify">Prekročili ste svoj limit dát</string>
+  <string name="firewall_allow_network">Povolené</string>
+  <string name="firewall_network_allow">Povolené %1$s použiť %2$s pripojenie</string>
+  <string name="guide_primary_text">"Povoľte Správu mobilných dát
+pre kontrolu vašej spotreby"</string>
+  <string name="guide_quck_open">Povoliť</string>
+  <string name="guide_wait_setting">Neskôr</string>
+  <string name="main_month_total_used">Tento mesiac</string>
+  <string name="main_month_used">Využité tento mesiac</string>
+  <string name="main_no_info">Žiadne dáta</string>
+  <string name="main_normal_data_usage">Využité mobilné dáta</string>
+  <string name="main_primary_message_traffic_remain">Mobilné dáta</string>
+  <string name="main_today_used">Využité dnes</string>
+  <string name="pref_adjust_data_usage_value">Zmenené</string>
 </resources>

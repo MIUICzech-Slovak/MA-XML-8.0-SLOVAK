@@ -83,4 +83,5 @@
   <string name="phone_locked_foget_password_header">Čo mám robiť ak som zabudol heslo?</string>
   <string name="phone_locked_foget_password_ok">Rozumiem</string>  
   <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otvoriť Prvý profil po reštartovaní zariadenia</string>
+  <string name="unlockscreen_quick_charging_message">Rýchlonabíjanie %d%%</string>
 </resources>

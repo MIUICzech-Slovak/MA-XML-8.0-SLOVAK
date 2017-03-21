@@ -910,5 +910,6 @@ Postupujte podľa pokynov"</item>
     <string-array name="edge_touch_volume_action">
         <item>Poklepanie - Spustiť akciu dvojitým poklepaním</item>
         <item>Potiahnutie - Spustiť akciu potiahnutím</item>
+        <item>Dotyk - Spustiť akciu</item>
     </string-array>	
 </resources>
