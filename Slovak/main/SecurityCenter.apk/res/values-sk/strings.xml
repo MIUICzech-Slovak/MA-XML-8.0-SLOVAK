@@ -1777,7 +1777,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_notify_task_canceled_summary3">Zrušené Druhým profilom</string>
   <string name="auto_task_notify_task_canceled_summary4">Zrušené Prvým profilom</string>
   <string name="menu_text_power_percent_title_default">Batéria</string> 
-  <string name="button_look_up">TZobraziť</string>
+  <string name="button_look_up">Zobraziť</string>
   <string name="customize_limit_pkg">%s (vlastné)</string>
   <string name="data_usage_warning_body_notify">Zobraziť podrobnosti</string>
   <string name="data_usage_warning_title_notify">Prekročili ste svoj limit dát</string>
@@ -1794,4 +1794,7 @@ pre kontrolu vašej spotreby"</string>
   <string name="main_primary_message_traffic_remain">Mobilné dáta</string>
   <string name="main_today_used">Využité dnes</string>
   <string name="pref_adjust_data_usage_value">Zmenené</string>
+  <string name="pref_more_settings">Viac nastavení</string>
+  <string name="pref_month_traffic_limit">Limit mobilných dát</string>
+  <string name="pref_normal_traffic_limit">Prekročenie limitu dát</string>
 </resources>
