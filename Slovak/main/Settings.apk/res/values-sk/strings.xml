@@ -4831,4 +4831,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="vpn_set_screen_lock_title">Nastaviť zámok displeja</string>
   <string name="aod_mode_summary">Vždy zobraziť čas, dátum a SMS na vypnutom displeji.</string>
   <string name="aod_mode_title">Always-on displej</string> 
+  <string name="current_zone">(súčasná)</string>
+  <string name="privacy_password_settings_titles_elder_mode">Heslo ochrany súkromia chráni vaše fotografie, súbory a poznámky.</string>
+  <string name="privacy_password_settings_titles_second_space">Heslo ochrany súkromia chráni vaše SMS. fotografie a poznámky.</string>
 </resources>

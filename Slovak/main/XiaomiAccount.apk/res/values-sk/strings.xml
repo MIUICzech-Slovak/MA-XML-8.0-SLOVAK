@@ -434,4 +434,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="push_notify_dialog_title">Bezpečnostné overenie prihlásenia</string>  
   <string name="find_device_locked_account_email" formatted="false">%s, prepojený email: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, prepojené telefónne číslo: %s</string>  
+  <string name="account_error_invalid_user_name">"Meno nesmie obsahovať znaky &lt;, &gt;, /"</string>
 </resources>
