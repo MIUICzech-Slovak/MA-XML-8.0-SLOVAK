@@ -220,4 +220,6 @@
   <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
   <string name="feedback_status_forum_reply">Odpovedať</string>
   <string name="feedback_status_supplement_more">Pridať komentár</string>
+  <string name="feedback_third_packagename_hint">Ktorá doinštalovaná aplikácia spôsobuje problémy?</string>
+  <string name="toast_third_packagename_required">Zadajte názov aplikácie</string>
 </resources>

@@ -234,4 +234,48 @@
         <item quantity="other">Všetko vyzerá byť v poriadku</item>
         <item quantity="one">Všetko vyzerá byť v poriadku</item>
     </plurals>
+    <plurals name="add_game_notification_title">
+        <item quantity="other">Pridané hry (%d)</item>
+        <item quantity="one">Pridané hry (%d)</item>
+    </plurals>
+    <plurals name="app_manager_apps_generation_title">
+        <item quantity="other">Dostupné aktualizácie (%d)</item>
+        <item quantity="one">Dostupné aktualizácie (%d)</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_contact">
+        <item quantity="other">Prístup ku kontaktom %dx</item>
+        <item quantity="one">Prístup ku kontaktom %dx</item>
+    </plurals>
+    <plurals name="app_manager_permission_call_phone">
+        <item quantity="other">Hovory %dx</item>
+        <item quantity="one">Hovory %dx</item>
+    </plurals>
+    <plurals name="app_manager_permission_send_mms">
+        <item quantity="other">Odoslané SMS %dx</item>
+        <item quantity="one">Odoslané SMS %dx</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_mms">
+        <item quantity="other">Prístup k SMS %dx</item>
+        <item quantity="one">Prístup k SMS %dx</item>
+    </plurals>
+    <plurals name="app_manager_permission_read_record">
+        <item quantity="other">Prístup k histórií hovorov %dx</item>
+        <item quantity="one">Prístup k histórií hovorov %dx</item>
+    </plurals>
+    <plurals name="app_manager_permission_read">
+        <item quantity="other">Prístup %dx</item>
+        <item quantity="one">Prístup %dx</item>
+    </plurals>
+    <plurals name="app_manager_permission_manager_summary">
+        <item quantity="other">Získaných povolení %d</item>
+        <item quantity="one">Získaných povolení %d</item>
+    </plurals>
+    <plurals name="app_manager_start_count">
+        <item quantity="other">%dx</item>
+        <item quantity="one">%dx</item>
+    </plurals>
+    <plurals name="app_manager_reject_count">
+        <item quantity="other">Blokované %dx</item>
+        <item quantity="one">Blokované %dx</item>
+    </plurals>	
 </resources>
