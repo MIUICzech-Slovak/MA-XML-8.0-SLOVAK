@@ -1797,7 +1797,7 @@ pre kontrolu vašej spotreby"</string>
   <string name="pref_more_settings">Viac nastavení</string>
   <string name="pref_month_traffic_limit">Limit mobilných dát</string>
   <string name="pref_normal_traffic_limit">Prekročenie limitu dát</string>
-  <string name="app_maanger_app_uninstalled_toast">Táto aplikácie je odinštalovaní</string>
+  <string name="app_maanger_app_uninstalled_toast">Táto aplikácie je odinštalovaná</string>
   <string name="app_manager_app_lock">Zámok aplikácií</string>
   <string name="app_manager_app_version_name">"Verzia: "</string>
   <string name="app_manager_apps_generatioin">Aktualizácia</string>
