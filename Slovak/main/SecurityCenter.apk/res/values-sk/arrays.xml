@@ -171,4 +171,8 @@
     <string-array name="long_add_menu">
         <item>Pridať do výnimiek</item>
     </string-array>	 
+    <string-array name="sms_report_type">
+        <item>Využitie dát</item>
+        <item>Stav voľných minút</item>
+    </string-array>	
 </resources>

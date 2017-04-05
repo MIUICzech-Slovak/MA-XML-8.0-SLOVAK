@@ -919,4 +919,8 @@
   <string name="sync_state_unknow">Získavanie informácií</string>
   <string name="backup_detail_page_empty">Žiadne videá alebo fotografie na zálohovanie</string>
   <string name="set_wallpaper_get_image_failed">Nebolo možné stiahnuť obrázok, skúste to neskôr.</string>
+  <string name="loading_fail_sync_without_network">Pripojte sa k sieti pre stiahnutie informácií</string>
+  <string name="loading_fail_syncing">Počkajte kým sa načítajú informácie</string>
+  <string name="loading_video_fail_sync_without_network">Pripojte sa k sieti pre stiahnutie informácií</string>
+  <string name="loading_video_fail_syncing">Počkajte kým sa načítajú informácie</string> 
 </resources>

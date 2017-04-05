@@ -1273,5 +1273,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="bad_pin2_old">Starý PIN2 ktorý ste zadali je nesprávny.</string>
   <string name="volte_provision_notification_activate">Aktivovať</string>
   <string name="volte_provision_text">Detekcia VoLTE na vašej SIM nie je podporovaná, chcete ho aktivovať?</string>
-  <string name="volte_provision_title">VoLTE</string>  
+  <string name="volte_provision_title">Povoliť VoLTE</string>  
 </resources>
