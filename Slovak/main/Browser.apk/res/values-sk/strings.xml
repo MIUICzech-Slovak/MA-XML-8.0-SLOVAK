@@ -833,4 +833,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pref_fling_on_border_title_summary">Gesto prstom z pravého alebo ľavého kraja</string>
   <string name="empty_app_name">iná aplikácia</string>
   <string name="open_app_confirm_message">Povoliť tejto stránke otvoriť %s?</string>
+  <string name="bookmark_url_can_not_null">Zadajte URL adresu.</string>
 </resources>

@@ -176,7 +176,7 @@
   <string name="restore_finished">Obnova dokončená</string>
   <string name="restore_is_running">Obnovenie zariadenia</string>
   <string name="restore_launcher_layout_hit">(Poznámka: Obnovenie rozloženia MIUI launcheru)</string>
-  <string name="restore_progress">Obnovujem..</string>
+  <string name="restore_progress">Obnovenie..</string>
   <string name="restore_report">Záznam z obnovy</string>
   <string name="restore_telephony_hit">(Poznámka: Proces obnovy systému bude potrebovať reštart telefónu)</string>
   <string name="retry">Opakovať</string>
@@ -234,7 +234,7 @@
   <string name="task_pre_running">Príprava</string>
   <string name="task_progress">Priebeh</string>
   <string name="task_restore_cancel_dialog">Obnovenie ešte nebolo dokončené.\nPrerušenie môže viesť k poškodeniu dát</string>
-  <string name="task_restore_cancel_progress">Zastavujem...</string>
+  <string name="task_restore_cancel_progress">Zastavenie...</string>
   <string name="task_restore_finished_local">"Obnovenie dokončené "</string>
   <string name="task_restore_none">Obnovenie nie je potrebné</string>
   <string name="task_running_backup_dialog">Záloha prebieha na pozadí, stlačte OK pre jej zobrazenie.</string>

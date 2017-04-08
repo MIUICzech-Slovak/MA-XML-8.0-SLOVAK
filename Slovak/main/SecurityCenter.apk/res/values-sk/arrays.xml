@@ -175,4 +175,8 @@
         <item>Využitie dát</item>
         <item>Stav voľných minút</item>
     </string-array>	
+     <string-array name="sort_type">
+        <item>Podľa názvu</item>
+        <item>Podľa veľkosti</item>
+     </string-array>
 </resources>

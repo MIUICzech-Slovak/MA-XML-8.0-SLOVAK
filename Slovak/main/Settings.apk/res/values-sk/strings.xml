@@ -4834,4 +4834,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="current_zone">(súčasná)</string>
   <string name="privacy_password_settings_titles_elder_mode">Heslo ochrany súkromia chráni vaše fotografie, súbory a poznámky.</string>
   <string name="privacy_password_settings_titles_second_space">Heslo ochrany súkromia chráni vaše SMS. fotografie a poznámky.</string>
+  <string name="http_invoke_app">Web aplikácie</string>
+  <string name="http_invoke_app_summary">Otvoriť aplikácie rýchlejšie bez ich inštalácie</string>
+  <string name="turn_off_keyguard_password_with_fingerprint_confirm_msg_delete">Po deaktivovaní hesla zamykacej obrazovky sa vymaže aj nastavenie vašich odtlačkov.</string>
 </resources>
