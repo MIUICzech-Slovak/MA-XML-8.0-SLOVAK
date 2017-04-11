@@ -4841,4 +4841,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="xiaomi_cloud_service_description">MiCloud synchr. vaše kontakty a fotografie, zálohuje vaše aplikácie a nastavenia, a pomáha nájsť vaše zariadenie ak ho stratíte.</string>
   <string name="xiaomi_cloud_service_disabled">Vyp</string>
   <string name="xiaomi_cloud_service_unknown">Neznáme</string>
+  <string name="palm_enabled">Large area covered off screen</string>
+  <string name="suspend_gesture_enabled">Flip off the screen</string>
 </resources>

@@ -681,4 +681,6 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
+  <string name="clear_record">Vymazať históriu</string>
+  <string name="search_history">Vyhľadať v histórii</string>
 </resources>
