@@ -435,4 +435,14 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="find_device_locked_account_email" formatted="false">%s, prepojený email: %s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, prepojené telefónne číslo: %s</string>  
   <string name="account_error_invalid_user_name">"Meno nesmie obsahovať znaky &lt;, &gt;, /"</string>
+  <string name="vip_account_settings">Vip Nastavenia</string>
+  <string name="vip_more_info">Viac Vip Info</string>  
+  <string name="account_mipay_info">Mi pay</string>
+  <string name="account_secure_info_pref_title">Info o účte</string>
+  <string name="account_security">Zabezpečenie účtu</string>
+  <string name="account_security_info_pref_title">Zabezpečenie</string>
+  <string name="account_protection_off">Vyp</string>
+  <string name="account_protection_on">Zap</string>
+  <string name="account_user_info">Info o účte</string>
+  <string name="logout_account">Odhlásiť</string>
 </resources>
