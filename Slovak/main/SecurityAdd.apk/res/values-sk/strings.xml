@@ -115,4 +115,5 @@
   <string name="sys_freememory_title">Dostupné</string>
   <string name="top_load_fail_detail">Nebolo možné načítať, skúste to znova</string>
   <string name="top_no_network_detial">Nebolo možné načítať, skúste to znova</string>
+  <string name="intro_skip">Preskočiť</string>
 </resources>
