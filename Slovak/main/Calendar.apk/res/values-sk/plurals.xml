@@ -89,7 +89,7 @@
         <item quantity="one">pred %1$d dňom</item>
     </plurals>
     <plurals name="date_calculate_days_after">
-        <item quantity="other">po %1$d dňoch</item>
-        <item quantity="one">po %1$d dni</item>
+        <item quantity="other">o %1$d dní</item>
+        <item quantity="one">o %1$d deň</item>
     </plurals>	
 </resources>
