@@ -418,4 +418,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_settings_desktop_text">Domáca plocha</string>
   <string name="wallpaper_settings_lockscreen_text">Zamykacia obrazovka</string>
   <string name="wallpaper_settings_page_title">tapeta</string>
+  <string name="uid_change_dialog_message">Vymazali ste aktualizácie. Reštartujte zariadenie pre použitie nových tém.</string>
+  <string name="uid_change_dialog_ok">Rozumiem</string>
+  <string name="uid_change_dialog_title">Rešťartujte zariadenie</string>  
 </resources>
