@@ -449,4 +449,11 @@
   <string name="open_file_error">tento súbor nie je možné otvoriť žiadnou apl.</string>
   <string name="output_videos">Exportovať videá</string>
   <string name="file_not_found">Súbor sa nenašiel</string>
+  <string name="app_usage_never">Nepoužité</string>
+  <string name="app_usage_recently">Použité nedávno</string>
+  <string name="main_title_filesize">%1$s kôš</string>
+  <string name="menu_add_to_white_list">Pridať do výnimiek</string>
+  <string name="menu_clear">Vyčistiť</string>
+  <string name="menu_install">Nainštalovať</string>
+  <string name="menu_view">Zobraziť v zložke</string>
 </resources>
