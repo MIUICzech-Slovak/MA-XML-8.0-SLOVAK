@@ -841,4 +841,12 @@ Chcete opustiť túto web stránku?"</string>
   <string name="more_description">Menu</string>
   <string name="storage_permission_request_toast">Sťahovanie vyžaduje prístup k úložisku zariadenia</string>
   <string name="tabs_description">Karty</string>
+  <string name="autoSwithcingSearchEngineTips">Zmenil sa poskytovateľ vyhľadávania</string>
+  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
+  <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
+  <string name="quicklink_cannot_save_url">Táto URL nemôže byť pridaná.</string>
+  <string name="quicklink_folder_text">Top App</string>
+  <string name="switchText">ÁNO</string>
+  <string name="unSwitchText">NIE</string>
+  <string name="undo">Späť</string>
 </resources>

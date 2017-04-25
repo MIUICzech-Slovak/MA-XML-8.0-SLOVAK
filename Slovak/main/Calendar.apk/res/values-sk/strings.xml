@@ -472,4 +472,8 @@
   <string name="edit_date_calculate_days_forward_error_hint">Nemôže byť vypočítané dopredu</string>
   <string name="start_date_calculate">Vypočítať</string>
   <string name="view_in_month_view">Zobraziť v mesiaci</string>
+  <string name="repeat_interval_frequency_week_single">týždeň</string>
+  <string name="repeat_interval_frequency_year_single">rok</string>
+  <string name="repeat_interval_frequency_day_single">deň</string>
+  <string name="repeat_interval_frequency_month_single">mesiac</string>
 </resources>

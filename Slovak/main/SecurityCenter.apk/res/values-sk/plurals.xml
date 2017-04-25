@@ -278,4 +278,12 @@
         <item quantity="other">Blokované %dx</item>
         <item quantity="one">Blokované %dx</item>
     </plurals>	
+    <plurals name="fw_blocked_count_call">
+        <item quantity="other">Hovory: %d</item>
+        <item quantity="one">Hovory: 1</item>
+    </plurals>
+    <plurals name="fw_blocked_count_sms">
+        <item quantity="other">SMS: %d</item>
+        <item quantity="one">SMS: 1</item>
+    </plurals>	
 </resources>

@@ -867,4 +867,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="webview_sslerror_handle_hitmessage">Chyba certifikátu! Pokračovanie na túto webstránku je nebezpečné!</string> 
   <string name="auto_mail_window_description">Táto funkcia je len pre Čínu. Na jej odstránení pracujeme...</string>
   <string name="auto_mail_window_label">Nastavenie služby 139 Mailbox</string>
+  <string name="account_settings_background_attachments_summary">Stiahnuť prílohy cez Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary_inter">Stiahnuť prílohy cez Wi-Fi</string>
+  <string name="policy_dont_allow_wifi_inter">Nepovoliť Wi-Fi</string>
 </resources>

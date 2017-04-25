@@ -61,16 +61,16 @@
         <item quantity="one">Výročie: %2$d rok výročie %1$s o 3 days</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">rokov</item>
-        <item quantity="one">rok</item>
+        <item quantity="other">%1$s rokov</item>
+        <item quantity="one">%1$s rok</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">dní</item>
-        <item quantity="one">deň</item>
+        <item quantity="other">%1$s dní</item>
+        <item quantity="one">%1$s deň</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">dní</item>
-        <item quantity="one">deň</item>
+        <item quantity="other">%1$s dní</item>
+        <item quantity="one">%1$s deň</item>
     </plurals>	
     <plurals name="work_days">
         <item quantity="other">%d pracovných dní</item>
@@ -91,5 +91,25 @@
     <plurals name="date_calculate_days_after">
         <item quantity="other">o %1$d dní</item>
         <item quantity="one">o %1$d deň</item>
+    </plurals>	
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s rokov</item>
+        <item quantity="one">%1$s rok</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d týždne</item>
+        <item quantity="one">%1$d týždeň</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d mesiace</item>
+        <item quantity="one">%1$d mesiac</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d roky</item>
+        <item quantity="one">%1$d rok</item>
     </plurals>	
 </resources>

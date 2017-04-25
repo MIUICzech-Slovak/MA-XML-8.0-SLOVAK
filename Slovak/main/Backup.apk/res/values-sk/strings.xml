@@ -350,4 +350,5 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
+  <string name="feature_title_antispam">AntiSpam</string>
 </resources>

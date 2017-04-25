@@ -113,4 +113,9 @@
         <item>Míle za hodinu (mph)</item>
         <item>Uzly (kn)</item>
     </string-array>
+    <string-array name="minute_rain_array">
+        <item>Hustý</item>
+        <item>Stredný</item>
+        <item>Jemný</item>
+    </string-array>	
 </resources>
