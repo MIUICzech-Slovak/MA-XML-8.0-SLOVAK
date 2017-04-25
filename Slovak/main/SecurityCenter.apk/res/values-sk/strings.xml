@@ -1918,7 +1918,6 @@ pre kontrolu vašej spotreby"</string>
   <string name="antispam_notificaiton_type_show_none">Nikdy</string>
   <string name="antispam_notification_setting_title">Upozorniť na blokovanie</string>
   <string name="antispam_xpace_text">Prepnite sa do hlavného profilu pre nastavenia AntiSpam</string>
-  <string name="app_name">AntiSpam</string>
   <string name="backsound_set_hint">Nastaviť zvuk na %s?</string>
   <string name="baidu_thanks"/>
   <string name="birthday">Narodeniny</string>
@@ -2195,7 +2194,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="st_title_man_head_addblacklist">Pridať predvoľbu na Čiernu listinu</string>
   <string name="st_title_man_head_addwhitelist">Pridať predvoľbu do výnimiek</string>
   <string name="st_title_markednumber_group">Označené čísla</string>
-  <string name="st_title_mode_choose_group">Výber režimu blokovania</string>
   <string name="st_title_not_sim">Prázdne</string>
   <string name="st_title_open_antispam">AntiSpam</string>
   <string name="st_title_other_group">Ostatné</string>
