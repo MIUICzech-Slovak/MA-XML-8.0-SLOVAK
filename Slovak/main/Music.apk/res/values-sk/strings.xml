@@ -568,4 +568,6 @@
   <string name="recently_played_songs">Nedávno prehrané</string>
   <string name="artist_album">Albumy</string>
   <string name="loadercontainer_loading">Načítavanie...</string>
+  <string name="artist_home_search_hint">Vyhľadajte interpréta</string>
+  <string name="search_hint_not_support_online">Vyhľadať umelcov, skladby a albumy</string>
 </resources>

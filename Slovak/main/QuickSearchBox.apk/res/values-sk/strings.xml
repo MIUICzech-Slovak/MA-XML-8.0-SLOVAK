@@ -128,4 +128,5 @@
   <string name="pull_to_input">Potiahnite nadol pre obnovenie</string>
   <string name="release_to_input">Pustite pre obnovenie</string>
   <string name="choose_search_engine">Vyberte predvoleného poskytovateľa vyhľadávania</string>
+  <string name="switch_email">Email</string>
 </resources>
