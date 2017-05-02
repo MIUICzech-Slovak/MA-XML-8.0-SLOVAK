@@ -162,4 +162,5 @@
   <string name="wifi_ssid">"SSID: "</string>
   <string name="low_version_tip">Skener nemôže byť spustený na tejto verzii MIUI. Aktualizujte na najnovšiu verziu systému.</string>
   <string name="drag_barcode_into_frame">Presuňte rámček na kód</string>
+  <string name="back">Späť</string>
 </resources>

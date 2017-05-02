@@ -4850,4 +4850,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="music_notification_headset_custom">Zrušiť</string>
   <string name="music_notification_headset_info">Zobraziť nastavenia</string>
   <string name="music_notification_headset_settings">Pripojené slúchadlá</string>  
+  <string name="paper_mode_auto_twilight_summary">Čítací režim naplánovaný podľa slnka</string>
+  <string name="paper_mode_auto_twilight_title">Podľa slnka</string>
+  <string name="paper_mode_customize_time_summary">Čítací režim naplánovaný podľa času</string>
+  <string name="paper_mode_customize_time_title">Nastaviť čas</string>
+  <string name="paper_mode_get_location_dlg_msg">Pre získanie presného času výhochu a západu slnka je potrebný prístup k polohe. Otvoriť nastavenie polohy?</string>
+  <string name="paper_mode_get_location_dlg_negative_btn_text">Zrušiť</string>
+  <string name="paper_mode_get_location_dlg_positive_btn_text">Nastavenia</string>
+  <string name="paper_mode_get_location_dlg_title">Prístup k polohe</string>
+  <string name="screen_paper_mode_time_summary">Čítací režim nastavený podľa času</string>
 </resources>
