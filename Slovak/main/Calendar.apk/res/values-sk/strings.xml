@@ -476,4 +476,5 @@
   <string name="repeat_interval_frequency_year_single">rok</string>
   <string name="repeat_interval_frequency_day_single">deň</string>
   <string name="repeat_interval_frequency_month_single">mesiac</string>
+  <string name="birthday_card_other_day_title">Narodeniny</string>
 </resources>

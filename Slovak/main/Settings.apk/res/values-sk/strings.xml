@@ -4859,4 +4859,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="paper_mode_get_location_dlg_positive_btn_text">Nastavenia</string>
   <string name="paper_mode_get_location_dlg_title">Prístup k polohe</string>
   <string name="screen_paper_mode_time_summary">Čítací režim nastavený podľa času</string>
+  <string name="privacy_password_use_finger_dialog_mess">Mäžete použiť váš odtlačok prsta s Heslo ochrany súkromia.</string>
+  <string name="privacy_password_use_finger_dialog_open">Nastavenie</string>
+  <string name="privacy_password_use_finger_dialog_title">Odomknutie odtlačku prsta</string>
+  <string name="privacy_password_use_finger_success">Povolené</string>
 </resources>

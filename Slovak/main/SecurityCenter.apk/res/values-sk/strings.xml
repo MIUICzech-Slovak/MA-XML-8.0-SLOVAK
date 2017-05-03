@@ -2217,4 +2217,13 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="website">Webstránka</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>  
+  <string name="applock_add_account">Pridať</string>
+  <string name="applock_add_account_info">Pridajte Mi účet pre možnosť resetovať vaše heslo ak ho zabudnete</string>
+  <string name="applock_add_account_setting">Účet a súkromie</string>
+  <string name="applock_close_dialog_summary">Vaše aplikácie nebudú chránené a vaše heslo bude vymazané ak deaktivujete Zámok aplikácií.</string>
+  <string name="applock_close_dialog_title">Deaktivovať Zámok aplikácií?</string>
+  <string name="applock_exit_account_info">Účet bude automaticky odobraný keď sa odhlásite</string>
+  <string name="applock_login_and_add_account">Prihlásiť a pridať</string>
+  <string name="applock_not_add_account">Neskôr</string>
+  <string name="applock_not_login_account">Nie ste prihlásený</string>
 </resources>

@@ -849,4 +849,6 @@ Chcete opustiť túto web stránku?"</string>
   <string name="switchText">ÁNO</string>
   <string name="unSwitchText">NIE</string>
   <string name="undo">Späť</string>
+  <string name="ssl_bad_clock_date_settings">Nastavenie dát</string>
+  <string name="ssl_bad_clock_warning" formatted="false">Bezpečné pripojenie k %s1 nemôže byť nadviazané lebo máte nesprávny čas a dátum vo vašom zariadení (%s2).</string>
 </resources>
