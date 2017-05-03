@@ -120,7 +120,7 @@ Zadajte vaše mesto manuálne"</string>
   <string name="wind_direction_no_data">Vietor</string>
   <string name="information_manager_default_weather_bg">Predvolené pozadie počasia</string>
   <string name="act_find_city_hot_city_title">Populárne mestá</string>
-  <string name="data_provided_by">Dáta poskytuje</string>
+  <string name="data_provided_by" />
   <string name="feedback_heavy_rain">Silný dážď</string>
   <string name="feedback_heavy_snow">Sneh</string>
   <string name="feedback_light_rain">Jemný dážď</string>
