@@ -683,4 +683,6 @@ Získali ste ďalších %1$s"</string>
   <string name="yesterday">Včera</string>
   <string name="clear_record">Vymazať históriu</string>
   <string name="search_history">Vyhľadať v histórii</string>
+  <string name="overwrite_msg">\"%s\" už existuje. Dotykom ho prepíšete novým súborom.</string>
+  <string name="skip_file">Preskočiť</string>
 </resources>

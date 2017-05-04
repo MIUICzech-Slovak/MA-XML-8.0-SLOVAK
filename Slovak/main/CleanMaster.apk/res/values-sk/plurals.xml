@@ -93,4 +93,8 @@
         <item quantity="other">Nebolo použité %d roky</item>
         <item quantity="one">Nebolo použité %d rok</item>
     </plurals>	
+    <plurals name="resutl_function_install_app_summary">
+        <item quantity="other">%d aplikácií nebolo dlho používaných.</item>
+        <item quantity="one">%d aplikácia nebola dlho používaná</item>
+    </plurals>
 </resources>
