@@ -286,4 +286,32 @@
         <item quantity="other">SMS: %d</item>
         <item quantity="one">SMS: 1</item>
     </plurals>	
+    <plurals name="traffic_setting_app_count">
+        <item quantity="other">%d apl.</item>
+        <item quantity="one">%d apl.</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_notify_title">
+        <item quantity="other">"You've already used %s daily data limits."</item>
+        <item quantity="one">"You've already used %s daily data limit."</item>
+    </plurals>
+    <plurals name="daily_sim_over_limit_dialog_message">
+        <item quantity="other">"You've already used %s daily data limits.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+        <item quantity="one">"You've already used %s daily data limit.
+
+If you turn on mobile data again, your carrier may charge you for additional data."</item>
+    </plurals>
+   <plurals name="app_usage_day">
+        <item quantity="other">Neboli použité %d dní</item>
+        <item quantity="one">Neboli použité %d deň</item>
+    </plurals>
+    <plurals name="app_usage_month">
+        <item quantity="other">Neboli použité %d mesiace</item>
+        <item quantity="one">Neboli použité %d mesiac</item>
+    </plurals>
+    <plurals name="app_usage_year">
+        <item quantity="other">Neboli použité %d roky</item>
+        <item quantity="one">Neboli použité %d rok</item>
+    </plurals>
 </resources>

@@ -4863,4 +4863,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_password_use_finger_dialog_open">Nastavenie</string>
   <string name="privacy_password_use_finger_dialog_title">Odomknutie odtlačku prsta</string>
   <string name="privacy_password_use_finger_success">Povolené</string>
+  <string name="recents_config_title">Zobrazenie spustených aplikácií</string>
+  <string name="show_mem_info_title">Zobraziť stav RAM</string>
 </resources>

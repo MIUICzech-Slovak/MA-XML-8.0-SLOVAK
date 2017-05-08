@@ -85,4 +85,5 @@
   <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otvoriť Prvý profil po reštartovaní zariadenia</string>
   <string name="unlockscreen_quick_charging_message">Rýchlonabíjanie %d%%</string>
   <string name="fingerprint_try_again_msg">Nebolo možné rozpoznať odtlačok, skúste to znova.</string>
+  <string name="fingerprint_again_identified_msg">Váš odtlačok prsta je aktívny. Odomknite ním vašw zariadenie alebo zadajte heslo.</string>
 </resources>

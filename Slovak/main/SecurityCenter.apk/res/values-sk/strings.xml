@@ -2226,4 +2226,10 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="applock_login_and_add_account">Prihlásiť a pridať</string>
   <string name="applock_not_add_account">Neskôr</string>
   <string name="applock_not_login_account">Nie ste prihlásený</string>
+  <string name="app_manager_go_to_manger_app">Spravovať</string>
+  <string name="app_manager_have_not_consume">Žiadne</string>
+  <string name="app_manager_perm">Povolenia</string>
+  <string name="app_manager_usage_record_title">Využitie apl.</string>
+  <string name="app_usage_never">Nepoužité</string>
+  <string name="app_usage_recently">Použité nedávno</string>
 </resources>
