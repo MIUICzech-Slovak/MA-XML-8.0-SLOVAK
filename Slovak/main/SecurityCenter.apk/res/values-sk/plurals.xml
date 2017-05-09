@@ -314,4 +314,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Neboli použité %d roky</item>
         <item quantity="one">Neboli použité %d rok</item>
     </plurals>
+    <plurals name="marked_by_others">
+        <item quantity="other">%d ostatní označili ako</item>
+        <item quantity="one">%d označil ako</item>
+      </plurals>		     	
 </resources>
