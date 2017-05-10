@@ -842,8 +842,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="storage_permission_request_toast">Sťahovanie vyžaduje prístup k úložisku zariadenia</string>
   <string name="tabs_description">Karty</string>
   <string name="autoSwithcingSearchEngineTips">Zmenil sa poskytovateľ vyhľadávania</string>
-  <string name="firstUsingSearchEngineTips">Whether to switch the search</string>
-  <string name="pref_automatic_matching_searchengines_title">Automatic matching search engines by habit</string>
+  <string name="firstUsingSearchEngineTips">Prepnúť vyhľadávanie</string>
+  <string name="pref_automatic_matching_searchengines_title">Automatické priraďovanie vyhľadávačov</string>
   <string name="quicklink_cannot_save_url">Táto URL nemôže byť pridaná.</string>
   <string name="quicklink_folder_text">Top App</string>
   <string name="switchText">ÁNO</string>
@@ -851,4 +851,5 @@ Chcete opustiť túto web stránku?"</string>
   <string name="undo">Späť</string>
   <string name="ssl_bad_clock_date_settings">Nastavenie dát</string>
   <string name="ssl_bad_clock_warning" formatted="false">Bezpečné pripojenie k %s1 nemôže byť nadviazané lebo máte nesprávny čas a dátum vo vašom zariadení (%s2).</string>
+  <string name="pref_extras_send_feedback">Spätná väzba</string>
 </resources>
