@@ -317,5 +317,9 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="marked_by_others">
         <item quantity="other">%d ostatní označili ako</item>
         <item quantity="one">%d označil ako</item>
-      </plurals>		     	
+      </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">"Čakajte %d sekúnd a skúste to znova. "</item>
+        <item quantity="one">"Čakajte %d sekundu a skúste to znova. "</item>
+    </plurals>	     	
 </resources>
