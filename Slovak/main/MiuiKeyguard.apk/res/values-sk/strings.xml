@@ -18,11 +18,13 @@
   <string name="find_device_turn_off_flight_mode">Deaktivovať režim Lietadlo</string>
   <string name="fingerprint_add_text">Rozpoznávanie odtlačku prsta bolo aktualizované. Pridajte svoj odtlačok prsta znova.</string>
   <string name="fingerprint_add_title">Pridať odtlačok</string>
+  <string name="fingerprint_again_identified_msg">Váš odtlačok prsta je aktívny. Odomknite ním vašw zariadenie alebo zadajte heslo.</string>
   <string name="fingerprint_enter_second_psw_msg">Zadajte heslo Druhého profilu po reštarte aby ste mohli použiť váš odtlačok prsta</string>
   <string name="fingerprint_enter_second_psw_title">Zadajte heslo Druhého profilu</string>
   <string name="fingerprint_lockout_msg">Počkajte 1 minútu a skúste znova odomknúť odtlačkom prsta.</string>
   <string name="fingerprint_not_identified_msg">Zadajte svoje heslo pre odomknutie.</string>
   <string name="fingerprint_not_identified_title">Zadajte svoje heslo</string>
+  <string name="fingerprint_try_again_msg">Nebolo možné rozpoznať odtlačok, skúste to znova.</string>
   <string name="fingerprint_try_again_text">Znova</string>
   <string name="forget_password_string">Zabudol som heslo</string>
   <string name="incorrect_pincode">Nesprávny PIN</string>
@@ -30,6 +32,7 @@
   <string name="incorrect_pukcode">Nesprávny PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Nesprávny PUK kód, ostávajúce pokusy: %d</string>
   <string name="input_password_after_boot_msg">Po reštarte zariadenia, musíte zadať heslo.</string>
+  <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otvoriť Prvý profil po reštartovaní zariadenia</string>
   <string name="input_password_hint_text">Zadajte heslo</string>
   <string name="input_pattern_hint_text">Zadajte váš odomykací vzor</string>
   <string name="input_pin_code">PIN</string>
@@ -64,16 +67,6 @@
   <string name="open_camera_hint_text">Potiahnite doľava pre %s</string>
   <string name="open_remote_center_hint_text">Potiahnite doprava pre %s</string>
   <string name="open_wifi_settings">Nastavenia siete</string>
-  <string name="phone_locked_string">Zariadenie je zablokované</string>
-  <string name="phone_locked_timeout_minutes_string">Skúste znovu o %s minút</string>
-  <string name="phone_locked_timeout_seconds_string">Skúste znovu o %s sekúnd</string>
-  <string name="unlock_sim_string">Odblokovať SIM</string>
-  <string name="unlock_string">OK</string>
-  <string name="unlocking_sim_card">Odblokovanie SIM karty</string>
-  <string name="unlockscreen_low_battery">Pripojte nabíjačku</string>
-  <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
-  <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
-  <string name="wrong_password">Nesprávne heslo</string>
   <string name="phone_locked_foget_password">Zabudli ste heslo?</string>
   <string name="phone_locked_foget_password_content">"Môžete sa prihlásiť na i.mi.com svojim Mi účtom ktorý je prepojený s týmto zariadením a vymazať vaše dáta. Všetky vaše dáta v tomto zariadení budú vymazané. Potom môžete reštartovať zariadenie a obnoviť vaše kontakty, SMS, fotografie z Mi Cloud ak ste mali povolenú synchronizáciu. 
  
@@ -81,9 +74,16 @@
   <string name="phone_locked_foget_password_footer">"Postup:
  Prihláste sa na i.mi.com, choďte na “Find device”, vyberte zariadenie a potvrďte Wipe device."</string>
   <string name="phone_locked_foget_password_header">Čo mám robiť ak som zabudol heslo?</string>
-  <string name="phone_locked_foget_password_ok">Rozumiem</string>  
-  <string name="input_password_after_boot_msg_must_enter_owner_space">Musíte otvoriť Prvý profil po reštartovaní zariadenia</string>
+  <string name="phone_locked_foget_password_ok">Rozumiem</string>
+  <string name="phone_locked_string">Zariadenie je zablokované</string>
+  <string name="phone_locked_timeout_minutes_string">Skúste znovu o %s minút</string>
+  <string name="phone_locked_timeout_seconds_string">Skúste znovu o %s sekúnd</string>
+  <string name="unlock_sim_string">Odblokovať SIM</string>
+  <string name="unlock_string">OK</string>
+  <string name="unlocking_sim_card">Odblokovanie SIM karty</string>
+  <string name="unlockscreen_low_battery">Pripojte nabíjačku</string>
   <string name="unlockscreen_quick_charging_message">Rýchlonabíjanie %d%%</string>
-  <string name="fingerprint_try_again_msg">Nebolo možné rozpoznať odtlačok, skúste to znova.</string>
-  <string name="fingerprint_again_identified_msg">Váš odtlačok prsta je aktívny. Odomknite ním vašw zariadenie alebo zadajte heslo.</string>
+  <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
+  <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
+  <string name="wrong_password">Nesprávne heslo</string>
 </resources>

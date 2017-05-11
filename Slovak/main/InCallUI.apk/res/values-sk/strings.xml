@@ -32,7 +32,9 @@
   <string name="callFailed_unobtainable_number">Chybné číslo</string>
   <string name="callFailed_userBusy">Linka je obsadená.</string>
   <string name="callUnanswered_forwarded">Hovor je presmerovaný</string>
+  <string name="call_button_conference_manager_text">Správa konf. hovoru</string>
   <string name="call_button_dialer_text">Klávesnica</string>
+  <string name="call_button_mute_text">Stíšiť</string>
   <string name="call_button_tools_text">Funkcie</string>
   <string name="call_contacts_deny_permission_msg">Zakázali ste prístup ku kontaktom, nie je možné zobraziť informácie o kontakte.</string>
   <string name="call_description_recording">Nahrávanie...</string>
@@ -63,6 +65,7 @@
   <string name="card_title_hanging_up">"Ukončenie hovoru "</string>
   <string name="card_title_in_call">Počas hovoru</string>
   <string name="card_title_in_call_short">Hovor</string>
+  <string name="card_title_in_video">Video</string>
   <string name="card_title_incoming_call">Prichádzajúci hovor</string>
   <string name="card_title_incoming_conference_call">Prichádzajúci konferenčný hovor</string>
   <string name="card_title_on_hold">"Pridržaný hovor "</string>
@@ -73,6 +76,8 @@
   <string name="card_title_upgrade_video_call_timed_out">Nebolo možné aktualizovať video</string>
   <string name="card_title_video_call">Video hovor</string>
   <string name="card_title_video_call_paused">Video pozastavené</string>
+  <string name="card_title_video_conf_call">Videokonferencia</string>
+  <string name="card_video_hold_swap">Zameniť</string>
   <string name="conference_call_description" formatted="false">%s,%s atď. celkovo %s</string>
   <string name="conference_call_number">Ľudí: %s</string>
   <string name="conference_call_single_description" formatted="false">%s atď. celkom %s</string>
@@ -231,15 +236,10 @@
   <string name="unknown">Neznáme</string>
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="video_call_not_allowed_if_tty_enabled">Vypnite TTY režim</string>
+  <string name="video_conference_caller_info_name">Video konferencia %1$s</string>
   <string name="video_switch_to_voice_call_prompt">Prepnúť na hlasový hovor</string>
   <string name="voicemail">Hlasová schránka</string>
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
-  <string name="call_button_conference_manager_text">Správa konf. hovoru</string>
-  <string name="call_button_mute_text">Stíšiť</string>
-  <string name="card_title_in_video">Video</string>
-  <string name="card_title_video_conf_call">Videokonferencia</string>
-  <string name="card_video_hold_swap">Zameniť</string>
-  <string name="video_conference_caller_info_name">Video konferencia %1$s</string>
 </resources>

@@ -8,6 +8,7 @@
   <string name="allow_check_website_security">skontrolovať bezpečnosť webstránok</string>
   <string name="app_details">"Apl.: "</string>
   <string name="app_name">Skener</string>
+  <string name="back">Späť</string>
   <string name="barcode_into_rectangle">Zamerajte kód do rámčeka</string>
   <string name="birthday">"Narodeniny: "</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
@@ -47,6 +48,7 @@
   <string name="document_title">Odfoťte dokument</string>
   <string name="document_top_panel_title">Fotografia dokumentu</string>
   <string name="done">Hotovo</string>
+  <string name="drag_barcode_into_frame">Presuňte rámček na kód</string>
   <string name="email">"Email: "</string>
   <string name="error_camera_disabled">Prístup k fotoaparátu bol zamietnutý z dôvodu bezpečnosti</string>
   <string name="error_cannot_connect_camera">Nie je možné sa pripojiť k fotoaparátu</string>
@@ -85,6 +87,7 @@
   <string name="language_entry_russian">Russian</string>
   <string name="language_entry_spanish">Spanish</string>
   <string name="language_entry_swedish">Swedish</string>
+  <string name="low_version_tip">Skener nemôže byť spustený na tejto verzii MIUI. Aktualizujte na najnovšiu verziu systému.</string>
   <string name="module_title_code">QR kód</string>
   <string name="module_title_document">Dokument</string>
   <string name="module_title_namecard">Vizitka</string>
@@ -160,7 +163,4 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnosť: "</string>
   <string name="wifi_ssid">"SSID: "</string>
-  <string name="low_version_tip">Skener nemôže byť spustený na tejto verzii MIUI. Aktualizujte na najnovšiu verziu systému.</string>
-  <string name="drag_barcode_into_frame">Presuňte rámček na kód</string>
-  <string name="back">Späť</string>
 </resources>

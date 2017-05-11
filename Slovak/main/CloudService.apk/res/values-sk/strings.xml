@@ -176,6 +176,7 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_confusion_toast_confirm">Zariadenie overené</string>
   <string name="micloud_confusion_toast_deny">Prihláste sa do vášho Mi účtu</string>
   <string name="micloud_confusion_yes">Áno</string>
+  <string name="micloud_detail_battery_low">Slabá batéria</string>
   <string name="micloud_detail_battery_low_message">Slabá batéria. Pripojte váš telefón k nabíjačke a synchr.</string>
   <string name="micloud_detail_battery_low_title">Slabá batéria</string>
   <string name="micloud_detail_depend_wifi_message">Pripojte sa k Wi-Fi alebo skontrolujte nastavenie synchr.</string>
@@ -186,9 +187,11 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_detail_force_sync">Synchr. teraz</string>
   <string name="micloud_detail_lastest">Synchr.</string>
   <string name="micloud_detail_lastest_with_off">Synchr.</string>
+  <string name="micloud_detail_need_charge">Nabite batériu pre synchr.</string>
   <string name="micloud_detail_not_sync">%d čaká na synchr.</string>
   <string name="micloud_detail_not_synced">Nesynchr.</string>
   <string name="micloud_detail_ok">OK</string>
+  <string name="micloud_detail_pause">Synchr. zastavená</string>
   <string name="micloud_detail_pending">Čaká na synchr.</string>
   <string name="micloud_detail_preference_sync_items">Položky</string>
   <string name="micloud_detail_query_error">Nie je možné načítať stav synchr.</string>
@@ -201,6 +204,10 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
   <string name="micloud_detail_wlan_contact">Nesynchr kontakty: %d</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
+  <string name="micloud_dialog_sync_now_message">Pripojte sa na Wi-Fi</string>
+  <string name="micloud_dialog_sync_now_negative">Neskôr</string>
+  <string name="micloud_dialog_sync_now_positive">Použiť mobilné dáta</string>
+  <string name="micloud_dialog_sync_now_title">Synchr. dáta teraz cez mobilné dáta</string>
   <string name="micloud_dspt">Používajte MiCloud na synchr., vyhľadanie telefónu,</string>
   <string name="micloud_dspt_provision">Používajte MiCloud na synchr., vyhľadanie telefónu a zdieľanie súborov.</string>
   <string name="micloud_find_device_finish">Hotovo</string>
@@ -232,6 +239,7 @@ do vášho Mi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_full_influence_title">Ak je MiCloud už plný</string>
   <string name="micloud_main_battery_low">Slabá batéria pre synchr.</string>
   <string name="micloud_main_battery_message">Pripojte vaše zariadenie k nabíjačke pre synchronizáciu.</string>
+  <string name="micloud_main_cancel_sync">Zrušiť synchr.</string>
   <string name="micloud_main_clear_now">Vyčistiť</string>
   <string name="micloud_main_data_unsynced">%d nesynchr.</string>
   <string name="micloud_main_detail">Podrobnosti</string>
@@ -260,6 +268,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_main_suggest_sync">Vaše dáta nie sú synchronizované.</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
   <string name="micloud_main_sync_init">Získavanie informácií</string>
+  <string name="micloud_main_sync_need_charge">Čaká sa na nabíjačku</string>
   <string name="micloud_main_sync_now">Synchronizovať</string>
   <string name="micloud_main_sync_on">Synchr. povolená</string>
   <string name="micloud_main_sync_on_wifi">Synchr. len cez Wi-Fi</string>
@@ -295,6 +304,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_notif_content_battery_low">Batéria je príliš slabá.</string>
   <string name="micloud_notif_content_clipboard_push">Môžete to vložiť kdekoľvek.</string>
   <string name="micloud_notif_content_depend_wifi">Pripojte sa k Wi-Fi pre synchr.</string>
+  <string name="micloud_notif_content_dirty_data">Podrobnosti</string>
   <string name="micloud_notif_content_master_depend_wifi">Pripojte sa na Wi-Fi sieť.</string>
   <string name="micloud_notif_content_memory_low">Nie je dostatok miesta na úložisku.</string>
   <string name="micloud_notif_content_multi_user_error">Prihlásili ste sa rovnakým účtom ako na primárnom profile.</string>
@@ -304,6 +314,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_notif_title_battery_low">Nie je možné synchr. s MiCloud</string>
   <string name="micloud_notif_title_clipboard_push">Obsah bol skopírovaný do schránky</string>
   <string name="micloud_notif_title_depend_wifi">%d čaká an synchr.</string>
+  <string name="micloud_notif_title_dirty_data">Máte nesynchr. dáta</string>
   <string name="micloud_notif_title_master_depend_wifi">Nie je možné synchr. s MiCloud</string>
   <string name="micloud_notif_title_memory_low">Nie je možné synchr. s MiCloud</string>
   <string name="micloud_notif_title_multi_user_error">Nie je možné synchr. s MiCloud</string>
@@ -494,15 +505,4 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchr.</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="micloud_detail_battery_low">Slabá batéria</string>
-  <string name="micloud_detail_need_charge">Nabite batériu pre synchr.</string>
-  <string name="micloud_detail_pause">Synchr. zastavená</string>
-  <string name="micloud_dialog_sync_now_message">Pripojte sa na Wi-Fi</string>
-  <string name="micloud_dialog_sync_now_negative">Neskôr</string>
-  <string name="micloud_dialog_sync_now_positive">Použiť mobilné dáta</string>
-  <string name="micloud_dialog_sync_now_title">Synchr. dáta teraz cez mobilné dáta</string>
-  <string name="micloud_main_cancel_sync">Zrušiť synchr.</string>
-  <string name="micloud_main_sync_need_charge">Čaká sa na nabíjačku</string>
-  <string name="micloud_notif_content_dirty_data">Podrobnosti</string>
-  <string name="micloud_notif_title_dirty_data">Máte nesynchr. dáta</string>
 </resources>

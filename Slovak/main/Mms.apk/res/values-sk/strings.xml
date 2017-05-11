@@ -165,6 +165,7 @@
   <string name="exceed_message_text_limitation">Bol dosiahnutý limit správy.</string>
   <string name="expire_on">Platnosť vyprší: %s</string>
   <string name="exporting_progress_private_message">Exportovanie správ zo súkromnej schránky</string>
+  <string name="fail_to_add_attachment">Nebolo možné pripojiť prílohu</string>
   <string name="failed_to_add_media">Položku %1$s nemožno pridať do správy.</string>
   <string name="failed_to_resize_image">Veľkosť fotografie sa nepodarilo prispôsobiť.</string>
   <string name="fake_cell_alert_hint">Vyzerá to tak akoby bola správa odoslaná z iného čisla ako sa zobrazuje. Buďte opatrný ak SMS vyžaduje prihlasovacie údaje alebo platby.</string>
@@ -307,6 +308,7 @@
   <string name="mx_activate_int_hint_malformed_info">Nastala chyba. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_hint_server">Aktivácia servera pre Cloud správy zlyhala. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_hint_sim_change">Bola zmenená SIM karta. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
+  <string name="mx_activate_network_allow_notice">Táto služba vyžaduje pripojenie na internet.</string>
   <string name="mx_activate_status_desc_activating_now">Aktivovanie...</string>
   <string name="mx_activate_status_desc_check_net_connection">Nebolo možné sa pripojiť k sieti</string>
   <string name="mx_activate_status_desc_fail">Nebolo možné aktivovať Cloudové správy</string>
@@ -390,6 +392,7 @@
   <string name="pref_delivery_ringtone">Zvukové upozornenie</string>
   <string name="pref_edit_smsc_address">Číslo SMS centra (SMSC)</string>
   <string name="pref_forward_title">Preposlať</string>
+  <string name="pref_hide_verification_code_summary">Automaticky skryť OTP v SMS na zamknutej obrazovke</string>
   <string name="pref_message_recovery_introduction_title">Obnoviť správu</string>
   <string name="pref_messages_to_save">Nastaviť počet správ pre uloženie</string>
   <string name="pref_mms_settings_title">Nastavenie správ (MMS)</string>
@@ -399,6 +402,7 @@
   <string name="pref_show_blocked_messages_summary">Zobraziť blokované SMS v konverzácií</string>
   <string name="pref_show_sms_template_in_summary">Automaticky rozpoznať OTP v SMS správe</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovať a vložiť overovací kód</string>
+  <string name="pref_smart_messages_settings">Inteligentné SMS</string>
   <string name="pref_sms_theme_title">Nastavenie štýlu</string>
   <string name="pref_summary_allow_si_sl_push">Povoliť správam načítavať obsah webstránok</string>
   <string name="pref_summary_delete_limit">Počet správ v konverzácií: %1$s</string>
@@ -615,10 +619,12 @@
   <string name="timed_message_to">Komu</string>
   <string name="title_allow_network_access">Aktualizovať info automaticky</string>
   <string name="title_collapse_sp_messages">Spájať správy služieb</string>
+  <string name="title_hide_verification_code">Autom. skryť OTP na zamyk. obrazovke</string>
   <string name="title_show_blocked_messages">Zobraziť blokované SMS</string>
   <string name="title_show_sms_template">Kontrola SMS čí obsahuje overovací kód</string>
   <string name="title_show_sms_template_in">Kontrola SMS pre OTP</string>
   <string name="title_timed_message_dialog">Čas odoslania správy</string>
+  <string name="title_use_gsm_alphabet">Orezať diakritiku pred odoslaním</string>
   <string name="to_address_label">"Komu: "</string>
   <string name="to_count">%d ľudí</string>
   <string name="to_label">"Komu "</string>
@@ -666,10 +672,4 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
-  <string name="title_use_gsm_alphabet">Orezať diakritiku pred odoslaním</string>
-  <string name="fail_to_add_attachment">Nebolo možné pripojiť prílohu</string>
-  <string name="pref_hide_verification_code_summary">Automaticky skryť OTP v SMS na zamknutej obrazovke</string>
-  <string name="title_hide_verification_code">Autom. skryť OTP na zamyk. obrazovke</string>
-  <string name="mx_activate_network_allow_notice">Táto služba vyžaduje pripojenie na internet.</string>
-  <string name="pref_smart_messages_settings">Inteligentné SMS</string>
 </resources>

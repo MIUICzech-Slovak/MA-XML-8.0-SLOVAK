@@ -63,6 +63,7 @@
   <string name="maml_component_customization_title">Nastavenia</string>
   <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
   <string name="memory_clear_result">"Uvoľnené: %1$sB \nDostupné: %2$sB"</string>
+  <string name="miui_upgrading_notification_title">Prebieha aktualizácia systému, niektoré funkcie môžu byť obmedzené</string>
   <string name="package_delete_confirm_step_1">Vymazať %s?</string>
   <string name="package_delete_confirm_step_2">Vymazanie tejto aplikácie môže spôsobiť nestabilitu celého systému.</string>
   <string name="package_delete_confirm_step_3">Po vymazaní nebudete môcť túto aplikáciu znova otvoriť.</string>
@@ -139,5 +140,4 @@
   <string name="unknown_caller">Neznáme číslo</string>
   <string name="user_switching_dialog_text">Prepínanie...</string>
   <string name="xspace_resolver_activity_title">Vybrať apl.</string>
-  <string name="miui_upgrading_notification_title">Prebieha aktualizácia systému, niektoré funkcie môžu byť obmedzené</string>
 </resources>

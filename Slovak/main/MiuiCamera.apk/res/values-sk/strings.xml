@@ -79,6 +79,8 @@
   <string name="front_camera_hint_text_confirm">Rozumiem</string>
   <string name="front_camera_hint_text_place">Otočte telefón aby kamera bola na hornej strane pre zhotovenie selfie</string>
   <string name="front_camera_hint_text_rotate">Otočte telefón</string>
+  <string name="groupshot_mode_use_hint">"Bude zhotovených viacero snímkov
+pre výber toho najlepšieho"</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Súčasný režim dlhého podržania tlačidla hlasitosti nadol je NFC. Chcete potvrdiť túto zmenu?</string>
   <string name="no_storage">Pred použitím vložte SD kartu.</string>
@@ -417,6 +419,4 @@
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
   <string name="wait">Čakajte prosím...</string>
-  <string name="groupshot_mode_use_hint">"Bude zhotovených viacero snímkov
-pre výber toho najlepšieho"</string>
 </resources>

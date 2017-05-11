@@ -76,6 +76,7 @@
   <string name="app_new_version">Posledná verzia aplikácie je už nainštalovaná</string>
   <string name="app_update_install">Sťahovanie je dokončené</string>
   <string name="application_name">Prehliadač</string>
+  <string name="autoSwithcingSearchEngineTips">Zmenil sa poskytovateľ vyhľadávania</string>
   <string name="autofill_keyboard_accessory_content_description">Dostupné návrhy</string>
   <string name="autofill_popup_content_description">Zobraziť automatické vyplňovanie</string>
   <string name="autologin_bar_error">"Prihlásenie neúspešné."</string>
@@ -83,6 +84,7 @@
   <string name="autologin_bar_login_text">Prihlásiť</string>
   <string name="autologin_bar_text">Prihlásiť ako</string>
   <string name="back_button_label">Späť</string>
+  <string name="back_description">Späť</string>
   <string name="block"> Blokovať</string>
   <string name="block_ads_choice_block">Blokovať</string>
   <string name="block_ads_choice_continue">Pokračovať</string>
@@ -103,6 +105,7 @@
   <string name="bookmark_title_lable">Názov</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_already_exisit">Záložka už existuje</string>
+  <string name="bookmark_url_can_not_null">Zadajte URL adresu.</string>
   <string name="bookmark_url_not_valid">"Táto URL nie je platná."</string>
   <string name="bookmarks_content_is_null">Prázdne</string>
   <string name="bookmarks_management">Upraviť záložky</string>
@@ -152,6 +155,7 @@
   <string name="color_picker_hue">Odtieň</string>
   <string name="color_picker_saturation">Sýtosť farby</string>
   <string name="comment_app_menu">Komentár</string>
+  <string name="comment_description">Komentár</string>
   <string name="comment_hint">Komentár</string>
   <string name="comment_menu">Komentár</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.cz</string>
@@ -267,6 +271,7 @@
   <string name="edit">Upraviť</string>
   <string name="edit_bookmark">Upraviť záložku</string>
   <string name="edit_quicklink">Upraviť</string>
+  <string name="empty_app_name">iná aplikácia</string>
   <string name="empty_bookmark">Prázdne</string>
   <string name="empty_history_hint">Prázdna</string>
   <string name="empty_snapshot_hint">Prázdne</string>
@@ -294,9 +299,12 @@
   <string name="find_on_page_next">Ďalej</string>
   <string name="find_on_page_prev">Späť</string>
   <string name="find_previous">Predch.</string>
+  <string name="firstUsingSearchEngineTips">Prepnúť vyhľadávanie</string>
+  <string name="fling_on_border_gesture_hint">Môžete nastaviť funkciu tohto gesta v Nastaveniach</string>
   <string name="force_quick_search_title">Vyhľadať</string>
   <string name="force_touch_bookmark_history_title">Záložky a História</string>
   <string name="force_touch_infoflow_title">Denné noviny</string>
+  <string name="forward_description">Preposlať</string>
   <string name="geolocation_permissions_prompt_dont_share">Odmietnuť</string>
   <string name="geolocation_permissions_prompt_message">%s chce zistiť vašu polohu</string>
   <string name="geolocation_permissions_prompt_remember">Zapamätať výber</string>
@@ -313,7 +321,9 @@
   <string name="go_supermarket_title">Viac apl., rýchlejšie a menej dát v Google Play</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="have_sent_bookmark_to_home_screen">Záložka odoslaná na plochu</string>
+  <string name="hint">Poznámka</string>
   <string name="history_saved_webpage">Uložiť stránku</string>
+  <string name="home_description">Domov</string>
   <string name="homepage_delete_card_menu">Vymazať</string>
   <string name="homepage_get_location">Získať polohu</string>
   <string name="homepage_get_location_failed">Nebolo možné načítať vašu polohu, vyberte vaše mesto.</string>
@@ -396,6 +406,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miuichromium_error_page_airplane_mode_on">Deaktivujte režim Lietadlo</string>
   <string name="miuichromium_error_page_btn_close">Zatvoriť</string>
   <string name="miuichromium_error_page_btn_refresh">Obnoviť</string>
+  <string name="miuichromium_error_page_btn_report_issue">Nahlásiť chybu</string>
   <string name="miuichromium_error_page_diagnose">Diagnostika siete</string>
   <string name="miuichromium_error_page_diagnose_banner">Diagnostika siete</string>
   <string name="miuichromium_error_page_diagnose_certificate">Nebolo možné overiť sieťový protokol</string>
@@ -436,6 +447,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Pre zmenu sa vyžaduje USB úložisko.</string>
   <string name="month_picker_dialog_title">Nastaviť mesiac</string>
+  <string name="more_description">Menu</string>
   <string name="more_option">Ďalšie nastavenia</string>
   <string name="nav_bottom_bar_back">Naspäť</string>
   <string name="nav_bottom_bar_close_all">Zatvoriť</string>
@@ -461,6 +473,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="notif_install_successful">Sťahovanie dokončené</string>
   <string name="ok">OK</string>
   <string name="older">Staršie</string>
+  <string name="open_app_confirm_message">Povoliť tejto stránke otvoriť %s?</string>
   <string name="open_file_explorer_failed">Nebolo možné otvoriť aplikáciu Súbory</string>
   <string name="opening_file_error">Otváranie súboru zlyhalo</string>
   <string name="page_info">Informácie o stránke</string>
@@ -484,6 +497,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pref_adblock_counts">Blokovaných reklám: %d</string>
   <string name="pref_adblock_title">Blokovanie reklám</string>
   <string name="pref_auto_update_under_wifi">Auto. aktualizovať cez Wi-Fi</string>
+  <string name="pref_automatic_matching_searchengines_title">Automatické priraďovanie vyhľadávačov</string>
   <string name="pref_category_hint">Kategória</string>
   <string name="pref_check_security_url_summary">Odoslať URL web stránky na Mi server pre overenie bezpečnosti</string>
   <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
@@ -510,6 +524,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pref_extras_reset_default_dlg">Vrátiť nastavenia na predvolené hodnoty?</string>
   <string name="pref_extras_reset_default_summary">Obnoviť predvolené nastavenia</string>
   <string name="pref_extras_reset_default_title">Resetovať predvolené</string>
+  <string name="pref_extras_send_feedback">Spätná väzba</string>
   <string name="pref_extras_title">Rozšírené</string>
   <string name="pref_extras_title_version">Verzia</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">Obnoviť predvolené nastavenia pre ukladanie súborov?</string>
@@ -517,8 +532,10 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pref_file_download_default_path_prefix">Predvolená cesta: %s</string>
   <string name="pref_file_download_save_modify_default_path">Upraviť zložku uloženia</string>
   <string name="pref_file_download_save_title">Stiahnuť a uložiť súbor</string>
+  <string name="pref_fling_on_border">Posunutie od hrany</string>
   <string name="pref_fling_on_border_enabled">Presun na okraj</string>
   <string name="pref_fling_on_border_enabled_title_summary">Posuňte prstom na kraj obrazovky</string>
+  <string name="pref_fling_on_border_title_summary">Gesto prstom z pravého alebo ľavého kraja</string>
   <string name="pref_font_size_category">Veľkosť textu</string>
   <string name="pref_force_userscalable">Vynútiť povolenie priblíženia</string>
   <string name="pref_force_userscalable_summary">"Ignorovať požiadavku stránky na kontrolu vlastností priblíženia"</string>
@@ -584,6 +601,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="pull_to_refresh_release_label">Pustite pre obnovenie</string>
   <string name="qr_code_title">QR kód</string>
   <string name="quicklink_bookmark_save">Uložiť ako:</string>
+  <string name="quicklink_cannot_save_url">Táto URL nemôže byť pridaná.</string>
+  <string name="quicklink_folder_text">Top App</string>
   <string name="quicklink_not_saved">Nie je možné pridať na úvodnú stránku</string>
   <string name="quicklink_saved">Pridané na úvodnú stránku</string>
   <string name="quicklink_saved_before">Stránka bola pridaná</string>
@@ -687,6 +706,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="skip_current_version">Preskočiť túto verziu</string>
   <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>
   <string name="snapshot_successed">Uložené pre offline čítanie</string>
+  <string name="ssl_bad_clock_date_settings">Nastavenie dát</string>
+  <string name="ssl_bad_clock_warning" formatted="false">Bezpečné pripojenie k %s1 nemôže byť nadviazané lebo máte nesprávny čas a dátum vo vašom zariadení (%s2).</string>
   <string name="ssl_certificate">Bezpečnostný certifikát</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="ssl_continue">Pokračovať</string>
@@ -701,6 +722,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="ssl_warnings_header">Vyskytli sa problémy s bezpečnostným certifikátom pre túto stránku.</string>
   <string name="start_save_page_capture">Ukladanie screenshotu...</string>
   <string name="storage_internal">Interné úložisko</string>
+  <string name="storage_permission_request_toast">Sťahovanie vyžaduje prístup k úložisku zariadenia</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">USB úložisko</string>
   <string name="suggest_access_appstore">MiApp Store</string>
@@ -713,11 +735,13 @@ Chcete opustiť túto web stránku?"</string>
   <string name="suggest_access_item_singer_pop">Skladby: %d</string>
   <string name="suggest_item_delete_text">Vymazať</string>
   <string name="suggest_open_app_failed">Nebolo možné otvoriť túto aplikáciu</string>
+  <string name="switchText">ÁNO</string>
   <string name="switch_proxy_dialog_msg">"Bolo zistené napadnutie vašej siete. Použite MIUI aplikáciu Optimalizácia alebo to nahláste vášmu operátorovi."</string>
   <string name="switch_proxy_dialog_title">Napadnutie siete</string>
   <string name="tab_hotpage">Trendy</string>
   <string name="tab_quicklinks">Užitočné</string>
   <string name="tab_yellowpage">Populárne</string>
+  <string name="tabs_description">Karty</string>
   <string name="time_picker_dialog_am">AM</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
@@ -727,6 +751,8 @@ Chcete opustiť túto web stránku?"</string>
   <string name="title_bar_loading">Načítavanie...</string>
   <string name="too_many_windows_dialog_message">"Nemožno otvoriť novú kartu, kým inú nezavriete."</string>
   <string name="too_many_windows_dialog_title">Limit kariet dosiahnutý</string>
+  <string name="unSwitchText">NIE</string>
+  <string name="undo">Späť</string>
   <string name="unknown_title">Neznámy</string>
   <string name="unsecurity_url_toast">Táto webstránka nie je bezpečná</string>
   <string name="up_to_loading_tips">Pustite pre obnovenie</string>
@@ -826,30 +852,4 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="fling_on_border_gesture_hint">Môžete nastaviť funkciu tohto gesta v Nastaveniach</string>
-  <string name="hint">Poznámka</string>
-  <string name="miuichromium_error_page_btn_report_issue">Nahlásiť chybu</string>
-  <string name="pref_fling_on_border">Posunutie od hrany</string>
-  <string name="pref_fling_on_border_title_summary">Gesto prstom z pravého alebo ľavého kraja</string>
-  <string name="empty_app_name">iná aplikácia</string>
-  <string name="open_app_confirm_message">Povoliť tejto stránke otvoriť %s?</string>
-  <string name="bookmark_url_can_not_null">Zadajte URL adresu.</string>
-  <string name="back_description">Späť</string>
-  <string name="comment_description">Komentár</string>
-  <string name="forward_description">Preposlať</string>
-  <string name="home_description">Domov</string>
-  <string name="more_description">Menu</string>
-  <string name="storage_permission_request_toast">Sťahovanie vyžaduje prístup k úložisku zariadenia</string>
-  <string name="tabs_description">Karty</string>
-  <string name="autoSwithcingSearchEngineTips">Zmenil sa poskytovateľ vyhľadávania</string>
-  <string name="firstUsingSearchEngineTips">Prepnúť vyhľadávanie</string>
-  <string name="pref_automatic_matching_searchengines_title">Automatické priraďovanie vyhľadávačov</string>
-  <string name="quicklink_cannot_save_url">Táto URL nemôže byť pridaná.</string>
-  <string name="quicklink_folder_text">Top App</string>
-  <string name="switchText">ÁNO</string>
-  <string name="unSwitchText">NIE</string>
-  <string name="undo">Späť</string>
-  <string name="ssl_bad_clock_date_settings">Nastavenie dát</string>
-  <string name="ssl_bad_clock_warning" formatted="false">Bezpečné pripojenie k %s1 nemôže byť nadviazané lebo máte nesprávny čas a dátum vo vašom zariadení (%s2).</string>
-  <string name="pref_extras_send_feedback">Spätná väzba</string>
 </resources>

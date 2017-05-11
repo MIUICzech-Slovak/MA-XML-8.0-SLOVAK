@@ -108,6 +108,7 @@
   <string name="exchange_account">Účet Exchange</string>
   <string name="fail">Zlyhalo</string>
   <string name="feature_title_account">Účet</string>
+  <string name="feature_title_antispam">AntiSpam</string>
   <string name="feature_title_call_log">História hovorov</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Odosielanie...</string>
@@ -350,5 +351,4 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
-  <string name="feature_title_antispam">AntiSpam</string>
 </resources>

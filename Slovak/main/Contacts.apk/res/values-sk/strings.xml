@@ -84,6 +84,7 @@
   <string name="call_settings">Nastavenia</string>
   <string name="call_sim1_menu_title">Volať cez SIM1</string>
   <string name="call_sim2_menu_title">Volať cez SIM2</string>
+  <string name="call_sim_menu_title_suffix">(Primárna)</string>
   <string name="call_telex">Volať na číslo Telex</string>
   <string name="call_tty_tdd">Volať na číslo TTY/TDD</string>
   <string name="call_type_and_date">%1$s %2$s</string>
@@ -372,6 +373,9 @@ Karty kontaktu sú deaktivované"</string>
   <string name="dialer_menu_title">Nastavenie menu</string>
   <string name="dialer_returnToInCallScreen">Návrat k hovoru</string>
   <string name="dialer_useDtmfDialpad">Použiť číselník</string>
+  <string name="dialog_device_info_hardware_version">Verzia Hardware: %s</string>
+  <string name="dialog_device_info_miui_version">Verzia MIUI: %s</string>
+  <string name="dialog_device_info_title">Info o verzii</string>
   <string name="dialog_import">Importovať kontakty</string>
   <string name="dialog_import_export">Importovať/exportovať kontakty</string>
   <string name="dialog_new_contact_account">Vytvoriť kontakt na účte</string>
@@ -381,6 +385,10 @@ Karty kontaktu sú deaktivované"</string>
   <string name="dialog_voicemail_airplane_mode_message">Pre volanie do odkazovej schránky, vypnite režim lietadlo.</string>
   <string name="dialog_voicemail_not_ready_message">Pre nastavenie odkazovej schránky, choďte do Menu &gt; Nastavenia.</string>
   <string name="directory_search_label">Adresár</string>
+  <string name="disclaimer_text">"Yellow pages get the info about your balance by sending an SMS. Your carrier may update this info with a delay, so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
+ 
+ To avoid frequent queries, we update balance info once a day."</string>
+  <string name="disclaimer_title">Disclaimer</string>
   <string name="display_all_contacts">Všetky kontakty</string>
   <string name="display_more_groups">Ďalšie skupiny...</string>
   <string name="display_only_phones">Iba kontakty s tel. číslom</string>
@@ -1013,6 +1021,7 @@ Synchronizujte ich teraz."</string>
   <string name="remove_blacklist_dialog_message">Odblokovať toto číslo?</string>
   <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
   <string name="remove_duplicate">"MIUI Vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
+  <string name="report_inquiry_mms">Nahlásiť SMS</string>
   <string name="restore_nickname">Obnoviť</string>
   <string name="ret_sign">" 
 "</string>
@@ -1105,6 +1114,7 @@ Synchronizujte ich teraz."</string>
   <string name="sim_export_loading">Informácie o SIM karte sa načítavajú. Táto operácia môže trvať dlhšie.</string>
   <string name="sim_indexed_contact_not_exist">Pozícia %1$d na SIM karte nie je platná, mala by byť medzi %2$d a %3$d</string>
   <string name="sim_no_contact">žiadne kontakty na SIM karte</string>
+  <string name="sim_unloaded">SIM karta nie je načítaná</string>
   <string name="single_group_list_empty">Prázdna skupina</string>
   <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Podľa firmy</string>
@@ -1188,6 +1198,7 @@ Synchronizujte ich teraz."</string>
   <string name="unknow_phone_number_mms_failed">Nie je možné odoslať SMS na neznáme číslo.</string>
   <string name="unknown">Neznámy</string>
   <string name="unknown_contact_name">Neznámy kontakt</string>
+  <string name="update_sim_contact_photo_toast">Pre kontakty na SIM karte nie je možné nastaviť fotografiu</string>
   <string name="upgrade_in_progress">"Aktualizácia zoznamu kontaktov</string>
   <string name="upgrade_out_of_memory">Prebieha aktualizácia kontaktov. 
 
@@ -1260,15 +1271,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="yesterday">Včera</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="disclaimer_text">"Yellow pages get the info about your balance by sending an SMS. Your carrier may update this info with a delay, so the numbers you get might not be accurate. If you see a mistake, you can report the inquiry SMS to help us improve this service. 
- 
- To avoid frequent queries, we update balance info once a day."</string>
-  <string name="disclaimer_title">Disclaimer</string>
-  <string name="report_inquiry_mms">Nahlásiť SMS</string>
-  <string name="dialog_device_info_hardware_version">Verzia Hardware: %s</string>
-  <string name="dialog_device_info_miui_version">Verzia MIUI: %s</string>
-  <string name="dialog_device_info_title">Info o verzii</string>
-  <string name="update_sim_contact_photo_toast">Pre kontakty na SIM karte nie je možné nastaviť fotografiu</string>
-  <string name="call_sim_menu_title_suffix">(Primárna)</string>
-  <string name="sim_unloaded">SIM karta nie je načítaná</string>
 </resources>

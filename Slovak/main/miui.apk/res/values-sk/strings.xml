@@ -216,6 +216,7 @@
   <string name="phone">Telefón</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Ochrana súkromia</string>
+  <string name="sar">SAR</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
   <string name="saturday_shortest">S</string>
@@ -327,5 +328,4 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="sar">SAR</string>
 </resources>

@@ -220,6 +220,8 @@
   <string name="HIPS_Perm_background_start_activity_Desc">Spustiť aplikáciu na pozadí</string>
   <string name="HIPS_Perm_get_accounts">Prístup k účtom v zariadení</string>
   <string name="HIPS_Perm_get_accounts_Desc">Prístup k všetkým účtom uloženým v zariadení</string>
+  <string name="HIPS_Perm_get_installed_apps">Získať informácie o nainštalovaných aplikáciách</string>
+  <string name="HIPS_Perm_get_installed_apps_Desc">získať informácie o nainštalovaných aplikáciách v tomto zariadení</string>
   <string name="HIPS_Perm_get_tasks">Dostať úlohy</string>
   <string name="HIPS_Perm_get_tasks_Desc">dostať úlohy</string>
   <string name="HIPS_Perm_install_shortcut">Odkazy na domácej ploche</string>
@@ -293,6 +295,4 @@
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">Pre zmenu nastavenia tohoto povolenia, musíte najskôr vypnúť prekrytie displeja v Nastavenia &gt; Aplikácie</string>
   <string name="screen_overlay_title">Zistené prekrytie displeja</string>
-  <string name="HIPS_Perm_get_installed_apps">Získať informácie o nainštalovaných aplikáciách</string>
-  <string name="HIPS_Perm_get_installed_apps_Desc">získať informácie o nainštalovaných aplikáciách v tomto zariadení</string>
 </resources>

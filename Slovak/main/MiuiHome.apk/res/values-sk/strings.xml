@@ -110,6 +110,7 @@
   <string name="gadget_calendar_label">Kalendár</string>
   <string name="gadget_clear_button_label">Správca RAM</string>
   <string name="gadget_clock_12_label">Hodiny 1x2</string>
+  <string name="gadget_clock_14_label">Hodiny 4x1</string>
   <string name="gadget_clock_22_label">Hodiny 2x2</string>
   <string name="gadget_clock_24_label">Hodiny 2x4</string>
   <string name="gadget_clock_label">Hodiny</string>
@@ -279,5 +280,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="gadget_clock_14_label">Hodiny 4x1</string>
 </resources>

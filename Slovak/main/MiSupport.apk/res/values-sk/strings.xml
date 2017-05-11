@@ -127,7 +127,6 @@ you can ask your friends for help here."</string>
   <string name="missing_context">"Can't start engine"</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="no_helper">No people ready to help</string>
-  
   <string name="ok">OK</string>
   <string name="passport_access_denied">Prístup zamietnutý</string>
   <string name="passport_account_hint_text">Email alebo telefónne číslo</string>

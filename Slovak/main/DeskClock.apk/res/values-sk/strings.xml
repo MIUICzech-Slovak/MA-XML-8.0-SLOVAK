@@ -16,10 +16,12 @@
   <string name="alarm_repeat">Opakovať</string>
   <string name="alarm_screen">Štýl budíka</string>
   <string name="alarm_settings">Nastavenie budíkov</string>
+  <string name="alarm_settings_category_title">Nastavenie budíka</string>
   <string name="alarm_vibrate">Vibrácie</string>
   <string name="alarm_volume_summary">Nastavenie hlasitostí Budíkov a Časovačov</string>
   <string name="alarm_volume_title">Hlasitosť budíka</string>
   <string name="alarmclock_empty_text">Žiadne budíky</string>
+  <string name="alarmclock_silent_hint">Budík je stíšený</string>
   <string name="alert">Vyzváňací tón</string>
   <string name="analog_gadget">Analógové hodiny</string>
   <string name="app_label">Hodiny</string>
@@ -110,6 +112,7 @@
   <string name="stopwatch_lap_empty_text">Žiadne kolo</string>
   <string name="stopwatch_title">Stopky</string>
   <string name="system_time_setting">Nastaviť čas</string>
+  <string name="system_time_settings_category_title">Nastavenie času</string>
   <string name="time">Čas</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotykom ukončíte vyzváňanie</string>
@@ -141,7 +144,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="alarmclock_silent_hint">Budík je stíšený</string>
-  <string name="alarm_settings_category_title">Nastavenie budíka</string>
-  <string name="system_time_settings_category_title">Nastavenie času</string>
 </resources>

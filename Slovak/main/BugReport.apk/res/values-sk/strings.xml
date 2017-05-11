@@ -81,6 +81,7 @@
   <string name="feedback_status_commit_failed_title">Nebolo možné odoslať hlásenie</string>
   <string name="feedback_status_commit_succ_title">Odoslané</string>
   <string name="feedback_status_commit_uploading_title">Odosielanie...</string>
+  <string name="feedback_status_forum_reply">Odpovedať</string>
   <string name="feedback_status_jira_comment">Pridať komentár</string>
   <string name="feedback_status_more">Podrobnosti</string>
   <string name="feedback_status_processing">Spracovávanie...</string>
@@ -88,6 +89,7 @@
   <string name="feedback_status_replyed">Odpovedané</string>
   <string name="feedback_status_reresolved">Vyriešené</string>
   <string name="feedback_status_supplement">Popíšte podrobne váš problém (v angličtine)</string>
+  <string name="feedback_status_supplement_more">Pridať komentár</string>
   <string name="feedback_submit_failed_notification_desc">Zobraziť podrobnosti</string>
   <string name="feedback_submit_failed_notification_retry">Znova odoslať</string>
   <string name="feedback_submit_failed_notification_title">Nebolo možné odoslať hlásenie</string>
@@ -98,6 +100,7 @@
   <string name="feedback_submit_succ_button">Hotovo</string>
   <string name="feedback_submitting">Odosielanie...</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s návrh \"%2$s\"</string>
+  <string name="feedback_third_packagename_hint">Ktorá doinštalovaná aplikácia spôsobuje problémy?</string>
   <string name="feedback_title">Názov</string>
   <string name="feedback_title_hint">Popíšte stručne chybu (v angličtine)</string>
   <string name="feedback_tracking">Sledovať chyby</string>
@@ -156,6 +159,7 @@
   <string name="non_system_app_select">Stiahnuté aplikácie</string>
   <string name="open_feedback_main">Viac</string>
   <string name="packaging_dialog_content">Generuje sa report, čakajte prosím...</string>
+  <string name="permission_granted">Získané povolenia %1$s</string>
   <string name="pic_not_exist">Tento obrázok neexistuje</string>
   <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Mi server.</string>
   <string name="plus_one_submit_dialog_not_show_again">Zapamätať nastavenie</string>
@@ -188,7 +192,9 @@
   <string name="tab_title_chat">FAQ</string>
   <string name="tab_title_my_reports">Moje hlásenia</string>
   <string name="tab_title_report">Feedback</string>
+  <string name="time_in_justnow">Práve teraz</string>
   <string name="title_answer_feedback_main">Našli sme odpoveď!</string>
+  <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
   <string name="title_frequent_question_feedback_main">FAQ</string>
   <string name="title_mi_family">Mi Home v blízkosti</string>
   <string name="title_nonsystem_app">Iné apl.</string>
@@ -210,16 +216,10 @@
   <string name="toast_report_copied_to_clipboard">Report skopírovaný do schránky</string>
   <string name="toast_report_sent_failed">Odoslanie chyby zlyhalo</string>
   <string name="toast_report_sent_succeed">Hlásenie chyby bolo odoslané</string>
+  <string name="toast_third_packagename_required">Zadajte názov aplikácie</string>
   <string name="toast_title_required">Popíšte váš problém (v angličtine)</string>
   <string name="try_again">Skúste znova</string>
   <string name="upload_log_failed">Nebolo možné odoslať záznam o chybe</string>
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
-  <string name="permission_granted">Získané povolenia %1$s</string>
-  <string name="time_in_justnow">Práve teraz</string>
-  <string name="title_bbs_feedback_main">Viac o Mi telefónoch</string>
-  <string name="feedback_status_forum_reply">Odpovedať</string>
-  <string name="feedback_status_supplement_more">Pridať komentár</string>
-  <string name="feedback_third_packagename_hint">Ktorá doinštalovaná aplikácia spôsobuje problémy?</string>
-  <string name="toast_third_packagename_required">Zadajte názov aplikácie</string>
 </resources>

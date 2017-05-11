@@ -26,6 +26,7 @@
   <string name="activity_title_white_list">Výnimky</string>
   <string name="ad_install_success_dialog_lunch">Otvoriť</string>
   <string name="ad_install_success_dialog_title">Nainštalované %1$s. Otvoriť?</string>
+  <string name="analying">Analýza...</string>
   <string name="apk_status_damage">Poškodené</string>
   <string name="apk_status_duplicate">Duplikát</string>
   <string name="apk_status_install">Nainštalované</string>
@@ -34,6 +35,8 @@
   <string name="app_install_tips_go_to">Spustiť</string>
   <string name="app_install_tips_install_success">%1$s nainštalované</string>
   <string name="app_name">CleanMaster</string>
+  <string name="app_usage_never">Nepoužité</string>
+  <string name="app_usage_recently">Použité nedávno</string>
   <string name="apps_sort_type_item_size">Veľkosť</string>
   <string name="apps_sort_type_item_time">Často používané</string>
   <string name="apps_sort_type_title">Zoradiť</string>
@@ -141,6 +144,8 @@
   <string name="deepclean_video_content">Vymazať prehrané alebo nepotrebné videá</string>
   <string name="deepclean_video_summary_empty">Všetko vyzerá byť OK</string>
   <string name="default_cache_type">Súbory</string>
+  <string name="delete_confirm">Vymazať</string>
+  <string name="delete_confirm_msg">Vymazať všetky súbory?</string>
   <string name="dialog_content_checkbox_delete_cloud_image">Vymazať aj fotografie z MiCloud</string>
   <string name="dialog_content_delete_image_confirm">Vymazať fotografie (%d)?</string>
   <string name="dialog_content_select_all_confirm">Ponechať kópiu tejto fotografie?</string>
@@ -176,6 +181,8 @@
   <string name="empty_title_photos">Žiadne fotografie</string>
   <string name="empty_title_residual">Žiadne súbory</string>
   <string name="empty_title_video">Žiadne videá na vymazanie​</string>
+  <string name="file">Súbory</string>
+  <string name="file_not_found">Súbor sa nenašiel</string>
   <string name="flow_rank_title">Využitie dát</string>
   <string name="function_app_lock_title">%d apl. môže ohroziť vaše súkromie​</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
@@ -262,6 +269,7 @@
   <string name="label_preserve_the_best_image">Uložiť ostrejšiu fotografiu</string>
   <string name="last_check_canceled">Predchádzajúca kontrola bola zrušena</string>
   <string name="load_only_under_wlan">Načítať novinky len na Wi-Fi</string>
+  <string name="location_not_found">Nebolo možné nájsť súbor</string>
   <string name="login_immediately">Prihlásiť sa</string>
   <string name="long_click_dialog_summary">Dlhým podržaním pridáte do výnimiek.</string>
   <string name="long_click_dialog_title">Oznámenie</string>
@@ -272,9 +280,14 @@
   <string name="low_memory_warning_dialog_msg">Nie je voľné miesto na úložisku. Musíte najskôr vyčistiť nejaké súbory.</string>
   <string name="low_memory_warning_dialog_ok_button">Vyčistiť</string>
   <string name="low_memory_warning_dialog_title">Úložisko je plné</string>
+  <string name="main_title_filesize">%1$s kôš</string>
   <string name="mainbtn_text_quick_cleanup">Vyčistiť %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Vyčistiť</string>
   <string name="memeory_check_content">%1$d apl., pamäť %2$s</string>
+  <string name="menu_add_to_white_list">Pridať do výnimiek</string>
+  <string name="menu_clear">Vyčistiť</string>
+  <string name="menu_install">Nainštalovať</string>
+  <string name="menu_view">Zobraziť v zložke</string>
   <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Kontrola aktualizácií...</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualizované: neznáme</string>
@@ -300,8 +313,10 @@
   <string name="open">Povoliť</string>
   <string name="open_app">Otvoriť</string>
   <string name="open_browser">Otvoriť v Prehliadači</string>
+  <string name="open_file_error">tento súbor nie je možné otvoriť žiadnou apl.</string>
   <string name="optimizecenter_data_support_cm">Poskytuje Clean Master</string>
   <string name="optimizecenter_data_support_tc">Poskytuje Tencent</string>
+  <string name="output_videos">Exportovať videá</string>
   <string name="phone_search">Vyhľadávanie Google</string>
   <string name="positive_confirm">OK</string>
   <string name="pref_category_title_auto_clean_settings">Automatické čistenie</string>
@@ -354,6 +369,7 @@
   <string name="recommend_news">Recommended sources</string>
   <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
   <string name="recommended">Odporúčané</string>
+  <string name="resutl_function_deep_clean_summary">Ďalších %1$s súborov môže byť vyčistených.</string>
   <string name="safety_check_detail">%1$d položiek, získaných %2$d bodov</string>
   <string name="safety_rank">Lepšie ako %d%% MIUI užívateľov v zmysle bezpečnosti</string>
   <string name="sc_allow_network_dialog_button">Povoliť</string>
@@ -441,20 +457,4 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
-  <string name="analying">Analýza...</string>
-  <string name="delete_confirm">Vymazať</string>
-  <string name="delete_confirm_msg">Vymazať všetky súbory?</string>
-  <string name="file">Súbory</string>
-  <string name="location_not_found">Nebolo možné nájsť súbor</string>
-  <string name="open_file_error">tento súbor nie je možné otvoriť žiadnou apl.</string>
-  <string name="output_videos">Exportovať videá</string>
-  <string name="file_not_found">Súbor sa nenašiel</string>
-  <string name="app_usage_never">Nepoužité</string>
-  <string name="app_usage_recently">Použité nedávno</string>
-  <string name="main_title_filesize">%1$s kôš</string>
-  <string name="menu_add_to_white_list">Pridať do výnimiek</string>
-  <string name="menu_clear">Vyčistiť</string>
-  <string name="menu_install">Nainštalovať</string>
-  <string name="menu_view">Zobraziť v zložke</string>
-  <string name="resutl_function_deep_clean_summary">Ďalších %1$s súborov môže byť vyčistených.</string>
 </resources>
