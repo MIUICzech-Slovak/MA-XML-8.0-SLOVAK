@@ -930,4 +930,23 @@
   <string name="xiaomi_account_not_exists_toast">Mi účet neexistuje</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
+  <string name="album_jump_failed">Počkajte kým sa albumy synchronizujú s MiCloud a skúste to znova</string>
+  <string name="change_to_visible">Obnoviť túto osobu?</string>
+  <string name="delete_from_local_and_cloud">z tohto zariadenia a MiCloud</string>
+  <string name="delete_unsynced">Vymazať položky ktoré neboli zálohované</string>
+  <string name="ignore_faces_title">Ignorované</string>
+  <string name="load_complete">Prázdne</string>
+  <string name="load_failed">Nebolo možné načítať info</string>
+  <string name="loading">Načítavanie</string>
+  <string name="loading_dots">Načítavanie...</string>
+  <string name="no_ignore_faces">Žiadni ľudia</string>
+  <string name="people_jump_failed">Počkajte kým sa albumy synchronizujú s MiCloud a skúste to znova</string>
+  <string name="picker_mobile_data_video">Nie je možné stiahnuť videá cez mobilné dáta, preskočené %d.</string>
+  <string name="recovery_merge">Zlúčiť</string>
+  <string name="recovery_merge_or_rename">Zlúčiť aplbumy</string>
+  <string name="recovery_merge_or_rename_message">Už máte album s rovnakým názvom, chcete ich zlúčiť?</string>
+  <string name="recovery_rename">Premenovať</string>
+  <string name="search_clear_histories">Vyčistiť</string>
+  <string name="search_title_history">História vyhľadávania</string>
+  <string name="see_ignore_faces">Zobraziť ľudí ktorých ignorujete</string>
 </resources>

@@ -2508,7 +2508,7 @@ Vyberte váš operačný systém:"</string>
   <string name="open_personal_assistant_dialog_title">Deaktivovať Asistenta</string>
   <string name="open_personal_assistant_title">Aktivovať Asistenta</string>
   <string name="open_wifi_connect_summary">Stlačte pre správu sietí</string>
-  <string name="open_wifi_connect_title">Pripojiť k %1$s</string>
+  <string name="open_wifi_connect_title">Pripojené k %1$s</string>
   <string name="opening_paragraph_delete_profile_unknown_company">Tento pracovný profil spravuje aplikácia:</string>
   <string name="optimization_cancel">Zrušiť</string>
   <string name="optimization_close">Deaktivovať a reštartovať</string>
