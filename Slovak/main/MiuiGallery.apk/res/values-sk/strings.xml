@@ -941,7 +941,6 @@
   <string name="loading_dots">Načítavanie...</string>
   <string name="no_ignore_faces">Žiadni ľudia</string>
   <string name="people_jump_failed">Počkajte kým sa albumy synchronizujú s MiCloud a skúste to znova</string>
-  <string name="picker_mobile_data_video">Nie je možné stiahnuť videá cez mobilné dáta, preskočené %d.</string>
   <string name="recovery_merge">Zlúčiť</string>
   <string name="recovery_merge_or_rename">Zlúčiť aplbumy</string>
   <string name="recovery_merge_or_rename_message">Už máte album s rovnakým názvom, chcete ich zlúčiť?</string>
