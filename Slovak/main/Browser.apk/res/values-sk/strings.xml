@@ -852,4 +852,19 @@ Chcete opustiť túto web stránku?"</string>
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="check_permission_of_current_location">Info o súčasnej polohe</string>
+  <string name="check_permission_of_current_url">URL stránok ktoré ste navštívili</string>
+  <string name="contextmenu_share_image">Zdieľať obrázok</string>
+  <string name="open_voice_permission">Open voice networking permission</string>
+  <string name="pref_check_security_url_summary_international">For providing a better referral service, allow the browser to get your access URL</string>
+  <string name="pref_check_security_url_title_international">Získať URL</string>
+  <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
+  <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
+  <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">To receive relevant recommendations, allow Browser to access these items:</string>
+  <string name="voice_check_network">Please check the network and try again</string>
+  <string name="voice_connect_network">Unable to connect to network</string>
+  <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
+  <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
+  <string name="voice_semantic_analysis">Semantic analysis after networking</string>  
 </resources>

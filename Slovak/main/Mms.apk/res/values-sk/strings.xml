@@ -672,4 +672,6 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
+  <string name="title_show_list_avatar">Zobraziť fotografie kontaktu</string>
+  <string name="pref_show_list_avatar_summary">Zobraziť podrobnosti a fotografie kontaktov</string>
 </resources>
