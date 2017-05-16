@@ -861,7 +861,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="scanner_uninstalled_text">Continue to use, please install scanner</string>
   <string name="scanner_uninstalled_title">Scanner has been uninstalled</string>
   <string name="share_image_text">"I'm enjoying a very wonderful picture"</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">To receive relevant recommendations, allow Browser to access these items:</string>
+  <string name="show_check_security_url_check_tip_dialog_description_international">Pre poskytovanie presnejších odporúčaní sa vyžaduje prístup k nasledujúcim oprávneniam:</string>
   <string name="voice_check_network">Please check the network and try again</string>
   <string name="voice_connect_network">Unable to connect to network</string>
   <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
