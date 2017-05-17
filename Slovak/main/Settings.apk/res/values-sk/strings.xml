@@ -4865,4 +4865,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="remove_continue">Odinštalovať</string>
+  <string name="uninstall_protected_dlg_msg">Odinštalovanie systémových aplikácií môže spôsobiť nesprávne fungovanie MIUI systému. Chcete túto aplikáciu aj napriek tomu odinštalovať?</string>
+  <string name="uninstall_protected_dlg_title">Odinštalovanie systémových apl.</string>  
 </resources>
