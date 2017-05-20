@@ -20,6 +20,7 @@
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
+  <string name="accessibility_zoom_button">Režim priblíženia</string>
   <string name="audio_focus_exit_button_text">Ukončiť</string>
   <string name="burst_shoot_exit_button_text">Ukončiť</string>
   <string name="button_fisheye_camera_title">Rybie oko</string>
@@ -81,6 +82,7 @@
   <string name="front_camera_hint_text_rotate">Otočte telefón</string>
   <string name="groupshot_mode_use_hint">"Bude zhotovených viacero snímkov
 pre výber toho najlepšieho"</string>
+  <string name="hibernate_hint">Dotknite sa kdekoľvek pre prebudenie</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="message_snap_double_confirm">Súčasný režim dlhého podržania tlačidla hlasitosti nadol je NFC. Chcete potvrdiť túto zmenu?</string>
   <string name="no_storage">Pred použitím vložte SD kartu.</string>
@@ -96,6 +98,11 @@ pre výber toho najlepšieho"</string>
   <string name="pano_how_to_use_prompt_to_move">Počas fotenia sa snažte pohybovať plynulo</string>
   <string name="pano_review_saving_indication_str">Ukladanie...</string>
   <string name="pano_too_fast_prompt">Príliš rýchlo</string>
+  <string name="portrait_mode_depth_effect_success_hint">Efekt hĺbky ostrosti</string>
+  <string name="portrait_mode_lowlight_hint">Vyžaduje sa viac svetla</string>
+  <string name="portrait_mode_too_close_hint">Postavte sa ďalej od objektu</string>
+  <string name="portrait_mode_too_far_hint">Umiestnite objekt max 2,5m od objektívu</string>
+  <string name="portrait_with_facebeauty_hint">Režim vyhladenia pleti je dostupný.</string>
   <string name="pref_advance_settings">Rozšírené nastavenie</string>
   <string name="pref_audio_focus_entry_front">Predný</string>
   <string name="pref_audio_focus_entry_general">Normálny</string>
@@ -255,6 +262,10 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_picturesize_entry_fullscreen">Širokouhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_standard">Štandard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Veľkosť fotografie</string>
+  <string name="pref_camera_portrait_mode_entry_off">Portrét vyp.</string>
+  <string name="pref_camera_portrait_mode_entry_on">Portrét zap.</string>
+  <string name="pref_camera_portrait_mode_title">Portrét</string>
+  <string name="pref_camera_portrait_with_facebeauty_title">Vyhladiť pleť v režime Portrét</string>
   <string name="pref_camera_raw_title">RAW</string>
   <string name="pref_camera_recordlocation_entry_off">Vypnutá</string>
   <string name="pref_camera_recordlocation_entry_on">Zapnutá</string>
@@ -317,6 +328,9 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_whitebalance_entry_manual">Manuálne</string>
   <string name="pref_camera_whitebalance_entry_measure">Odmerať</string>
   <string name="pref_camera_whitebalance_title">Vyváženie bielej</string>
+  <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
+  <string name="pref_camera_zoom_mode_entry_wide">Široký</string>
+  <string name="pref_camera_zoom_mode_title">Objektív</string>  
   <string name="pref_camera_zsl_entry_off">Vypnutá (Odporúčané)</string>
   <string name="pref_camera_zsl_entry_on">Zapnutá</string>
   <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
@@ -371,6 +385,10 @@ pre výber toho najlepšieho"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 sekundy (90 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekúnd (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časozberné video (Time Lapse)</string>
+  <string name="pref_watermark_style_entry_dualcamera">Duálny fotoaparát</string>
+  <string name="pref_watermark_style_entry_off">Vyp</string>
+  <string name="pref_watermark_style_entry_timestamp">Časový vodoznak</string>
+  <string name="pref_watermark_style_title">Pridať vodoznak do fotografie</string>
   <string name="preparing_sd">Príprava úložiska...</string>
   <string name="record_back_pressed_hint">Stlačte opäť pre zastavenie nahrávania</string>
   <string name="see_qrcode_detals">Zobraziť podrobnosti o QR kóde</string>
