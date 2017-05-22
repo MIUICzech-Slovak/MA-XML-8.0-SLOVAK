@@ -321,5 +321,13 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">"Čakajte %d sekúnd a skúste to znova. "</item>
         <item quantity="one">"Čakajte %d sekundu a skúste to znova. "</item>
-    </plurals>	     	
+    </plurals>	   
+    <plurals name="st_show_num_keyword">
+        <item quantity="other">Výrazov: %d</item>
+        <item quantity="one">Výrazov: %d</item>
+    </plurals>
+    <plurals name="st_show_num_number">
+        <item quantity="other">Čísiel: %d</item>
+        <item quantity="one">Čísiel: %d</item>
+    </plurals>  	
 </resources>

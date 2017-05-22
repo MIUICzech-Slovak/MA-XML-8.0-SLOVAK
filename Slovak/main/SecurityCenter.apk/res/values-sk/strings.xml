@@ -2232,4 +2232,13 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_item_title_fake">Detekcia falošnej Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
+  
+  <string name="app_manager_clear_data_dlg_message">Všetky dáta tejto aplikácie budú vymazané vrátane jej súborov, nastavení, atď.</string>
+  <string name="app_manager_clear_data_dlg_title">Vymazať dáta aplikácie?</string>
+  <string name="app_manager_clear_failed_dlg_message">Nebolo možné vymazať dáta aplikácie.</string>
+  <string name="app_manager_clear_failed_dlg_title">Vymazať dáta</string>
+  <string name="app_manager_manage_space">Spravovať úložisko</string>
+  <string name="app_manager_menu_clear_data">Vymazať dáta</string>
+  <string name="pref_summary_upload_data_usage">Odosielať šťatistiky o využívaní ukladacieho priestoru pre zlepšenie používania MIUI.</string>
+  <string name="pref_title_upload_data_usage">Odosielať šťatistiky</string>
 </resources>
