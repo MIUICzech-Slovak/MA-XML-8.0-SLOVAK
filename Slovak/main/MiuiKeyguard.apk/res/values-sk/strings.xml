@@ -86,19 +86,18 @@
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
-  
   <string name="keyguard_charging_info_battery_temperature_text">Teplota batérie</string>
   <string name="keyguard_charging_info_battery_used_time_text">Na batériu</string>
-  <string name="keyguard_charging_info_charging_full_need_hour_time__text">Okolo %dh do nabitia</string>
-  <string name="keyguard_charging_info_charging_full_need_min_time__text">Okolo %dmin do nabitia​</string>
-  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Okolo %dh %dmin do nabitia</string>
+  <string name="keyguard_charging_info_charging_full_need_hour_time__text">%dh do nabitia</string>
+  <string name="keyguard_charging_info_charging_full_need_min_time__text">%dmin do nabitia</string>
+  <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">%dh %dmin do nabitia</string>
   <string name="keyguard_charging_info_charging_text">Nabíjanie</string>
   <string name="keyguard_charging_info_charging_voltage_text">Napätie</string>
   <string name="keyguard_charging_info_click_to_detail">Podrobnosti</string>
-  <string name="keyguard_charging_info_could_use_hour_time_text">Ostáva okolo %dh</string>
-  <string name="keyguard_charging_info_could_use_min_time_text">Ostáva okolo %dmin</string>
-  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Ostáva okolo %dh %dmin</string>
-  <string name="keyguard_charging_info_current_now_text">Sledovanie nabíjania</string>
+  <string name="keyguard_charging_info_could_use_hour_time_text">Ostáva %dh</string>
+  <string name="keyguard_charging_info_could_use_min_time_text">Ostáva %dmin</string>
+  <string name="keyguard_charging_info_could_use_time_text" formatted="false">Ostáva %dh %dmin</string>
+  <string name="keyguard_charging_info_current_now_text">Prúd</string>
   <string name="keyguard_charging_info_drained_hour_time_format">%dh</string>
   <string name="keyguard_charging_info_drained_min_time_format">%dmin</string>
   <string name="keyguard_charging_info_drained_power_percent_text">Vybité</string>
