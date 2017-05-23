@@ -1773,13 +1773,13 @@ Keď zapnete automatické zálohovanie, údaje zariadenia a aplikácií sa budú
   <string name="key_position_cat">Rozloženie tlačidiel</string>
   <string name="key_settings">Tlačidlá</string>
   <string name="key_settings_title">Tlačidlá</string>
-  <string name="keyboard_and_input_methods_category">Klávesnica a metódy vstupu</string>
+  <string name="keyboard_and_input_methods_category">Klávesnica</string>
   <string name="keyboard_layout_default_label">Predvolené</string>
   <string name="keyboard_layout_dialog_setup_button">Nastaviť rozloženie kláves</string>
   <string name="keyboard_layout_dialog_switch_hint">Prepnete podržaním medzerníka</string>
   <string name="keyboard_layout_dialog_title">Zvoliť rozloženie kláves</string>
   <string name="keyboard_layout_picker_title">Rozloženie kláves</string>
-  <string name="keyboard_settings_category">Klávesnica a metódy vstupu</string>
+  <string name="keyboard_settings_category">Metódy vstupu</string>
   <string name="keyboard_settings_title">Klávesnica Android</string>
   <string name="keyguard_advance_setting_title">Ďalšie nastavenia</string>
   <string name="keyguard_left_function_chooser_hint_text">Ľavý odkaz zmenený na %s</string>
