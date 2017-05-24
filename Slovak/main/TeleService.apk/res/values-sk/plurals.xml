@@ -20,4 +20,8 @@
         <item quantity="other">Čísla (%d) budú zmazané.</item>
         <item quantity="one">%d číslo bude zmazané.</item>
     </plurals>	
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Môžete pridať max. %s ľudí.</item>
+        <item quantity="one">Môžete pridať max. %s človeka</item>
+    </plurals>	
 </resources>

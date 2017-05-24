@@ -330,4 +330,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Čísiel: %d</item>
         <item quantity="one">Čísiel: %d</item>
     </plurals>  	
+    <plurals name="app_manager_permission_summary_accept">
+        <item quantity="other">Povolených: %d</item>
+        <item quantity="one">Povolených: %d</item>
+    </plurals>
+    <plurals name="app_manager_permission_summary_ask">
+        <item quantity="other">Vyžiadať %d povolení</item>
+        <item quantity="one">Vyžiadať %d povolenie</item>
+      </plurals>
 </resources>

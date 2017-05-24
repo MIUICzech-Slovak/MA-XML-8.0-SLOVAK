@@ -2241,4 +2241,16 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="app_manager_menu_clear_data">Vymazať dáta</string>
   <string name="pref_summary_upload_data_usage">Odosielať šťatistiky o využívaní ukladacieho priestoru pre zlepšenie používania MIUI.</string>
   <string name="pref_title_upload_data_usage">Odosielať šťatistiky</string>
+  <string name="app_manager_permission_summary_reject">Zablokovať všetky</string>
+  <string name="app_manager_powerkeeper_miui_auto">MIUI Úspora batérie</string>
+  <string name="app_manager_powerkeeper_no_bg">Obmedziť procesy na pozadí</string>
+  <string name="app_manager_powerkeeper_no_restrict">Žiadne obmedzenia</string>
+  <string name="app_manager_powerkeeper_restrict_bg">Obmedziť apl. na pozadí</string>
+  <string name="low_memory_clean_dialog_msg">Uvoľnite aspoň 100MB</string>
+  <string name="low_memory_clean_dialog_ok_button">OK</string>
+  <string name="low_memory_clean_dialog_title">Nie je dostatok voľného miesta</string>
+  <string name="low_memory_warning_dialog_cancel_button">Zrušiť</string>
+  <string name="low_memory_warning_dialog_msg">Uvoľnite priestor na úložisku pre pokračovanie</string>
+  <string name="low_memory_warning_dialog_ok_button">Vyčistiť</string>
+  <string name="low_memory_warning_dialog_title">Nie je dostatok voľného miesta</string> 
 </resources>
