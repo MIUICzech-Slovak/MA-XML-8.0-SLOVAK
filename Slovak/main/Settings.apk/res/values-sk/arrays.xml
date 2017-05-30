@@ -66,7 +66,7 @@
         <item>Načítavanie adresy IP…</item>
         <item>Pripojené</item>
         <item>Pozastavené</item>
-        <item>Odpojovanie...</item>
+        <item>Odpájanie...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
         <item>Blokované</item>
@@ -80,7 +80,7 @@
         <item>Získavanie adresy IP zo siete %1$s...</item>
         <item>Pripojené k sieti %1$s</item>
         <item>Pozastavené</item>
-        <item>Odpojovanie od siete %1$s...</item>
+        <item>Odpájanie od siete %1$s...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
         <item>Blokované</item>

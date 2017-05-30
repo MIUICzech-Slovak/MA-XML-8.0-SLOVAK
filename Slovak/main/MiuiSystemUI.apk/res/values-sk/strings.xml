@@ -75,7 +75,7 @@
   <string name="bluetooth_connected_no_map">Pripojené (bez prístupu ku správam)</string>
   <string name="bluetooth_connecting">Pripájanie...</string>
   <string name="bluetooth_disconnected">Odpojené</string>
-  <string name="bluetooth_disconnecting">Odpojovanie...</string>
+  <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="bluetooth_dun_profile_summary_connected">Pripájanie na DUN Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Použite pre Dial-up pripojenie</string>
   <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>

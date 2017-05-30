@@ -80,7 +80,7 @@ Povoliť teraz aj v budúcnosti?"</string>
   <string name="bluetooth_disable_absolute_volume">Zakázať absolútnu hlasitosť</string>
   <string name="bluetooth_disable_absolute_volume_summary">Umožňuje zakázať funkciu absolútnej hlasitosti rozhrania Bluetooth v prípade problémov s hlasitosťou na vzdialených zariadeniach, ako je napríklad neprijateľne vysoká hlasitosť alebo absencia ovládacích prvkov.</string>
   <string name="bluetooth_disconnected">Odpojené</string>
-  <string name="bluetooth_disconnecting">Odpojovanie...</string>
+  <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="bluetooth_dun_profile_summary_connected">Pripájanie na DUN Server</string>
   <string name="bluetooth_dun_profile_summary_use_for">Použite pre Dial-up pripojenie</string>
   <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>

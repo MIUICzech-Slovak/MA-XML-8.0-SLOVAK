@@ -556,7 +556,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_disconnect_pan_user_profile">Internetové pripojenie pomocou zariadenia %1$s bude odpojené.</string>
   <string name="bluetooth_disconnect_title">Odpojiť?</string>
   <string name="bluetooth_disconnected">Odpojené</string>
-  <string name="bluetooth_disconnecting">Odpojovanie...</string>
+  <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="bluetooth_display_passkey_pin_msg">Párovanie so zariadením: %1$s Zadajte:%2$s a potom stlačte klávesu Return alebo Enter.</string>
   <string name="bluetooth_dock_settings">Nastavení doku</string>
   <string name="bluetooth_dock_settings_a2dp">Pre hudbu a média</string>
