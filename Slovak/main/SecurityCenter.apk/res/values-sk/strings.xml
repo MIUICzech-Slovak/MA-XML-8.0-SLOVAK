@@ -2253,4 +2253,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="low_memory_warning_dialog_msg">Uvoľnite priestor na úložisku pre pokračovanie</string>
   <string name="low_memory_warning_dialog_ok_button">Vyčistiť</string>
   <string name="low_memory_warning_dialog_title">Nie je dostatok voľného miesta</string> 
+  <string name="antispam_mode_details">Podrobnosti AntiSpamu</string>
+  <string name="auto_task_manage_new_task">Nová automatická úloha</string>
+  <string name="exit">Ukončiť</string>
+  <string name="monitor_app_add">pridať</string>
+  <string name="monitor_app_more">viac</string>
 </resources>

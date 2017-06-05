@@ -1273,4 +1273,14 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="profileSavedErrorToast">Nebolo možné uložiť zmeny</string>
   <string name="profileSavedToast">Zmeny boli uložené</string>  
+  <string name="accessibility_contact_detail">Podrobnosti</string>
+  <string name="call_sim1_description">SIM 1</string>
+  <string name="call_sim2_description">SIM 2</string>
+  <string name="contact_clear_search_history">Vymazať históriu</string>
+  <string name="contact_search_history">História</string>
+  <string name="description_call_log_incoming_forwarding_call">Prichádzajúci presmerovaný hovor</string>
+  <string name="description_call_log_missed_forwarding_call">Zmeškaný presmerovaný hovor</string>
+  <string name="description_call_log_new_contact">Nový kontakt</string>
+  <string name="miprofile_notice_close">Zatvoriť</string>
+  <string name="profile_delete_toast">Profil vymazaný</string>
 </resources>

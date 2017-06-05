@@ -20,6 +20,14 @@
         <item>Dedko z maminej strany</item>
         <item>Babka z maminej strany</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Otec</item>
+        <item>Mama</item>
+        <item>Dedko z otcovej strany</item>
+        <item>Babka z otcovej strany</item>
+        <item>Dedko z maminej strany</item>
+        <item>Babka z maminej strany</item>
+    </string-array>	
     <string-array name="relation_with_me">
         <item>ja</item>
         <item>dieťa</item>

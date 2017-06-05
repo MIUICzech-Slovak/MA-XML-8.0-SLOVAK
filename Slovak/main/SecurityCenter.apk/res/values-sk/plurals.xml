@@ -338,4 +338,40 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Vyžiadať %d povolení</item>
         <item quantity="one">Vyžiadať %d povolenie</item>
       </plurals>
+    <plurals name="sp_settings_exception_count">
+        <item quantity="other">Položiek: %d</item>
+        <item quantity="one">Položiek: 1</item>
+    </plurals>
+    <plurals name="sp_back_title_text">
+        <item quantity="other">Rizík: %s</item>
+        <item quantity="one">Rizík: %s</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_count">
+        <item quantity="other">Chránených apl.: %s</item>
+        <item quantity="one">Chránených apl.: %s</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_enable">
+        <item quantity="other">Chránených apl.: %s</item>
+        <item quantity="one">Chránených apl.: %s</item>
+    </plurals>
+    <plurals name="sp_monitored_apps_list_group_disable">
+        <item quantity="other">Nechránených apl.: %s</item>
+        <item quantity="one">Nechránených apl.: %s</item>
+    </plurals>
+    <plurals name="scan_result_description">
+        <item quantity="other">Výsledok: %d rizík</item>
+        <item quantity="one">Výsledok: %d riziko</item>
+    </plurals>
+    <plurals name="manual_white_list_header">
+        <item quantity="other">Výnimky: %d</item>
+        <item quantity="one">Výnimky: %d</item>
+    </plurals>
+    <plurals name="summary_flow_verify">
+        <item quantity="other">"Haven't synced carrier's data usage stats in %d days"</item>
+        <item quantity="one">"Haven't synced carrier's data usage stats in %d day"</item>
+    </plurals>
+    <plurals name="notification_title_cmcc_app_check">
+        <item quantity="other">%d days since last check-up</item>
+        <item quantity="one">%d day since last check-up</item>
+    </plurals>
 </resources>

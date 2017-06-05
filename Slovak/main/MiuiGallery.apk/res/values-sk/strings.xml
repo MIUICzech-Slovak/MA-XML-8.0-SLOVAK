@@ -948,4 +948,6 @@
   <string name="search_clear_histories">Vyčistiť</string>
   <string name="search_title_history">História vyhľadávania</string>
   <string name="see_ignore_faces">Zobraziť ľudí ktorých ignorujete</string>
+  <string name="album_already_exists_check">Zobraziť</string>
+  <string name="album_already_exists_msg">Album \"%s\" už existuje</string>
 </resources>
