@@ -445,7 +445,7 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa vymažú ak budete pokračovať).</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">Niektoré položky neboli synchronizované.</string>
-+  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
-+  <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
-+  <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>  
+  <string name="confirm_bundled_phone_dialog_title">Confirm bundled phone number</string>
+  <string name="confirm_unbundled_phone_dialog_message">The phone number in %1$s Binded %2$s Account，Continue to work with %3$s account unbundled，Are you sure you want to continue?</string>
+  <string name="get_phone_bind_exceed_limit">The number of mobile phone bound to the number of account has reached the maximum(3), can no longer bind the new account</string>  
 </resources>

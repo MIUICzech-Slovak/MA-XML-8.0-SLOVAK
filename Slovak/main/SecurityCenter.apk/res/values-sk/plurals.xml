@@ -222,10 +222,6 @@
         <item quantity="other">%d​ rizík, opraviť teraz</item>
         <item quantity="one">%d riziko, opraviť teraz</item>
     </plurals>
-    <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d položiek</item>
-        <item quantity="one">1 položka</item>
-    </plurals>
     <plurals name="quick_optimize_suggest_issue_found">
         <item quantity="other">Nájdených %d problémov s batériou</item>
         <item quantity="one">Nájdený %d problém s batériou</item>
@@ -341,22 +337,6 @@ If you turn on mobile data again, your carrier may charge you for additional dat
     <plurals name="sp_settings_exception_count">
         <item quantity="other">Položiek: %d</item>
         <item quantity="one">Položiek: 1</item>
-    </plurals>
-    <plurals name="sp_back_title_text">
-        <item quantity="other">Rizík: %s</item>
-        <item quantity="one">Rizík: %s</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_count">
-        <item quantity="other">Chránených apl.: %s</item>
-        <item quantity="one">Chránených apl.: %s</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_enable">
-        <item quantity="other">Chránených apl.: %s</item>
-        <item quantity="one">Chránených apl.: %s</item>
-    </plurals>
-    <plurals name="sp_monitored_apps_list_group_disable">
-        <item quantity="other">Nechránených apl.: %s</item>
-        <item quantity="one">Nechránených apl.: %s</item>
     </plurals>
     <plurals name="scan_result_description">
         <item quantity="other">Výsledok: %d rizík</item>
