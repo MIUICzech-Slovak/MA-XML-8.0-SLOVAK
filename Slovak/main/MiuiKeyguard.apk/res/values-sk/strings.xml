@@ -106,7 +106,7 @@
   <string name="keyguard_charging_info_last_charge_time">d.M. H:mm</string>
   <string name="keyguard_charging_info_last_charge_today_time">Dnes %s</string>
   <string name="keyguard_charging_info_last_charge_yesterday_time">Včera %s</string>
-  <string name="keyguard_charging_info_last_charged_time_text">Naposledy nabité</string>
+  <string name="keyguard_charging_info_last_charged_time_text">Posledné nabíjanie</string>
   <string name="keyguard_charging_info_tip_text1">Pre predĺženie životnosti batérie nenechávajte ju klesnúť pod 10%.</string>
   <string name="keyguard_charging_info_tip_text2">Neprebíjajte vaše zariadenie. Viackrát kratšie nabíjanie je lepšie ako nabíjanie počas celej noci.</string>
   <string name="keyguard_charging_info_tip_text3">Vyhýbajte sa nabíjaniu vašeho zariadenia ak je okolitá teplota pod 0℃.</string>
