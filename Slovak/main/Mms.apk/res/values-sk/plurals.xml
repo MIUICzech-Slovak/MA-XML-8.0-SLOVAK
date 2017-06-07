@@ -44,4 +44,9 @@
         <item quantity="other">Vymazať %1$s SMS?</item>
         <item quantity="one">Vymazať %1$s SMS?</item>
       </plurals>	
+    <plurals name="hint_search_sms">
+        <item quantity="other">SMS: %d</item>
+        <item quantity="zero">SMS: %d</item>
+        <item quantity="one">SMS: %d</item>
+    </plurals>	  
 </resources>

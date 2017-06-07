@@ -573,4 +573,5 @@
   <string name="music_notification_headset_custom">Zrušiť</string>
   <string name="music_notification_headset_info">Dotykom zobrazíte nastavenia</string>
   <string name="music_notification_headset_settings">Pripojené slúchadla</string>  
+  <string name="start_shuffle">Spustiť náhodne...</string>
 </resources>

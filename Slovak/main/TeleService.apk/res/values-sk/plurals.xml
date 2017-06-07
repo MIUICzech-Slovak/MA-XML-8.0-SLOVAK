@@ -24,4 +24,22 @@
         <item quantity="other">Môžete pridať max. %s ľudí.</item>
         <item quantity="one">Môžete pridať max. %s človeka</item>
     </plurals>	
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">Čísel: %d</item>
+        <item quantity="one">Čísel: %d</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d čísel bude vymazaných.</item>
+        <item quantity="one">%d číslo bude vymazané.</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">Oneskorenie: %s s</item>
+        <item quantity="one">Oneskorenie: %s s</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+Ostáva %d pokusov."</item>
+        <item quantity="one">"
+Ostáva %d pokus."</item>
+    </plurals> 
 </resources>

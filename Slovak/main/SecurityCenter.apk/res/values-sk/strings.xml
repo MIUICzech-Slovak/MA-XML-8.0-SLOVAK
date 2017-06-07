@@ -2258,4 +2258,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="exit">Ukončiť</string>
   <string name="monitor_app_add">pridať</string>
   <string name="monitor_app_more">viac</string>
+  <string name="app_manager_instruction">Inštrukcie</string>
+  <string name="app_manager_sort">Triediť podľa</string>
 </resources>

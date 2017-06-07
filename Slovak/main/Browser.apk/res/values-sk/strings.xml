@@ -867,4 +867,6 @@ Chcete opustiť túto web stránku?"</string>
   <string name="voice_network_connection">Using voice search need networking,please authorize the network connection</string>
   <string name="voice_search_permission">Voice search requires voice privileges, please go to the browser settings to open the voice permissions</string>
   <string name="voice_semantic_analysis">Semantic analysis after networking</string>  
+  <string name="agree">Súhlasím</string>
+  <string name="exit">Ukončiť</string>
 </resources>

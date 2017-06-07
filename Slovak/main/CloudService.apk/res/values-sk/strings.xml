@@ -507,4 +507,6 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="xmpp_server_addr"/>
   <string name="micloud_main_sync_need_charge_or_sleep">Nabite batériu a vypnite displej</string>
   <string name="micloud_detail_need_charge_or_sleep">Pripojte k nabíjačke a vypnite displej pre pokračovanie v synchr.</string>
+  <string name="micloud_buy_member_safe">Navýšiť MiCloud</string>
+  <string name="micloud_sync_prompt_for_no_gallery_sync">Synchr. len Kontakty, Kalendár a poznámky. Pre viac možností synchr. choďte do nastavení MiCloud.</string>
 </resources>
