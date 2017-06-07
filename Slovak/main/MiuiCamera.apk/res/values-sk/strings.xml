@@ -442,4 +442,6 @@ pre výber toho najlepšieho"</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotografia</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
+  <string name="portrait_mode_use_hint">"Režim potrétu vám pomôže rozmazať pozadie 
+a zvýrazniť osobu na fotografii"</string>  
 </resources>
