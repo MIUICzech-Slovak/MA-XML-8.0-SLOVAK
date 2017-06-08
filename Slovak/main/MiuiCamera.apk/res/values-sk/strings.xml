@@ -444,4 +444,6 @@ pre výber toho najlepšieho"</string>
   <string name="pref_front_mirror_label_auto">Auto</string>
   <string name="portrait_mode_use_hint">"Režim potrétu vám pomôže rozmazať pozadie 
 a zvýrazniť osobu na fotografii"</string>  
+  <string name="pref_camera_proximity_lock_summary">Uzamknúť gestá dotykov ak je zariadenie vo vrecku</string>
+  <string name="pref_camera_proximity_lock_title">Režim vo vrecku</string>
 </resources>
