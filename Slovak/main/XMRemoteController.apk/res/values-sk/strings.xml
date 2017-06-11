@@ -197,7 +197,7 @@
   <string name="ir_device_mitvbox">MiTV/Box</string>
   <string name="ir_device_name">Názov</string>
   <string name="ir_device_other">Ostatné</string>
-  <string name="ir_device_prj">Pojektor</string>
+  <string name="ir_device_prj">Projektor</string>
   <string name="ir_device_share">Zdieľané zariadenia</string>
   <string name="ir_device_shared">Zariadenia v blízkosti</string>
   <string name="ir_device_sound">Audio</string>

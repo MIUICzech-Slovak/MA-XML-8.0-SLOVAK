@@ -480,4 +480,5 @@
   <string name="missing_required_permission">Deaktivovali ste požadované oprávnenia.</string>
   <string name="install_weather_app_error">Nastala chyba.</string>
   <string name="install_weather_app_loading">Načítavanie...</string>  
+  <string name="done">Naspať</string>
 </resources>

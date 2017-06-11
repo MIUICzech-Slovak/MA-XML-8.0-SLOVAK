@@ -4868,4 +4868,16 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="remove_continue">Odinštalovať</string>
   <string name="uninstall_protected_dlg_msg">Odinštalovanie systémových aplikácií môže spôsobiť nesprávne fungovanie MIUI systému. Chcete túto aplikáciu aj napriek tomu odinštalovať?</string>
   <string name="uninstall_protected_dlg_title">Odinštalovanie systémových apl.</string>  
+  <string name="notification_reboot_btn">Reštart</string>
+  <string name="notification_reboot_summary_hm">Reštartujte vaše zariadenie.</string>
+  <string name="notification_reboot_title">Reštartujte pre aktualizáciu</string>
+  <string name="notification_reboot_title_hm">Reštartujte pre aktualizáciu</string>
+  <string name="notification_update_new_version">Dostupná aktualizácia</string>
+  <string name="notification_update_now">Aktualizovať</string>
+  <string name="privacy_delete_space_dlg_message">Pre zmenu hesla Druhého profilu, mali by ste vymazať Druhý profil a vytvoriť ho znova.</string>
+  <string name="privacy_dlg_button_cancel">Zrušiť</string>
+  <string name="privacy_factory_reset_dlg_button_text">Zálohovať dáta</string>
+  <string name="privacy_factory_reset_dlg_message">Zálohujte vaše dáta lokálne a potom urobte továrne nastavenia. Potom bude monžé zmeniť vaše heslo.</string>
+  <string name="privacy_factory_reset_dlg_title">zálohujte svoje dáta</string>
+  <string name="update_new_version">Dostupná aktualizácia</string>
 </resources>

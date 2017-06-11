@@ -163,4 +163,6 @@
   <string name="wifi_pwd">"Heslo: "</string>
   <string name="wifi_security">"Bezpečnosť: "</string>
   <string name="wifi_ssid">"SSID: "</string>
++  <string name="app_description_content">Skener môže načítať QR kódy, vizitky a dokumenty.</string>
+ +  <string name="app_description_title">O skenere</string>
 </resources>

@@ -221,4 +221,6 @@ http://www.miuios.cz/rom
   <string name="toolbar_share_description">Zdieľať</string>
   <string name="toolbar_theme_description">Téma</string>
   <string name="toolbar_undo_description">Späť</string> 
+  <string name="note_description_content">Aplikácia Poznámky slúži na vytváranie vašich poznámok a nákupných zoznamov.</string>
+  <string name="note_description_title">O poznámkach</string>
 </resources>

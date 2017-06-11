@@ -2260,4 +2260,14 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="monitor_app_more">viac</string>
   <string name="app_manager_instruction">Inštrukcie</string>
   <string name="app_manager_sort">Triediť podľa</string>
+  <string name="btn_back">Späť</string>
+  <string name="firewall_allow_all">Povoliť všetky aplikácie pripojenie</string>
+  <string name="firewall_allow_data">Povoliť využívanie mobilných dát</string>
+  <string name="firewall_allow_wlan">Povoliť používanie Wi-Fi</string>
+  <string name="firewall_mobile_dialog_message">Nainštalované aplikácie nebudú mať prístup k internetovému pripojeniu cez mobilné dáta ak je prepínač na Vyp.</string>
+  <string name="firewall_partial">Povoliť niektorých aplikáciam pripojenie​</string>
+  <string name="firewall_restrict_all">Zakázať pripojenie pre všetky aplikácie</string>
+  <string name="firewall_restrict_data">Zakázať mobilné pripojenie</string>
+  <string name="firewall_restrict_wlan">Zakázať používanie Wi-Fi</string>
+  <string name="firewall_wifi_dialog_message">Nainštalované aplikácie nebudú mať prístup k internetovému pripojeniu cez Wi-Fi ak je prepínač na Vyp.</string>
 </resources>
