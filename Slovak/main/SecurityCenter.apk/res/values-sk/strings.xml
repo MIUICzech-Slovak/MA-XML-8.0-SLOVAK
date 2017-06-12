@@ -1266,11 +1266,11 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="package_setted_error_notification_titile">Nebolo možné nastaviť limit dát</string>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
   <string name="passwordIncorrect">Zadané meno alebo heslo nie je správne</string>
-  <string name="password_promotion_button_text">Rozumiem</string>
-  <string name="password_promotion_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný Mi účet pre jeho obnovenie.</string>
-  <string name="password_promotion_not_login_xiaomi_account_message">Zámok aplikácií je aktualizovaný na heslo ochrany súkromia. Môžete použiť váš súčasný xiaomi účet pre jeho obnovenie. Pridajte váš Mi účet.</string>
-  <string name="password_promotion_postbutton_text">Otvorte Nastavenia</string>
-  <string name="password_promotion_title">Heslo ochrany súkromia</string>
+  <string name="password_promotion_button_text">Pridať Mi účet</string>
+  <string name="password_promotion_message">Pridajte váš Mi účet (%s) pre možnosť obnovy vášho hesla v prípade, že ho zabudnete.</string>
+  <string name="password_promotion_not_login_xiaomi_account_message">Pridajte váš Mi účet pre možnosť obnovy vášho hesla v prípade, že ho zabudnete.</string>
+  <string name="password_promotion_postbutton_text">Pridať</string>
+  <string name="password_promotion_title">Pridajte Mi účet</string>
   <string name="pay_charge">Top-up</string>
   <string name="pc_install_manager">Správca inštalácií</string>
   <string name="pc_to_phone_install">Blokovaná inštalácia apl. %s z USB</string>
@@ -2270,4 +2270,9 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="firewall_restrict_data">Zakázať mobilné pripojenie</string>
   <string name="firewall_restrict_wlan">Zakázať používanie Wi-Fi</string>
   <string name="firewall_wifi_dialog_message">Nainštalované aplikácie nebudú mať prístup k internetovému pripojeniu cez Wi-Fi ak je prepínač na Vyp.</string>
+  <string name="main_button_usage_adjusting_bill">Prebieha zmena...</string>
+  <string name="password_forget_pattern_confirm">Zálohovať dáta</string>
+  <string name="password_forget_pattern_message">Zálohujte vaše dáta a obnovte továrne nastavenia. Potom bude možné zmeniť vaše heslo.</string>
+  <string name="password_forget_pattern_title">Zálohujte vaše dáta</string>
+  <string name="password_xspace_forget_pattern_message">Pre zmenu hesla Druhého profilu ho musíte vymazať a vytvoriť znova.</string>
 </resources>

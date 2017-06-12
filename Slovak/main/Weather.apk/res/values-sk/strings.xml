@@ -151,4 +151,6 @@ Zadajte vaše mesto manuálne"</string>
   <string name="wind_direction_no_data">Vietor</string>
   <string name="alert_detail_title">Podrobnosti</string>
   <string name="city_exceeded_warning">Môžete pridať max. 10 miest</string>
+  <string name="xiaomi_weather_description_content">Xiaomi aplikácia Počasie vám poskytuje informácie o počasí vo vašom meste. Jej odinštalovanie ovplyvní widget hodín, teplotu v roletke a ďalšie funkcie. Chcete ho odinštalovať?</string>
+  <string name="xiaomi_weather_description_title">O Počasí</string>  
 </resources>

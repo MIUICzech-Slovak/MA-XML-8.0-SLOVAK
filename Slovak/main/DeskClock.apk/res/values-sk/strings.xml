@@ -144,4 +144,6 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
+  <string name="install_weather_app_error">Načítavanie zlyhalo.</string>
+  <string name="install_weather_app_loading">Načítavanie...</string>  
 </resources>
