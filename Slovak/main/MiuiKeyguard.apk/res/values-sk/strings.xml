@@ -115,4 +115,5 @@
   <string name="keyguard_charging_info_tip_text6">Vypnite displej a nechajte vaše zariadenie vychladnúť.</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Zobraziť podrobnosti</string>
   <string name="keyguard_quickly_charging_info_charging_text">Rýchlonabíjanie</string>  
+  <string name="input_password_after_boot_msg_can_not_switch_when_calling">Nie je možné prepínať medzi profilmi počas hovoru</string>  
 </resources>

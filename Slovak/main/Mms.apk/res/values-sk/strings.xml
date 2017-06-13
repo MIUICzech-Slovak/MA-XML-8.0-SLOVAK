@@ -680,4 +680,19 @@ Pokus: %s."</string>
   <string name="sms_report_dialog_title">Znova</string>
   <string name="switch_to_editor">Upraviť</string>
   <string name="switch_to_menu">Menu</string> 
+  <string name="delete_verification_code_sms_message">Vymazať všetky jednorázové heslá?</string>
+  <string name="delete_verification_code_sms_title">Vymazať jednorázové heslá</string>
+  <string name="disabled">Deaktivované</string>
+  <string name="earlier">Predošlé</string>
+  <string name="enabled">Povolené</string>
+  <string name="favorite_at_time">Označené v: %1s</string>
+  <string name="group_verification_codes_summary">Automaticky spájať do skupiny SMS s jednorázovými heslami</string>
+  <string name="group_verification_codes_title">Spájať SMS s heslami</string>
+  <string name="pref_show_sms_template_entry_summary">Kontrolovať SMS pre jednorázové heslá</string>
+  <string name="received_at_time">Prijaté: %1s</string>
+  <string name="sent_at_time">Odoslané: %1s</string>
+  <string name="today">Dnes</string>
+  <string name="verification_code_icon_name">V</string>
+  <string name="verification_code_list_title">Overovacie kódy</string>
+  <string name="yesterday">Včera</string>
 </resources>
