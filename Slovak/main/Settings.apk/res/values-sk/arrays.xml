@@ -912,4 +912,9 @@ Postupujte podľa pokynov"</item>
         <item>Potiahnutie - Spustiť akciu potiahnutím</item>
         <item>Dotyk - Spustiť akciu</item>
     </string-array>	
+    <string-array name="traffic_balance_entries">
+        <item>close</item>
+        <item>Normálny režim</item>
+        <item>Extrémny režim</item>
+    </string-array>	
 </resources>

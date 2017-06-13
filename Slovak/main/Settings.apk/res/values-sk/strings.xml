@@ -4878,6 +4878,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_dlg_button_cancel">Zrušiť</string>
   <string name="privacy_factory_reset_dlg_button_text">Zálohovať dáta</string>
   <string name="privacy_factory_reset_dlg_message">Zálohujte vaše dáta lokálne a potom urobte továrne nastavenia. Potom bude monžé zmeniť vaše heslo.</string>
-  <string name="privacy_factory_reset_dlg_title">zálohujte svoje dáta</string>
+  <string name="privacy_factory_reset_dlg_title">Zálohujte svoje dáta</string>
   <string name="update_new_version">Dostupná aktualizácia</string>
+  <string name="traffic_balance">Inteligentné riadenie prenosov</string>
 </resources>

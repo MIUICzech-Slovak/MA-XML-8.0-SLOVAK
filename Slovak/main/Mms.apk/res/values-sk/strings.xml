@@ -683,7 +683,7 @@ Pokus: %s."</string>
   <string name="delete_verification_code_sms_message">Vymazať všetky jednorázové heslá?</string>
   <string name="delete_verification_code_sms_title">Vymazať jednorázové heslá</string>
   <string name="disabled">Deaktivované</string>
-  <string name="earlier">Predošlé</string>
+  <string name="earlier">Staršie</string>
   <string name="enabled">Povolené</string>
   <string name="favorite_at_time">Označené v: %1s</string>
   <string name="group_verification_codes_summary">Automaticky spájať do skupiny SMS s jednorázovými heslami</string>
