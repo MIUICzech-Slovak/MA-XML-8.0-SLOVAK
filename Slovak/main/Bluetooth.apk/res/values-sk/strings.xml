@@ -187,4 +187,6 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+  <string name="permdesc_handoverStatus">Umožňuje prijímať informácie o odovzdanom stave prenosu z rozhrania Bluetooth..</string>
+  <string name="permlab_handoverStatus">Prijímať odovzdané vysielania prenosu z rozhrania BT..</string>
 </resources>

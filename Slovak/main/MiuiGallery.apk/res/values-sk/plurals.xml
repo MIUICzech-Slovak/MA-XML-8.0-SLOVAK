@@ -341,4 +341,8 @@
         <item quantity="other">Nebolo možné stiahnuť %1$d súborov, skontrolujte nastavenie siete</item>
         <item quantity="one">Nebolo možné stiahnuť %1$d súborv, skontrolujte nastavenie siete</item>
     </plurals>
+    <plurals name="add_to_secret_successful">
+        <item quantity="other">Pridané fotografie (%1$d) do tajného albumu</item>
+        <item quantity="one">Pridaná fotografia do tajného albumu</item>
+    </plurals>	
 </resources>

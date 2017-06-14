@@ -950,4 +950,10 @@
   <string name="see_ignore_faces">Zobraziť ľudí ktorých ignorujete</string>
   <string name="album_already_exists_check">Zobraziť</string>
   <string name="album_already_exists_msg">Album \"%s\" už existuje</string>
+  <string name="cloud_sync_card_description">Synchr. vaše fotografie a videá do MiCloud</string>
+  <string name="cloud_sync_card_title">Povoliť synchr. s MiCloud</string>
+  <string name="secret_album_card_description">Najlepšie miesto pre vaše tajomstvá</string>
+  <string name="secret_album_card_title">Skúste tajné albumy</string>
+  <string name="today">Dnes</string>
+  <string name="yesterday">Včera</string>
 </resources>
