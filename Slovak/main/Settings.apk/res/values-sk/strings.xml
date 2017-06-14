@@ -4881,9 +4881,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_factory_reset_dlg_title">Zálohujte svoje dáta</string>
   <string name="update_new_version">Dostupná aktualizácia</string>
   <string name="traffic_balance">Inteligentné riadenie prenosov</string>
-  <string name="biometric_weak_improve_matching_title">Zlepšiť priraďovanie tvárí</string>
-  <string name="biometric_weak_liveliness_summary">Pri odomykaní vyžadovať žmurknutie okom</string>
-  <string name="biometric_weak_liveliness_title">Kontrola života</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Nízka bezpečnosť, experimentálne</string>
-  <string name="unlock_set_unlock_biometric_weak_title">Odomknutie tvárou</string>
 </resources>
