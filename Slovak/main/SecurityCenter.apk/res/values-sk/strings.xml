@@ -2276,4 +2276,6 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="password_forget_pattern_title">Zálohujte vaše dáta</string>
   <string name="password_xspace_forget_pattern_message">Pre zmenu hesla Druhého profilu ho musíte vymazať a vytvoriť znova.</string>
   <string name="firewall_restrict_notify_title">%s nemôže použiť sieť</string>
+  <string name="card_main_hbassistant_summary">Zrýchliť a zlepšiť odozvu pri hrách</string>
+  <string name="card_main_hbassistant_title">Zrýchlenie hier</string>
 </resources>
