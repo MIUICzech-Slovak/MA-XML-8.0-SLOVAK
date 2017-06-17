@@ -109,7 +109,7 @@
   <string name="keyguard_charging_info_last_charged_time_text">Posledné nabíjanie</string>
   <string name="keyguard_charging_info_tip_text1">Pre predĺženie životnosti batérie nenechávajte ju klesnúť pod 10%.</string>
   <string name="keyguard_charging_info_tip_text2">Neprebíjajte vaše zariadenie. Viackrát kratšie nabíjanie je lepšie ako nabíjanie počas celej noci.</string>
-  <string name="keyguard_charging_info_tip_text3">Vyhýbajte sa nabíjaniu vašeho zariadenia ak je okolitá teplota pod 0℃.</string>
+  <string name="keyguard_charging_info_tip_text3">Vyhýbajte sa nabíjaniu vášho zariadenia ak je okolitá teplota pod 0℃.</string>
   <string name="keyguard_charging_info_tip_text4">Nevyťažujte vaše zariadenie ak je pripojené k nabíjačke aby ste predišli jeho prehrievaniu.</string>
   <string name="keyguard_charging_info_tip_text5">Batérie sa nabíjajú dlhšie ak sa prehrejú.</string>
   <string name="keyguard_charging_info_tip_text6">Vypnite displej a nechajte vaše zariadenie vychladnúť.</string>
