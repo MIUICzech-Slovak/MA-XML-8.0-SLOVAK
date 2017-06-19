@@ -282,4 +282,16 @@ Nie je možné odoslať váš názor"</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 8</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
+  <string name="provision_activate_device">Activating device…</string>
+  <string name="provision_check_sim">Kontrola SIM karty</string>
+  <string name="provision_connect_wifi">Pripojenie k Wi-Fi</string>
+  <string name="provision_have_sim">Vložená SIM karta</string>
+  <string name="provision_no_network_extra">Pripojte sa k Wi-Fi alebo vložte SIM kartu s mobilnými dátami pre aktiváciu vášho zariadenia. Nie je možné aktivovať zariadenie bez internetového pripojenia.</string>
+  <string name="provision_no_network_title">Pripojte sa k sieti</string>
+  <string name="provision_retry">Skúste to znova</string>
+  <string name="provision_toast_no_network">Najskôr sa pripojte k sieti</string>
+  <string name="provision_toast_server_error">Nie je možné pripojiť sa k serveru. Skúste to znova neskôr.</string>
+  <string name="provision_toast_timeout">Pripojenie zlyhalo. Skontrolujte nastavenie siete.</string>
+  <string name="recovery_power_need_plugged">Pripojte nabíjačku pre pokračovanie v aktualizácií</string>
+  <string name="recovery_power_plugged_warning">Neodpájajte nabíjačku počas aktualizácie</string> 
 </resources>

@@ -244,4 +244,6 @@
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="remind_unlock_message">Vaše zariadenie je uzamknuté. \"%s\" bude dostupné až po odblokovaní vašeho zariadenia. Odblokovať?</string>
   <string name="unlock_phone">Odomknúť zariadenie</string>
+  <string name="card_title_hanging_up_restart">Nie je možné ukončiť hovor. Reštartujte vaše zariadenie.</string>
+  <string name="card_title_hanging_up_weak_signal">Slabý signál mobilnej siete. Hovor sa ukončí.</string>  
 </resources>

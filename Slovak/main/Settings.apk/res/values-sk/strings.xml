@@ -4881,4 +4881,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_factory_reset_dlg_title">Zálohujte svoje dáta</string>
   <string name="update_new_version">Dostupná aktualizácia</string>
   <string name="traffic_balance">Inteligentné riadenie prenosov</string>
+  <string name="reading_data">Získavanie informácií...</string>
+  <string name="wifi_setting_frequency_band_summary">Frekvencia Wi-Fi siete</string>
 </resources>

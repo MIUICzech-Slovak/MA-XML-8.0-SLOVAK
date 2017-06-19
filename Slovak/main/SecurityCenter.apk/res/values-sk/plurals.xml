@@ -354,4 +354,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">%d days since last check-up</item>
         <item quantity="one">%d day since last check-up</item>
     </plurals>
+    <plurals name="white_list_risk_app_header">
+        <item quantity="other">Nebezpečné apl.: %d</item>
+        <item quantity="one">Nebezpečné apl.: %d</item>
+    </plurals>
+    <plurals name="white_list_trojan_header">
+        <item quantity="other">Vírusy: %d</item>
+        <item quantity="one">Vírusy: %d</item>
+    </plurals>	
 </resources>

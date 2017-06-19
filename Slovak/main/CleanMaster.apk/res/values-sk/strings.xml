@@ -457,4 +457,8 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="app_description_content">Čistič vyhľadá nepotrebné súbory a uvoľní miesto na vašom úložisku.</string>
+  <string name="app_description_title">O Čističi</string>  
+  <string name="engine_cm">Clean Master</string>
+  <string name="engine_tm">Tencent</string>
 </resources>
