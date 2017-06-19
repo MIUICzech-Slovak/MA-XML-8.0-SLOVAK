@@ -4586,7 +4586,6 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_select_network">Vybrať sieť Wi-Fi</string>
   <string name="wifi_setting_category">Dostupné Wi-Fi siete</string>
   <string name="wifi_setting_frequency_band_error">Pri nastavení frekvenčného pásma došlo k problému.</string>
-  <string name="wifi_setting_frequency_band_summary">Uveďte prevádzkový frekvenčný rozsah</string>
   <string name="wifi_setting_frequency_band_title">Frekvenčné pásmo Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi aktívne v režime spánku</string>
   <string name="wifi_setting_sleep_policy_error">Pri zmene nastavení sa vyskytol problém</string>
