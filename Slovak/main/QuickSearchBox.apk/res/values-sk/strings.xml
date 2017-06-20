@@ -137,7 +137,7 @@
   <string name="common_history">História</string>
   <string name="common_history_first">Zoradiť históriu vyhľadávania</string>
   <string name="common_history_first_subtitle">Zobraziť históriu vyhľadávania ako prvú</string>
-  <string name="common_history_subtitle">Zobraziť You wont see suggestions from your search history when this feature is off</string>
+  <string name="common_history_subtitle">Zobraziť históriu vyhľadávania</string>
   <string name="common_hot">Populárne výrazy</string>
   <string name="common_hot_subtitle">Zobraziť populárne výrazy vyhľadávania</string>
   <string name="common_personal">Prispôsobenie</string>
