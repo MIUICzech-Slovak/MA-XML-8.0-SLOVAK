@@ -193,4 +193,14 @@
   <string name="sleep_config_enhance_description">MIUI bude šetriť batériu počas noci</string>
   <string name="sleep_config_enhance_title">Zapnuté</string>
   <string name="sleep_config_mode_title">Šetrenie batérie v noci</string>  
+  <string name="about_hide_mode">Čo je to MIUI Úspora batérie</string>
+  <string name="config_restrict_running_warning">Aplikácia bude ukončená na pozadí. Môže to spôsobiť jej nesprávne fungovanie.</string>
+  <string name="config_scenario_policies_title">Scenáre</string>
+  <string name="disable_hide_mode">Deaktivovať MIUI Úsporu batérie</string>
+  <string name="disable_hide_mode_warning">Deaktivácia MIUI Úspory batérie môže zvýšiť spotrebu batérie</string>
+  <string name="enable_hide_mode">Povoliť MIUI Úsporu batérie</string>
+  <string name="hide_system_app">Skryť systémové apl.</string>
+  <string name="scenario_policies_summary">Úspora batérie podľa scenáru</string>
+  <string name="scenario_policies_title">Scenár úspory batérie</string>
+  <string name="show_system_app">Zobraziť systémové apl.</string>
 </resources>

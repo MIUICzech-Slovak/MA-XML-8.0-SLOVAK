@@ -4882,4 +4882,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="traffic_balance">Inteligentné riadenie prenosov</string>
   <string name="reading_data">Získavanie informácií...</string>
   <string name="wifi_setting_frequency_band_summary">Frekvencia Wi-Fi siete</string>
+  <string name="connect_mode">Režim pripojenia</string>
+  <string name="sure_sync_now">Synchronizovať teraz?</string>
+  <string name="sync_now">Synchr.</string>
 </resources>

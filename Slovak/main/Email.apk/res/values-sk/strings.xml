@@ -870,4 +870,15 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="youfuli">Reklama</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="cancel_pop3_attchemt_downloading">Zrušenie preberania príloh nie je podporované v POP3 protokole.</string>
+  <string name="account_failure">Chyba účtu</string>
+  <string name="changepw_dialog_tips_please_clikc_btn">Skontrolujte overovací kód %s a prihláste sa znova</string>
+  <string name="dialog_system_auto_sync_account_no_open">Synchr. účtu nie je povolená a správy sa nebudú automaticky synchronizovať</string>
+  <string name="dialog_system_auto_sync_master_no_open">Synchr. systému nie je povolená a správy sa nebudú automaticky synchronizovať</string>
+  <string name="drawer_classification">Kategórie</string>
+  <string name="mail_description_content">Aplikácia Email je klient pre správu vašej emailovej komunikácie.</string>
+  <string name="mail_description_title">Čo je Email</string>
+  <string name="syncing_wait_restart">Skúsiť znova</string>
+  <string name="syncing_wait_restart_title">"Pripojenie k serveru zlyhalo. 
+ Nie je možné načítať správy"</string>
+  <string name="system_setup_open_error">Synchronizácia nie je povolená.</string>
 </resources>

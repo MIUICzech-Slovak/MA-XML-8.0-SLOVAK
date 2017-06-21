@@ -114,7 +114,7 @@
   <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">Do %1$s</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="date_today">(dnes)</string>
+  <string name="date_today">" (dnes) "</string>
   <string name="day_view">Deň</string>
   <string name="day_view_new_event_hint">Pridať novú udalosť</string>
   <string name="default_reminder_mode">Predvolené upozornenie</string>
@@ -481,4 +481,8 @@
   <string name="install_weather_app_error">Nastala chyba.</string>
   <string name="install_weather_app_loading">Načítavanie...</string>  
   <string name="done">Naspať</string>
+  <string name="too_long_content">Príliš dlhý popis</string>
+  <string name="too_long_description">Popis udalosti je príliš dlhý</string>
+  <string name="too_long_location">Popis polohy je príliš dlhý</string>
+  <string name="too_long_name">Názov je príliš dlhý</string>  
 </resources>
