@@ -2290,4 +2290,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="antivirus_update_btn_contiue">Pokračovať</string>
   <string name="antivirus_update_btn_open">Povoliť</string>
   <string name="antivirus_update_btn_update">Aktualizovať</string>
+  <string name="auto_task_notify_task_exit_task">Ukončiť úlohu</string>
+  <string name="power_consume_hardware_total_format">Hardware: %s</string>
+  <string name="power_consume_software_total_format">Aplikácie: %s</string>
 </resources>

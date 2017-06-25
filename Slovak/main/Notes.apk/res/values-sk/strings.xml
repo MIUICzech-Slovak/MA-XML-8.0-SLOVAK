@@ -223,4 +223,6 @@ http://www.miuios.cz/rom
   <string name="toolbar_undo_description">Späť</string> 
   <string name="note_description_content">Aplikácia Poznámky slúži na vytváranie vašich poznámok a nákupných zoznamov.</string>
   <string name="note_description_title">O poznámkach</string>
+  <string name="db_downgrade_clear_button">Vymažte dáta aplikácie</string>
+  <string name="db_downgrade_clear_date_reminder">Zmena na inú verziu MIUI vyžaduje aj vymazanie dát aplikácie Poznámky. Predtým sa uistite, že máte povolené zálohovanie na MiCloud.</string>
 </resources>
