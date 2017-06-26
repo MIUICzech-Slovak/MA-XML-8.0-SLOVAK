@@ -247,4 +247,5 @@
   <string name="card_title_hanging_up_restart">Nie je možné ukončiť hovor. Reštartujte vaše zariadenie.</string>
   <string name="card_title_hanging_up_weak_signal">Slabý signál mobilnej siete. Hovor sa ukončí.</string>  
   <string name="onscreen_message_text">Správy</string>
+  <string name="user_locked_prompt">Pre prístup ku kontaktom, odomknite zariadenie.</string>
 </resources>

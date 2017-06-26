@@ -4885,4 +4885,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="connect_mode">Režim pripojenia</string>
   <string name="sure_sync_now">Synchronizovať teraz?</string>
   <string name="sync_now">Synchr.</string>
+  <string name="encryption_progress_summary">Šifrovanie, nereštartujte vaše zariadenie.</string>
+  <string name="owner_space">Prvý profil</string>
+  <string name="sim_management_title_cr_kolbi">SIM karta a mobilné siete</string>
 </resources>
