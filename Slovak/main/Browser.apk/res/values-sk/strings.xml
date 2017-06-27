@@ -158,16 +158,8 @@
   <string name="comment_description">Komentár</string>
   <string name="comment_hint">Komentár</string>
   <string name="comment_menu">Komentár</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cz</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.sk</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.com</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Ďalej</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Predch.</string>
-  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="contextmenu_add_contact">Pridať kontakt</string>
   <string name="contextmenu_copy">Kopírovať</string>
   <string name="contextmenu_copylink">Kopírovať link URL</string>
