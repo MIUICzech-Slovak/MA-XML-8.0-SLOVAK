@@ -485,4 +485,9 @@
   <string name="too_long_description">Popis udalosti je príliš dlhý</string>
   <string name="too_long_location">Popis polohy je príliš dlhý</string>
   <string name="too_long_name">Názov je príliš dlhý</string>  
+  <string name="agenda_month_empty_hint">Žiadne udalosti na dnes</string>
+  <string name="load_more_hint">Obnoviť udalosti z %1$d</string>
+  <string name="no_events_hint">Žiadne udalosti</string>
+  <string name="pull_to_refresh_hint">Potiahnutím obnovíte udalosti z %1$d</string>
+  <string name="refreshing_hint">Obnovenie...</string>
 </resources>
