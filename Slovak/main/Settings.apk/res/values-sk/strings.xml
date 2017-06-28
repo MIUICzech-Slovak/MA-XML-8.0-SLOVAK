@@ -4888,4 +4888,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="encryption_progress_summary">Šifrovanie, nereštartujte vaše zariadenie.</string>
   <string name="owner_space">Prvý profil</string>
   <string name="sim_management_title_cr_kolbi">SIM karta a mobilné siete</string>
+  <string name="music_app_unavailable">Závisí na aplikácií Hudba. Uistite sa, že ju máte nainštalovanú</string>
 </resources>

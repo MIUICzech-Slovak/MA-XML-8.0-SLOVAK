@@ -362,4 +362,12 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Vírusy: %d</item>
         <item quantity="one">Vírusy: %d</item>
     </plurals>	
+    <plurals name="result_virus_header">
+        <item quantity="other">Nájdených %d vírusov a nebezpečných apl.</item>
+        <item quantity="one">Nájdený 1 vírus</item>
+    </plurals>
+    <plurals name="result_sign_header">
+        <item quantity="other">Nájdených %d neoficiálnych apl.</item>
+        <item quantity="one">Nájdená 1 neoficiálna apl.</item>
+    </plurals>	
 </resources>

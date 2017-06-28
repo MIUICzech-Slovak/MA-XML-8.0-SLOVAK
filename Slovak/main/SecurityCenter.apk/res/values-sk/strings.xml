@@ -813,9 +813,9 @@ pre kontrolu vašej spotreby"</string>
   <string name="hints_auto_start_warning_info">Zákaz auto. spustenia nepovolí prijímať upozornenia aplikácie</string>
   <string name="hints_cleanning_done">Kontrola dokončená</string>
   <string name="hints_cleanning_text">Čistenie...</string>
-  <string name="hints_handle_item_text_risk">Riziká: %d</string>
+  <string name="hints_handle_item_text_risk">Nebezpečné</string>
   <string name="hints_handle_item_text_safe">OK</string>
-  <string name="hints_handle_item_text_virus">Vírusy: %d</string>
+  <string name="hints_handle_item_text_virus">Nebezpečné</string>
   <string name="hints_input_roaming_daily_limit">Zadajte denný limit mobilných dát</string>
   <string name="hints_install_apps_new">nepoužité</string>
   <string name="hints_install_apps_today">dnes použité</string>
@@ -2293,4 +2293,20 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="auto_task_notify_task_exit_task">Ukončiť úlohu</string>
   <string name="power_consume_hardware_total_format">Hardware: %s</string>
   <string name="power_consume_software_total_format">Aplikácie: %s</string>
+  <string name="handle_title_network">Zabezpečenie Wi-Fi</string>
+  <string name="handle_title_pay_env">Zabezpečenie platieb</string>
+  <string name="handle_title_privacy">Zabezpečenie súkromia</string>
+  <string name="hints_last_virus_scan_risk">Kontrolované pred %d dňami: Podozrivé</string>
+  <string name="hints_last_virus_scan_safe">Kontrolované pred %d dňami: OK</string>
+  <string name="hints_last_virus_scan_today_risk">Kontrolované dnes: Podozrivé</string>
+  <string name="hints_last_virus_scan_today_safe">Kontrolované dnes: OK</string>
+  <string name="hints_last_virus_scan_today_virus">Kontrolované dnes: Nebezpečné</string>
+  <string name="hints_last_virus_scan_virus">Kontrolované pred %d dňami: Nebezpečné</string>
+  <string name="hints_last_virus_scan_yesterday_risk">Kontrolované včera: Podozrivé</string>
+  <string name="hints_last_virus_scan_yesterday_safe">Kontrolované včera: OK</string>
+  <string name="hints_last_virus_scan_yesterday_virus">Kontrolované včera: Nebezpečné</string>
+  <string name="hints_scan_danger_result">nájdené riziko, opravte ho</string>
+  <string name="hints_scan_result_no_finish">Kontrola nie je dokončená. Dotykom spustíte znova.</string>
+  <string name="suggest_scan_again">Odporúča sa kompletná kontrola pre vašu bezpečnosť.</string>
+  <string name="virus_auto_update_engine">Autom. aktualizácia: %s</string>
 </resources>
