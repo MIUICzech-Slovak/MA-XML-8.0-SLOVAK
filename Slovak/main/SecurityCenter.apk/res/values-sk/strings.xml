@@ -2208,7 +2208,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="virus_scan">Kontrola vírusov</string>
   <string name="virus_update_fail">Nebolo možné aktualizovať</string>
   <string name="virus_update_success">Aktualizované</string>
-  <string name="virus_update_tips_title">Pripojte sa k Wi-Fi</string>
+  <string name="virus_update_tips_title">Internetové pripojenie</string>
   <string name="virus_wait_network_dialog_message">Pripojte sa k Wi-Fi pre stiahnutie databázy</string>
   <string name="wakepath_confirm_start_activity">Povoliť %1$s otvoriť %2$s?</string>
   <string name="website">Webstránka</string>
@@ -2278,8 +2278,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="firewall_restrict_notify_title">%s nemôže použiť sieť</string>
   <string name="card_main_hbassistant_summary">Zrýchliť a zlepšiť odozvu pri hrách</string>
   <string name="card_main_hbassistant_title">Zrýchlenie hier</string>
-  <string name="antivirus_longtime_no_update">Vaša databáza várusov nie je aktuálna. Chcete ju aktualizovať teraz?</string>
-  <string name="antivirus_longtime_no_update1">Vaša databáza várusov nie je aktuálna. Aktualizujte ju a skúste to znova.</string>
+  <string name="antivirus_longtime_no_update">Vaša databáza vírusov nie je aktuálna. Chcete ju aktualizovať teraz?</string>
+  <string name="antivirus_longtime_no_update1">Vaša databáza vírusov nie je aktuálna. Aktualizujte ju a skúste to znova.</string>
   <string name="antivirus_not_wlan">Nie ste pripojený na Wi-Fi. Stiahnuť cez mobilné dáta?</string>
   <string name="antivirus_sec_network_unavailable">Aktualizácia vírusovej databázy nie je možná lebo ste zakázali internetové pripojenie pre aplikáciu Optimalizácia. Chcete povoliť prístup na internet?</string>
   <string name="antivirus_toast_already_update">Aktuálna</string>
