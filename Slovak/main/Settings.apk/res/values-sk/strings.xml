@@ -2845,9 +2845,9 @@ Vyberte váš operačný systém:"</string>
   <string name="privacy_password_settings_titles_second_space">Heslo ochrany súkromia chráni vaše SMS. fotografie a poznámky.</string>
   <string name="privacy_password_title">Heslo ochrany súkromia</string>
   <string name="privacy_password_transparent_tiltle"/>
-  <string name="privacy_password_use_finger_dialog_mess">Mäžete použiť váš odtlačok prsta s Heslo ochrany súkromia.</string>
+  <string name="privacy_password_use_finger_dialog_mess">Môžete použiť váš odtlačok prsta s Heslom ochrany súkromia.</string>
   <string name="privacy_password_use_finger_dialog_open">Nastavenie</string>
-  <string name="privacy_password_use_finger_dialog_title">Odomknutie odtlačku prsta</string>
+  <string name="privacy_password_use_finger_dialog_title">Odomknutie odtlačkom prsta</string>
   <string name="privacy_password_use_finger_success">Povolené</string>
   <string name="privacy_password_visible_pattern">Zobraziť vzor</string>
   <string name="privacy_protect_title">Ochrana súkromia</string>
@@ -4889,4 +4889,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="owner_space">Prvý profil</string>
   <string name="sim_management_title_cr_kolbi">SIM karta a mobilné siete</string>
   <string name="music_app_unavailable">Závisí na aplikácií Hudba. Uistite sa, že ju máte nainštalovanú</string>
+  <string name="privacy_password_settings_next">Ďalej</string>
 </resources>
