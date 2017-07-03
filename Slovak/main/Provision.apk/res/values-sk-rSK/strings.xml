@@ -43,7 +43,7 @@
   <string name="other_settings_upload_debug_log_summary">Diagnostické dáta môžu obsahovať informácie o používaní vášho zariadenia, operačnom systéme a aplikácií. Tieto dáta budú použité pre analýzu vášho problému v systéme.</string>
   <string name="other_settings_upload_debug_log_title">Odoslať diagnostické dáta</string>
   <string name="other_settings_user_experience">Spätná väzba</string>
-  <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej %s"</string>
+  <string name="other_settings_user_experience_summary">Pomôžte nám zlepšiť naše služby a funkcie MIUI pomocou odosielania anonymných štatistík.</string>
   <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
   <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
   <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
