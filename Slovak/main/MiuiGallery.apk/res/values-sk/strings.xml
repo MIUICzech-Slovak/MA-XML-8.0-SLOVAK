@@ -956,4 +956,8 @@
   <string name="secret_album_card_title">Skúste tajné albumy</string>
   <string name="today">Dnes</string>
   <string name="yesterday">Včera</string>
+  <string name="alert_secret_album_message_lower_case">Potiahnite nadol v karte albumov a dotknite sa skrytého albumu.</string>
+  <string name="backup_sync_dialog_confirm">Povoliť</string>
+  <string name="backup_sync_dialog_tips">Povoľte synchr. s MiCloud pre zmenu nastavenia zálohovania.</string>
+  <string name="backup_sync_dialog_title">Synchr. je vypnutá</string>
 </resources>

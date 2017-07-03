@@ -4875,8 +4875,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="notification_update_now">Aktualizovať</string>
   <string name="privacy_delete_space_dlg_message">Pre zmenu hesla Druhého profilu, mali by ste vymazať Druhý profil a vytvoriť ho znova.</string>
   <string name="privacy_dlg_button_cancel">Zrušiť</string>
-  <string name="privacy_factory_reset_dlg_button_text">Zálohovať dáta</string>
-  <string name="privacy_factory_reset_dlg_message">Zálohujte vaše dáta lokálne a potom urobte továrne nastavenia. Potom bude monžé zmeniť vaše heslo.</string>
+  <string name="privacy_factory_reset_dlg_button_text">Reset</string>
+  <string name="privacy_factory_reset_dlg_message">Ak zabudnete vaše heslo, budete musieť urobiť obnovenie do továrnych nasatvení a nastaviť nové heslo..</string>
   <string name="privacy_factory_reset_dlg_title">Zálohujte svoje dáta</string>
   <string name="update_new_version">Dostupná aktualizácia</string>
   <string name="traffic_balance">Inteligentné riadenie prenosov</string>
@@ -4890,4 +4890,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="sim_management_title_cr_kolbi">SIM karta a mobilné siete</string>
   <string name="music_app_unavailable">Závisí na aplikácií Hudba. Uistite sa, že ju máte nainštalovanú</string>
   <string name="privacy_password_settings_next">Ďalej</string>
+  <string name="privacy_close_dlg_button_ok">Vypnúť</string>
+  <string name="privacy_close_dlg_msg">Ak je vypnuté heslo ochrany súkromia, vaše dáta nebudú viac chránené.</string>
+  <string name="privacy_close_dlg_title">Upozornenie</string>  
+  <string name="privacy_password_toggle_summary">Vyžadovať heslo pri každom prístupe ku chránenému obsahu.</string>
 </resources>

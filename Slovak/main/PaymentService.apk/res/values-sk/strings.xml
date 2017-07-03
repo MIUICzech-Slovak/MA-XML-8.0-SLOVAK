@@ -179,4 +179,12 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_wrong_password">Heslo nie je správne</string>
   <string name="passport_wrong_phone_number_format">Formát telefónneho čísla nie je správny</string>
   <string name="passport_wrong_vcode">Zadaný kód nie je správny</string>
+  <string name="mibi_order_balance_lable">MiKredity</string>
+  <string name="mibi_order_balance_lable_append">MiKredity + kupón</string>
+  <string name="mibi_order_balance_title">Moje MiKredity</string>
+  <string name="mibi_order_no_use_balance">Žiadne</string>
+  <string name="mibi_order_pay_back">Potvrdiť</string>
+  <string name="mibi_order_pay_type">Spôsob platby</string>
+  <string name="mibi_order_pay_type_title">Vybrať spôsob platby</string>
+  <string name="mibi_order_title">Platba</string>  
 </resources>
