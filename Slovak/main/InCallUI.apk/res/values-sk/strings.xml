@@ -248,4 +248,7 @@
   <string name="card_title_hanging_up_weak_signal">Slabý signál mobilnej siete. Hovor sa ukončí.</string>  
   <string name="onscreen_message_text">Správy</string>
   <string name="user_locked_prompt">Pre prístup ku kontaktom, odomknite zariadenie.</string>
+  <string name="card_title_answering">Prijatie hovoru</string>
+  <string name="card_title_answering_fail">Nebolo možné prijať hovor, skúste to znova.</string>
+  <string name="card_title_hanging_up_fail">Nebolo možné ukončiť hovor, skúste to znova.</string>
 </resources>
