@@ -696,4 +696,6 @@ Pokus: %s."</string>
   <string name="verification_code_list_title">Overovacie kódy</string>
   <string name="yesterday">Včera</string>
   <string name="fail_to_view_attachment">Príloha je nedostupná</string>
+  <string name="pref_show_photo_word_summary">Automaticky priradiť obrázok kontaktu bez fotografie</string>
+  <string name="title_show_photo_word">Priradiť obrázok kontaktu</string>  
 </resources>
