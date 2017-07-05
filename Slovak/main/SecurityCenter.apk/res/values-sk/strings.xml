@@ -1101,7 +1101,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="menu_restore">Obnoviť do SMS</string>
   <string name="menu_sms">Odoslať SMS</string>
   <string name="menu_text_antispam">AntiSpam</string>
-  <string name="menu_text_antivirus">AntiVírus</string>
+  <string name="menu_text_antivirus">Bezpečnosť</string>
   <string name="menu_text_garbage_cleanup">Čistič</string>
   <string name="menu_text_garbage_cleanup_danger">%s nad</string>
   <string name="menu_text_license_manager">Povolenia</string>
