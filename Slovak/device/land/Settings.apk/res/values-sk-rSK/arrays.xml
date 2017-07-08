@@ -199,13 +199,6 @@
         <item>Naposledy použité</item>
         <item>Názov aplikácie</item>
     </string-array>
-	<string-array name="select_logd_size_summaries">
-        <item>64 kB na vyrovn. pamäť denníka</item>
-        <item>256 kB na vyrovn. pamäť denníka</item>
-        <item>1 MB na vyrovn. pamäť denníka</item>
-        <item>4 MB na vyrovn. pamäť denníka</item>
-        <item>16 MB na vyrovn. pamäť denníka</item>
-    </string-array>
 	<string-array name="track_frame_time_entries">
         <item>Vypnuté</item>
         <item>Na obrazovke v podobe stĺpcov</item>
