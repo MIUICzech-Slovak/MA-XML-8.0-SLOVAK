@@ -266,7 +266,7 @@
   <string name="load_shuffle">Načítavanie...</string>
   <string name="loadercontainer_loading">Načítavanie...</string>
   <string name="loading_hint">Načítavanie...</string>
-  <string name="local_music">Lokálna Hudba</string>
+  <string name="local_music">Offline</string>
   <string name="local_music_empty">Lokálny playlist je prázdny</string>
   <string name="local_music_empty_goto_online">Žiadne skladby</string>
   <string name="local_music_is_not_available">Žiadne skladby</string>
@@ -574,4 +574,5 @@
   <string name="music_notification_headset_info">Dotykom zobrazíte nastavenia</string>
   <string name="music_notification_headset_settings">Pripojené slúchadla</string>  
   <string name="start_shuffle">Spustiť náhodne...</string>
+  <string name="local_header_title">Lokálna hudba</string>
 </resources>

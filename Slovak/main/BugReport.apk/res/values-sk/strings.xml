@@ -222,4 +222,5 @@
   <string name="upload_log_failed">Nebolo možné odoslať záznam o chybe</string>
   <string name="warning_field_empty">Zadajte %1$s</string>
   <string name="warning_field_invalid">Vyberte platné %1$s</string>
+  <string name="title_customer_service">Užívateľská podpora</string>
 </resources>

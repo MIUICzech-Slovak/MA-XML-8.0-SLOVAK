@@ -1282,4 +1282,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="miprofile_notice_close">Zatvoriť</string>
   <string name="profile_delete_toast">Profil vymazaný</string>
   <string name="preference_other">Ostatné</string>
+  <string name="option_delete_batch_contacts">Vymazať viac naraz</string>
 </resources>

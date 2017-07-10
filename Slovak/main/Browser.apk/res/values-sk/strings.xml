@@ -861,4 +861,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="voice_semantic_analysis">Semantic analysis after networking</string>  
   <string name="agree">Súhlasím</string>
   <string name="exit">Ukončiť</string>
+  <string name="bookmark">Záložka</string>
+  <string name="history">História</string>
+  <string name="snapshot">Lokálne</string>
 </resources>

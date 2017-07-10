@@ -83,4 +83,12 @@
         <item>vybrané</item>
         <item>nevybrané</item>
      </string-array>
+    <string-array name="thermal_entries">
+        <item>Predvolená kontrola prehrievania</item>
+        <item>Výkonný režim</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Výkon bude obmedzený aby nedochádzalo k prehrievaniu zariadenia</item>
+        <item>Vo výkonnom režime sa môže vaše zariadenie viac prehrievať</item>
+    </string-array>	 
 </resources>

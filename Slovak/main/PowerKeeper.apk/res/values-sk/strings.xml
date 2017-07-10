@@ -203,4 +203,6 @@
   <string name="scenario_policies_summary">Úspora batérie podľa scenáru</string>
   <string name="scenario_policies_title">Scenár úspory batérie</string>
   <string name="show_system_app">Zobraziť systémové apl.</string>
+  <string name="scenario_policies_warmcontrol">Kontrola prehrievania</string>
+  <string name="warm_configure">Nastavenie kontroly teploty</string>
 </resources>

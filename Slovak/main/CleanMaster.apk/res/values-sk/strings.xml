@@ -461,4 +461,5 @@
   <string name="app_description_title">O Čističi</string>  
   <string name="engine_cm">Clean Master</string>
   <string name="engine_tm">Tencent</string>
+  <string name="engine_init">Inicializácia...</string>
 </resources>
