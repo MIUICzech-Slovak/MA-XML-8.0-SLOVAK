@@ -1918,7 +1918,6 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="system_header_title">Vyčistenie %1$d uvoľní %2$s pamäte</string>
   <string name="system_info_remind">"Pridajte zámok pre zabránenie
 neoprávneného používania vašich aplikácií"</string>
-  <string name="tab_blacklist">Čierna listina</string>
   <string name="tab_block_log">Blokované</string>
   <string name="tab_block_log_unKnowNumber">Neznáme číslo</string>
   <string name="tab_call">Hovory</string>

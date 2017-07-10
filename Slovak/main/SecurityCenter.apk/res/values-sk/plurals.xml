@@ -370,9 +370,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="other">Nájdených %d neoficiálnych apl.</item>
         <item quantity="one">Nájdená 1 neoficiálna apl.</item>
     </plurals>	
-+    <plurals name="om_ill_proc_multi_app_title">
- +        <item quantity="other">"%d apps don't work properly and drain battery"</item>
- +        <item quantity="one">"%d app doesn't work properly and drains battery"</item>
- +    </plurals>
- 
+    <plurals name="om_ill_proc_multi_app_title">
+        <item quantity="other">%d aplikácií nefunguje správne a vybíja batériu</item>
+        <item quantity="one">%d aplikácia nefunguje správne a vybíja batériu</item>
+    </plurals>
 </resources>
