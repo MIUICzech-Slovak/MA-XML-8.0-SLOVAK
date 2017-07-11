@@ -225,4 +225,6 @@ http://www.miuios.cz/rom
   <string name="note_description_title">O poznámkach</string>
   <string name="db_downgrade_clear_button">Vymažte dáta aplikácie</string>
   <string name="db_downgrade_clear_date_reminder">Zmena na inú verziu MIUI vyžaduje aj vymazanie dát aplikácie Poznámky. Predtým sa uistite, že máte povolené zálohovanie na MiCloud.</string>
+  <string name="refuse_to_share_as_pic_because_of_content">Táto poznámka je príliš veľká na zdieľanie.</string>
+  <string name="refuse_to_share_as_pic_because_of_loading">Počkajte kým sa poznámka načíta a skúste to znova.</string>  
 </resources>

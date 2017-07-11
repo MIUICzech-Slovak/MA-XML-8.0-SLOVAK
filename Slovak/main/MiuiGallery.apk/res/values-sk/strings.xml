@@ -960,4 +960,7 @@
   <string name="backup_sync_dialog_confirm">Povoliť</string>
   <string name="backup_sync_dialog_tips">Povoľte synchr. s MiCloud pre zmenu nastavenia zálohovania.</string>
   <string name="backup_sync_dialog_title">Synchr. je vypnutá</string>
+  <string name="backup_cta_not_allow_desc">Povoľte pre automaticku zálohu</string>
+  <string name="backup_cta_not_allow_title">Nie je možný prístup k sieti</string>
+  <string name="cloud_storage_extend">Navýšiť MiCloud úložisko</string>
 </resources>
