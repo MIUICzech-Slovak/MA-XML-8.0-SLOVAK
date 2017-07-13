@@ -376,14 +376,15 @@ posunutím nadol uzamknete"</string>
   <string name="accessibility_recents_item_will_be_dismissed">Zavrieť aplikáciu %s</string>
   <string name="click_to_return_multi_window">Dotykom sa vrátite k režimu Multi-Window</string>
   <string name="keyboard_shortcut_group_system_recents">Nedávne</string>
-  <string name="recent_dock_tip">Dotykom vyberiete aplikáciu</string>
+  <string name="recent_dock_tip">Dotykom vyberte aplikáciu</string>
   <string name="recents_app_info_button_label">Informácie o aplikácii</string>
+  <string name="recents_multi_window_mode">Rozdelenie obrazovky</string>
   <string name="recents_caption_resize">Vyberte nové rozloženie úlohy</string>
   <string name="recents_drag_hint_message">Presuňte sem pre rozdelenie obrazovky</string>
   <string name="recents_empty_message">Žiadne aplikácie</string>
   <string name="recents_empty_message_dismissed_all">Vymazali ste všetko</string>
   <string name="recents_empty_message_multi_window">Vráťte sa na domácu obrazovku pre otvorenie aplikácie</string>
-  <string name="recents_exit_multi_window_mode">Ukončiť rozdelenie obrazovky</string>
+  <string name="recents_exit_multi_window_mode">Ukončiť</string>
   <string name="recents_incompatible_app_message">Aplikácia nepodporuje rozdelenú obrazovku</string>
   <string name="recents_launch_disabled_message">Aplikácia %s je v núdzovom režime zakázaná.</string>
   <string name="recents_lock_to_app_button_label">Pripnutie obrazovky</string>
