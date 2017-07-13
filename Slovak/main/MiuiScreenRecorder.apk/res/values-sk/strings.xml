@@ -65,4 +65,5 @@
   <string name="stop_record_while_locking">Uzamknutie ukončí nahrávanie</string>
   <string name="stop_record_while_locking_summary">Ukončiť nahrávanie a uložiť nahrávku uzamknutím obrazovky</string>
   <string name="low_memory_dior">Máte menej ako 500MB voľného miesta na úložisku. Môžete nahrať max. 12 minút záznamu.</string>
+  <string name="frequently_click_toast">Prebieha spúšťanie služby, čakajte prosím...</string>
 </resources>
