@@ -143,4 +143,8 @@
         <item quantity="other">Zariadení: %d</item>
         <item quantity="one">Zariadení: %d</item>
     </plurals>	
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d prepínačov nad čiarou je aktívnych</item>
+        <item quantity="one">1 prepínač nad čiarou je aktívny</item>
+    </plurals>	
 </resources>

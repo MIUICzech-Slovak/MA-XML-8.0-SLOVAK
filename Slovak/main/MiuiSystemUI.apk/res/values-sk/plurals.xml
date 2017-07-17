@@ -13,4 +13,20 @@
         <item quantity="other">Jasno</item>
         <item quantity="one">Slnečno</item>
     </plurals>
+    <plurals name="accessibility_recent_task_enter">
+        <item quantity="other">Otvorené nedávne aplikácie, dostupných je: %d.</item>
+        <item quantity="one">Otvorené nedávne aplikácie, dostupných je: 1.</item>
+    </plurals>
+    <plurals name="accessibility_recent_task_first_enter_tips">
+        <item quantity="other">Otvorené nedávne aplikácie, dostupných je: %d. Potiahnite nahor pre ich odstránenenie alebo nadol pre ich uzamknutie v RAM.</item>
+        <item quantity="one">Otvorené nedávne aplikácie, dostupných je: 1. Potiahnite nahor pre ich odstránenenie alebo nadol pre ich uzamknutie v RAM.</item>
+    </plurals>
+    <plurals name="settings_toggle_position_divider_page">
+        <item quantity="other">%1$d prepínačov nad čiarou je aktívnych</item>
+        <item quantity="one">1 prepínač nad čiarou je aktívny</item>
+    </plurals>
+    <plurals name="block_record_notification_more_text">
+        <item quantity="other">Skryté upozornenia od %1$s &amp; %2$d apl.</item>
+        <item quantity="one">Skryté upozornenia od %1$s &amp; 1 apl.</item>
+    </plurals> 
 </resources>

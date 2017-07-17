@@ -2438,4 +2438,9 @@ Tento proces skracuje životnosť batérie."</string>
   <string name="st_share_settings">Zdieľať nastavenia so SIM 1</string>
   <string name="st_title_show_antispam_notification">Upozornenie Antispam</string>
   <string name="tab_blacklist">Čierna listina</string>
+  <string name="app_error_tip_for_launcher">Hardware vášho zariadenia alebo software, môže spôsobiť nekompatibilitu s niektorými aplikáciami, mrznutie alebo jej nečakané ukončenie. Ak ste spozorovali niektorý z týchto problémov, kontaktujte vývojára aplikácie.</string>
+  <string name="app_error_tip_for_store">Hardware vášho zariadenia alebo software, môže spôsobiť nekompatibilitu s niektorýcmi aplikáciami, mrznutie alebo jej nečakané ukončenie. Ak ste spozorovali niektorý z týchto problémov, kontaktujte vývojára aplikácie.</string>
+  <string name="dlg_remove_blacklist_title">Odstrániť</string>
+  <string name="dlg_remove_ok">Odstrániť</string>
+  <string name="dlg_remove_whitelist">Odstrániť tieto čísla z výnimiek?</string>
 </resources>
