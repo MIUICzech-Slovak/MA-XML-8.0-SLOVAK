@@ -686,4 +686,22 @@ Získali ste ďalších %1$s"</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
   <string name="support_mtp">MTP bude podporovaná čoskoro</string>
+  <string name="cannot_send">Nie je možné odoslať súbor z SD karty</string>
+  <string name="connection_lost">Odpojené</string>
+  <string name="decompress_corrupt">Nebolo možné rozbaliť súbory. Balíček je poškodený.</string>
+  <string name="error_create_dir">Nebolo možné vytvoriť zložku</string>
+  <string name="error_create_file">Nebolo možné vytvoriť súbor</string>
+  <string name="error_delete_failed">Nebolo možné vymazať súbor</string>
+  <string name="error_folder_already_exists">Tento súbor už existuje</string>
+  <string name="error_invalid_path">Nesprávna cesta</string>
+  <string name="error_not_support">Nie je podporované</string>
+  <string name="homepage_tab_file_view_phone">úUložisko</string>
+  <string name="instruction_pre_pad">Dotykom spustíte FTP server</string>
+  <string name="instruction_pre_phone">Dotykom spustíte FTP server</string>
+  <string name="mtp_device">Media zariadenie (MTP)</string>
+  <string name="mtp_label">MTP</string>
+  <string name="pad">Interné úložisko</string>
+  <string name="permission_denial">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
+  <string name="permission_required">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
+  <string name="unknown_error">Nastala chyba. Počkajte chvíľu a skúste to znova.</string>
 </resources>
