@@ -695,10 +695,10 @@ Získali ste ďalších %1$s"</string>
   <string name="error_folder_already_exists">Tento súbor už existuje</string>
   <string name="error_invalid_path">Nesprávna cesta</string>
   <string name="error_not_support">Nie je podporované</string>
-  <string name="homepage_tab_file_view_phone">úUložisko</string>
+  <string name="homepage_tab_file_view_phone">Úložisko</string>
   <string name="instruction_pre_pad">Dotykom spustíte FTP server</string>
   <string name="instruction_pre_phone">Dotykom spustíte FTP server</string>
-  <string name="mtp_device">Media zariadenie (MTP)</string>
+  <string name="mtp_device">Média zariadenie (MTP)</string>
   <string name="mtp_label">MTP</string>
   <string name="pad">Interné úložisko</string>
   <string name="permission_denial">Nie je možný prístup k súborom. Povoľte aplikácií Súbory prístup k úložisku.</string>
