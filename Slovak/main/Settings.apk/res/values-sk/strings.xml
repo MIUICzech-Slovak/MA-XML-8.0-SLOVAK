@@ -4895,4 +4895,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="privacy_close_dlg_title">Upozornenie</string>  
   <string name="privacy_password_toggle_summary">Vyžadovať heslo pri každom prístupe ku chránenému obsahu.</string>
   <string name="security_encryption_rejected_via_home_manager">Táto funkcia nie je podporovaná v demo verzii.</string>
+  <string name="application_permissions">Povolenia aplikácie</string>
+  <string name="cloud_backup_section_title">MiCloud záloha</string>
+  <string name="cloud_backup_settings_section_title">Nastavenie zálohy</string>
+  <string name="cloud_restore_section_summary">Obnovte aplikácie, rozloženie plochy a nastavenia</string>
+  <string name="cloud_restore_section_title">Obnoviť z MiCloud</string>
+  <string name="login_account_dialog_message">Prihláste sa svojim Mi účtom a povoľte synchr. s MiCloud.</string>
+  <string name="login_account_dialog_title">Prihláste sa Mi účtom</string>
+  <string name="login_action">Prihlásiť sa</string>
+  <string name="pre_installed_application">Predinštalované aplikácie</string>
 </resources>

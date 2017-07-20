@@ -509,4 +509,21 @@ Odoslané ID vášho zariadenia na server Mi bude šifrované."</string>
   <string name="micloud_detail_need_charge_or_sleep">Pripojte k nabíjačke a vypnite displej pre pokračovanie v synchr.</string>
   <string name="micloud_buy_member_safe">Navýšiť MiCloud</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">Synchr. len Kontakty, Kalendár a poznámky. Pre viac možností synchr. choďte do nastavení MiCloud.</string>
+  <string name="micloud_detail_not_syncable">Nie je možné synchr.</string>
+  <string name="micloud_main_button_activate">Aktivovať</string>
+  <string name="micloud_main_button_authorize">Autorizovať</string>
+  <string name="micloud_main_button_set_internet">Nastavenie</string>
+  <string name="micloud_main_error_activated_fail">Aktivujte vašu SIM kartu.</string>
+  <string name="micloud_main_error_network_disallowed">Skontrolujte povolenie pripojenia k sieti.</string>
+  <string name="micloud_main_error_permission_limit">Povoľte prístup k databáze pre MiCloud.</string>
+  <string name="micloud_main_master_sync_on">Synchr. zapnutá</string>
+  <string name="micloud_main_message_master_sync_off">Nastavenie autom. synchr. je v roletke.</string>
+  <string name="micloud_main_query_again">Dopyt</string>
+  <string name="micloud_main_resume_sync_soon">Obnoviť synchr. čoskoro</string>
+  <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
+  <string name="micloud_main_wait_charge">Čaká na pripojenie k nabíjačke</string>
+  <string name="micloud_main_wait_charge_sleep">Čaká na pripojenie k nabíjačke</string>
+  <string name="micloud_main_wait_wlan">Čaká na Wi-Fi</string>
+  <string name="micloud_main_wait_wlan_charge">Čaká na Wi-Fi a pripojenie k nabíjačke</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">Čaká na Wi-Fi a pripojenie k nabíjačke</string>		 
 </resources>

@@ -56,4 +56,12 @@
         <item quantity="other">Čaká na synchr.: %d</item>
         <item quantity="one">Čaká na synchr.: %d</item>
     </plurals>	
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Pokračovať v synchr. o %d hodín</item>
+        <item quantity="one">Pokračovať v synchr. o %d hodínu</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Pokračovať v synchr. o %d minút</item>
+        <item quantity="one">Pokračovať v synchr. o %d minútu</item>
+    </plurals>	
 </resources>
