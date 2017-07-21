@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_recover">O obnove</string>
+  <string name="about_to_recover">Načítavanie...</string>
   <string name="account_error">Chyba účtu</string>
   <string name="app_name">MiCloud záloha</string>
   <string name="as_new_device">Nahradiť predchádzajúce rozloženie plochy a nastavenia</string>
