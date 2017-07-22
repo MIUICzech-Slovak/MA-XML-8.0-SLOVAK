@@ -185,7 +185,7 @@
   <string name="file_info_location">Umiestnenie:</string>
   <string name="file_info_modified">Upravené:</string>
   <string name="file_info_size">Veľkosť:</string>
-  <string name="file_loading">Nahrávam...</string>
+  <string name="file_loading">Načítavanie...</string>
   <string name="file_name_invalid">"Názov súboru nesmie obsahovať tieto znaky: /\\:*?&lt;&gt;"</string>
   <string name="file_not_exist">Súbor neexistuje</string>
   <string name="file_too_large">Súbor je príliš veľký</string>
