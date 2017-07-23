@@ -1378,7 +1378,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="sync_undo_deletes">Vrátiť späť odstránenia</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotykom nastavte.</string>
-  <string name="tethered_notification_title">Tethering alebo prístupový bod je aktívny</string>
+  <string name="tethered_notification_title">Hot-spot je aktívny</string>
   <string name="textSelectionCABTitle">Výber textu</string>
   <string name="text_copied">Text bol skopírovaný do schránky.</string>
   <string name="throttle_warning_notification_message">Dotykom zobrazíte viac informácií o využití mobilných údajov.</string>
